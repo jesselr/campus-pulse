@@ -37,6 +37,5 @@ jobs:
           fi
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/events.json
           git commit -m "Update campus events"
           git push
