@@ -31,11 +31,14 @@ jobs:
 
       - name: Commit events.json if changed
         run: |
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git commit -m "Update campus events"
-          git push
+         git add data/events.json
+         git status --porcelain
+         if git diff --cached --quiet; then
+         echo "No changes."
+         exit 0
+         fi
+         git config user.name "github-actions"
+         git config user.email "github-actions@github.com"
+         git commit -m "Update campus events"
+         git push
+
