@@ -1,9 +1,9 @@
 name: Update campus events
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
