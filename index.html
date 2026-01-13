@@ -6,7 +6,22 @@
   <title>Campus Pulse</title>
   <style>
     :root{
-      --bg:#0b0c10; --card:#13151b; --text:#f4f6ff; --muted:#aab1c3; --accent:#cc2127;
+      /* Central College branding */
+      --primary-red:#CB2026;
+      --secondary-red:#990000;
+      --tertiary-red:#660000;
+
+      --primary-gray:#CCCCCC;
+      --secondary-gray:#666666;
+      --tertiary-gray:#333333;
+
+      /* theme mapping */
+      --bg:#000000;
+      --card:var(--tertiary-gray);
+      --text:var(--primary-gray);
+      --muted:var(--secondary-gray);
+      --accent:var(--primary-red);
+
       --pad: clamp(18px, 2.5vw, 64px);
       --gap: clamp(14px, 1.5vw, 36px);
       --radius: clamp(14px, 1.2vw, 28px);
@@ -17,6 +32,7 @@
       --today: clamp(26px, 2.0vw, 72px);
       --clock: clamp(16px, 1.0vw, 36px);
     }
+
     *{ box-sizing:border-box; }
     html, body { height:100%; }
     body{
@@ -24,6 +40,7 @@
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       font-size: var(--base);
     }
+
     .grid{
       height:100vh;
       display:grid;
@@ -32,39 +49,50 @@
       grid-template-columns: 1.55fr 1fr 1fr;
       grid-template-rows: 1fr 1fr;
     }
+
     .card{
       background:var(--card);
       border-radius:var(--radius);
       padding: calc(var(--pad) * 0.65);
       overflow:hidden;
+      border: 1px solid rgba(204,204,204,.08);
     }
+
     .hero{
       grid-column: 1 / span 2;
       grid-row: 1 / span 2;
       position:relative;
       padding-bottom: clamp(60px, 5vw, 140px);
     }
+
     .row{
       display:flex;
       justify-content:space-between;
       align-items:baseline;
       gap: 20px;
     }
-    h1{ margin:0; font-size:var(--h1); letter-spacing: .2px; }
-    h2{ margin:0 0 10px; font-size:var(--h2); color:var(--muted); }
+
+    h1{ margin:0; font-size:var(--h1); letter-spacing: .2px; color: var(--primary-gray); }
+    h2{ margin:0 0 10px; font-size:var(--h2); color:var(--primary-gray); }
+
     .clock{ font-size:var(--clock); color:var(--muted); white-space:nowrap; }
     .today{ margin-top: clamp(10px, 1vw, 22px); font-size:var(--today); line-height:1.18; }
     .muted{ color:var(--muted); font-size: clamp(14px, .85vw, 28px); margin-top: 10px; }
+
     ol{ margin:0; padding-left: 1.2em; }
     li{ margin: clamp(8px, .8vw, 18px) 0; font-size: var(--li); line-height:1.15; }
+
     .tag{
       display:inline-block;
       font-size: clamp(12px, .75vw, 24px);
       padding: 0.2em 0.6em;
       border-radius:999px;
-      background: rgba(204,33,39,.16);
+      background: rgba(203,32,38,.20);
+      border: 1px solid rgba(203,32,38,.35);
       margin-left:.5em;
+      color: var(--primary-gray);
     }
+
     .footerbar{
       position:absolute;
       left: calc(var(--pad) * 0.65);
@@ -72,15 +100,20 @@
       bottom: calc(var(--pad) * 0.65);
       padding: clamp(10px, 1vw, 22px);
       border-radius: calc(var(--radius) * 0.85);
-      background: rgba(255,255,255,.06);
+      background: rgba(203,32,38,.18);
+      border: 2px solid rgba(203,32,38,.35);
       font-size: clamp(18px, 1.2vw, 44px);
     }
-    a { color: var(--text); text-decoration: underline; text-decoration-color: rgba(244,246,255,.35); }
+
+    a { color: var(--primary-gray); text-decoration: underline; text-decoration-color: rgba(204,204,204,.35); }
+    code { color: var(--primary-gray); }
     .error { white-space: pre-wrap; }
   </style>
 </head>
+
 <body>
   <div class="grid">
+    <!-- HERO -->
     <section class="card hero">
       <div class="row">
         <h1>Campus Pulse</h1>
@@ -93,42 +126,60 @@
       <div class="footerbar" id="countdown"></div>
     </section>
 
+    <!-- ACADEMIC -->
     <section class="card">
       <h2>Next Academic Dates</h2>
       <ol id="academic"></ol>
-      <div class="muted">Data source: data/academic.json</div>
+      <div class="muted">Data source: <code>data/academic.json</code></div>
     </section>
 
-<section class="card">
-  <h2>Next Campus Events</h2>
-  <ol id="events"></ol>
-  <div class="muted" id="eventsUpdated"></div>
-  <div class="muted">
-    Source: <code>data/events.json</code>
-  </div>
-</section>
+    <!-- CAMPUS EVENTS -->
+    <section class="card">
+      <h2>Next Campus Events</h2>
+      <ol id="events"></ol>
+      <div class="muted" id="eventsUpdated"></div>
+      <div class="muted">Source: <code>data/events.json</code></div>
+    </section>
 
+    <!-- WEATHER -->
+    <section class="card">
+      <h2>Pella Weather</h2>
+      <div id="wxNow" class="today">Loading…</div>
+      <div id="wxMeta" class="muted"></div>
+    </section>
   </div>
 
   <script>
     const TZ = "America/Chicago";
 
     function fmtLong(now){
-      const dateStr = new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday:"long", month:"long", day:"numeric", year:"numeric" }).format(now);
-      const timeStr = new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour:"numeric", minute:"2-digit" }).format(now);
+      const dateStr = new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ, weekday:"long", month:"long", day:"numeric", year:"numeric"
+      }).format(now);
+      const timeStr = new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ, hour:"numeric", minute:"2-digit"
+      }).format(now);
       return `${dateStr} • ${timeStr}`;
     }
+
     function fmtDate(d){
-      return new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday:"short", month:"short", day:"numeric" }).format(d);
+      return new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ, weekday:"short", month:"short", day:"numeric"
+      }).format(d);
     }
+
     function fmtTime(d){
-      return new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour:"numeric", minute:"2-digit" }).format(d);
+      return new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ, hour:"numeric", minute:"2-digit"
+      }).format(d);
     }
+
     function parseISOish(s){
       if(!s) return null;
       if (s.length === 10) return new Date(`${s}T00:00:00`);
       return new Date(s);
     }
+
     function daysUntil(d){
       const now = new Date();
       const a = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -141,7 +192,6 @@
     }
 
     async function loadJSON(path){
-      // cache buster helps signage sticks
       const r = await fetch(path + "?v=" + Date.now(), { cache: "no-store" });
       if(!r.ok) throw new Error(`Could not load ${path} (${r.status})`);
       return r.json();
@@ -164,16 +214,50 @@
         .sort((a,b) => a.d0 - b.d0);
     }
 
+    async function loadWeather(){
+      // Pella, IA coords
+      const lat = 41.4081, lon = -92.9163;
+      const url =
+        `https://api.open-meteo.com/v1/forecast` +
+        `?latitude=${lat}&longitude=${lon}` +
+        `&current=temperature_2m,weather_code,wind_speed_10m` +
+        `&temperature_unit=fahrenheit&wind_speed_unit=mph&timezone=${encodeURIComponent(TZ)}`;
+
+      const r = await fetch(url, { cache: "no-store" });
+      if(!r.ok) throw new Error(`Weather fetch failed (${r.status})`);
+      const j = await r.json();
+
+      const cur = j.current;
+      const temp = Math.round(cur.temperature_2m);
+      const wind = Math.round(cur.wind_speed_10m);
+
+      const code = cur.weather_code;
+      const label =
+        (code === 0) ? "Clear" :
+        ([1,2,3].includes(code)) ? "Cloudy" :
+        ([45,48].includes(code)) ? "Fog" :
+        ([51,53,55,56,57].includes(code)) ? "Drizzle" :
+        ([61,63,65,66,67].includes(code)) ? "Rain" :
+        ([71,73,75,77].includes(code)) ? "Snow" :
+        ([80,81,82].includes(code)) ? "Showers" :
+        ([95,96,99].includes(code)) ? "Thunderstorms" :
+        "Weather";
+
+      document.getElementById("wxNow").innerHTML = `<strong>${temp}°F</strong> — ${label}`;
+      document.getElementById("wxMeta").textContent = `Wind: ${wind} mph • Updated: ${cur.time}`;
+    }
+
     (async function main(){
       setClock();
       setInterval(setClock, 15000);
 
-      // Academic (required)
+      // Academic
       let academic = [];
       try {
         academic = await loadJSON("data/academic.json");
       } catch (e) {
-        document.getElementById("academic").innerHTML = `<li class="error">Missing data/academic.json — add it in your repo.</li>`;
+        document.getElementById("academic").innerHTML =
+          `<li class="error">Missing data/academic.json — add it in your repo.</li>`;
       }
 
       const acadUpcoming = pickUpcomingAcademic(academic);
@@ -187,41 +271,41 @@
         10
       );
 
-     // Campus events (from data/events.json)
-let eventsData = null;
-try {
-  eventsData = await loadJSON("data/events.json");
-  document.getElementById("eventsUpdated").textContent =
-    eventsData.updated ? `Updated: ${eventsData.updated}` : "";
-} catch (e) {
-  document.getElementById("events").innerHTML =
-    `<li class="muted">No events feed found. (Expected data/events.json)</li>`;
-}
+      // Campus events
+      let eventsData = null;
+      try {
+        eventsData = await loadJSON("data/events.json");
+        document.getElementById("eventsUpdated").textContent =
+          eventsData.updated ? `Updated: ${eventsData.updated}` : "";
+      } catch (e) {
+        document.getElementById("events").innerHTML =
+          `<li class="muted">No events feed found. (Expected data/events.json)</li>`;
+      }
 
-const now = new Date();
-const horizonDays = 30; // show next 30 days
-const horizonMs = horizonDays * 86400000;
+      const now = new Date();
+      const horizonDays = 30;
+      const horizonMs = horizonDays * 86400000;
 
-const evUpcoming = eventsData ? (eventsData.events || [])
-  .map(e => ({ ...e, d: parseISOish(e.start) }))
-  .filter(e => e.d && e.d >= now && (e.d - now) <= horizonMs)
-  .sort((a,b) => a.d - b.d)
-  .slice(0, 12) : [];
+      const evUpcoming = eventsData ? (eventsData.events || [])
+        .map(e => ({ ...e, d: parseISOish(e.start) }))
+        .filter(e => e.d && e.d >= now && (e.d - now) <= horizonMs)
+        .sort((a,b) => a.d - b.d)
+        .slice(0, 12) : [];
 
-if (evUpcoming.length) {
-  renderList(
-    document.getElementById("events"),
-    evUpcoming.map(e => {
-      const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
-      const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
-      const title = e.url ? `<a href="${e.url}" target="_blank" rel="noreferrer">${e.title || "Event"}</a>` : (e.title || "Event");
-      return `<strong>${when}</strong> — ${title}${loc}`;
-    }),
-    12
-  );
-}
-
-
+      if (evUpcoming.length) {
+        renderList(
+          document.getElementById("events"),
+          evUpcoming.map(e => {
+            const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
+            const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
+            const title = e.url
+              ? `<a href="${e.url}" target="_blank" rel="noreferrer">${e.title || "Event"}</a>`
+              : (e.title || "Event");
+            return `<strong>${when}</strong> — ${title}${loc}`;
+          }),
+          12
+        );
+      }
 
       // Hero: next milestone + countdown
       const todayEl = document.getElementById("today");
@@ -231,29 +315,37 @@ if (evUpcoming.length) {
       if (acadUpcoming.length) {
         const next = acadUpcoming[0];
         const n = daysUntil(next.d0);
-        todayEl.innerHTML = `Next academic milestone:<br><strong>${next.title}</strong><br><span class="muted">${fmtDate(next.d0)}</span>`;
+        todayEl.innerHTML =
+          `Next academic milestone:<br><strong>${next.title}</strong><br>` +
+          `<span class="muted">${fmtDate(next.d0)}</span>`;
         cdEl.textContent = `${n} day${n===1?"":"s"} until ${next.title}`;
       } else {
         todayEl.textContent = "Add academic dates to data/academic.json";
         cdEl.textContent = "";
       }
 
-      // “Now / Next” roll-up (next 3 athletics)
-if (evUpcoming.length) {
-  const next3 = evUpcoming.slice(0, 3)
-    .map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`)
-    .join("  •  ");
-  nowNextEl.textContent = `Next campus events: ${next3}`;
-} else {
-  nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
-}
+      // Ticker: next campus events
+      if (evUpcoming.length) {
+        const next3 = evUpcoming.slice(0, 3)
+          .map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`)
+          .join("  •  ");
+        nowNextEl.textContent = `Next campus events: ${next3}`;
+      } else {
+        nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
+      }
 
-
+      // Weather
+      try { await loadWeather(); }
+      catch(e){
+        document.getElementById("wxNow").textContent = "Weather unavailable";
+        document.getElementById("wxMeta").textContent = "";
+      }
 
       // Signage-friendly refresh
       setTimeout(() => location.reload(), 60 * 60 * 1000);
     })().catch(err => {
-      document.body.innerHTML = `<pre class="error" style="color:#fff;padding:18px">Error:\n${err.stack || err}</pre>`;
+      document.body.innerHTML =
+        `<pre class="error" style="color:#fff;padding:18px">Error:\n${err.stack || err}</pre>`;
     });
   </script>
 </body>
