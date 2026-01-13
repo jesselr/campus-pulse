@@ -17,11 +17,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+      
       - name: Generate data/events.json
         run: |
-          mkdir -p data
-          python script/fetch_events.py
+         echo "RUNNING fetch_events.py"
+         ls -la
+         ls -la script
+         mkdir -p data
+         python script/fetch_events.py
+
 
       - name: Commit events.json if changed
         run: |
