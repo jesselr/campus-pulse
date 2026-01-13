@@ -25,6 +25,8 @@ jobs:
          ls -la script
          mkdir -p data
          python script/fetch_events.py
+         echo "AFTER RUN:"
+         ls -la data
 
 
       - name: Commit events.json if changed
