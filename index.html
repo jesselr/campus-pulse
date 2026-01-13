@@ -1,6 +1,254 @@
 <!doctype html>
-<html>
-  <body style="font-family:system-ui">
-    <h1>Campus Pulse is live ✅</h1>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Campus Pulse</title>
+  <style>
+    :root{
+      --bg:#0b0c10; --card:#13151b; --text:#f4f6ff; --muted:#aab1c3; --accent:#cc2127;
+      --pad: clamp(18px, 2.5vw, 64px);
+      --gap: clamp(14px, 1.5vw, 36px);
+      --radius: clamp(14px, 1.2vw, 28px);
+      --h1: clamp(48px, 4vw, 120px);
+      --h2: clamp(28px, 2vw, 68px);
+      --base: clamp(18px, 1.15vw, 44px);
+      --li: clamp(18px, 1.25vw, 52px);
+      --today: clamp(26px, 2.0vw, 72px);
+      --clock: clamp(16px, 1.0vw, 36px);
+    }
+    *{ box-sizing:border-box; }
+    html, body { height:100%; }
+    body{
+      margin:0; background:var(--bg); color:var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-size: var(--base);
+    }
+    .grid{
+      height:100vh;
+      display:grid;
+      gap:var(--gap);
+      padding:var(--pad);
+      grid-template-columns: 1.55fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+    }
+    .card{
+      background:var(--card);
+      border-radius:var(--radius);
+      padding: calc(var(--pad) * 0.65);
+      overflow:hidden;
+    }
+    .hero{
+      grid-column: 1 / span 2;
+      grid-row: 1 / span 2;
+      position:relative;
+      padding-bottom: clamp(60px, 5vw, 140px);
+    }
+    .row{
+      display:flex;
+      justify-content:space-between;
+      align-items:baseline;
+      gap: 20px;
+    }
+    h1{ margin:0; font-size:var(--h1); letter-spacing: .2px; }
+    h2{ margin:0 0 10px; font-size:var(--h2); color:var(--muted); }
+    .clock{ font-size:var(--clock); color:var(--muted); white-space:nowrap; }
+    .today{ margin-top: clamp(10px, 1vw, 22px); font-size:var(--today); line-height:1.18; }
+    .muted{ color:var(--muted); font-size: clamp(14px, .85vw, 28px); margin-top: 10px; }
+    ol{ margin:0; padding-left: 1.2em; }
+    li{ margin: clamp(8px, .8vw, 18px) 0; font-size: var(--li); line-height:1.15; }
+    .tag{
+      display:inline-block;
+      font-size: clamp(12px, .75vw, 24px);
+      padding: 0.2em 0.6em;
+      border-radius:999px;
+      background: rgba(204,33,39,.16);
+      margin-left:.5em;
+    }
+    .footerbar{
+      position:absolute;
+      left: calc(var(--pad) * 0.65);
+      right: calc(var(--pad) * 0.65);
+      bottom: calc(var(--pad) * 0.65);
+      padding: clamp(10px, 1vw, 22px);
+      border-radius: calc(var(--radius) * 0.85);
+      background: rgba(255,255,255,.06);
+      font-size: clamp(18px, 1.2vw, 44px);
+    }
+    a { color: var(--text); text-decoration: underline; text-decoration-color: rgba(244,246,255,.35); }
+    .error { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <div class="grid">
+    <section class="card hero">
+      <div class="row">
+        <h1>Campus Pulse</h1>
+        <div id="clock" class="clock"></div>
+      </div>
+
+      <div id="today" class="today">Loading…</div>
+      <div id="nowNext" class="muted"></div>
+
+      <div class="footerbar" id="countdown"></div>
+    </section>
+
+    <section class="card">
+      <h2>Next Academic Dates</h2>
+      <ol id="academic"></ol>
+      <div class="muted">Data source: data/academic.json</div>
+    </section>
+
+    <section class="card">
+      <h2>Next Athletics</h2>
+      <ol id="athletics"></ol>
+      <div class="muted" id="athleticsUpdated"></div>
+      <div class="muted">
+        If empty, add <code>data/athletics.json</code> or link the schedule:
+        <a href="https://athletics.central.edu/calendar" target="_blank" rel="noreferrer">athletics.central.edu/calendar</a>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const TZ = "America/Chicago";
+
+    function fmtLong(now){
+      const dateStr = new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday:"long", month:"long", day:"numeric", year:"numeric" }).format(now);
+      const timeStr = new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour:"numeric", minute:"2-digit" }).format(now);
+      return `${dateStr} • ${timeStr}`;
+    }
+    function fmtDate(d){
+      return new Intl.DateTimeFormat("en-US", { timeZone: TZ, weekday:"short", month:"short", day:"numeric" }).format(d);
+    }
+    function fmtTime(d){
+      return new Intl.DateTimeFormat("en-US", { timeZone: TZ, hour:"numeric", minute:"2-digit" }).format(d);
+    }
+    function parseISOish(s){
+      if(!s) return null;
+      if (s.length === 10) return new Date(`${s}T00:00:00`);
+      return new Date(s);
+    }
+    function daysUntil(d){
+      const now = new Date();
+      const a = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+      const b = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+      return Math.round((b - a) / 86400000);
+    }
+
+    function setClock(){
+      document.getElementById("clock").textContent = fmtLong(new Date());
+    }
+
+    async function loadJSON(path){
+      // cache buster helps signage sticks
+      const r = await fetch(path + "?v=" + Date.now(), { cache: "no-store" });
+      if(!r.ok) throw new Error(`Could not load ${path} (${r.status})`);
+      return r.json();
+    }
+
+    function renderList(el, htmlItems, max=10){
+      el.innerHTML = "";
+      htmlItems.slice(0, max).forEach(html => {
+        const li = document.createElement("li");
+        li.innerHTML = html;
+        el.appendChild(li);
+      });
+    }
+
+    function pickUpcomingAcademic(academic){
+      const now = new Date();
+      return academic
+        .map(e => ({...e, d0: parseISOish(e.start), d1: parseISOish(e.end)}))
+        .filter(e => e.d0 && ((e.d1 || e.d0) >= now))
+        .sort((a,b) => a.d0 - b.d0);
+    }
+
+    function pickUpcomingAthletics(athData){
+      const now = new Date();
+      const events = (athData && athData.events) ? athData.events : [];
+      return events
+        .map(e => ({...e, d: parseISOish(e.start)}))
+        .filter(e => e.d && e.d >= now)
+        .sort((a,b) => a.d - b.d);
+    }
+
+    (async function main(){
+      setClock();
+      setInterval(setClock, 15000);
+
+      // Academic (required)
+      let academic = [];
+      try {
+        academic = await loadJSON("data/academic.json");
+      } catch (e) {
+        document.getElementById("academic").innerHTML = `<li class="error">Missing data/academic.json — add it in your repo.</li>`;
+      }
+
+      const acadUpcoming = pickUpcomingAcademic(academic);
+
+      renderList(
+        document.getElementById("academic"),
+        acadUpcoming.map(e => {
+          const range = e.end ? `${fmtDate(e.d0)}–${fmtDate(e.d1)}` : fmtDate(e.d0);
+          return `<strong>${range}</strong> — ${e.title}`;
+        }),
+        10
+      );
+
+      // Athletics (optional)
+      let athleticsData = null;
+      try {
+        athleticsData = await loadJSON("data/athletics.json");
+        document.getElementById("athleticsUpdated").textContent =
+          athleticsData.updated ? `Updated: ${athleticsData.updated}` : "";
+      } catch (e) {
+        document.getElementById("athletics").innerHTML =
+          `<li class="muted">No athletics feed yet. Add data/athletics.json (manual) or set up the GitHub Action.</li>`;
+      }
+
+      const athUpcoming = athleticsData ? pickUpcomingAthletics(athleticsData) : [];
+      if (athUpcoming.length) {
+        renderList(
+          document.getElementById("athletics"),
+          athUpcoming.map(e => {
+            const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
+            const home = (e.title && e.title.includes(" vs ")) ? `<span class="tag">HOME</span>` : "";
+            const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
+            return `<strong>${when}</strong> — ${e.title || "Event"}${home}${loc}`;
+          }),
+          12
+        );
+      }
+
+      // Hero: next milestone + countdown
+      const todayEl = document.getElementById("today");
+      const nowNextEl = document.getElementById("nowNext");
+      const cdEl = document.getElementById("countdown");
+
+      if (acadUpcoming.length) {
+        const next = acadUpcoming[0];
+        const n = daysUntil(next.d0);
+        todayEl.innerHTML = `Next academic milestone:<br><strong>${next.title}</strong><br><span class="muted">${fmtDate(next.d0)}</span>`;
+        cdEl.textContent = `${n} day${n===1?"":"s"} until ${next.title}`;
+      } else {
+        todayEl.textContent = "Add academic dates to data/academic.json";
+        cdEl.textContent = "";
+      }
+
+      // “Now / Next” roll-up (next 3 athletics)
+      if (athUpcoming.length) {
+        const next3 = athUpcoming.slice(0, 3).map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`).join("  •  ");
+        nowNextEl.textContent = `Next athletics: ${next3}`;
+      } else {
+        nowNextEl.textContent = "Next athletics: (add data/athletics.json for automatic list)";
+      }
+
+      // Signage-friendly refresh
+      setTimeout(() => location.reload(), 60 * 60 * 1000);
+    })().catch(err => {
+      document.body.innerHTML = `<pre class="error" style="color:#fff;padding:18px">Error:\n${err.stack || err}</pre>`;
+    });
+  </script>
+</body>
 </html>
