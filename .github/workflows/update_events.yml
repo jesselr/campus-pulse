@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit events.json if changed
         run: |
-          if git diff --quiet; then
+          if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
