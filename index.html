@@ -99,15 +99,15 @@
       <div class="muted">Data source: data/academic.json</div>
     </section>
 
-    <section class="card">
-      <h2>Next Athletics</h2>
-      <ol id="athletics"></ol>
-      <div class="muted" id="athleticsUpdated"></div>
-      <div class="muted">
-        If empty, add <code>data/athletics.json</code> or link the schedule:
-        <a href="https://athletics.central.edu/calendar" target="_blank" rel="noreferrer">athletics.central.edu/calendar</a>
-      </div>
-    </section>
+<section class="card">
+  <h2>Next Campus Events</h2>
+  <ol id="events"></ol>
+  <div class="muted" id="eventsUpdated"></div>
+  <div class="muted">
+    Source: <code>data/events.json</code>
+  </div>
+</section>
+
   </div>
 
   <script>
@@ -164,15 +164,6 @@
         .sort((a,b) => a.d0 - b.d0);
     }
 
-    function pickUpcomingAthletics(athData){
-      const now = new Date();
-      const events = (athData && athData.events) ? athData.events : [];
-      return events
-        .map(e => ({...e, d: parseISOish(e.start)}))
-        .filter(e => e.d && e.d >= now)
-        .sort((a,b) => a.d - b.d);
-    }
-
     (async function main(){
       setClock();
       setInterval(setClock, 15000);
@@ -196,30 +187,41 @@
         10
       );
 
-      // Athletics (optional)
-      let athleticsData = null;
-      try {
-        athleticsData = await loadJSON("data/athletics.json");
-        document.getElementById("athleticsUpdated").textContent =
-          athleticsData.updated ? `Updated: ${athleticsData.updated}` : "";
-      } catch (e) {
-        document.getElementById("athletics").innerHTML =
-          `<li class="muted">No athletics feed yet. Add data/athletics.json (manual) or set up the GitHub Action.</li>`;
-      }
+     // Campus events (from data/events.json)
+let eventsData = null;
+try {
+  eventsData = await loadJSON("data/events.json");
+  document.getElementById("eventsUpdated").textContent =
+    eventsData.updated ? `Updated: ${eventsData.updated}` : "";
+} catch (e) {
+  document.getElementById("events").innerHTML =
+    `<li class="muted">No events feed found. (Expected data/events.json)</li>`;
+}
 
-      const athUpcoming = athleticsData ? pickUpcomingAthletics(athleticsData) : [];
-      if (athUpcoming.length) {
-        renderList(
-          document.getElementById("athletics"),
-          athUpcoming.map(e => {
-            const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
-            const home = (e.title && e.title.includes(" vs ")) ? `<span class="tag">HOME</span>` : "";
-            const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
-            return `<strong>${when}</strong> — ${e.title || "Event"}${home}${loc}`;
-          }),
-          12
-        );
-      }
+const now = new Date();
+const horizonDays = 30; // show next 30 days
+const horizonMs = horizonDays * 86400000;
+
+const evUpcoming = eventsData ? (eventsData.events || [])
+  .map(e => ({ ...e, d: parseISOish(e.start) }))
+  .filter(e => e.d && e.d >= now && (e.d - now) <= horizonMs)
+  .sort((a,b) => a.d - b.d)
+  .slice(0, 12) : [];
+
+if (evUpcoming.length) {
+  renderList(
+    document.getElementById("events"),
+    evUpcoming.map(e => {
+      const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
+      const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
+      const title = e.url ? `<a href="${e.url}" target="_blank" rel="noreferrer">${e.title || "Event"}</a>` : (e.title || "Event");
+      return `<strong>${when}</strong> — ${title}${loc}`;
+    }),
+    12
+  );
+}
+
+
 
       // Hero: next milestone + countdown
       const todayEl = document.getElementById("today");
@@ -237,12 +239,16 @@
       }
 
       // “Now / Next” roll-up (next 3 athletics)
-      if (athUpcoming.length) {
-        const next3 = athUpcoming.slice(0, 3).map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`).join("  •  ");
-        nowNextEl.textContent = `Next athletics: ${next3}`;
-      } else {
-        nowNextEl.textContent = "Next athletics: (add data/athletics.json for automatic list)";
-      }
+if (evUpcoming.length) {
+  const next3 = evUpcoming.slice(0, 3)
+    .map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`)
+    .join("  •  ");
+  nowNextEl.textContent = `Next campus events: ${next3}`;
+} else {
+  nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
+}
+
+
 
       // Signage-friendly refresh
       setTimeout(() => location.reload(), 60 * 60 * 1000);
