@@ -47,7 +47,7 @@
       gap:var(--gap);
       padding:var(--pad);
       grid-template-columns: 1.55fr 1fr 1fr;
-      grid-template-rows: 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr; /* 3 rows so we can fit more tiles */
     }
 
     .card{
@@ -60,7 +60,7 @@
 
     .hero{
       grid-column: 1 / span 2;
-      grid-row: 1 / span 2;
+      grid-row: 1 / span 3; /* hero spans all 3 rows */
       position:relative;
       padding-bottom: clamp(60px, 5vw, 140px);
     }
@@ -76,17 +76,6 @@
     h2{ margin:0 0 10px; font-size:var(--h2); color:var(--primary-gray); }
 
     .clock{ font-size:var(--clock); color:var(--muted); white-space:nowrap; }
-
-    .wxpill{
-      font-size: var(--clock);
-      color: var(--primary-gray);
-      padding: .25em .6em;
-      border-radius: 999px;
-      border: 1px solid rgba(204,204,204,.20);
-      background: rgba(255,255,255,.06);
-      white-space: nowrap;
-    }
-
     .today{ margin-top: clamp(10px, 1vw, 22px); font-size:var(--today); line-height:1.18; }
     .muted{ color:var(--muted); font-size: clamp(14px, .85vw, 28px); margin-top: 10px; }
 
@@ -128,10 +117,7 @@
     <section class="card hero">
       <div class="row">
         <h1>Campus Pulse</h1>
-        <div style="display:flex; gap:14px; align-items:baseline;">
-          <div id="wxPill" class="wxpill">--°</div>
-          <div id="clock" class="clock"></div>
-        </div>
+        <div id="clock" class="clock"></div>
       </div>
 
       <div id="today" class="today">Loading…</div>
@@ -153,6 +139,21 @@
       <ol id="events"></ol>
       <div class="muted" id="eventsUpdated"></div>
       <div class="muted">Source: <code>data/events.json</code></div>
+    </section>
+
+    <!-- WEATHER -->
+    <section class="card">
+      <h2>Pella Weather</h2>
+      <div id="wxNow" class="today">Loading…</div>
+      <div id="wxMeta" class="muted"></div>
+    </section>
+
+    <!-- THE CRIER -->
+    <section class="card">
+      <h2>The Crier</h2>
+      <ol id="crier"></ol>
+      <div class="muted" id="crierUpdated"></div>
+      <div class="muted">Source: <code>data/crier.json</code></div>
     </section>
   </div>
 
@@ -227,8 +228,8 @@
       const url =
         `https://api.open-meteo.com/v1/forecast` +
         `?latitude=${lat}&longitude=${lon}` +
-        `&current=temperature_2m,weather_code` +
-        `&temperature_unit=fahrenheit&timezone=${encodeURIComponent(TZ)}`;
+        `&current=temperature_2m,weather_code,wind_speed_10m` +
+        `&temperature_unit=fahrenheit&wind_speed_unit=mph&timezone=${encodeURIComponent(TZ)}`;
 
       const r = await fetch(url, { cache: "no-store" });
       if(!r.ok) throw new Error(`Weather fetch failed (${r.status})`);
@@ -236,6 +237,7 @@
 
       const cur = j.current;
       const temp = Math.round(cur.temperature_2m);
+      const wind = Math.round(cur.wind_speed_10m);
 
       const code = cur.weather_code;
       const label =
@@ -246,11 +248,11 @@
         ([61,63,65,66,67].includes(code)) ? "Rain" :
         ([71,73,75,77].includes(code)) ? "Snow" :
         ([80,81,82].includes(code)) ? "Showers" :
-        ([95,96,99].includes(code)) ? "Storms" :
-        "Wx";
+        ([95,96,99].includes(code)) ? "Thunderstorms" :
+        "Weather";
 
-      // Keep it compact (no "Pella Weather" label)
-      document.getElementById("wxPill").textContent = `${temp}°F • ${label}`;
+      document.getElementById("wxNow").innerHTML = `<strong>${temp}°F</strong> — ${label}`;
+      document.getElementById("wxMeta").textContent = `Wind: ${wind} mph • Updated: ${cur.time}`;
     }
 
     (async function main(){
@@ -313,6 +315,22 @@
         );
       }
 
+      // The Crier (expects data/crier.json)
+      try {
+        const c = await loadJSON("data/crier.json");
+        document.getElementById("crierUpdated").textContent =
+          c.updated ? `Updated: ${c.updated}` : "";
+        const items = (c.items || []).slice(0, 8);
+        renderList(
+          document.getElementById("crier"),
+          items.map(t => (t || "").replace(/\n/g, "<br>")),
+          8
+        );
+      } catch (e) {
+        document.getElementById("crier").innerHTML =
+          `<li class="muted">Crier feed unavailable. (Expected data/crier.json)</li>`;
+      }
+
       // Hero: next milestone + countdown
       const todayEl = document.getElementById("today");
       const nowNextEl = document.getElementById("nowNext");
@@ -340,10 +358,11 @@
         nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
       }
 
-      // Weather pill
+      // Weather
       try { await loadWeather(); }
       catch(e){
-        document.getElementById("wxPill").textContent = "--°";
+        document.getElementById("wxNow").textContent = "Weather unavailable";
+        document.getElementById("wxMeta").textContent = "";
       }
 
       // Signage-friendly refresh
