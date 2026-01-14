@@ -24,7 +24,6 @@ def normalize_text(html: str) -> str:
     p.feed(html)
     text = "\n".join(p.parts)
     text = text.replace("\u00a0", " ")
-    # collapse junk whitespace
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     return text
@@ -33,38 +32,25 @@ def main():
     html = fetch(URL)
     text = normalize_text(html)
 
-    # Split into chunks using the Crier divider (often appears as "* * *")
-    chunks = [c.strip() for c in re.split(r"\*\s*\*\s*\*", text) if c.strip()]
+    # Try to pull the visible page title, fall back to "The Crier"
+    title = "The Crier"
+    m = re.search(r"(The Latest Crier for .+)", text)
+    if m:
+        title = m.group(1).strip()
 
-    # Pull a title-ish line if present
-    title = None
-    if chunks:
-        first_line = chunks[0].splitlines()[0].strip()
-        if "Crier" in first_line:
-            title = first_line
+    # Remove obvious boilerplate if it appears (optional)
+    text = re.sub(r"Central College Mission Statement.*?(?=\n\n|$)", "", text, flags=re.DOTALL).strip()
 
-    # Filter out mission statement chunk if present (keeps announcements cleaner)
-    filtered = []
-    for c in chunks:
-        if "Central College Mission Statement" in c:
-            continue
-        filtered.append(c)
-
-    # Keep top N chunks and shorten each for signage
-    items = []
-    for c in filtered[:12]:
-        c = re.sub(r"\s+\n", "\n", c)
-        c = re.sub(r"\n\s+", "\n", c).strip()
-        # trim overly long blocks
-        if len(c) > 500:
-            c = c[:500].rsplit(" ", 1)[0] + "…"
-        items.append(c)
+    # Keep it signage-friendly: truncate to ~1500 chars
+    body = text
+    if len(body) > 1500:
+        body = body[:1500].rsplit(" ", 1)[0] + "…"
 
     payload = {
         "updated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "source": URL,
-        "title": title or "The Crier",
-        "items": items
+        "title": title,
+        "items": [body] if body else []
     }
 
     with open(OUT, "w", encoding="utf-8") as f:
