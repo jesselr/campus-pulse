@@ -60,11 +60,11 @@ def main():
         title = m.group(1).strip()
 
     # Optional: remove the mission statement block if it’s included
-    text = re.sub(r"Central College Mission Statement.*?(?=\n\n|$)", "", text, flags=re.DOTALL).strip()
+    #text = re.sub(r"Central College Mission Statement.*?(?=\n\n|$)", "", text, flags=re.DOTALL).strip()
 
     # Signage-friendly trim
-    if len(text) > 1800:
-        text = text[:1800].rsplit(" ", 1)[0] + "…"
+    if len(text) > 8000:
+        text = text[:8000].rsplit(" ", 1)[0] + "…"
 
     payload = {
         "updated": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
