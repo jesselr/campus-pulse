@@ -15,188 +15,359 @@
       --secondary-gray:#666666;
       --tertiary-gray:#333333;
 
-      /* theme mapping */
-      --bg:#000000;
-      --card:var(--tertiary-gray);
-      --text:var(--primary-gray);
-      --muted:var(--secondary-gray);
-      --accent:var(--primary-red);
+      /* Theme */
+      --bg:#000;
+      --card: rgba(51,51,51,.92);
+      --card2: rgba(51,51,51,.78);
+      --text: var(--primary-gray);
+      --muted: var(--secondary-gray);
+      --accent: var(--primary-red);
 
-      --pad: clamp(18px, 2.5vw, 64px);
-      --gap: clamp(14px, 1.5vw, 36px);
-      --radius: clamp(14px, 1.2vw, 28px);
-      --h1: clamp(48px, 4vw, 120px);
-      --h2: clamp(28px, 2vw, 68px);
-      --base: clamp(18px, 1.15vw, 44px);
-      --li: clamp(18px, 1.25vw, 52px);
-      --today: clamp(26px, 2.0vw, 72px);
-      --clock: clamp(16px, 1.0vw, 36px);
+      --pad: clamp(18px, 2.2vw, 52px);
+      --gap: clamp(14px, 1.4vw, 28px);
+      --radius: clamp(16px, 1.2vw, 26px);
+
+      --h1: clamp(34px, 2.8vw, 72px);
+      --h2: clamp(24px, 1.6vw, 44px);
+      --body: clamp(18px, 1.2vw, 34px);
+      --small: clamp(14px, .9vw, 24px);
+
+      --tickerH: clamp(78px, 8vh, 110px);
+      --railW: clamp(360px, 27vw, 560px);
     }
 
     *{ box-sizing:border-box; }
-    html, body { height:100%; }
+    html, body{ height:100%; }
     body{
-      margin:0; background:var(--bg); color:var(--text);
+      margin:0;
+      background: var(--bg);
+      color: var(--text);
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-      font-size: var(--base);
+      overflow:hidden;
     }
 
-    .grid{
+    /* Layout: main + side, ticker full width */
+    .layout{
       height:100vh;
       display:grid;
-      gap:var(--gap);
-      padding:var(--pad);
-      grid-template-columns: 1.55fr 1fr 1fr;
-      grid-template-rows: 1fr 1fr 1fr; /* 3 rows so we can fit more tiles */
+      grid-template-columns: 1fr var(--railW);
+      grid-template-rows: 1fr var(--tickerH);
+      gap: var(--gap);
+      padding: var(--pad);
     }
 
     .card{
-      background:var(--card);
-      border-radius:var(--radius);
-      padding: calc(var(--pad) * 0.65);
+      background: var(--card);
+      border-radius: var(--radius);
+      border: 1px solid rgba(204,204,204,.10);
       overflow:hidden;
-      border: 1px solid rgba(204,204,204,.08);
     }
 
-    .hero{
-      grid-column: 1 / span 2;
-      grid-row: 1 / span 3; /* hero spans all 3 rows */
+    /* Main area (Crier) */
+    .main{
+      padding: calc(var(--pad) * 0.75);
+      display:flex;
+      flex-direction:column;
+      gap: clamp(12px, 1.2vw, 22px);
       position:relative;
-      padding-bottom: clamp(60px, 5vw, 140px);
     }
 
-    .row{
+    .toprow{
+      display:flex;
+      align-items:baseline;
+      justify-content:space-between;
+      gap: 18px;
+    }
+
+    .brand{
+      font-size: var(--h1);
+      letter-spacing: .3px;
+      margin:0;
+      line-height:1.05;
+    }
+
+    .subbrand{
+      font-size: var(--small);
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    .mainHeaderRight{
+      text-align:right;
+      color: var(--muted);
+      font-size: var(--small);
+      white-space:nowrap;
+    }
+
+    .crierTitle{
+      font-size: clamp(22px, 1.6vw, 44px);
+      color: rgba(204,204,204,.92);
+      margin: 6px 0 0;
+    }
+
+    .slide{
+      background: var(--card2);
+      border: 1px solid rgba(204,204,204,.08);
+      border-radius: calc(var(--radius) * .9);
+      padding: clamp(16px, 1.4vw, 30px);
+      flex: 1;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      gap: clamp(10px, 1vw, 18px);
+      min-height: 0;
+      position:relative;
+    }
+
+    .slideHeading{
+      font-size: clamp(22px, 1.7vw, 48px);
+      color: var(--text);
+      font-weight: 700;
+      line-height:1.1;
+      margin:0;
+    }
+
+    .slideBody{
+      font-size: var(--body);
+      color: rgba(204,204,204,.92);
+      line-height: 1.25;
+      overflow:hidden;
+    }
+    .slideBody p{
+      margin: 0 0 0.75em 0;
+    }
+    .slideBody p:last-child{ margin-bottom:0; }
+
+    .fade{
+      opacity:0;
+      transform: translateY(6px);
+      transition: opacity .5s ease, transform .5s ease;
+    }
+    .fade.show{
+      opacity:1;
+      transform: translateY(0);
+    }
+
+    .footerNote{
+      color: var(--muted);
+      font-size: var(--small);
       display:flex;
       justify-content:space-between;
-      align-items:baseline;
-      gap: 20px;
+      gap: 16px;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
     }
 
-    h1{ margin:0; font-size:var(--h1); letter-spacing: .2px; color: var(--primary-gray); }
-    h2{ margin:0 0 10px; font-size:var(--h2); color:var(--primary-gray); }
+    /* Right rail */
+    .rail{
+      display:flex;
+      flex-direction:column;
+      gap: var(--gap);
+    }
 
-    .clock{ font-size:var(--clock); color:var(--muted); white-space:nowrap; }
-    .today{ margin-top: clamp(10px, 1vw, 22px); font-size:var(--today); line-height:1.18; }
-    .muted{ color:var(--muted); font-size: clamp(14px, .85vw, 28px); margin-top: 10px; }
+    .railCard{
+      padding: calc(var(--pad) * 0.6);
+      display:flex;
+      flex-direction:column;
+      gap: 12px;
+      min-height: 0;
+    }
 
-    ol{ margin:0; padding-left: 1.2em; }
-    li{ margin: clamp(8px, .8vw, 18px) 0; font-size: var(--li); line-height:1.15; }
+    .railH{
+      margin:0;
+      font-size: var(--h2);
+      color: rgba(204,204,204,.95);
+      letter-spacing: .2px;
+    }
 
-    .tag{
+    ol{
+      margin:0;
+      padding-left: 1.1em;
+    }
+    li{
+      margin: 10px 0;
+      font-size: clamp(16px, 1.05vw, 26px);
+      line-height: 1.15;
+      color: rgba(204,204,204,.92);
+    }
+    .muted{ color: var(--muted); font-size: var(--small); }
+
+    .pill{
       display:inline-block;
-      font-size: clamp(12px, .75vw, 24px);
-      padding: 0.2em 0.6em;
-      border-radius:999px;
-      background: rgba(203,32,38,.20);
+      padding: .18em .55em;
+      border-radius: 999px;
       border: 1px solid rgba(203,32,38,.35);
-      margin-left:.5em;
-      color: var(--primary-gray);
-    }
-
-    .footerbar{
-      position:absolute;
-      left: calc(var(--pad) * 0.65);
-      right: calc(var(--pad) * 0.65);
-      bottom: calc(var(--pad) * 0.65);
-      padding: clamp(10px, 1vw, 22px);
-      border-radius: calc(var(--radius) * 0.85);
       background: rgba(203,32,38,.18);
-      border: 2px solid rgba(203,32,38,.35);
-      font-size: clamp(18px, 1.2vw, 44px);
+      color: rgba(204,204,204,.95);
+      font-size: clamp(12px, .75vw, 18px);
+      margin-left: .45em;
+      vertical-align: middle;
     }
 
-    a { color: var(--primary-gray); text-decoration: underline; text-decoration-color: rgba(204,204,204,.35); }
-    code { color: var(--primary-gray); }
-    .error { white-space: pre-wrap; }
+    /* Ticker */
+    .ticker{
+      grid-column: 1 / span 2;
+      display:grid;
+      grid-template-columns: 1fr 3fr 1fr;
+      align-items:center;
+      padding: 0 clamp(16px, 1.2vw, 30px);
+      background: rgba(51,51,51,.85);
+      border: 1px solid rgba(203,32,38,.35);
+      border-radius: var(--radius);
+      overflow:hidden;
+      position:relative;
+    }
+
+    .wx{
+      display:flex;
+      align-items:center;
+      gap: 12px;
+      min-width: 0;
+    }
+    .wxTemp{
+      font-size: clamp(22px, 1.6vw, 44px);
+      font-weight: 800;
+      color: rgba(204,204,204,.95);
+      line-height:1;
+    }
+    .wxCond{
+      font-size: var(--small);
+      color: var(--muted);
+      line-height:1.2;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+    }
+
+    .marquee{
+      position:relative;
+      overflow:hidden;
+      min-width: 0;
+      height: 100%;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+    .marqueeText{
+      font-size: clamp(18px, 1.2vw, 34px);
+      color: rgba(204,204,204,.95);
+      white-space:nowrap;
+      will-change: transform;
+      animation: scroll 28s linear infinite;
+    }
+    @keyframes scroll{
+      0%   { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+
+    .clock{
+      text-align:right;
+      font-size: clamp(16px, 1.0vw, 28px);
+      color: rgba(204,204,204,.85);
+      white-space:nowrap;
+    }
+
+    .errorBox{
+      padding: 14px;
+      border-radius: 14px;
+      border: 1px solid rgba(203,32,38,.35);
+      background: rgba(203,32,38,.10);
+      color: rgba(204,204,204,.95);
+      font-size: var(--small);
+      white-space: pre-wrap;
+    }
   </style>
 </head>
 
 <body>
-  <div class="grid">
-    <!-- HERO -->
-    <section class="card hero">
-      <div class="row">
-        <h1>Campus Pulse</h1>
-        <div id="clock" class="clock"></div>
+  <div class="layout">
+    <!-- MAIN: CRIER LOOP -->
+    <section class="card main">
+      <div class="toprow">
+        <div>
+          <h1 class="brand">Campus Pulse</h1>
+          <div class="subbrand">Central College • Pella, Iowa</div>
+          <div id="crierTitle" class="crierTitle">The Crier</div>
+        </div>
+        <div class="mainHeaderRight">
+          <div id="topClock">—</div>
+          <div id="crierUpdated" class="muted"></div>
+        </div>
       </div>
 
-      <div id="today" class="today">Loading…</div>
-      <div id="nowNext" class="muted"></div>
+      <div id="slide" class="slide fade">
+        <div id="slideHeading" class="slideHeading">Loading…</div>
+        <div id="slideBody" class="slideBody"></div>
+      </div>
 
-      <div class="footerbar" id="countdown"></div>
+      <div class="footerNote">
+        <div id="slideCounter">—</div>
+        <div id="dataStatus">Sources: academic.json • events.json • crier.json</div>
+      </div>
     </section>
 
-    <!-- ACADEMIC -->
-    <section class="card">
-      <h2>Next Academic Dates</h2>
-      <ol id="academic"></ol>
-      <div class="muted">Data source: <code>data/academic.json</code></div>
-    </section>
+    <!-- RIGHT RAIL -->
+    <aside class="rail">
+      <section class="card railCard">
+        <h2 class="railH">Next Academic Dates</h2>
+        <ol id="academic"></ol>
+        <div class="muted">Source: <code>data/academic.json</code></div>
+      </section>
 
-    <!-- CAMPUS EVENTS -->
-    <section class="card">
-      <h2>Next Campus Events</h2>
-      <ol id="events"></ol>
-      <div class="muted" id="eventsUpdated"></div>
-      <div class="muted">Source: <code>data/events.json</code></div>
-    </section>
+      <section class="card railCard">
+        <h2 class="railH">Next Campus Events</h2>
+        <ol id="events"></ol>
+        <div class="muted" id="eventsUpdated"></div>
+        <div class="muted">Source: <code>data/events.json</code></div>
+      </section>
+    </aside>
 
-    <!-- WEATHER -->
-    <section class="card">
-      <h2>Pella Weather</h2>
-      <div id="wxNow" class="today">Loading…</div>
-      <div id="wxMeta" class="muted"></div>
-    </section>
+    <!-- TICKER -->
+    <footer class="ticker">
+      <div class="wx">
+        <div class="wxTemp" id="wxTemp">--°</div>
+        <div class="wxCond" id="wxCond">Weather loading…</div>
+      </div>
 
-    <!-- THE CRIER -->
-    <section class="card">
-      <h2>The Crier</h2>
-      <ol id="crier"></ol>
-      <div class="muted" id="crierUpdated"></div>
-      <div class="muted">Source: <code>data/crier.json</code></div>
-    </section>
+      <div class="marquee">
+        <div class="marqueeText" id="tickerText">Have a Great Day • Have a Great Day • Have a Great Day •</div>
+      </div>
+
+      <div class="clock" id="clock">—</div>
+    </footer>
   </div>
 
   <script>
     const TZ = "America/Chicago";
 
     function fmtLong(now){
-      const dateStr = new Intl.DateTimeFormat("en-US", {
-        timeZone: TZ, weekday:"long", month:"long", day:"numeric", year:"numeric"
+      return new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ,
+        weekday:"long", month:"long", day:"numeric", year:"numeric",
+        hour:"numeric", minute:"2-digit"
       }).format(now);
-      const timeStr = new Intl.DateTimeFormat("en-US", {
-        timeZone: TZ, hour:"numeric", minute:"2-digit"
-      }).format(now);
-      return `${dateStr} • ${timeStr}`;
     }
-
+    function fmtClock(now){
+      return new Intl.DateTimeFormat("en-US", {
+        timeZone: TZ, weekday:"short", month:"short", day:"numeric",
+        hour:"numeric", minute:"2-digit"
+      }).format(now);
+    }
     function fmtDate(d){
       return new Intl.DateTimeFormat("en-US", {
         timeZone: TZ, weekday:"short", month:"short", day:"numeric"
       }).format(d);
     }
-
     function fmtTime(d){
       return new Intl.DateTimeFormat("en-US", {
         timeZone: TZ, hour:"numeric", minute:"2-digit"
       }).format(d);
     }
-
     function parseISOish(s){
       if(!s) return null;
       if (s.length === 10) return new Date(`${s}T00:00:00`);
       return new Date(s);
-    }
-
-    function daysUntil(d){
-      const now = new Date();
-      const a = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-      const b = new Date(d.getFullYear(), d.getMonth(), d.getDate());
-      return Math.round((b - a) / 86400000);
-    }
-
-    function setClock(){
-      document.getElementById("clock").textContent = fmtLong(new Date());
     }
 
     async function loadJSON(path){
@@ -205,13 +376,10 @@
       return r.json();
     }
 
-    function renderList(el, htmlItems, max=10){
-      el.innerHTML = "";
-      htmlItems.slice(0, max).forEach(html => {
-        const li = document.createElement("li");
-        li.innerHTML = html;
-        el.appendChild(li);
-      });
+    function setClocks(){
+      const now = new Date();
+      document.getElementById("clock").textContent = fmtLong(now);
+      document.getElementById("topClock").textContent = fmtClock(now);
     }
 
     function pickUpcomingAcademic(academic){
@@ -222,24 +390,115 @@
         .sort((a,b) => a.d0 - b.d0);
     }
 
+    function renderList(el, htmlItems, max=8){
+      el.innerHTML = "";
+      htmlItems.slice(0, max).forEach(html => {
+        const li = document.createElement("li");
+        li.innerHTML = html;
+        el.appendChild(li);
+      });
+      if (!htmlItems.length){
+        el.innerHTML = `<li class="muted">No upcoming items found.</li>`;
+      }
+    }
+
+    function escapeHTML(s){
+      return (s || "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;");
+    }
+
+    function toParagraphs(text){
+      // Normalize newlines and split into paragraphs
+      const t = (text || "").replace(/\r\n/g, "\n").replace(/\r/g, "\n");
+      const raw = t.split(/\n{2,}/).map(x => x.trim()).filter(Boolean);
+
+      // Remove obvious duplicates (common on scraped pages)
+      const out = [];
+      const seen = new Set();
+      for (const p of raw){
+        const key = p.toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        out.push(p);
+      }
+      return out;
+    }
+
+    function buildSlidesFromParagraphs(paras, maxChars=950){
+      // Combine paragraphs into slides up to maxChars
+      const slides = [];
+      let buf = [];
+      let count = 0;
+
+      for (const p of paras){
+        const add = p.length + 2;
+        if (count + add > maxChars && buf.length){
+          slides.push(buf.join("\n\n"));
+          buf = [];
+          count = 0;
+        }
+        buf.push(p);
+        count += add;
+      }
+      if (buf.length) slides.push(buf.join("\n\n"));
+      return slides;
+    }
+
+    function pickHeadingAndBody(slideText){
+      // If first line is short-ish, use as heading
+      const t = (slideText || "").trim();
+      const firstLine = t.split("\n")[0].trim();
+      const rest = t.slice(firstLine.length).trim();
+
+      // heuristic: headings are short and not a full paragraph
+      if (firstLine.length <= 70 && rest.length > 40){
+        return { heading: firstLine, body: rest };
+      }
+      return { heading: "The Crier", body: t };
+    }
+
+    function renderSlide(slides, idx, title){
+      const slideEl = document.getElementById("slide");
+      const hEl = document.getElementById("slideHeading");
+      const bEl = document.getElementById("slideBody");
+      const cEl = document.getElementById("slideCounter");
+
+      const total = slides.length || 0;
+      const raw = slides[idx] || "";
+      const { heading, body } = pickHeadingAndBody(raw);
+
+      hEl.textContent = heading || title || "The Crier";
+
+      const paras = toParagraphs(body);
+      const html = paras.map(p => `<p>${escapeHTML(p)}</p>`).join("");
+      bEl.innerHTML = html || `<div class="muted">No content.</div>`;
+
+      cEl.textContent = total ? `Crier slide ${idx+1} of ${total}` : "—";
+
+      // fade in
+      slideEl.classList.remove("show");
+      requestAnimationFrame(() => slideEl.classList.add("show"));
+    }
+
     async function loadWeather(){
       // Pella, IA coords
       const lat = 41.4081, lon = -92.9163;
       const url =
         `https://api.open-meteo.com/v1/forecast` +
         `?latitude=${lat}&longitude=${lon}` +
-        `&current=temperature_2m,weather_code,wind_speed_10m` +
-        `&temperature_unit=fahrenheit&wind_speed_unit=mph&timezone=${encodeURIComponent(TZ)}`;
+        `&current=temperature_2m,weather_code` +
+        `&temperature_unit=fahrenheit&timezone=${encodeURIComponent(TZ)}`;
 
       const r = await fetch(url, { cache: "no-store" });
       if(!r.ok) throw new Error(`Weather fetch failed (${r.status})`);
       const j = await r.json();
-
       const cur = j.current;
-      const temp = Math.round(cur.temperature_2m);
-      const wind = Math.round(cur.wind_speed_10m);
 
+      const temp = Math.round(cur.temperature_2m);
       const code = cur.weather_code;
+
       const label =
         (code === 0) ? "Clear" :
         ([1,2,3].includes(code)) ? "Cloudy" :
@@ -251,125 +510,111 @@
         ([95,96,99].includes(code)) ? "Thunderstorms" :
         "Weather";
 
-      document.getElementById("wxNow").innerHTML = `<strong>${temp}°F</strong> — ${label}`;
-      document.getElementById("wxMeta").textContent = `Wind: ${wind} mph • Updated: ${cur.time}`;
+      document.getElementById("wxTemp").textContent = `${temp}°F`;
+      document.getElementById("wxCond").textContent = label;
     }
 
     (async function main(){
-      setClock();
-      setInterval(setClock, 15000);
+      setClocks();
+      setInterval(setClocks, 15000);
 
-      // Academic
-      let academic = [];
-      try {
-        academic = await loadJSON("data/academic.json");
-      } catch (e) {
+      // Right rail: academic
+      try{
+        const academic = await loadJSON("data/academic.json");
+        const upcoming = pickUpcomingAcademic(academic).slice(0, 6);
+        renderList(
+          document.getElementById("academic"),
+          upcoming.map(e => {
+            const d0 = e.d0;
+            const d1 = e.end ? parseISOish(e.end) : null;
+            const range = d1 ? `${fmtDate(d0)}–${fmtDate(d1)}` : fmtDate(d0);
+            return `<strong>${range}</strong> — ${escapeHTML(e.title || "")}`;
+          }),
+          6
+        );
+      } catch(e){
         document.getElementById("academic").innerHTML =
-          `<li class="error">Missing data/academic.json — add it in your repo.</li>`;
+          `<li><div class="errorBox">Missing/invalid data/academic.json</div></li>`;
       }
 
-      const acadUpcoming = pickUpcomingAcademic(academic);
-
-      renderList(
-        document.getElementById("academic"),
-        acadUpcoming.map(e => {
-          const range = e.end ? `${fmtDate(e.d0)}–${fmtDate(e.d1)}` : fmtDate(e.d0);
-          return `<strong>${range}</strong> — ${e.title}`;
-        }),
-        10
-      );
-
-      // Campus events
-      let eventsData = null;
-      try {
-        eventsData = await loadJSON("data/events.json");
+      // Right rail: events
+      try{
+        const eventsData = await loadJSON("data/events.json");
         document.getElementById("eventsUpdated").textContent =
           eventsData.updated ? `Updated: ${eventsData.updated}` : "";
-      } catch (e) {
-        document.getElementById("events").innerHTML =
-          `<li class="muted">No events feed found. (Expected data/events.json)</li>`;
-      }
 
-      const now = new Date();
-      const horizonDays = 30;
-      const horizonMs = horizonDays * 86400000;
+        const now = new Date();
+        const items = (eventsData.events || [])
+          .map(e => ({...e, d: parseISOish(e.start)}))
+          .filter(e => e.d && e.d >= now)
+          .sort((a,b) => a.d - b.d)
+          .slice(0, 6);
 
-      const evUpcoming = eventsData ? (eventsData.events || [])
-        .map(e => ({ ...e, d: parseISOish(e.start) }))
-        .filter(e => e.d && e.d >= now && (e.d - now) <= horizonMs)
-        .sort((a,b) => a.d - b.d)
-        .slice(0, 12) : [];
-
-      if (evUpcoming.length) {
         renderList(
           document.getElementById("events"),
-          evUpcoming.map(e => {
+          items.map(e => {
             const when = `${fmtDate(e.d)} • ${fmtTime(e.d)}`;
-            const loc = e.location ? ` — <span class="muted">${e.location}</span>` : "";
-            const title = e.url
-              ? `<a href="${e.url}" target="_blank" rel="noreferrer">${e.title || "Event"}</a>`
-              : (e.title || "Event");
-            return `<strong>${when}</strong> — ${title}${loc}`;
+            const loc = e.location ? ` — <span class="muted">${escapeHTML(e.location)}</span>` : "";
+            const title = e.title ? escapeHTML(e.title) : "Event";
+            return `<strong>${when}</strong>${loc}<br>${title}`;
           }),
-          12
+          6
         );
+      } catch(e){
+        document.getElementById("events").innerHTML =
+          `<li><div class="errorBox">Missing/invalid data/events.json</div></li>`;
       }
 
-      // The Crier (expects data/crier.json)
-      try {
-        const c = await loadJSON("data/crier.json");
-        document.getElementById("crierUpdated").textContent =
-          c.updated ? `Updated: ${c.updated}` : "";
-        const items = (c.items || []).slice(0, 8);
-        renderList(
-          document.getElementById("crier"),
-          items.map(t => (t || "").replace(/\n/g, "<br>")),
-          8
-        );
-      } catch (e) {
-        document.getElementById("crier").innerHTML =
-          `<li class="muted">Crier feed unavailable. (Expected data/crier.json)</li>`;
+      // Main: Crier slides
+      let slides = [];
+      let crierTitle = "The Crier";
+      let updated = "";
+
+      try{
+        const crier = await loadJSON("data/crier.json");
+        crierTitle = crier.title || "The Crier";
+        updated = crier.updated || "";
+        document.getElementById("crierTitle").textContent = crierTitle;
+        document.getElementById("crierUpdated").textContent = updated ? `Updated: ${updated}` : "";
+
+        // If items[] has multiple items, use them; if it's one long item, chunk it.
+        const items = Array.isArray(crier.items) ? crier.items.filter(Boolean) : [];
+        if (items.length >= 2){
+          slides = items.map(x => String(x));
+        } else if (items.length === 1){
+          const paras = toParagraphs(String(items[0]));
+          slides = buildSlidesFromParagraphs(paras, 950);
+        } else {
+          slides = ["No Crier content found."];
+        }
+      } catch(e){
+        document.getElementById("crierTitle").textContent = "The Crier";
+        document.getElementById("crierUpdated").textContent = "";
+        slides = ["Crier feed unavailable (expected data/crier.json)."];
+        document.getElementById("dataStatus").textContent = "Crier feed missing.";
       }
 
-      // Hero: next milestone + countdown
-      const todayEl = document.getElementById("today");
-      const nowNextEl = document.getElementById("nowNext");
-      const cdEl = document.getElementById("countdown");
+      let idx = 0;
+      renderSlide(slides, idx, crierTitle);
 
-      if (acadUpcoming.length) {
-        const next = acadUpcoming[0];
-        const n = daysUntil(next.d0);
-        todayEl.innerHTML =
-          `Next academic milestone:<br><strong>${next.title}</strong><br>` +
-          `<span class="muted">${fmtDate(next.d0)}</span>`;
-        cdEl.textContent = `${n} day${n===1?"":"s"} until ${next.title}`;
-      } else {
-        todayEl.textContent = "Add academic dates to data/academic.json";
-        cdEl.textContent = "";
-      }
-
-      // Ticker: next campus events
-      if (evUpcoming.length) {
-        const next3 = evUpcoming.slice(0, 3)
-          .map(e => `${fmtDate(e.d)} ${fmtTime(e.d)} — ${e.title}`)
-          .join("  •  ");
-        nowNextEl.textContent = `Next campus events: ${next3}`;
-      } else {
-        nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
-      }
+      // rotate every 14s
+      setInterval(() => {
+        idx = (idx + 1) % slides.length;
+        renderSlide(slides, idx, crierTitle);
+      }, 14000);
 
       // Weather
       try { await loadWeather(); }
       catch(e){
-        document.getElementById("wxNow").textContent = "Weather unavailable";
-        document.getElementById("wxMeta").textContent = "";
+        document.getElementById("wxTemp").textContent = "--°";
+        document.getElementById("wxCond").textContent = "Weather unavailable";
       }
 
-      // Signage-friendly refresh
+      // Signage-friendly refresh (hourly)
       setTimeout(() => location.reload(), 60 * 60 * 1000);
     })().catch(err => {
       document.body.innerHTML =
-        `<pre class="error" style="color:#fff;padding:18px">Error:\n${err.stack || err}</pre>`;
+        `<pre style="color:#fff;padding:18px;white-space:pre-wrap">Error:\n${err.stack || err}</pre>`;
     });
   </script>
 </body>
