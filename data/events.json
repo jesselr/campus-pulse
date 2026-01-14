@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-13T23:38:19.868762Z",
+  "updated": "2026-01-14T01:19:42.337620Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -195,20 +195,20 @@
       "description": ""
     },
     {
-      "title": "Central College Men's Basketball vs Buena Vista",
-      "start": "2026-01-24T22:00:00",
-      "end": "2026-01-25T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-buena-vista/",
-      "description": "Central College Men\u2019s Basketball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Women's Basketball vs Buena Vista",
       "start": "2026-01-24T23:00:00",
       "end": "2026-01-25T01:00:00",
       "location": "Pella\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-buena-vista/",
       "description": "Central College Women\u2019s Basketball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball vs Buena Vista",
+      "start": "2026-01-25T01:00:00",
+      "end": "2026-01-25T03:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-buena-vista/",
+      "description": "Central College Men\u2019s Basketball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Basketball vs Nebraska Wesleyan",
