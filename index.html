@@ -76,6 +76,17 @@
     h2{ margin:0 0 10px; font-size:var(--h2); color:var(--primary-gray); }
 
     .clock{ font-size:var(--clock); color:var(--muted); white-space:nowrap; }
+
+    .wxpill{
+      font-size: var(--clock);
+      color: var(--primary-gray);
+      padding: .25em .6em;
+      border-radius: 999px;
+      border: 1px solid rgba(204,204,204,.20);
+      background: rgba(255,255,255,.06);
+      white-space: nowrap;
+    }
+
     .today{ margin-top: clamp(10px, 1vw, 22px); font-size:var(--today); line-height:1.18; }
     .muted{ color:var(--muted); font-size: clamp(14px, .85vw, 28px); margin-top: 10px; }
 
@@ -117,7 +128,10 @@
     <section class="card hero">
       <div class="row">
         <h1>Campus Pulse</h1>
-        <div id="clock" class="clock"></div>
+        <div style="display:flex; gap:14px; align-items:baseline;">
+          <div id="wxPill" class="wxpill">--°</div>
+          <div id="clock" class="clock"></div>
+        </div>
       </div>
 
       <div id="today" class="today">Loading…</div>
@@ -139,13 +153,6 @@
       <ol id="events"></ol>
       <div class="muted" id="eventsUpdated"></div>
       <div class="muted">Source: <code>data/events.json</code></div>
-    </section>
-
-    <!-- WEATHER -->
-    <section class="card">
-      <h2>Pella Weather</h2>
-      <div id="wxNow" class="today">Loading…</div>
-      <div id="wxMeta" class="muted"></div>
     </section>
   </div>
 
@@ -220,8 +227,8 @@
       const url =
         `https://api.open-meteo.com/v1/forecast` +
         `?latitude=${lat}&longitude=${lon}` +
-        `&current=temperature_2m,weather_code,wind_speed_10m` +
-        `&temperature_unit=fahrenheit&wind_speed_unit=mph&timezone=${encodeURIComponent(TZ)}`;
+        `&current=temperature_2m,weather_code` +
+        `&temperature_unit=fahrenheit&timezone=${encodeURIComponent(TZ)}`;
 
       const r = await fetch(url, { cache: "no-store" });
       if(!r.ok) throw new Error(`Weather fetch failed (${r.status})`);
@@ -229,7 +236,6 @@
 
       const cur = j.current;
       const temp = Math.round(cur.temperature_2m);
-      const wind = Math.round(cur.wind_speed_10m);
 
       const code = cur.weather_code;
       const label =
@@ -240,11 +246,11 @@
         ([61,63,65,66,67].includes(code)) ? "Rain" :
         ([71,73,75,77].includes(code)) ? "Snow" :
         ([80,81,82].includes(code)) ? "Showers" :
-        ([95,96,99].includes(code)) ? "Thunderstorms" :
-        "Weather";
+        ([95,96,99].includes(code)) ? "Storms" :
+        "Wx";
 
-      document.getElementById("wxNow").innerHTML = `<strong>${temp}°F</strong> — ${label}`;
-      document.getElementById("wxMeta").textContent = `Wind: ${wind} mph • Updated: ${cur.time}`;
+      // Keep it compact (no "Pella Weather" label)
+      document.getElementById("wxPill").textContent = `${temp}°F • ${label}`;
     }
 
     (async function main(){
@@ -334,11 +340,10 @@
         nowNextEl.textContent = `Next campus events: (none in next ${horizonDays} days)`;
       }
 
-      // Weather
+      // Weather pill
       try { await loadWeather(); }
       catch(e){
-        document.getElementById("wxNow").textContent = "Weather unavailable";
-        document.getElementById("wxMeta").textContent = "";
+        document.getElementById("wxPill").textContent = "--°";
       }
 
       // Signage-friendly refresh
