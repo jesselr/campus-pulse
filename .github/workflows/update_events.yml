@@ -25,13 +25,14 @@ jobs:
          ls -la script
          mkdir -p data
          python script/fetch_events.py
+         python script/fetch_crier.py
          echo "AFTER RUN:"
          ls -la data
 
 
       - name: Commit events.json if changed
         run: |
-         git add data/events.json
+         git add data/events.json data/crier.json
          git status --porcelain
          if git diff --cached --quiet; then
          echo "No changes."
