@@ -1,15 +1,7 @@
 {
-  "updated": "2026-01-15T01:15:25.864772Z",
+  "updated": "2026-01-15T03:14:17.259391Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Basketball at Simpson",
-      "start": "2026-01-14T23:30:00",
-      "end": "2026-01-15T01:30:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-at-simpson/",
-      "description": "Central College Women\u2019s Basketball at Simpson"
-    },
     {
       "title": "Central College Men's Basketball at Simpson",
       "start": "2026-01-15T01:30:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-nebraska-wesleyan/",
       "description": "Central College Men\u2019s Basketball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Wrestling at Loras",
+      "start": "2026-01-30T00:00:00",
+      "end": "2026-01-30T03:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
+      "description": "Central College Men\u2019s Wrestling at Loras"
     }
   ]
 }
