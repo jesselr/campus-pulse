@@ -1,15 +1,7 @@
 {
-  "updated": "2026-01-15T03:14:17.259391Z",
+  "updated": "2026-01-15T04:25:42.517024Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball at Simpson",
-      "start": "2026-01-15T01:30:00",
-      "end": "2026-01-15T03:30:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-simpson/",
-      "description": "Central College Men\u2019s Basketball at Simpson"
-    },
     {
       "title": "Faculty Workshop",
       "start": "2026-01-16T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
       "description": "Central College Men\u2019s Wrestling at Loras"
+    },
+    {
+      "title": "Last Day to Drop or Add a Course",
+      "start": "2026-01-30T00:00:00",
+      "end": "2026-02-01T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-3/",
+      "description": ""
     }
   ]
 }
