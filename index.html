@@ -373,21 +373,19 @@
       <section class="card" style="flex:1">
         <div class="cardInner railCardBody">
           <div class="sectionHeader">
-            <h2 class="railH">Next Academic Dates</h2>
+            <h2 class="railH">Upcoming Academic Dates</h2>
           </div>
           <ol id="academic"></ol>
-          <div class="muted">Source: <code>data/academic.json</code></div>
         </div>
       </section>
 
       <section class="card" style="flex:1">
         <div class="cardInner railCardBody">
           <div class="sectionHeader">
-            <h2 class="railH">Next Campus Events</h2>
+            <h2 class="railH">Upcoming Campus Events</h2>
           </div>
           <ol id="events"></ol>
           <div class="muted" id="eventsUpdated"></div>
-          <div class="muted">Source: <code>data/events.json</code></div>
         </div>
       </section>
     </aside>
@@ -594,7 +592,7 @@
       // OPTIONAL: adjust speed based on length
       const track = document.getElementById("track");
       const len = text.length;
-      const seconds = Math.min(60, Math.max(22, Math.round(len / 12)));
+      const seconds = Math.min(10, Math.max(22, Math.round(len / 12)));
       track.style.animationDuration = `${seconds}s`;
     }
 
@@ -634,7 +632,7 @@
       setInterval(setClocks, 15000);
 
       // Ticker (placeholder for now)
-      setTickerText("Have a Great Day • Have a Great Day • Have a Great Day • Have a Great Day •");
+      setTickerText("CUI CUI May your Glory never die • Go Dutch • Have a Great Day •");
 
       // Academic
       try{
