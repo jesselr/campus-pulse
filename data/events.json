@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-16T19:36:26.734691Z",
+  "updated": "2026-01-16T20:17:39.608366Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/faculty-workshop/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Track and Field  Dutch Athletics Classic",
-      "start": "2026-01-16T16:00:00",
-      "end": "2026-01-16T19:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-athletics-classic/",
-      "description": "Central College Women\u2019s Track and Field  Dutch Athletics Classic"
-    },
-    {
-      "title": "Central College Men's Track and Field  Dutch Athletics Classic",
-      "start": "2026-01-16T16:00:00",
-      "end": "2026-01-16T19:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-athletics-classic/",
-      "description": "Central College Men\u2019s Track and Field  Dutch Athletics Classic"
     },
     {
       "title": "New Student Welcome Day/Orientation",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-3/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Tennis vs Bethel (Minn.)",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-01T00:00:00",
+      "location": "Rochester\\, Minn.",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
+      "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
+    },
+    {
+      "title": "Central College Women's Wrestling at Loras Open",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-01T00:00:00",
+      "location": "Adrian\\, Mich.",
+      "url": "https://central.edu/event/central-college-womens-wrestling-at-adrian-invitational/",
+      "description": "Central College Women\u2019s Wrestling at Loras Open"
     }
   ]
 }
