@@ -6,7 +6,6 @@
   <title>Campus Pulse</title>
   <style>
     :root{
-      /* Central College branding */
       --primary-red:#CB2026;
       --secondary-red:#990000;
       --tertiary-red:#660000;
@@ -15,9 +14,8 @@
       --secondary-gray:#666666;
       --tertiary-gray:#333333;
 
-      /* Theme */
-      --bg:#121212;                 /* campus-friendly dark */
-      --card: rgba(51,51,51,.92);   /* card surface */
+      --bg:#121212;
+      --card: rgba(51,51,51,.92);
       --text: rgba(204,204,204,.96);
       --muted: rgba(204,204,204,.72);
 
@@ -33,7 +31,7 @@
       --tickerH: clamp(78px, 8vh, 110px);
       --railW: clamp(360px, 27vw, 560px);
 
-      --stripe: 10px; /* left red stripe width */
+      --stripe: 10px;
     }
 
     *{ box-sizing:border-box; }
@@ -46,7 +44,6 @@
       overflow:hidden;
     }
 
-    /* Layout: main + side, ticker full width */
     .layout{
       height:100vh;
       display:grid;
@@ -56,7 +53,6 @@
       padding: var(--pad);
     }
 
-    /* Professional cards: soft border/shadow + left red stripe */
     .card{
       background: var(--card);
       border-radius: var(--radius);
@@ -80,7 +76,6 @@
       min-height:0;
     }
 
-    /* Main header area */
     .toprow{
       display:flex;
       align-items:center;
@@ -100,7 +95,6 @@
       min-width:0;
     }
 
-    /* Logo placeholder (add your file under assets/) */
     .logo{
       height: clamp(42px, 4.2vw, 84px);
       width: auto;
@@ -154,7 +148,6 @@
       margin: 0 0 clamp(10px, 1vw, 16px);
     }
 
-    /* Crier slide panel */
     .slide{
       background: rgba(0,0,0,.12);
       border: 1px solid rgba(255,255,255,.07);
@@ -165,7 +158,7 @@
       flex-direction:column;
       gap: clamp(10px, 1vw, 16px);
       min-height: 0;
-      justify-content:flex-start; /* we toggle to center in JS when short */
+      justify-content:flex-start;
     }
 
     .slideHeading{
@@ -176,20 +169,16 @@
       color: var(--text);
     }
 
-    /* IMPORTANT: no physical scrolling */
     .slideBody{
       font-size: var(--body);
       color: rgba(204,204,204,.92);
       line-height: 1.28;
-      overflow:hidden;  /* no scrollbars */
+      overflow:hidden;
       min-height: 0;
     }
-    .slideBody p{
-      margin: 0 0 .75em 0;
-    }
+    .slideBody p{ margin: 0 0 .75em 0; }
     .slideBody p:last-child{ margin-bottom:0; }
 
-    /* Used when we need tighter spacing to fit */
     .tight .slideBody{ line-height:1.18; }
     .tight .slideBody p{ margin-bottom: .45em; }
 
@@ -215,7 +204,6 @@
       text-overflow:ellipsis;
     }
 
-    /* Right rail */
     .rail{
       display:flex;
       flex-direction:column;
@@ -295,6 +283,7 @@
       text-overflow:ellipsis;
     }
 
+    /* True continuous marquee: track contains TWO copies of the text */
     .marquee{
       position:relative;
       overflow:hidden;
@@ -302,19 +291,24 @@
       height: 100%;
       display:flex;
       align-items:center;
-      justify-content:center;
     }
-    .marqueeText{
+    .track{
+      display:flex;
+      align-items:center;
+      gap: 80px;          /* space between repeats */
+      width:max-content;
+      will-change: transform;
+      animation: marquee 28s linear infinite;
+    }
+    .track span{
       font-size: clamp(18px, 1.15vw, 34px);
       color: rgba(204,204,204,.95);
       white-space:nowrap;
-      will-change: transform;
       text-shadow: 0 2px 8px rgba(0,0,0,.25);
-      animation: scroll 26s linear infinite;
     }
-    @keyframes scroll{
-      0%   { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
+    @keyframes marquee{
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); } /* because we duplicate content twice */
     }
 
     .clock{
@@ -344,9 +338,6 @@
       <div class="cardInner" style="display:flex;flex-direction:column;min-height:0;">
         <div class="toprow">
           <div class="brandLeft">
-            <!-- LOGO: Put your file in repo and set src below
-                 Recommended: white logo with transparent background
-                 Example path: assets/central-logo-white.png -->
             <img class="logo" src="assets/central-logo.png" alt="Central College logo"
                  onerror="this.style.display='none'; document.getElementById('logoPh').style.display='flex';" />
             <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo-white.png</div>
@@ -409,8 +400,11 @@
           <div class="wxCond" id="wxCond">Weather loading…</div>
         </div>
 
-        <div class="marquee">
-          <div class="marqueeText" id="tickerText"> Have a Great Day • CUI CUI May Your Glory Never Die  • Go Dutch! •</div>
+        <div class="marquee" aria-label="ticker">
+          <div class="track" id="track">
+            <span id="tickerA">Have a Great Day • Have a Great Day • Have a Great Day •</span>
+            <span id="tickerB">Have a Great Day • Have a Great Day • Have a Great Day •</span>
+          </div>
         </div>
 
         <div class="clock" id="clock">—</div>
@@ -420,12 +414,9 @@
 
   <script>
     const TZ = "America/Chicago";
-
-    // Crier rotation timing (ms)
     const CRIER_INTERVAL = 16000;
 
-    // Auto-fit bounds
-    const MIN_BODY_PX = 16;      // do not shrink below this
+    const MIN_BODY_PX = 16;
     const MIN_HEAD_PX = 20;
     const MAX_STEPS = 36;
 
@@ -497,9 +488,6 @@
         .replaceAll(">","&gt;");
     }
 
-    // Turn an announcement into paragraphs.
-    // - blank line => new paragraph
-    // - single newline => <br> within paragraph
     function announcementToHTML(text){
       const t = String(text || "")
         .replace(/\r\n/g, "\n")
@@ -515,7 +503,6 @@
       }).join("");
     }
 
-    // If first line is a short "headline", use it as slideHeading.
     function pickHeadingAndBody(text, fallbackTitle){
       const t = String(text || "").trim();
       if (!t) return { heading: fallbackTitle || "The Crier", body: "" };
@@ -524,7 +511,6 @@
       const first = (lines[0] || "").trim();
       const rest = lines.slice(1).join("\n").trim();
 
-      // "headline" heuristic
       if (first.length > 0 && first.length <= 80 && rest.length >= 40){
         return { heading: first, body: rest };
       }
@@ -532,36 +518,23 @@
     }
 
     function fitSlideToOneScreen(){
-      // We shrink font sizes until all content fits inside .slide
       const slide = document.getElementById("slide");
       const heading = document.getElementById("slideHeading");
       const body = document.getElementById("slideBody");
       const mainCard = document.getElementById("mainCard");
 
-      // Reset any "tight" mode first
       mainCard.classList.remove("tight");
-
-      // Reset sizes to CSS defaults
       heading.style.fontSize = "";
       body.style.fontSize = "";
 
-      // Force layout so measurements are accurate
       const slideH = slide.clientHeight;
-
-      // Starting computed sizes
       let headPx = parseFloat(getComputedStyle(heading).fontSize);
       let bodyPx = parseFloat(getComputedStyle(body).fontSize);
 
-      // Tighten spacing early if it's clearly too tall
-      if (slide.scrollHeight > slideH) {
-        mainCard.classList.add("tight");
-      }
+      if (slide.scrollHeight > slideH) mainCard.classList.add("tight");
 
-      // Iteratively shrink (body first, then heading)
       for (let i=0; i<MAX_STEPS; i++){
-        const tooTall = slide.scrollHeight > slideH;
-
-        if (!tooTall) break;
+        if (slide.scrollHeight <= slideH) break;
 
         const canShrinkBody = bodyPx > MIN_BODY_PX;
         const canShrinkHead = headPx > MIN_HEAD_PX;
@@ -573,23 +546,17 @@
           headPx = Math.max(MIN_HEAD_PX, headPx - 1);
           heading.style.fontSize = `${headPx}px`;
         } else {
-          // At minimum sizes; we stop (this is where paging would be needed,
-          // but you asked for one screen if possible).
           break;
         }
       }
 
-      // Vertical centering (only when content is comfortably short)
-      // Keep text left-aligned but center the block vertically in the slide.
       const contentHeight = slide.scrollHeight;
-      if (contentHeight < slideH * 0.78) {
-        slide.style.justifyContent = "center";
-      } else {
-        slide.style.justifyContent = "flex-start";
-      }
+      slide.style.justifyContent = (contentHeight < slideH * 0.78) ? "center" : "flex-start";
     }
 
-    function renderCrierAnnouncement(announcements, idx, fallbackTitle){
+    function normalizeTitle(s){ return String(s||"").trim().toLowerCase(); }
+
+    function renderCrierAnnouncement(announcements, idx, crierTitle){
       const slideEl = document.getElementById("slide");
       const hEl = document.getElementById("slideHeading");
       const bEl = document.getElementById("slideBody");
@@ -598,24 +565,40 @@
       const total = announcements.length || 0;
       const raw = announcements[idx] || "";
 
-      const { heading, body } = pickHeadingAndBody(raw, fallbackTitle);
-      hEl.textContent = heading || fallbackTitle || "The Crier";
-      bEl.innerHTML = announcementToHTML(body) || `<div class="muted">No content.</div>`;
+      const picked = pickHeadingAndBody(raw, crierTitle);
+      let heading = picked.heading || "The Crier";
+      const body = picked.body || "";
 
+      // Prevent duplicate "Latest Crier for..." title showing twice
+      if (normalizeTitle(heading) === normalizeTitle(crierTitle)) {
+        heading = "The Crier";
+      }
+
+      hEl.textContent = heading;
+      bEl.innerHTML = announcementToHTML(body) || `<div class="muted">No content.</div>`;
       cEl.textContent = total ? `Crier item ${idx+1} of ${total}` : "—";
 
-      // Fade in
       slideEl.classList.remove("show");
       requestAnimationFrame(() => {
         slideEl.classList.add("show");
-
-        // After paint, auto-fit so the *entire announcement* stays on one screen when possible
         requestAnimationFrame(() => fitSlideToOneScreen());
       });
     }
 
+    function setTickerText(text){
+      const a = document.getElementById("tickerA");
+      const b = document.getElementById("tickerB");
+      a.textContent = text;
+      b.textContent = text;
+
+      // OPTIONAL: adjust speed based on length
+      const track = document.getElementById("track");
+      const len = text.length;
+      const seconds = Math.min(60, Math.max(22, Math.round(len / 12)));
+      track.style.animationDuration = `${seconds}s`;
+    }
+
     async function loadWeather(){
-      // Pella, IA
       const lat = 41.4081, lon = -92.9163;
       const url =
         `https://api.open-meteo.com/v1/forecast` +
@@ -650,7 +633,10 @@
       setClocks();
       setInterval(setClocks, 15000);
 
-      // Right rail: academic
+      // Ticker (placeholder for now)
+      setTickerText("Have a Great Day • Have a Great Day • Have a Great Day • Have a Great Day •");
+
+      // Academic
       try{
         const academic = await loadJSON("data/academic.json");
         const upcoming = pickUpcomingAcademic(academic).slice(0, 6);
@@ -669,7 +655,7 @@
           `<li><div class="errorBox">Missing/invalid data/academic.json</div></li>`;
       }
 
-      // Right rail: events
+      // Events
       try{
         const eventsData = await loadJSON("data/events.json");
         document.getElementById("eventsUpdated").textContent =
@@ -697,7 +683,7 @@
           `<li><div class="errorBox">Missing/invalid data/events.json</div></li>`;
       }
 
-      // Main: Crier announcements (each announcement should fit on one screen if possible)
+      // Crier
       let announcements = [];
       let crierTitle = "The Crier";
 
@@ -727,7 +713,6 @@
         renderCrierAnnouncement(announcements, idx, crierTitle);
       }, CRIER_INTERVAL);
 
-      // Re-fit after resize (some signage sticks change zoom)
       window.addEventListener("resize", () => {
         requestAnimationFrame(() => fitSlideToOneScreen());
       });
