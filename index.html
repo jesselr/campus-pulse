@@ -18,7 +18,6 @@
       /* Theme */
       --bg:#121212;                 /* campus-friendly dark */
       --card: rgba(51,51,51,.92);   /* card surface */
-      --card2: rgba(51,51,51,.78);  /* subtle surfaces */
       --text: rgba(204,204,204,.96);
       --muted: rgba(204,204,204,.72);
 
@@ -121,9 +120,7 @@
       white-space:nowrap;
     }
 
-    .titles{
-      min-width:0;
-    }
+    .titles{ min-width:0; }
     .brand{
       margin:0;
       font-size: var(--h1);
@@ -168,6 +165,7 @@
       flex-direction:column;
       gap: clamp(10px, 1vw, 16px);
       min-height: 0;
+      justify-content:flex-start; /* we toggle to center in JS when short */
     }
 
     .slideHeading{
@@ -178,14 +176,22 @@
       color: var(--text);
     }
 
+    /* IMPORTANT: no physical scrolling */
     .slideBody{
       font-size: var(--body);
       color: rgba(204,204,204,.92);
       line-height: 1.28;
-      overflow:hidden;
+      overflow:hidden;  /* no scrollbars */
+      min-height: 0;
     }
-    .slideBody p{ margin: 0 0 .75em 0; }
+    .slideBody p{
+      margin: 0 0 .75em 0;
+    }
     .slideBody p:last-child{ margin-bottom:0; }
+
+    /* Used when we need tighter spacing to fit */
+    .tight .slideBody{ line-height:1.18; }
+    .tight .slideBody p{ margin-bottom: .45em; }
 
     .fade{
       opacity:0;
@@ -216,7 +222,6 @@
       gap: var(--gap);
       min-height:0;
     }
-
     .railCardBody{
       display:flex;
       flex-direction:column;
@@ -254,7 +259,7 @@
 
     /* Ticker */
     .ticker{
-      background: var(--primary-red); /* strong branded bar */
+      background: var(--primary-red);
       border-radius: var(--radius);
       box-shadow: 0 18px 40px rgba(0,0,0,.45);
       overflow:hidden;
@@ -335,17 +340,16 @@
 <body>
   <div class="layout">
     <!-- MAIN: CRIER LOOP -->
-    <section class="card">
+    <section class="card" id="mainCard">
       <div class="cardInner" style="display:flex;flex-direction:column;min-height:0;">
         <div class="toprow">
           <div class="brandLeft">
             <!-- LOGO: Put your file in repo and set src below
-                 Example: assets/central-logo.png -->
-            <!-- Option A: actual logo image -->
-            <img class="logo" src="assets/central-logo.png" alt="Central College logo"
+                 Recommended: white logo with transparent background
+                 Example path: assets/central-logo-white.png -->
+            <img class="logo" src="assets/central-logo-white.png" alt="Central College logo"
                  onerror="this.style.display='none'; document.getElementById('logoPh').style.display='flex';" />
-            <!-- Option B: placeholder shown if image missing -->
-            <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo.png</div>
+            <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo-white.png</div>
 
             <div class="titles">
               <h1 class="brand">Campus Pulse</h1>
@@ -417,6 +421,14 @@
   <script>
     const TZ = "America/Chicago";
 
+    // Crier rotation timing (ms)
+    const CRIER_INTERVAL = 16000;
+
+    // Auto-fit bounds
+    const MIN_BODY_PX = 16;      // do not shrink below this
+    const MIN_HEAD_PX = 20;
+    const MAX_STEPS = 36;
+
     function fmtLong(now){
       return new Intl.DateTimeFormat("en-US", {
         timeZone: TZ,
@@ -485,71 +497,121 @@
         .replaceAll(">","&gt;");
     }
 
-    function toParagraphs(text){
-      const t = (text || "").replace(/\r\n/g, "\n").replace(/\r/g, "\n");
-      const raw = t.split(/\n{2,}/).map(x => x.trim()).filter(Boolean);
+    // Turn an announcement into paragraphs.
+    // - blank line => new paragraph
+    // - single newline => <br> within paragraph
+    function announcementToHTML(text){
+      const t = String(text || "")
+        .replace(/\r\n/g, "\n")
+        .replace(/\r/g, "\n")
+        .trim();
 
-      const out = [];
-      const seen = new Set();
-      for (const p of raw){
-        const key = p.toLowerCase();
-        if (seen.has(key)) continue;
-        seen.add(key);
-        out.push(p);
-      }
-      return out;
+      if (!t) return "";
+
+      const blocks = t.split(/\n{2,}/).map(b => b.trim()).filter(Boolean);
+      return blocks.map(b => {
+        const safe = escapeHTML(b).replace(/\n/g, "<br>");
+        return `<p>${safe}</p>`;
+      }).join("");
     }
 
-    function buildSlidesFromParagraphs(paras, maxChars=950){
-      const slides = [];
-      let buf = [];
-      let count = 0;
+    // If first line is a short "headline", use it as slideHeading.
+    function pickHeadingAndBody(text, fallbackTitle){
+      const t = String(text || "").trim();
+      if (!t) return { heading: fallbackTitle || "The Crier", body: "" };
 
-      for (const p of paras){
-        const add = p.length + 2;
-        if (count + add > maxChars && buf.length){
-          slides.push(buf.join("\n\n"));
-          buf = [];
-          count = 0;
-        }
-        buf.push(p);
-        count += add;
-      }
-      if (buf.length) slides.push(buf.join("\n\n"));
-      return slides;
-    }
+      const lines = t.split(/\n/);
+      const first = (lines[0] || "").trim();
+      const rest = lines.slice(1).join("\n").trim();
 
-    function pickHeadingAndBody(slideText, fallbackTitle){
-      const t = (slideText || "").trim();
-      const firstLine = t.split("\n")[0].trim();
-      const rest = t.slice(firstLine.length).trim();
-
-      if (firstLine.length <= 70 && rest.length > 40){
-        return { heading: firstLine, body: rest };
+      // "headline" heuristic
+      if (first.length > 0 && first.length <= 80 && rest.length >= 40){
+        return { heading: first, body: rest };
       }
       return { heading: fallbackTitle || "The Crier", body: t };
     }
 
-    function renderSlide(slides, idx, fallbackTitle){
+    function fitSlideToOneScreen(){
+      // We shrink font sizes until all content fits inside .slide
+      const slide = document.getElementById("slide");
+      const heading = document.getElementById("slideHeading");
+      const body = document.getElementById("slideBody");
+      const mainCard = document.getElementById("mainCard");
+
+      // Reset any "tight" mode first
+      mainCard.classList.remove("tight");
+
+      // Reset sizes to CSS defaults
+      heading.style.fontSize = "";
+      body.style.fontSize = "";
+
+      // Force layout so measurements are accurate
+      const slideH = slide.clientHeight;
+
+      // Starting computed sizes
+      let headPx = parseFloat(getComputedStyle(heading).fontSize);
+      let bodyPx = parseFloat(getComputedStyle(body).fontSize);
+
+      // Tighten spacing early if it's clearly too tall
+      if (slide.scrollHeight > slideH) {
+        mainCard.classList.add("tight");
+      }
+
+      // Iteratively shrink (body first, then heading)
+      for (let i=0; i<MAX_STEPS; i++){
+        const tooTall = slide.scrollHeight > slideH;
+
+        if (!tooTall) break;
+
+        const canShrinkBody = bodyPx > MIN_BODY_PX;
+        const canShrinkHead = headPx > MIN_HEAD_PX;
+
+        if (canShrinkBody){
+          bodyPx = Math.max(MIN_BODY_PX, bodyPx - 1);
+          body.style.fontSize = `${bodyPx}px`;
+        } else if (canShrinkHead){
+          headPx = Math.max(MIN_HEAD_PX, headPx - 1);
+          heading.style.fontSize = `${headPx}px`;
+        } else {
+          // At minimum sizes; we stop (this is where paging would be needed,
+          // but you asked for one screen if possible).
+          break;
+        }
+      }
+
+      // Vertical centering (only when content is comfortably short)
+      // Keep text left-aligned but center the block vertically in the slide.
+      const contentHeight = slide.scrollHeight;
+      if (contentHeight < slideH * 0.78) {
+        slide.style.justifyContent = "center";
+      } else {
+        slide.style.justifyContent = "flex-start";
+      }
+    }
+
+    function renderCrierAnnouncement(announcements, idx, fallbackTitle){
       const slideEl = document.getElementById("slide");
       const hEl = document.getElementById("slideHeading");
       const bEl = document.getElementById("slideBody");
       const cEl = document.getElementById("slideCounter");
 
-      const total = slides.length || 0;
-      const raw = slides[idx] || "";
+      const total = announcements.length || 0;
+      const raw = announcements[idx] || "";
+
       const { heading, body } = pickHeadingAndBody(raw, fallbackTitle);
-
       hEl.textContent = heading || fallbackTitle || "The Crier";
+      bEl.innerHTML = announcementToHTML(body) || `<div class="muted">No content.</div>`;
 
-      const paras = toParagraphs(body);
-      const html = paras.map(p => `<p>${escapeHTML(p)}</p>`).join("");
-      bEl.innerHTML = html || `<div class="muted">No content.</div>`;
+      cEl.textContent = total ? `Crier item ${idx+1} of ${total}` : "—";
 
-      cEl.textContent = total ? `Crier slide ${idx+1} of ${total}` : "—";
-
+      // Fade in
       slideEl.classList.remove("show");
-      requestAnimationFrame(() => slideEl.classList.add("show"));
+      requestAnimationFrame(() => {
+        slideEl.classList.add("show");
+
+        // After paint, auto-fit so the *entire announcement* stays on one screen when possible
+        requestAnimationFrame(() => fitSlideToOneScreen());
+      });
     }
 
     async function loadWeather(){
@@ -635,8 +697,8 @@
           `<li><div class="errorBox">Missing/invalid data/events.json</div></li>`;
       }
 
-      // Main: Crier slides
-      let slides = [];
+      // Main: Crier announcements (each announcement should fit on one screen if possible)
+      let announcements = [];
       let crierTitle = "The Crier";
 
       try{
@@ -647,28 +709,28 @@
           crier.updated ? `Updated: ${crier.updated}` : "";
 
         const items = Array.isArray(crier.items) ? crier.items.filter(Boolean) : [];
-        if (items.length >= 2){
-          slides = items.map(x => String(x));
-        } else if (items.length === 1){
-          const paras = toParagraphs(String(items[0]));
-          slides = buildSlidesFromParagraphs(paras, 950);
-        } else {
-          slides = ["No Crier content found."];
-        }
+        announcements = items.length ? items.map(x => String(x)) : [];
       } catch(e){
-        document.getElementById("crierTitle").textContent = "The Crier";
-        document.getElementById("crierUpdated").textContent = "";
-        slides = ["Crier feed unavailable (expected data/crier.json)."];
+        announcements = [];
+      }
+
+      if (!announcements.length){
+        announcements = ["Crier feed unavailable (expected data/crier.json)."];
         document.getElementById("dataStatus").textContent = "Crier feed missing.";
       }
 
       let idx = 0;
-      renderSlide(slides, idx, crierTitle);
+      renderCrierAnnouncement(announcements, idx, crierTitle);
 
       setInterval(() => {
-        idx = (idx + 1) % slides.length;
-        renderSlide(slides, idx, crierTitle);
-      }, 14000);
+        idx = (idx + 1) % announcements.length;
+        renderCrierAnnouncement(announcements, idx, crierTitle);
+      }, CRIER_INTERVAL);
+
+      // Re-fit after resize (some signage sticks change zoom)
+      window.addEventListener("resize", () => {
+        requestAnimationFrame(() => fitSlideToOneScreen());
+      });
 
       // Weather
       try { await loadWeather(); }
