@@ -16,24 +16,25 @@
       --tertiary-gray:#333333;
 
       /* Theme */
-      --bg: var(--tertiary-red);
-      --card: rgba(51,51,51,.92);
-      --card2: rgba(51,51,51,.78);
-      --text: var(--primary-gray);
-      --muted: var(--secondary-gray);
-      --accent: var(--primary-red);
+      --bg:#121212;                 /* campus-friendly dark */
+      --card: rgba(51,51,51,.92);   /* card surface */
+      --card2: rgba(51,51,51,.78);  /* subtle surfaces */
+      --text: rgba(204,204,204,.96);
+      --muted: rgba(204,204,204,.72);
 
       --pad: clamp(18px, 2.2vw, 52px);
-      --gap: clamp(14px, 1.4vw, 28px);
-      --radius: clamp(16px, 1.2vw, 26px);
+      --gap: clamp(14px, 1.4vw, 26px);
+      --radius: clamp(18px, 1.2vw, 26px);
 
       --h1: clamp(34px, 2.8vw, 72px);
-      --h2: clamp(24px, 1.6vw, 44px);
-      --body: clamp(18px, 1.2vw, 34px);
+      --h2: clamp(22px, 1.55vw, 42px);
+      --body: clamp(18px, 1.15vw, 34px);
       --small: clamp(14px, .9vw, 24px);
 
       --tickerH: clamp(78px, 8vh, 110px);
       --railW: clamp(360px, 27vw, 560px);
+
+      --stripe: 10px; /* left red stripe width */
     }
 
     *{ box-sizing:border-box; }
@@ -56,86 +57,134 @@
       padding: var(--pad);
     }
 
+    /* Professional cards: soft border/shadow + left red stripe */
     .card{
       background: var(--card);
       border-radius: var(--radius);
-      border: 1px solid rgba(204,204,204,.10);
+      border: 1px solid rgba(255,255,255,.08);
+      box-shadow: 0 18px 40px rgba(0,0,0,.45);
+      position:relative;
       overflow:hidden;
     }
-
-    /* Main area (Crier) */
-    .main{
-      padding: calc(var(--pad) * 0.75);
-      display:flex;
-      flex-direction:column;
-      gap: clamp(12px, 1.2vw, 22px);
-      position:relative;
+    .card::before{
+      content:"";
+      position:absolute;
+      left:0; top:0; bottom:0;
+      width: var(--stripe);
+      background: var(--primary-red);
+      opacity: .95;
+    }
+    .cardInner{
+      height:100%;
+      padding: calc(var(--pad) * 0.62);
+      padding-left: calc(var(--pad) * 0.62 + var(--stripe));
+      min-height:0;
     }
 
+    /* Main header area */
     .toprow{
       display:flex;
-      align-items:baseline;
+      align-items:center;
       justify-content:space-between;
       gap: 18px;
+      padding: clamp(10px, 1vw, 16px);
+      border-radius: calc(var(--radius) * .85);
+      background: rgba(0,0,0,.18);
+      border-bottom: 2px solid rgba(203,32,38,.65);
+      margin-bottom: clamp(12px, 1.2vw, 20px);
     }
 
-    .brand{
-      font-size: var(--h1);
-      letter-spacing: .3px;
-      margin:0;
-      line-height:1.05;
+    .brandLeft{
+      display:flex;
+      align-items:center;
+      gap: clamp(12px, 1.2vw, 18px);
+      min-width:0;
     }
 
-    .subbrand{
-      font-size: var(--small);
-      color: var(--muted);
-      margin-top: 6px;
+    /* Logo placeholder (add your file under assets/) */
+    .logo{
+      height: clamp(42px, 4.2vw, 84px);
+      width: auto;
+      display:block;
+      filter: drop-shadow(0 2px 6px rgba(0,0,0,.35));
     }
-
-    .mainHeaderRight{
-      text-align:right;
-      color: var(--muted);
+    .logoPlaceholder{
+      height: clamp(42px, 4.2vw, 84px);
+      width: clamp(130px, 10vw, 240px);
+      border-radius: 14px;
+      border: 1px dashed rgba(204,204,204,.25);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color: rgba(204,204,204,.65);
       font-size: var(--small);
       white-space:nowrap;
     }
 
-    .crierTitle{
-      font-size: clamp(22px, 1.6vw, 44px);
-      color: rgba(204,204,204,.92);
-      margin: 6px 0 0;
+    .titles{
+      min-width:0;
+    }
+    .brand{
+      margin:0;
+      font-size: var(--h1);
+      letter-spacing:.2px;
+      line-height:1.05;
+      color: var(--text);
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+    }
+    .subbrand{
+      margin-top: 4px;
+      font-size: var(--small);
+      color: var(--muted);
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
     }
 
+    .headerRight{
+      text-align:right;
+      font-size: var(--small);
+      color: var(--muted);
+      white-space:nowrap;
+      flex-shrink:0;
+    }
+
+    .crierTitle{
+      font-size: clamp(18px, 1.25vw, 32px);
+      color: rgba(204,204,204,.90);
+      margin: 0 0 clamp(10px, 1vw, 16px);
+    }
+
+    /* Crier slide panel */
     .slide{
-      background: var(--card2);
-      border: 1px solid rgba(204,204,204,.08);
+      background: rgba(0,0,0,.12);
+      border: 1px solid rgba(255,255,255,.07);
       border-radius: calc(var(--radius) * .9);
-      padding: clamp(16px, 1.4vw, 30px);
-      flex: 1;
+      padding: clamp(16px, 1.4vw, 28px);
+      height: calc(100% - 140px);
       display:flex;
       flex-direction:column;
-      justify-content:center;
-      gap: clamp(10px, 1vw, 18px);
+      gap: clamp(10px, 1vw, 16px);
       min-height: 0;
-      position:relative;
     }
 
     .slideHeading{
-      font-size: clamp(22px, 1.7vw, 48px);
-      color: var(--text);
-      font-weight: 700;
-      line-height:1.1;
       margin:0;
+      font-size: clamp(22px, 1.7vw, 46px);
+      font-weight: 850;
+      line-height:1.12;
+      color: var(--text);
     }
 
     .slideBody{
       font-size: var(--body);
       color: rgba(204,204,204,.92);
-      line-height: 1.25;
+      line-height: 1.28;
       overflow:hidden;
     }
-    .slideBody p{
-      margin: 0 0 0.75em 0;
-    }
+    .slideBody p{ margin: 0 0 .75em 0; }
     .slideBody p:last-child{ margin-bottom:0; }
 
     .fade{
@@ -149,11 +198,12 @@
     }
 
     .footerNote{
-      color: var(--muted);
-      font-size: var(--small);
+      margin-top: clamp(8px, .8vw, 14px);
       display:flex;
       justify-content:space-between;
       gap: 16px;
+      font-size: var(--small);
+      color: rgba(204,204,204,.55);
       white-space:nowrap;
       overflow:hidden;
       text-overflow:ellipsis;
@@ -164,27 +214,36 @@
       display:flex;
       flex-direction:column;
       gap: var(--gap);
+      min-height:0;
     }
 
-    .railCard{
-      padding: calc(var(--pad) * 0.6);
+    .railCardBody{
       display:flex;
       flex-direction:column;
-      gap: 12px;
-      min-height: 0;
+      gap: 10px;
+      min-height:0;
+      height:100%;
+    }
+
+    .sectionHeader{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: calc(var(--radius) * .8);
+      background: rgba(0,0,0,.18);
+      border-bottom: 2px solid rgba(203,32,38,.65);
     }
 
     .railH{
       margin:0;
       font-size: var(--h2);
-      color: rgba(204,204,204,.95);
-      letter-spacing: .2px;
+      color: var(--text);
+      line-height:1.05;
     }
 
-    ol{
-      margin:0;
-      padding-left: 1.1em;
-    }
+    ol{ margin:0; padding-left: 1.1em; }
     li{
       margin: 10px 0;
       font-size: clamp(16px, 1.05vw, 26px);
@@ -193,30 +252,21 @@
     }
     .muted{ color: var(--muted); font-size: var(--small); }
 
-    .pill{
-      display:inline-block;
-      padding: .18em .55em;
-      border-radius: 999px;
-      border: 1px solid rgba(203,32,38,.35);
-      background: rgba(203,32,38,.18);
-      color: rgba(204,204,204,.95);
-      font-size: clamp(12px, .75vw, 18px);
-      margin-left: .45em;
-      vertical-align: middle;
-    }
-
     /* Ticker */
     .ticker{
-      grid-column: 1 / span 2;
+      background: var(--primary-red); /* strong branded bar */
+      border-radius: var(--radius);
+      box-shadow: 0 18px 40px rgba(0,0,0,.45);
+      overflow:hidden;
+      position:relative;
+    }
+    .tickerInner{
+      height:100%;
       display:grid;
       grid-template-columns: 1fr 3fr 1fr;
       align-items:center;
-      padding: 0 clamp(16px, 1.2vw, 30px);
-      background: rgba(51,51,51,.85);
-      border: 1px solid rgba(203,32,38,.35);
-      border-radius: var(--radius);
-      overflow:hidden;
-      position:relative;
+      gap: 10px;
+      padding: 0 clamp(14px, 1.2vw, 26px);
     }
 
     .wx{
@@ -224,17 +274,17 @@
       align-items:center;
       gap: 12px;
       min-width: 0;
+      color: rgba(204,204,204,.95);
+      text-shadow: 0 2px 8px rgba(0,0,0,.25);
     }
     .wxTemp{
       font-size: clamp(22px, 1.6vw, 44px);
-      font-weight: 800;
-      color: rgba(204,204,204,.95);
+      font-weight: 900;
       line-height:1;
     }
     .wxCond{
       font-size: var(--small);
-      color: var(--muted);
-      line-height:1.2;
+      opacity: .9;
       white-space:nowrap;
       overflow:hidden;
       text-overflow:ellipsis;
@@ -250,11 +300,12 @@
       justify-content:center;
     }
     .marqueeText{
-      font-size: clamp(18px, 1.2vw, 34px);
+      font-size: clamp(18px, 1.15vw, 34px);
       color: rgba(204,204,204,.95);
       white-space:nowrap;
       will-change: transform;
-      animation: scroll 28s linear infinite;
+      text-shadow: 0 2px 8px rgba(0,0,0,.25);
+      animation: scroll 26s linear infinite;
     }
     @keyframes scroll{
       0%   { transform: translateX(100%); }
@@ -264,16 +315,17 @@
     .clock{
       text-align:right;
       font-size: clamp(16px, 1.0vw, 28px);
-      color: rgba(204,204,204,.85);
+      color: rgba(204,204,204,.95);
+      text-shadow: 0 2px 8px rgba(0,0,0,.25);
       white-space:nowrap;
     }
 
     .errorBox{
       padding: 14px;
       border-radius: 14px;
-      border: 1px solid rgba(203,32,38,.35);
-      background: rgba(203,32,38,.10);
-      color: rgba(204,204,204,.95);
+      border: 1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.18);
+      color: rgba(204,204,204,.92);
       font-size: var(--small);
       white-space: pre-wrap;
     }
@@ -283,58 +335,82 @@
 <body>
   <div class="layout">
     <!-- MAIN: CRIER LOOP -->
-    <section class="card main">
-      <div class="toprow">
-        <div>
-          <h1 class="brand">Campus Pulse</h1>
-          <div class="subbrand">Central College • Pella, Iowa</div>
-          <div id="crierTitle" class="crierTitle">The Crier</div>
-        </div>
-        <div class="mainHeaderRight">
-          <div id="topClock">—</div>
-          <div id="crierUpdated" class="muted"></div>
-        </div>
-      </div>
+    <section class="card">
+      <div class="cardInner" style="display:flex;flex-direction:column;min-height:0;">
+        <div class="toprow">
+          <div class="brandLeft">
+            <!-- LOGO: Put your file in repo and set src below
+                 Example: assets/central-logo.png -->
+            <!-- Option A: actual logo image -->
+            <img class="logo" src="assets/central-logo.png" alt="Central College logo"
+                 onerror="this.style.display='none'; document.getElementById('logoPh').style.display='flex';" />
+            <!-- Option B: placeholder shown if image missing -->
+            <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo.png</div>
 
-      <div id="slide" class="slide fade">
-        <div id="slideHeading" class="slideHeading">Loading…</div>
-        <div id="slideBody" class="slideBody"></div>
-      </div>
+            <div class="titles">
+              <h1 class="brand">Campus Pulse</h1>
+              <div class="subbrand">Central College • Pella, Iowa</div>
+            </div>
+          </div>
 
-      <div class="footerNote">
-        <div id="slideCounter">—</div>
-        <div id="dataStatus">Sources: academic.json • events.json • crier.json</div>
+          <div class="headerRight">
+            <div id="topClock">—</div>
+            <div id="crierUpdated" class="muted"></div>
+          </div>
+        </div>
+
+        <div id="crierTitle" class="crierTitle">The Crier</div>
+
+        <div id="slide" class="slide fade">
+          <h2 id="slideHeading" class="slideHeading">Loading…</h2>
+          <div id="slideBody" class="slideBody"></div>
+        </div>
+
+        <div class="footerNote">
+          <div id="slideCounter">—</div>
+          <div id="dataStatus">Sources: academic.json • events.json • crier.json</div>
+        </div>
       </div>
     </section>
 
     <!-- RIGHT RAIL -->
     <aside class="rail">
-      <section class="card railCard">
-        <h2 class="railH">Next Academic Dates</h2>
-        <ol id="academic"></ol>
-        <div class="muted">Source: <code>data/academic.json</code></div>
+      <section class="card" style="flex:1">
+        <div class="cardInner railCardBody">
+          <div class="sectionHeader">
+            <h2 class="railH">Next Academic Dates</h2>
+          </div>
+          <ol id="academic"></ol>
+          <div class="muted">Source: <code>data/academic.json</code></div>
+        </div>
       </section>
 
-      <section class="card railCard">
-        <h2 class="railH">Next Campus Events</h2>
-        <ol id="events"></ol>
-        <div class="muted" id="eventsUpdated"></div>
-        <div class="muted">Source: <code>data/events.json</code></div>
+      <section class="card" style="flex:1">
+        <div class="cardInner railCardBody">
+          <div class="sectionHeader">
+            <h2 class="railH">Next Campus Events</h2>
+          </div>
+          <ol id="events"></ol>
+          <div class="muted" id="eventsUpdated"></div>
+          <div class="muted">Source: <code>data/events.json</code></div>
+        </div>
       </section>
     </aside>
 
     <!-- TICKER -->
-    <footer class="ticker">
-      <div class="wx">
-        <div class="wxTemp" id="wxTemp">--°</div>
-        <div class="wxCond" id="wxCond">Weather loading…</div>
-      </div>
+    <footer class="ticker" style="grid-column:1 / span 2;">
+      <div class="tickerInner">
+        <div class="wx">
+          <div class="wxTemp" id="wxTemp">--°</div>
+          <div class="wxCond" id="wxCond">Weather loading…</div>
+        </div>
 
-      <div class="marquee">
-        <div class="marqueeText" id="tickerText">Have a Great Day • Have a Great Day • Have a Great Day •</div>
-      </div>
+        <div class="marquee">
+          <div class="marqueeText" id="tickerText">Have a Great Day • Have a Great Day • Have a Great Day •</div>
+        </div>
 
-      <div class="clock" id="clock">—</div>
+        <div class="clock" id="clock">—</div>
+      </div>
     </footer>
   </div>
 
@@ -390,7 +466,7 @@
         .sort((a,b) => a.d0 - b.d0);
     }
 
-    function renderList(el, htmlItems, max=8){
+    function renderList(el, htmlItems, max=6){
       el.innerHTML = "";
       htmlItems.slice(0, max).forEach(html => {
         const li = document.createElement("li");
@@ -410,11 +486,9 @@
     }
 
     function toParagraphs(text){
-      // Normalize newlines and split into paragraphs
       const t = (text || "").replace(/\r\n/g, "\n").replace(/\r/g, "\n");
       const raw = t.split(/\n{2,}/).map(x => x.trim()).filter(Boolean);
 
-      // Remove obvious duplicates (common on scraped pages)
       const out = [];
       const seen = new Set();
       for (const p of raw){
@@ -427,7 +501,6 @@
     }
 
     function buildSlidesFromParagraphs(paras, maxChars=950){
-      // Combine paragraphs into slides up to maxChars
       const slides = [];
       let buf = [];
       let count = 0;
@@ -446,20 +519,18 @@
       return slides;
     }
 
-    function pickHeadingAndBody(slideText){
-      // If first line is short-ish, use as heading
+    function pickHeadingAndBody(slideText, fallbackTitle){
       const t = (slideText || "").trim();
       const firstLine = t.split("\n")[0].trim();
       const rest = t.slice(firstLine.length).trim();
 
-      // heuristic: headings are short and not a full paragraph
       if (firstLine.length <= 70 && rest.length > 40){
         return { heading: firstLine, body: rest };
       }
-      return { heading: "The Crier", body: t };
+      return { heading: fallbackTitle || "The Crier", body: t };
     }
 
-    function renderSlide(slides, idx, title){
+    function renderSlide(slides, idx, fallbackTitle){
       const slideEl = document.getElementById("slide");
       const hEl = document.getElementById("slideHeading");
       const bEl = document.getElementById("slideBody");
@@ -467,9 +538,9 @@
 
       const total = slides.length || 0;
       const raw = slides[idx] || "";
-      const { heading, body } = pickHeadingAndBody(raw);
+      const { heading, body } = pickHeadingAndBody(raw, fallbackTitle);
 
-      hEl.textContent = heading || title || "The Crier";
+      hEl.textContent = heading || fallbackTitle || "The Crier";
 
       const paras = toParagraphs(body);
       const html = paras.map(p => `<p>${escapeHTML(p)}</p>`).join("");
@@ -477,13 +548,12 @@
 
       cEl.textContent = total ? `Crier slide ${idx+1} of ${total}` : "—";
 
-      // fade in
       slideEl.classList.remove("show");
       requestAnimationFrame(() => slideEl.classList.add("show"));
     }
 
     async function loadWeather(){
-      // Pella, IA coords
+      // Pella, IA
       const lat = 41.4081, lon = -92.9163;
       const url =
         `https://api.open-meteo.com/v1/forecast` +
@@ -568,16 +638,14 @@
       // Main: Crier slides
       let slides = [];
       let crierTitle = "The Crier";
-      let updated = "";
 
       try{
         const crier = await loadJSON("data/crier.json");
         crierTitle = crier.title || "The Crier";
-        updated = crier.updated || "";
         document.getElementById("crierTitle").textContent = crierTitle;
-        document.getElementById("crierUpdated").textContent = updated ? `Updated: ${updated}` : "";
+        document.getElementById("crierUpdated").textContent =
+          crier.updated ? `Updated: ${crier.updated}` : "";
 
-        // If items[] has multiple items, use them; if it's one long item, chunk it.
         const items = Array.isArray(crier.items) ? crier.items.filter(Boolean) : [];
         if (items.length >= 2){
           slides = items.map(x => String(x));
@@ -597,7 +665,6 @@
       let idx = 0;
       renderSlide(slides, idx, crierTitle);
 
-      // rotate every 14s
       setInterval(() => {
         idx = (idx + 1) % slides.length;
         renderSlide(slides, idx, crierTitle);
@@ -610,7 +677,7 @@
         document.getElementById("wxCond").textContent = "Weather unavailable";
       }
 
-      // Signage-friendly refresh (hourly)
+      // Hourly refresh
       setTimeout(() => location.reload(), 60 * 60 * 1000);
     })().catch(err => {
       document.body.innerHTML =
