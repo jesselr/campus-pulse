@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T18:21:37.924112Z",
+  "updated": "2026-01-17T18:48:49.569135Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-welcome-day-orientation/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Wrestling at Mike Duroe Invitational",
-      "start": "2026-01-17T15:00:00",
-      "end": "2026-01-17T18:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-mike-duroe-invitational/",
-      "description": "Central College Men\u2019s Wrestling at Mike Duroe Invitational"
-    },
-    {
-      "title": "Central College Women's Wrestling at Cliff Keen-Mike Duroe Invitational",
-      "start": "2026-01-17T15:00:00",
-      "end": "2026-01-17T18:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-wrestling-at-cliff-keen-mike-duroe-invitational/",
-      "description": "Central College Women\u2019s Wrestling at Cliff Keen-Mike Duroe Invitational"
     },
     {
       "title": "Central College Women's Basketball vs Wartburg",
@@ -241,6 +225,22 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-grinnell-invitational/",
       "description": "Central College Women\u2019s Track and Field  Grinnell Invitational"
+    },
+    {
+      "title": "Central College Men's Track and Field  Grinnell Invitational",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-01T00:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-grinnell-invitational/",
+      "description": "Central College Men\u2019s Track and Field  Grinnell Invitational"
+    },
+    {
+      "title": "Central College Scholar Day",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-02T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/central-college-scholar-day-4/",
+      "description": ""
     }
   ]
 }
