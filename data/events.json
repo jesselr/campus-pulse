@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T21:37:39.368967Z",
+  "updated": "2026-01-17T22:15:04.076668Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-welcome-day-orientation/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Basketball vs Wartburg",
-      "start": "2026-01-17T20:00:00",
-      "end": "2026-01-17T22:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-wartburg/",
-      "description": "Central College Women\u2019s Basketball vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Basketball vs Wartburg",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-4/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Wrestling vs Luther",
+      "start": "2026-02-04T01:00:00",
+      "end": "2026-02-04T04:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-luther/",
+      "description": "Central College Men\u2019s Wrestling vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
