@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T23:38:32.644275Z",
+  "updated": "2026-01-18T01:22:43.488307Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-welcome-day-orientation/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Basketball vs Wartburg",
-      "start": "2026-01-17T22:00:00",
-      "end": "2026-01-18T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-wartburg/",
-      "description": "Central College Men\u2019s Basketball vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Returning Students Arrive",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-luther/",
       "description": "Central College Men\u2019s Wrestling vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Basketball at Loras",
+      "start": "2026-02-04T23:30:00",
+      "end": "2026-02-05T01:30:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-at-loras/",
+      "description": "Central College Women\u2019s Basketball at Loras"
     }
   ]
 }
