@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-19T16:22:30.479202Z",
+  "updated": "2026-01-19T16:41:55.477369Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -20,24 +20,16 @@
     },
     {
       "title": "Central College Women's Basketball at Coe",
-      "start": "2026-01-21T23:30:00",
-      "end": "2026-01-22T01:30:00",
+      "start": "2026-01-22T05:30:00",
+      "end": "2026-01-22T07:30:00",
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-basketball-at-coe/",
       "description": "Central College Women\u2019s Basketball at Coe"
     },
     {
-      "title": "Central College Men's Basketball at Coe",
-      "start": "2026-01-22T01:30:00",
-      "end": "2026-01-22T03:30:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-coe/",
-      "description": "Central College Men\u2019s Basketball at Coe"
-    },
-    {
       "title": "Central College Women's Track and Field  Cyclone Open",
       "start": "2026-01-23T00:00:00",
-      "end": "2026-01-24T00:00:00",
+      "end": "2026-01-25T00:00:00",
       "location": "Ames\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-cyclone-open/",
       "description": "Central College Women\u2019s Track and Field  Cyclone Open"
@@ -45,7 +37,7 @@
     {
       "title": "Central College Women's Track and Field  Prairie Wolf Invitational",
       "start": "2026-01-23T00:00:00",
-      "end": "2026-01-24T00:00:00",
+      "end": "2026-01-25T00:00:00",
       "location": "Lincoln\\, Neb.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-prairie-wolf-invitational/",
       "description": "Central College Women\u2019s Track and Field  Prairie Wolf Invitational"
@@ -53,7 +45,7 @@
     {
       "title": "Central College Men's Track and Field  Cyclone Open",
       "start": "2026-01-23T00:00:00",
-      "end": "2026-01-24T00:00:00",
+      "end": "2026-01-25T00:00:00",
       "location": "Ames\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-cyclone-open/",
       "description": "Central College Men\u2019s Track and Field  Cyclone Open"
@@ -61,7 +53,7 @@
     {
       "title": "Central College Men's Track and Field  Prairie Wolf Invitational",
       "start": "2026-01-23T00:00:00",
-      "end": "2026-01-24T00:00:00",
+      "end": "2026-01-25T00:00:00",
       "location": "Lincoln\\, Neb.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-prairie-wolf-invitational/",
       "description": "Central College Men\u2019s Track and Field  Prairie Wolf Invitational"
@@ -69,7 +61,7 @@
     {
       "title": "Central College Men's Wrestling vs Buena Vista",
       "start": "2026-01-24T00:00:00",
-      "end": "2026-01-25T00:00:00",
+      "end": "2026-01-26T00:00:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-buena-vista/",
       "description": "Central College Men\u2019s Wrestling vs Buena Vista"
@@ -77,7 +69,7 @@
     {
       "title": "Central College Men's Wrestling at Dubuque",
       "start": "2026-01-24T00:00:00",
-      "end": "2026-01-25T00:00:00",
+      "end": "2026-01-26T00:00:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-dubuque/",
       "description": "Central College Men\u2019s Wrestling at Dubuque"
@@ -85,7 +77,7 @@
     {
       "title": "Central College Men's Wrestling vs Wartburg",
       "start": "2026-01-24T00:00:00",
-      "end": "2026-01-25T00:00:00",
+      "end": "2026-01-26T00:00:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-wartburg/",
       "description": "Central College Men\u2019s Wrestling vs Wartburg"
@@ -93,7 +85,7 @@
     {
       "title": "Central College Women's Wrestling vs American Rivers Championships",
       "start": "2026-01-24T00:00:00",
-      "end": "2026-01-25T00:00:00",
+      "end": "2026-01-26T00:00:00",
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-american-rivers-championships/",
       "description": "Central College Women\u2019s Wrestling vs American Rivers Championships"
@@ -108,32 +100,16 @@
     },
     {
       "title": "Central College Women's Basketball vs Buena Vista",
-      "start": "2026-01-24T23:00:00",
-      "end": "2026-01-25T01:00:00",
+      "start": "2026-01-25T05:00:00",
+      "end": "2026-01-25T07:00:00",
       "location": "Pella\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-buena-vista/",
       "description": "Central College Women\u2019s Basketball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Men's Basketball vs Buena Vista",
-      "start": "2026-01-25T01:00:00",
-      "end": "2026-01-25T03:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-buena-vista/",
-      "description": "Central College Men\u2019s Basketball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Basketball vs Nebraska Wesleyan",
-      "start": "2026-01-28T23:30:00",
-      "end": "2026-01-29T01:30:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-nebraska-wesleyan/",
-      "description": "Central College Women\u2019s Basketball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Women's Track and Field  Dutch Winter Multi Meet - Limited roster",
       "start": "2026-01-29T00:00:00",
-      "end": "2026-01-30T00:00:00",
+      "end": "2026-01-31T00:00:00",
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-winter-multi-meet-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
@@ -141,26 +117,18 @@
     {
       "title": "Central College Men's Track and Field  Dutch Winter Multi Meet - Limited roster",
       "start": "2026-01-29T00:00:00",
-      "end": "2026-01-30T00:00:00",
+      "end": "2026-01-31T00:00:00",
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-winter-multi-meet-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
     },
     {
-      "title": "Central College Men's Basketball vs Nebraska Wesleyan",
-      "start": "2026-01-29T01:30:00",
-      "end": "2026-01-29T03:30:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-nebraska-wesleyan/",
-      "description": "Central College Men\u2019s Basketball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Men's Wrestling at Loras",
-      "start": "2026-01-30T00:00:00",
-      "end": "2026-01-30T03:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
-      "description": "Central College Men\u2019s Wrestling at Loras"
+      "title": "Central College Women's Basketball vs Nebraska Wesleyan",
+      "start": "2026-01-29T05:30:00",
+      "end": "2026-01-29T07:30:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-nebraska-wesleyan/",
+      "description": "Central College Women\u2019s Basketball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Last Day to Drop or Add a Course",
@@ -171,9 +139,17 @@
       "description": ""
     },
     {
+      "title": "Central College Men's Wrestling at Loras",
+      "start": "2026-01-30T06:00:00",
+      "end": "2026-01-30T09:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
+      "description": "Central College Men\u2019s Wrestling at Loras"
+    },
+    {
       "title": "Central College Men's Tennis vs Bethel (Minn.)",
       "start": "2026-01-31T00:00:00",
-      "end": "2026-02-01T00:00:00",
+      "end": "2026-02-02T00:00:00",
       "location": "Rochester\\, Minn.",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
       "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
@@ -181,7 +157,7 @@
     {
       "title": "Central College Women's Wrestling at Loras Open",
       "start": "2026-01-31T00:00:00",
-      "end": "2026-02-01T00:00:00",
+      "end": "2026-02-02T00:00:00",
       "location": "Adrian\\, Mich.",
       "url": "https://central.edu/event/central-college-womens-wrestling-at-adrian-invitational/",
       "description": "Central College Women\u2019s Wrestling at Loras Open"
@@ -189,7 +165,7 @@
     {
       "title": "Central College Women's Track and Field  Grinnell Invitational",
       "start": "2026-01-31T00:00:00",
-      "end": "2026-02-01T00:00:00",
+      "end": "2026-02-02T00:00:00",
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-grinnell-invitational/",
       "description": "Central College Women\u2019s Track and Field  Grinnell Invitational"
@@ -197,7 +173,7 @@
     {
       "title": "Central College Men's Track and Field  Grinnell Invitational",
       "start": "2026-01-31T00:00:00",
-      "end": "2026-02-01T00:00:00",
+      "end": "2026-02-02T00:00:00",
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-grinnell-invitational/",
       "description": "Central College Men\u2019s Track and Field  Grinnell Invitational"
@@ -212,35 +188,59 @@
     },
     {
       "title": "Central College Men's Wrestling vs Luther",
-      "start": "2026-02-04T01:00:00",
-      "end": "2026-02-04T04:00:00",
+      "start": "2026-02-04T07:00:00",
+      "end": "2026-02-04T10:00:00",
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-luther/",
       "description": "Central College Men\u2019s Wrestling vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Basketball at Loras",
-      "start": "2026-02-04T23:30:00",
-      "end": "2026-02-05T01:30:00",
+      "start": "2026-02-05T05:30:00",
+      "end": "2026-02-05T07:30:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-basketball-at-loras/",
       "description": "Central College Women\u2019s Basketball at Loras"
     },
     {
-      "title": "Central College Men's Basketball at Loras",
-      "start": "2026-02-05T01:30:00",
-      "end": "2026-02-05T03:30:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-loras/",
-      "description": "Central College Men\u2019s Basketball at Loras"
-    },
-    {
       "title": "Central College Women's Track and Field  Wartburg Indoor Select",
       "start": "2026-02-06T00:00:00",
-      "end": "2026-02-07T00:00:00",
+      "end": "2026-02-08T00:00:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-indoor-select/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Indoor Select"
+    },
+    {
+      "title": "Central College Men's Track and Field  Wartburg Indoor Select",
+      "start": "2026-02-06T00:00:00",
+      "end": "2026-02-08T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-indoor-select/",
+      "description": "Central College Men\u2019s Track and Field  Wartburg Indoor Select"
+    },
+    {
+      "title": "Iowa Honor Band Concert",
+      "start": "2026-02-07T21:00:00",
+      "end": "2026-02-07T22:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/iowa-honor-band-concert/",
+      "description": ""
+    },
+    {
+      "title": "Central College Women's Wrestling at Grand View Open",
+      "start": "2026-02-07T21:00:00",
+      "end": "2026-02-08T00:00:00",
+      "location": "East Moline\\, Ill.",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-quad-cities-division-iii-national-invitational/",
+      "description": "Central College Women\u2019s Wrestling at Grand View Open"
+    },
+    {
+      "title": "Central College Men's Tennis vs MSOE (Wis.)",
+      "start": "2026-02-07T22:00:00",
+      "end": "2026-02-08T01:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-msoe-wis/",
+      "description": "Central College Men\u2019s Tennis vs MSOE (Wis.)"
     }
   ]
 }
