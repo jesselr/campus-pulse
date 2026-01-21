@@ -24,7 +24,6 @@ def clean_text(s: str) -> str:
 def has_class(attrs, class_name: str) -> bool:
     for k, v in attrs:
         if k.lower() == "class" and v:
-            # class attribute may contain multiple classes
             classes = set(v.split())
             return class_name in classes
     return False
@@ -33,18 +32,17 @@ class CrierParser(HTMLParser):
     """
     Extracts:
       - issue title from <div class="crierdate">
-      - section headings from <div class="heading">
+      - section headings from <div class="heading"> (tracked but NOT output)
       - announcements from tables containing:
           <td class="listing">TITLE</td>
           <td class="content">BODY...</td>
-    Produces items as strings that your index.js can already rotate.
+    Produces items as strings that your index.html can already rotate.
     """
     def __init__(self):
         super().__init__(convert_charrefs=True)
 
         self.issue_title = None
-
-        self.current_section = None
+        self.current_section = None  # tracked but unused in output
 
         self.in_date = False
         self.date_parts = []
@@ -59,7 +57,6 @@ class CrierParser(HTMLParser):
         self.content_parts = []
 
         self.pending_title = None
-
         self.items = []
 
         self._skip_depth = 0  # script/style
@@ -71,32 +68,26 @@ class CrierParser(HTMLParser):
             self._skip_depth += 1
             return
 
-        # Enter issue title
         if tag == "div" and has_class(attrs, "crierdate"):
             self.in_date = True
             self.date_parts = []
 
-        # Enter section heading
         if tag == "div" and has_class(attrs, "heading"):
             self.in_heading = True
             self.heading_parts = []
 
-        # Enter announcement title
         if tag == "td" and has_class(attrs, "listing"):
             self.in_listing = True
             self.listing_parts = []
 
-        # Enter announcement content
         if tag == "td" and has_class(attrs, "content"):
             self.in_content = True
             self.content_parts = []
 
-        # While in content, preserve basic paragraph-ish structure
         if self.in_content and tag in BLOCK_TAGS:
             self.content_parts.append("\n")
 
-        # Also add breaks inside headings if needed
-        if self.in_heading and tag in ("br",):
+        if self.in_heading and tag == "br":
             self.heading_parts.append(" ")
 
     def handle_endtag(self, tag):
@@ -106,44 +97,32 @@ class CrierParser(HTMLParser):
             self._skip_depth -= 1
             return
 
-        # Exit issue title
         if tag == "div" and self.in_date:
             raw = clean_text(" ".join(self.date_parts))
-            # Your page text is like: "The Latest Crier for Jan 21, 2026"
             self.issue_title = raw if raw else self.issue_title
             self.in_date = False
             self.date_parts = []
 
-        # Exit section heading
         if tag == "div" and self.in_heading:
             sec = clean_text(" ".join(self.heading_parts))
             self.current_section = sec if sec else self.current_section
             self.in_heading = False
             self.heading_parts = []
 
-        # Exit announcement title td
         if tag == "td" and self.in_listing:
             title = clean_text(" ".join(self.listing_parts))
             self.pending_title = title if title else self.pending_title
             self.in_listing = False
             self.listing_parts = []
 
-        # Exit announcement content td -> finalize announcement
+        # finalize announcement when content cell ends
         if tag == "td" and self.in_content:
             body = clean_text("".join(self.content_parts))
-
             title = self.pending_title or ""
-            section = self.current_section or ""
 
-            # Build a single string item that your index already understands:
-            # first line becomes slide heading; body becomes slide body
-            # we put section at top of body so it shows under the title.
             if title or body:
-                if section:
-                    item = f"{title}\n{section}\n\n{body}".strip()
-                else:
-                    item = f"{title}\n\n{body}".strip()
-
+                # IMPORTANT: we are NOT outputting section headings (e.g., Central Spotlight)
+                item = f"{title}\n\n{body}".strip()
                 self.items.append(item)
 
             # reset for next announcement
@@ -151,13 +130,13 @@ class CrierParser(HTMLParser):
             self.in_content = False
             self.content_parts = []
 
-        # Add line breaks in content at closing block tags
         if self.in_content and tag in BLOCK_TAGS:
             self.content_parts.append("\n")
 
     def handle_data(self, data):
         if self._skip_depth:
             return
+
         t = data.strip()
         if not t:
             return
@@ -169,7 +148,6 @@ class CrierParser(HTMLParser):
         elif self.in_listing:
             self.listing_parts.append(t)
         elif self.in_content:
-            # Keep words separated; we already inject \n around blocks
             self.content_parts.append(t + " ")
 
 def main():
@@ -179,8 +157,6 @@ def main():
     p.feed(html)
 
     title = p.issue_title or "The Crier"
-
-    # If the page ever fails to match structure, fall back to old behavior lightly
     items = [i for i in p.items if i.strip()]
 
     payload = {
