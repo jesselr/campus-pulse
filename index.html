@@ -156,9 +156,9 @@
       height: calc(100% - 140px);
       display:flex;
       flex-direction:column;
-      gap: clamp(10px, 1vw, 16px);
+      gap: clamp(6px, .7vw, 12px); /* slightly tighter */
       min-height: 0;
-      justify-content:flex-start;
+      justify-content:flex-start; /* will be set dynamically */
     }
 
     .slideHeading{
@@ -295,7 +295,7 @@
     .track{
       display:flex;
       align-items:center;
-      gap: 80px;          /* space between repeats */
+      gap: 80px;
       width:max-content;
       will-change: transform;
       animation: marquee 28s linear infinite;
@@ -308,7 +308,7 @@
     }
     @keyframes marquee{
       0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); } /* because we duplicate content twice */
+      100% { transform: translateX(-50%); }
     }
 
     .clock{
@@ -340,7 +340,7 @@
           <div class="brandLeft">
             <img class="logo" src="assets/central-logo.png" alt="Central College logo"
                  onerror="this.style.display='none'; document.getElementById('logoPh').style.display='flex';" />
-            <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo-white.png</div>
+            <div id="logoPh" class="logoPlaceholder" style="display:none;">Add logo: assets/central-logo.png</div>
 
             <div class="titles">
               <h1 class="brand">Campus Pulse</h1>
@@ -548,8 +548,12 @@
         }
       }
 
-      const contentHeight = slide.scrollHeight;
-      slide.style.justifyContent = (contentHeight < slideH * 0.78) ? "center" : "flex-start";
+      const fits = slide.scrollHeight <= slideH;
+
+      // Center whole block only if it fits; otherwise top-align (avoid cutoff)
+      slide.style.justifyContent = fits ? "center" : "flex-start";
+
+      return fits;
     }
 
     function normalizeTitle(s){ return String(s||"").trim().toLowerCase(); }
@@ -583,6 +587,91 @@
       });
     }
 
+    // ---------- Pagination helpers (auto-split long announcements into multiple slides) ----------
+
+    function splitIntoParas(text){
+      const t = String(text || "").replace(/\r\n/g,"\n").replace(/\r/g,"\n").trim();
+      if (!t) return [];
+      return t.split(/\n{2,}/).map(p => p.trim()).filter(Boolean);
+    }
+
+    function joinParas(paras){
+      return paras.join("\n\n");
+    }
+
+    // If a single paragraph is too big, split it by words
+    function splitParaByWords(para, maxWords){
+      const words = para.split(/\s+/).filter(Boolean);
+      const out = [];
+      for (let i=0; i<words.length; i += maxWords){
+        out.push(words.slice(i, i + maxWords).join(" "));
+      }
+      return out;
+    }
+
+    // Create pages that fit on screen (uses your real slide sizing)
+    function paginateAnnouncement(rawText, crierTitle){
+      const picked = pickHeadingAndBody(rawText, crierTitle);
+      let heading = picked.heading || "The Crier";
+      let body = picked.body || "";
+
+      if (normalizeTitle(heading) === normalizeTitle(crierTitle)) {
+        heading = "The Crier";
+      }
+
+      let paras = splitIntoParas(body);
+      if (!paras.length){
+        return [ `${heading}\n\n` ];
+      }
+
+      const pages = [];
+      let i = 0;
+
+      while (i < paras.length){
+        let chunk = [];
+        let bestFit = null;
+
+        // Greedily add paragraphs until it stops fitting
+        for (let j=i; j<paras.length; j++){
+          chunk.push(paras[j]);
+
+          // Render candidate into the live slide for measurement
+          document.getElementById("slideHeading").textContent = heading;
+          document.getElementById("slideBody").innerHTML = announcementToHTML(joinParas(chunk));
+          const fits = fitSlideToOneScreen();
+
+          if (fits){
+            bestFit = j; // last paragraph index that fit
+          } else {
+            break;
+          }
+        }
+
+        // If nothing fit (single paragraph too large), split that paragraph and retry
+        if (bestFit === null){
+          const big = paras[i];
+          const wordChunks = splitParaByWords(big, 45); // tune later
+          paras.splice(i, 1, ...wordChunks);
+          continue;
+        }
+
+        pages.push(`${heading}\n\n${joinParas(paras.slice(i, bestFit + 1))}`.trim());
+        i = bestFit + 1;
+      }
+
+      // Add (1/3) to the heading for continued pages
+      if (pages.length > 1){
+        return pages.map((p, idx) => {
+          const { heading: h, body: b } = pickHeadingAndBody(p, crierTitle);
+          return `${h} (${idx+1}/${pages.length})\n\n${b}`.trim();
+        });
+      }
+
+      return pages;
+    }
+
+    // ---------- Ticker + Weather ----------
+
     function setTickerText(text){
       const a = document.getElementById("tickerA");
       const b = document.getElementById("tickerB");
@@ -592,7 +681,8 @@
       // OPTIONAL: adjust speed based on length
       const track = document.getElementById("track");
       const len = text.length;
-      const seconds = Math.min(10, Math.max(22, Math.round(len / 12)));
+      // keep between 10s and 22s
+      const seconds = Math.max(10, Math.min(22, Math.round(len / 12)));
       track.style.animationDuration = `${seconds}s`;
     }
 
@@ -627,11 +717,13 @@
       document.getElementById("wxCond").textContent = label;
     }
 
+    // ---------- Main ----------
+
     (async function main(){
       setClocks();
       setInterval(setClocks, 15000);
 
-      // Ticker (placeholder for now)
+      // Ticker (placeholder)
       setTickerText("CUI CUI May your Glory never die • Go Dutch • Have a Great Day •");
 
       // Academic
@@ -693,7 +785,8 @@
           crier.updated ? `Updated: ${crier.updated}` : "";
 
         const items = Array.isArray(crier.items) ? crier.items.filter(Boolean) : [];
-        announcements = items.length ? items.map(x => String(x)) : [];
+        const raw = items.length ? items.map(x => String(x)) : [];
+        announcements = raw.flatMap(t => paginateAnnouncement(t, crierTitle));
       } catch(e){
         announcements = [];
       }
