@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-22T05:51:02.302748Z",
+  "updated": "2026-01-22T06:27:16.080997Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -59,20 +59,20 @@
       "description": "Central College Men\u2019s Wrestling vs Wartburg"
     },
     {
-      "title": "Central College Women's Wrestling vs American Rivers Championships",
-      "start": "2026-01-24T00:00:00",
-      "end": "2026-01-25T00:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-womens-wrestling-vs-american-rivers-championships/",
-      "description": "Central College Women\u2019s Wrestling vs American Rivers Championships"
-    },
-    {
       "title": "Central College Scholar Day",
       "start": "2026-01-24T00:00:00",
       "end": "2026-01-26T00:00:00",
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-3/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Wrestling vs American Rivers Championships",
+      "start": "2026-01-24T16:00:00",
+      "end": "2026-01-24T19:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-american-rivers-championships/",
+      "description": "Central College Women\u2019s Wrestling vs American Rivers Championships"
     },
     {
       "title": "Central College Women's Basketball vs Buena Vista",
@@ -139,14 +139,6 @@
       "description": "Central College Women\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
     },
     {
-      "title": "Central College Women's Wrestling at Loras Open",
-      "start": "2026-01-31T00:00:00",
-      "end": "2026-02-01T00:00:00",
-      "location": "Adrian\\, Mich.",
-      "url": "https://central.edu/event/central-college-womens-wrestling-at-adrian-invitational/",
-      "description": "Central College Women\u2019s Wrestling at Loras Open"
-    },
-    {
       "title": "Central College Men's Tennis at Coe",
       "start": "2026-01-31T00:00:00",
       "end": "2026-02-01T00:00:00",
@@ -169,6 +161,14 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-4/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Wrestling at Loras Open",
+      "start": "2026-01-31T15:00:00",
+      "end": "2026-01-31T18:00:00",
+      "location": "Adrian\\, Mich.",
+      "url": "https://central.edu/event/central-college-womens-wrestling-at-adrian-invitational/",
+      "description": "Central College Women\u2019s Wrestling at Loras Open"
     },
     {
       "title": "Central College Women's Track and Field  Grinnell Invitational",
