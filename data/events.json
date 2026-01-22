@@ -1,15 +1,7 @@
 {
-  "updated": "2026-01-22T03:19:51.521754Z",
+  "updated": "2026-01-22T04:32:07.774647Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball at Coe",
-      "start": "2026-01-22T01:30:00",
-      "end": "2026-01-22T03:30:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-coe/",
-      "description": "Central College Men\u2019s Basketball at Coe"
-    },
     {
       "title": "Central College Women's Track and Field  Cyclone Open",
       "start": "2026-01-23T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-indoor-select/",
       "description": "Central College Men\u2019s Track and Field  Wartburg Indoor Select"
+    },
+    {
+      "title": "Central College Women's Wrestling at Grand View Open",
+      "start": "2026-02-07T15:00:00",
+      "end": "2026-02-07T18:00:00",
+      "location": "East Moline\\, Ill.",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-quad-cities-division-iii-national-invitational/",
+      "description": "Central College Women\u2019s Wrestling at Grand View Open"
     }
   ]
 }
