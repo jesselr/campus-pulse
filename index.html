@@ -156,9 +156,9 @@
       height: calc(100% - 140px);
       display:flex;
       flex-direction:column;
-      gap: clamp(6px, .7vw, 12px); /* slightly tighter */
+      gap: clamp(6px, .7vw, 12px);
       min-height: 0;
-      justify-content:flex-start; /* will be set dynamically */
+      justify-content:flex-start; /* set dynamically */
     }
 
     .slideHeading{
@@ -283,7 +283,7 @@
       text-overflow:ellipsis;
     }
 
-    /* True continuous marquee: track contains TWO copies of the text */
+    /* Seamless marquee: JS sets pixel distance + duration */
     .marquee{
       position:relative;
       overflow:hidden;
@@ -295,10 +295,14 @@
     .track{
       display:flex;
       align-items:center;
-      gap: 80px;
+      gap: 80px; /* keep in sync with JS gapPx */
       width:max-content;
       will-change: transform;
-      animation: marquee 28s linear infinite;
+
+      animation-name: marqueePx;
+      animation-duration: var(--marqueeDur, 28s);
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
     }
     .track span{
       font-size: clamp(18px, 1.15vw, 34px);
@@ -306,9 +310,9 @@
       white-space:nowrap;
       text-shadow: 0 2px 8px rgba(0,0,0,.25);
     }
-    @keyframes marquee{
+    @keyframes marqueePx{
       0%   { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
+      100% { transform: translateX(calc(-1 * var(--marqueeDist, 500px))); }
     }
 
     .clock{
@@ -571,7 +575,6 @@
       let heading = picked.heading || "The Crier";
       const body = picked.body || "";
 
-      // Prevent duplicate "Latest Crier for..." title showing twice
       if (normalizeTitle(heading) === normalizeTitle(crierTitle)) {
         heading = "The Crier";
       }
@@ -599,7 +602,6 @@
       return paras.join("\n\n");
     }
 
-    // If a single paragraph is too big, split it by words
     function splitParaByWords(para, maxWords){
       const words = para.split(/\s+/).filter(Boolean);
       const out = [];
@@ -609,7 +611,6 @@
       return out;
     }
 
-    // Create pages that fit on screen (uses your real slide sizing)
     function paginateAnnouncement(rawText, crierTitle){
       const picked = pickHeadingAndBody(rawText, crierTitle);
       let heading = picked.heading || "The Crier";
@@ -631,26 +632,23 @@
         let chunk = [];
         let bestFit = null;
 
-        // Greedily add paragraphs until it stops fitting
         for (let j=i; j<paras.length; j++){
           chunk.push(paras[j]);
 
-          // Render candidate into the live slide for measurement
           document.getElementById("slideHeading").textContent = heading;
           document.getElementById("slideBody").innerHTML = announcementToHTML(joinParas(chunk));
           const fits = fitSlideToOneScreen();
 
           if (fits){
-            bestFit = j; // last paragraph index that fit
+            bestFit = j;
           } else {
             break;
           }
         }
 
-        // If nothing fit (single paragraph too large), split that paragraph and retry
         if (bestFit === null){
           const big = paras[i];
-          const wordChunks = splitParaByWords(big, 45); // tune later
+          const wordChunks = splitParaByWords(big, 45);
           paras.splice(i, 1, ...wordChunks);
           continue;
         }
@@ -659,7 +657,6 @@
         i = bestFit + 1;
       }
 
-      // Add (1/3) to the heading for continued pages
       if (pages.length > 1){
         return pages.map((p, idx) => {
           const { heading: h, body: b } = pickHeadingAndBody(p, crierTitle);
@@ -672,18 +669,31 @@
 
     // ---------- Ticker + Weather ----------
 
+    // Seamless ticker: move exactly one copy width (+ gap), at a constant px/sec speed.
     function setTickerText(text){
       const a = document.getElementById("tickerA");
       const b = document.getElementById("tickerB");
+      const track = document.getElementById("track");
+
       a.textContent = text;
       b.textContent = text;
 
-      // OPTIONAL: adjust speed based on length
-      const track = document.getElementById("track");
-      const len = text.length;
-      // keep between 10s and 22s
-      const seconds = Math.max(10, Math.min(22, Math.round(len / 12)));
-      track.style.animationDuration = `${seconds}s`;
+      requestAnimationFrame(() => {
+        const gapPx = 80; // MUST match .track gap in CSS
+        const dist = a.getBoundingClientRect().width + gapPx;
+
+        // constant speed (px/sec); tune later
+        const speed = 120;
+        const durSec = Math.max(12, Math.min(60, dist / speed));
+
+        track.style.setProperty("--marqueeDist", `${dist}px`);
+        track.style.setProperty("--marqueeDur", `${durSec}s`);
+
+        // Restart animation cleanly so the new distance takes effect without a jump
+        track.style.animation = "none";
+        void track.offsetHeight; // force reflow
+        track.style.animation = "";
+      });
     }
 
     async function loadWeather(){
@@ -723,7 +733,7 @@
       setClocks();
       setInterval(setClocks, 15000);
 
-      // Ticker (placeholder)
+      // Ticker (example)
       setTickerText("CUI CUI May your Glory never die • Go Dutch • Have a Great Day •");
 
       // Academic
@@ -805,7 +815,11 @@
       }, CRIER_INTERVAL);
 
       window.addEventListener("resize", () => {
-        requestAnimationFrame(() => fitSlideToOneScreen());
+        requestAnimationFrame(() => {
+          fitSlideToOneScreen();
+          // recompute ticker distance on resize so it stays seamless
+          setTickerText(document.getElementById("tickerA").textContent || "");
+        });
       });
 
       // Weather
