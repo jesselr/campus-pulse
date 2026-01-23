@@ -253,13 +253,13 @@
       overflow:hidden;
       position:relative;
     }
-    .tickerInner{
-      height:100%;
-      display:grid;
-      grid-template-columns: 1fr 3fr 1fr;
-      align-items:center;
-      gap: 10px;
-      padding: 0 clamp(14px, 1.2vw, 26px);
+	.tickerInner{
+	  height:100%;
+     display:grid;
+	 grid-template-columns: auto 1fr auto; /* weather + clock shrink-wrap, ticker gets the rest */
+     align-items:center;
+     gap: 14px;
+     padding: 0 clamp(14px, 1.2vw, 26px);
     }
 
     .wx{
@@ -707,7 +707,7 @@
     const dist = a.getBoundingClientRect().width + gapPx;
 
     // Constant speed (px/sec). Bigger number = faster
-    const speed = 120;
+    const speed = 50;
     const durSec = Math.max(12, Math.min(90, dist / speed));
 
     track.style.setProperty("--marqueeDist", `${dist}px`);
