@@ -671,30 +671,55 @@
 
     // Seamless ticker: move exactly one copy width (+ gap), at a constant px/sec speed.
     function setTickerText(text){
-      const a = document.getElementById("tickerA");
-      const b = document.getElementById("tickerB");
-      const track = document.getElementById("track");
+  const a = document.getElementById("tickerA");
+  const b = document.getElementById("tickerB");
+  const track = document.getElementById("track");
+  const marquee = track.parentElement; // .marquee
 
-      a.textContent = text;
-      b.textContent = text;
+  // Base text (trim so we don't grow forever accidentally)
+  const base = String(text || "").trim() || "Have a Great Day •";
 
-      requestAnimationFrame(() => {
-        const gapPx = 80; // MUST match .track gap in CSS
-        const dist = a.getBoundingClientRect().width + gapPx;
+  // Start with one copy
+  a.textContent = base;
+  b.textContent = base;
 
-        // constant speed (px/sec); tune later
-        const speed = 120;
-        const durSec = Math.max(12, Math.min(60, dist / speed));
+  requestAnimationFrame(() => {
+    const gapPx = 80; // MUST match .track { gap: 80px; }
+    const viewportW = marquee.getBoundingClientRect().width;
 
-        track.style.setProperty("--marqueeDist", `${dist}px`);
-        track.style.setProperty("--marqueeDur", `${durSec}s`);
+    // Build a "long enough" string so the 2nd copy is off-screen at start.
+    // Keep adding until one copy is comfortably wider than the viewport.
+    let longText = base;
+    a.textContent = longText;
 
-        // Restart animation cleanly so the new distance takes effect without a jump
-        track.style.animation = "none";
-        void track.offsetHeight; // force reflow
-        track.style.animation = "";
-      });
+    // Safety limits so we never loop forever
+    for (let i = 0; i < 30; i++){
+      const w = a.getBoundingClientRect().width;
+      if (w >= viewportW * 1.25) break;
+      longText = longText + " • " + base;
+      a.textContent = longText;
     }
+
+    // Mirror to the second copy
+    b.textContent = longText;
+
+    // Now compute seamless distance: one copy width + the gap
+    const dist = a.getBoundingClientRect().width + gapPx;
+
+    // Constant speed (px/sec). Bigger number = faster
+    const speed = 120;
+    const durSec = Math.max(12, Math.min(90, dist / speed));
+
+    track.style.setProperty("--marqueeDist", `${dist}px`);
+    track.style.setProperty("--marqueeDur", `${durSec}s`);
+
+    // Restart animation cleanly to apply new distance without a jump
+    track.style.animation = "none";
+    void track.offsetHeight; // force reflow
+    track.style.animation = "";
+  });
+}
+
 
     async function loadWeather(){
       const lat = 41.4081, lon = -92.9163;
