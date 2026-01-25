@@ -1,39 +1,7 @@
 {
-  "updated": "2026-01-25T05:48:51.987893Z",
+  "updated": "2026-01-25T06:24:55.185364Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Wrestling vs Buena Vista",
-      "start": "2026-01-24T00:00:00",
-      "end": "2026-01-26T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-buena-vista/",
-      "description": "Central College Men\u2019s Wrestling vs Buena Vista"
-    },
-    {
-      "title": "Central College Men's Wrestling at Dubuque",
-      "start": "2026-01-24T00:00:00",
-      "end": "2026-01-26T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-dubuque/",
-      "description": "Central College Men\u2019s Wrestling at Dubuque"
-    },
-    {
-      "title": "Central College Men's Wrestling vs Wartburg",
-      "start": "2026-01-24T00:00:00",
-      "end": "2026-01-26T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-wartburg/",
-      "description": "Central College Men\u2019s Wrestling vs Wartburg"
-    },
-    {
-      "title": "Central College Scholar Day",
-      "start": "2026-01-24T00:00:00",
-      "end": "2026-01-26T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/central-college-scholar-day-3/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Basketball vs Buena Vista",
       "start": "2026-01-25T05:00:00",
@@ -241,6 +209,38 @@
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-grand-view/",
       "description": "Central College Men\u2019s Tennis vs Grand View"
+    },
+    {
+      "title": "Central College Women's Basketball vs Simpson",
+      "start": "2026-02-12T05:30:00",
+      "end": "2026-02-12T07:30:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-simpson/",
+      "description": "Central College Women\u2019s Basketball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball vs Simpson",
+      "start": "2026-02-12T07:30:00",
+      "end": "2026-02-12T09:30:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-simpson/",
+      "description": "Central College Men\u2019s Basketball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Track and Field  Darren Young Classic",
+      "start": "2026-02-13T00:00:00",
+      "end": "2026-02-15T00:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-darren-young-classic/",
+      "description": "Central College Women\u2019s Track and Field  Darren Young Classic"
+    },
+    {
+      "title": "Central College Men's Wrestling at Simpson",
+      "start": "2026-02-13T06:00:00",
+      "end": "2026-02-13T09:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-wrestling-at-simpson-2/",
+      "description": "Central College Men\u2019s Wrestling at Simpson"
     }
   ]
 }
