@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-27T22:44:36.213686Z",
+  "updated": "2026-01-27T23:17:05.753198Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -51,6 +51,22 @@
       "description": ""
     },
     {
+      "title": "Central College Men's Tennis at Coe",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-02T00:00:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-coe/",
+      "description": "Central College Men\u2019s Tennis at Coe"
+    },
+    {
+      "title": "Central College Men's Tennis vs Carthage (Wis.)",
+      "start": "2026-01-31T00:00:00",
+      "end": "2026-02-02T00:00:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-carthage-wis/",
+      "description": "Central College Men\u2019s Tennis vs Carthage (Wis.)"
+    },
+    {
       "title": "Central College Women's Track and Field  Dutch Winter Multi Meet - Limited roster",
       "start": "2026-01-31T01:00:00",
       "end": "2026-01-31T04:00:00",
@@ -83,28 +99,12 @@
       "description": "Central College Men\u2019s Track and Field  Grinnell Invitational"
     },
     {
-      "title": "Central College Men's Tennis at Coe",
-      "start": "2026-02-01T01:00:00",
-      "end": "2026-02-01T04:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-coe/",
-      "description": "Central College Men\u2019s Tennis at Coe"
-    },
-    {
       "title": "Central College Men's Tennis vs Bethel (Minn.)",
       "start": "2026-02-01T04:00:00",
       "end": "2026-02-01T07:00:00",
       "location": "Rochester\\, Minn.",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
       "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
-    },
-    {
-      "title": "Central College Men's Tennis vs Carthage (Wis.)",
-      "start": "2026-02-01T04:30:00",
-      "end": "2026-02-01T07:30:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-carthage-wis/",
-      "description": "Central College Men\u2019s Tennis vs Carthage (Wis.)"
     },
     {
       "title": "Central College Men's Wrestling vs Luther",
