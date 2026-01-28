@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T15:59:12.452469Z",
+  "updated": "2026-01-28T16:46:20.788028Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -22,7 +22,7 @@
       "title": "Last Day to Drop or Add a Course",
       "start": "2026-01-30T00:00:00",
       "end": "2026-02-01T00:00:00",
-      "location": "",
+      "location": "IA",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-3/",
       "description": ""
     },
@@ -46,7 +46,7 @@
       "title": "Central College Scholar Day",
       "start": "2026-01-31T00:00:00",
       "end": "2026-02-02T00:00:00",
-      "location": "",
+      "location": "IA",
       "url": "https://central.edu/event/central-college-scholar-day-4/",
       "description": ""
     },
@@ -148,6 +148,14 @@
     },
     {
       "title": "Iowa Honor Band Concert",
+      "start": "2026-02-07T20:00:00",
+      "end": "2026-02-07T21:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/iowa-honor-band-concert-2/",
+      "description": ""
+    },
+    {
+      "title": "Iowa Honor Band Concert",
       "start": "2026-02-07T21:00:00",
       "end": "2026-02-07T22:00:00",
       "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
@@ -225,14 +233,6 @@
       "location": "Boston\\, Mass.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster-2/",
       "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  David Hemery Valentine inv. - Limited roster",
-      "start": "2026-02-13T00:00:00",
-      "end": "2026-02-15T00:00:00",
-      "location": "Boston\\, Mass.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-david-hemery-valentine-inv-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
     },
     {
       "title": "Central College Men's Wrestling at Simpson",
