@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T22:21:20.767301Z",
+  "updated": "2026-01-28T22:53:02.967248Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -36,8 +36,8 @@
     },
     {
       "title": "Central College Men's Wrestling at Loras",
-      "start": "2026-01-30T06:00:00",
-      "end": "2026-01-30T09:00:00",
+      "start": "2026-01-30T07:00:00",
+      "end": "2026-01-30T10:00:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
       "description": "Central College Men\u2019s Wrestling at Loras"
@@ -148,14 +148,6 @@
     },
     {
       "title": "Iowa Honor Band Concert",
-      "start": "2026-02-07T20:00:00",
-      "end": "2026-02-07T21:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/iowa-honor-band-concert-2/",
-      "description": ""
-    },
-    {
-      "title": "Iowa Honor Band Concert",
       "start": "2026-02-07T21:00:00",
       "end": "2026-02-07T22:00:00",
       "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
@@ -233,6 +225,14 @@
       "location": "Boston\\, Mass.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster-2/",
       "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  David Hemery Valentine inv. - Limited roster",
+      "start": "2026-02-13T00:00:00",
+      "end": "2026-02-15T00:00:00",
+      "location": "Boston\\, Mass.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-david-hemery-valentine-inv-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
     },
     {
       "title": "Central College Men's Wrestling at Simpson",
