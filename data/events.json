@@ -1,15 +1,7 @@
 {
-  "updated": "2026-01-29T01:28:24.005217Z",
+  "updated": "2026-01-29T03:42:53.977069Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball vs Nebraska Wesleyan",
-      "start": "2026-01-29T01:30:00",
-      "end": "2026-01-29T03:30:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-nebraska-wesleyan/",
-      "description": "Central College Men\u2019s Basketball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Central College Women's Basketball vs Nebraska Wesleyan",
       "start": "2026-01-29T05:30:00",
@@ -233,6 +225,14 @@
       "location": "Boston\\, Mass.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-david-hemery-valentine-inv-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Darren Young Classic",
+      "start": "2026-02-13T00:00:00",
+      "end": "2026-02-15T00:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-darren-young-classic/",
+      "description": "Central College Men\u2019s Track and Field  Darren Young Classic"
     },
     {
       "title": "Central College Men's Wrestling at Simpson",
