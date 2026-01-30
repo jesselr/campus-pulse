@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T11:02:29.718128Z",
+  "updated": "2026-01-30T11:48:34.536276Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-winter-multi-meet-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Wrestling at Loras",
-      "start": "2026-01-30T07:00:00",
-      "end": "2026-01-30T10:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-loras/",
-      "description": "Central College Men\u2019s Wrestling at Loras"
     },
     {
       "title": "Central College Scholar Day",
@@ -233,6 +225,14 @@
       "location": "Indianola\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-simpson-2/",
       "description": "Central College Men\u2019s Wrestling at Simpson"
+    },
+    {
+      "title": "Central College Women's Track and Field  David Hemery Valentine inv. - Limited roster",
+      "start": "2026-02-14T00:00:00",
+      "end": "2026-02-16T00:00:00",
+      "location": "Boston\\, Mass.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
     },
     {
       "title": "Central College Men's Wrestling vs Central Last Chance Invitational",
