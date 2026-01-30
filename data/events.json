@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T11:48:34.536276Z",
+  "updated": "2026-01-30T12:41:13.682918Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-3/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Track and Field  Dutch Winter Multi Meet - Limited roster",
-      "start": "2026-01-30T01:00:00",
-      "end": "2026-01-30T11:59:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-winter-multi-meet-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
     },
     {
       "title": "Central College Scholar Day",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-central-last-chance-invitational/",
       "description": "Central College Men\u2019s Wrestling vs Central Last Chance Invitational"
+    },
+    {
+      "title": "Central College Softball vs St. Catherine (Minn.)",
+      "start": "2026-02-15T01:00:00",
+      "end": "2026-02-15T03:00:00",
+      "location": "Columbus\\, Ga.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-5/",
+      "description": "Central College Softball vs St. Catherine (Minn.)"
     }
   ]
 }
