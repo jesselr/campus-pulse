@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T19:17:12.744460Z",
+  "updated": "2026-01-31T19:40:42.146374Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -83,20 +83,20 @@
       "description": "Central College Women\u2019s Basketball at Loras"
     },
     {
+      "title": "Central College Men's Track and Field  Wartburg Indoor Select",
+      "start": "2026-02-06T21:00:00",
+      "end": "2026-02-07T05:59:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-indoor-select/",
+      "description": "Central College Men\u2019s Track and Field  Wartburg Indoor Select"
+    },
+    {
       "title": "Central College Women's Track and Field  Wartburg Indoor Select",
       "start": "2026-02-07T03:00:00",
       "end": "2026-02-07T11:59:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-indoor-select/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Indoor Select"
-    },
-    {
-      "title": "Central College Men's Track and Field  Wartburg Indoor Select",
-      "start": "2026-02-07T03:00:00",
-      "end": "2026-02-07T11:59:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-indoor-select/",
-      "description": "Central College Men\u2019s Track and Field  Wartburg Indoor Select"
     },
     {
       "title": "Central College Men's Tennis vs MSOE (Wis.)",
