@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T04:58:44.955470Z",
+  "updated": "2026-01-31T05:40:59.329834Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-4/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Track and Field  Dutch Winter Multi Meet - Limited roster",
-      "start": "2026-01-31T01:00:00",
-      "end": "2026-01-31T04:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-winter-multi-meet-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Dutch Winter Multi Meet \u2013 Limited roster"
     },
     {
       "title": "Central College Women's Wrestling at Loras Open",
@@ -241,6 +233,14 @@
       "location": "Kansas City\\, Mo.",
       "url": "https://central.edu/event/central-college-baseball-vs-augustana-ill/",
       "description": "Central College Baseball vs Augustana (Ill.)"
+    },
+    {
+      "title": "Central College Men's Basketball at Wartburg",
+      "start": "2026-02-14T22:00:00",
+      "end": "2026-02-15T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-basketball-at-wartburg/",
+      "description": "Central College Men\u2019s Basketball at Wartburg"
     }
   ]
 }
