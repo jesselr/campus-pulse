@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T16:20:59.125554Z",
+  "updated": "2026-01-31T16:52:43.351022Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -11,12 +11,28 @@
       "description": ""
     },
     {
+      "title": "Central College Men's Tennis at Coe",
+      "start": "2026-01-31T19:00:00",
+      "end": "2026-01-31T22:00:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-coe/",
+      "description": "Central College Men\u2019s Tennis at Coe\\nStreaming Video: https://rollriversnetwork.com/coe/"
+    },
+    {
       "title": "Central College Women's Wrestling at Loras Open",
       "start": "2026-01-31T21:00:00",
       "end": "2026-02-01T00:00:00",
       "location": "Adrian\\, Mich.",
       "url": "https://central.edu/event/central-college-womens-wrestling-at-adrian-invitational/",
       "description": "Central College Women\u2019s Wrestling at Loras Open"
+    },
+    {
+      "title": "Central College Men's Tennis vs Bethel (Minn.)",
+      "start": "2026-01-31T22:00:00",
+      "end": "2026-02-01T01:00:00",
+      "location": "Rochester\\, Minn.",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
+      "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
     },
     {
       "title": "Central College Women's Track and Field  Grinnell Invitational",
@@ -35,25 +51,9 @@
       "description": "Central College Men\u2019s Track and Field  Grinnell Invitational"
     },
     {
-      "title": "Central College Men's Tennis at Coe",
-      "start": "2026-02-01T01:00:00",
-      "end": "2026-02-01T04:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-coe/",
-      "description": "Central College Men\u2019s Tennis at Coe\\nStreaming Video: https://rollriversnetwork.com/coe/"
-    },
-    {
-      "title": "Central College Men's Tennis vs Bethel (Minn.)",
-      "start": "2026-02-01T04:00:00",
-      "end": "2026-02-01T07:00:00",
-      "location": "Rochester\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
-      "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
-    },
-    {
       "title": "Central College Men's Tennis vs Carthage (Wis.)",
-      "start": "2026-02-01T04:30:00",
-      "end": "2026-02-01T07:30:00",
+      "start": "2026-01-31T22:30:00",
+      "end": "2026-02-01T01:30:00",
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-carthage-wis/",
       "description": "Central College Men\u2019s Tennis vs Carthage (Wis.)\\nStreaming Video: https://rollriversnetwork.com/coe/"
@@ -99,6 +99,14 @@
       "description": "Central College Men\u2019s Track and Field  Wartburg Indoor Select"
     },
     {
+      "title": "Central College Men's Tennis vs MSOE (Wis.)",
+      "start": "2026-02-07T16:00:00",
+      "end": "2026-02-07T19:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-msoe-wis/",
+      "description": "Central College Men\u2019s Tennis vs MSOE (Wis.)"
+    },
+    {
       "title": "Iowa Honor Band Concert",
       "start": "2026-02-07T21:00:00",
       "end": "2026-02-07T22:00:00",
@@ -123,12 +131,12 @@
       "description": "Central College Men\u2019s Basketball at Dubuque"
     },
     {
-      "title": "Central College Men's Tennis vs MSOE (Wis.)",
+      "title": "Central College Men's Tennis vs Grand View",
       "start": "2026-02-07T22:00:00",
       "end": "2026-02-08T01:00:00",
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-msoe-wis/",
-      "description": "Central College Men\u2019s Tennis vs MSOE (Wis.)"
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-grand-view/",
+      "description": "Central College Men\u2019s Tennis vs Grand View"
     },
     {
       "title": "Central College Women's Basketball at Dubuque",
@@ -137,14 +145,6 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-basketball-at-dubuque/",
       "description": "Central College Women\u2019s Basketball at Dubuque"
-    },
-    {
-      "title": "Central College Men's Tennis vs Grand View",
-      "start": "2026-02-08T04:00:00",
-      "end": "2026-02-08T07:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-grand-view/",
-      "description": "Central College Men\u2019s Tennis vs Grand View"
     },
     {
       "title": "Central College Women's Basketball vs Simpson",
