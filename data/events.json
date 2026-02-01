@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-31T23:43:37.714529Z",
+  "updated": "2026-02-01T01:52:29.690100Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,30 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-4/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Tennis vs Bethel (Minn.)",
-      "start": "2026-01-31T22:00:00",
-      "end": "2026-02-01T01:00:00",
-      "location": "Rochester\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-bethel-minn/",
-      "description": "Central College Men\u2019s Tennis vs Bethel (Minn.)"
-    },
-    {
-      "title": "Central College Men's Track and Field  Grinnell Invitational",
-      "start": "2026-01-31T22:00:00",
-      "end": "2026-02-01T01:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-grinnell-invitational/",
-      "description": "Central College Men\u2019s Track and Field  Grinnell Invitational"
-    },
-    {
-      "title": "Central College Men's Tennis vs Carthage (Wis.)",
-      "start": "2026-01-31T22:30:00",
-      "end": "2026-02-01T01:30:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-carthage-wis/",
-      "description": "Central College Men\u2019s Tennis vs Carthage (Wis.)\\nStreaming Video: https://rollriversnetwork.com/coe/"
     },
     {
       "title": "Central College Men's Wrestling vs Luther",
@@ -241,6 +217,30 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-dance-team-vs-american-rivers-conference-championships/",
       "description": "Central College Dance team vs American Rivers Conference Championships"
+    },
+    {
+      "title": "Central College Cheerleading  American Rivers Conference Championships",
+      "start": "2026-02-15T00:00:00",
+      "end": "2026-02-17T00:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-cheerleading-american-rivers-conference-championships/",
+      "description": "Central College Cheerleading  American Rivers Conference Championships"
+    },
+    {
+      "title": "Central College Baseball vs Grinnell",
+      "start": "2026-02-15T17:00:00",
+      "end": "2026-02-15T20:00:00",
+      "location": "Kansas City\\, Mo.",
+      "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
+      "description": "Central College Baseball vs Grinnell"
+    },
+    {
+      "title": "Central College Baseball vs Grinnell",
+      "start": "2026-02-15T20:00:00",
+      "end": "2026-02-15T23:00:00",
+      "location": "Kansas City\\, Mo.",
+      "url": "https://central.edu/event/central-college-baseball-vs-grinnell/",
+      "description": "Central College Baseball vs Grinnell"
     }
   ]
 }
