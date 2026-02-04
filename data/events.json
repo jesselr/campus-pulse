@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-04T03:55:44.744031Z",
+  "updated": "2026-02-04T05:07:00.875804Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Wrestling vs Luther",
-      "start": "2026-02-04T01:00:00",
-      "end": "2026-02-04T04:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-luther/",
-      "description": "Central College Men\u2019s Wrestling vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Central College Women's Basketball at Loras",
       "start": "2026-02-04T23:30:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-cheerleading-american-rivers-conference-championships/",
       "description": "Central College Cheerleading  American Rivers Conference Championships"
+    },
+    {
+      "title": "Central College Baseball vs Grinnell",
+      "start": "2026-02-15T17:00:00",
+      "end": "2026-02-15T20:00:00",
+      "location": "Kansas City\\, Mo.",
+      "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
+      "description": "Central College Baseball vs Grinnell"
     }
   ]
 }
