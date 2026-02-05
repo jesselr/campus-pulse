@@ -1,23 +1,7 @@
 {
-  "updated": "2026-02-05T01:28:43.858836Z",
+  "updated": "2026-02-05T03:57:40.525125Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Basketball at Loras",
-      "start": "2026-02-04T23:30:00",
-      "end": "2026-02-05T01:30:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-at-loras/",
-      "description": "Central College Women\u2019s Basketball at Loras"
-    },
-    {
-      "title": "Central College Men's Basketball at Loras",
-      "start": "2026-02-05T01:30:00",
-      "end": "2026-02-05T03:30:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-loras/",
-      "description": "Central College Men\u2019s Basketball at Loras"
-    },
     {
       "title": "Central College Women's Track and Field  Frank Sevigne Husker Invitational - Limited roster",
       "start": "2026-02-06T17:50:00",
@@ -48,14 +32,6 @@
       "end": "2026-02-07T02:35:00",
       "location": "Lincoln\\, Neb.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-frank-sevigne-husker-invitational-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Frank Sevigne Husker Invitational \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  Frank Sevigne Husker Invitational - Limited roster",
-      "start": "2026-02-06T23:35:00",
-      "end": "2026-02-07T02:35:00",
-      "location": "Lincoln\\, Neb.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-frank-sevigne-husker-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Frank Sevigne Husker Invitational \u2013 Limited roster"
     },
     {
@@ -241,6 +217,30 @@
       "location": "Kansas City\\, Mo.",
       "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
       "description": "Central College Baseball vs Grinnell"
+    },
+    {
+      "title": "Central College Baseball vs Grinnell",
+      "start": "2026-02-15T20:00:00",
+      "end": "2026-02-15T23:00:00",
+      "location": "Kansas City\\, Mo.",
+      "url": "https://central.edu/event/central-college-baseball-vs-grinnell/",
+      "description": "Central College Baseball vs Grinnell"
+    },
+    {
+      "title": "Central College Women's Basketball vs Coe",
+      "start": "2026-02-18T23:30:00",
+      "end": "2026-02-19T01:30:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-coe/",
+      "description": "Central College Women\u2019s Basketball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball vs Coe",
+      "start": "2026-02-19T01:30:00",
+      "end": "2026-02-19T03:30:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-coe/",
+      "description": "Central College Men\u2019s Basketball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
