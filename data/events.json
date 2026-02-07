@@ -1,23 +1,7 @@
 {
-  "updated": "2026-02-07T21:48:26.165814Z",
+  "updated": "2026-02-07T22:19:47.063347Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Basketball at Dubuque",
-      "start": "2026-02-07T20:00:00",
-      "end": "2026-02-07T22:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-at-dubuque/",
-      "description": "Central College Women\u2019s Basketball at Dubuque"
-    },
-    {
-      "title": "Iowa Honor Band Concert",
-      "start": "2026-02-07T21:00:00",
-      "end": "2026-02-07T22:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 2 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/iowa-honor-band-concert/",
-      "description": ""
-    },
     {
       "title": "Central College Men's Basketball at Dubuque",
       "start": "2026-02-07T22:00:00",
@@ -240,6 +224,22 @@
       "end": "2026-02-21T21:00:00",
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-2/",
+      "description": "Central College Baseball at Hardin-Simmons (Texas)"
+    },
+    {
+      "title": "Central College Women's Basketball vs Luther",
+      "start": "2026-02-21T20:00:00",
+      "end": "2026-02-21T22:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-luther/",
+      "description": "Central College Women\u2019s Basketball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball at Hardin-Simmons (Texas)",
+      "start": "2026-02-21T21:00:00",
+      "end": "2026-02-22T00:00:00",
+      "location": "Abilene\\, Texas",
+      "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-3/",
       "description": "Central College Baseball at Hardin-Simmons (Texas)"
     }
   ]
