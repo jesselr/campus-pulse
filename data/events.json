@@ -1,23 +1,7 @@
 {
-  "updated": "2026-02-07T19:00:30.676473Z",
+  "updated": "2026-02-07T19:43:16.892368Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Wrestling at Grand View Open",
-      "start": "2026-02-07T15:00:00",
-      "end": "2026-02-07T18:00:00",
-      "location": "East Moline\\, Ill.",
-      "url": "https://central.edu/event/central-college-womens-wrestling-vs-quad-cities-division-iii-national-invitational/",
-      "description": "Central College Women\u2019s Wrestling at Grand View Open"
-    },
-    {
-      "title": "Central College Men's Tennis vs MSOE (Wis.)",
-      "start": "2026-02-07T16:00:00",
-      "end": "2026-02-07T19:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-msoe-wis/",
-      "description": "Central College Men\u2019s Tennis vs MSOE (Wis.)"
-    },
     {
       "title": "Central College Women's Basketball at Dubuque",
       "start": "2026-02-07T20:00:00",
@@ -241,6 +225,22 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-liz-wuertz-invitational/",
       "description": "Central College Women\u2019s Track and Field  Liz Wuertz Invitational"
+    },
+    {
+      "title": "Central College Men's Track and Field  Liz Wuertz Invitational",
+      "start": "2026-02-21T00:00:00",
+      "end": "2026-02-23T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-liz-wuertz-invitational/",
+      "description": "Central College Men\u2019s Track and Field  Liz Wuertz Invitational"
+    },
+    {
+      "title": "Central College Baseball at Hardin-Simmons (Texas)",
+      "start": "2026-02-21T18:00:00",
+      "end": "2026-02-21T21:00:00",
+      "location": "Abilene\\, Texas",
+      "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-2/",
+      "description": "Central College Baseball at Hardin-Simmons (Texas)"
     }
   ]
 }
