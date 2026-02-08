@@ -1,23 +1,7 @@
 {
-  "updated": "2026-02-07T23:54:39.995823Z",
+  "updated": "2026-02-08T02:04:06.361287Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball at Dubuque",
-      "start": "2026-02-07T22:00:00",
-      "end": "2026-02-08T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-dubuque/",
-      "description": "Central College Men\u2019s Basketball at Dubuque"
-    },
-    {
-      "title": "Central College Men's Tennis vs Grand View",
-      "start": "2026-02-07T22:00:00",
-      "end": "2026-02-08T01:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-grand-view/",
-      "description": "Central College Men\u2019s Tennis vs Grand View"
-    },
     {
       "title": "Central College Women's Basketball vs Simpson",
       "start": "2026-02-11T23:30:00",
@@ -241,6 +225,22 @@
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-3/",
       "description": "Central College Baseball at Hardin-Simmons (Texas)"
+    },
+    {
+      "title": "Central College Men's Basketball vs Luther",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-22T00:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-luther/",
+      "description": "Central College Men\u2019s Basketball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Basketball vs First round",
+      "start": "2026-02-24T00:00:00",
+      "end": "2026-02-26T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-first-round/",
+      "description": "Central College Women\u2019s Basketball vs First round"
     }
   ]
 }
