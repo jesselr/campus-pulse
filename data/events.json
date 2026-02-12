@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-12T01:47:08.580085Z",
+  "updated": "2026-02-12T04:20:50.333839Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball vs Simpson",
-      "start": "2026-02-12T01:30:00",
-      "end": "2026-02-12T03:30:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-simpson/",
-      "description": "Central College Men\u2019s Basketball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Central College Men's Wrestling at Simpson",
       "start": "2026-02-13T00:00:00",
@@ -241,6 +233,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-first-round/",
       "description": "Central College Men\u2019s Basketball vs First round"
+    },
+    {
+      "title": "10th-12th Grade Singfest Honor Choir Concert",
+      "start": "2026-02-25T00:00:00",
+      "end": "2026-02-25T01:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/10th-12th-grade-singfest-honor-choir-concert/",
+      "description": ""
     }
   ]
 }
