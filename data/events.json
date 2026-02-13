@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-13T01:49:35.527566Z",
+  "updated": "2026-02-13T04:15:59.666713Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Wrestling at Simpson",
-      "start": "2026-02-13T00:00:00",
-      "end": "2026-02-13T03:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-simpson-2/",
-      "description": "Central College Men\u2019s Wrestling at Simpson"
-    },
     {
       "title": "Central College Women's Track and Field  David Hemery Valentine inv. - Limited roster",
       "start": "2026-02-13T00:00:00",
@@ -91,14 +83,6 @@
       "description": "Central College Women\u2019s Basketball at Wartburg"
     },
     {
-      "title": "Central College Baseball vs Augustana (Ill.)",
-      "start": "2026-02-14T20:00:00",
-      "end": "2026-02-14T23:00:00",
-      "location": "Kansas City\\, Mo.",
-      "url": "https://central.edu/event/central-college-baseball-vs-augustana-ill/",
-      "description": "Central College Baseball vs Augustana (Ill.)"
-    },
-    {
       "title": "Central College Softball vs Gustavus Adolphus (Minn.)",
       "start": "2026-02-14T21:30:00",
       "end": "2026-02-14T23:30:00",
@@ -131,17 +115,17 @@
       "description": "Central College Cheerleading  American Rivers Conference Championships"
     },
     {
-      "title": "Central College Baseball vs Grinnell",
-      "start": "2026-02-15T17:00:00",
-      "end": "2026-02-15T20:00:00",
+      "title": "Central College Baseball vs Augustana (Ill.)",
+      "start": "2026-02-15T19:00:00",
+      "end": "2026-02-15T22:00:00",
       "location": "Kansas City\\, Mo.",
-      "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
-      "description": "Central College Baseball vs Grinnell"
+      "url": "https://central.edu/event/central-college-baseball-vs-augustana-ill/",
+      "description": "Central College Baseball vs Augustana (Ill.)"
     },
     {
       "title": "Central College Baseball vs Grinnell",
-      "start": "2026-02-15T20:00:00",
-      "end": "2026-02-15T23:00:00",
+      "start": "2026-02-15T22:00:00",
+      "end": "2026-02-16T01:00:00",
       "location": "Kansas City\\, Mo.",
       "url": "https://central.edu/event/central-college-baseball-vs-grinnell/",
       "description": "Central College Baseball vs Grinnell"
@@ -241,6 +225,22 @@
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-3/",
       "description": "Central College Baseball at Hardin-Simmons (Texas)"
+    },
+    {
+      "title": "Central College Men's Basketball vs Luther",
+      "start": "2026-02-21T22:00:00",
+      "end": "2026-02-22T00:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-luther/",
+      "description": "Central College Men\u2019s Basketball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Basketball vs First round",
+      "start": "2026-02-24T00:00:00",
+      "end": "2026-02-26T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-first-round/",
+      "description": "Central College Women\u2019s Basketball vs First round"
     }
   ]
 }
