@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T22:00:26.593116Z",
+  "updated": "2026-02-13T22:58:51.457235Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Boston\\, Mass.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster-2/",
       "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  DePaul Blue Demon Alumni Classic - Limited roster",
-      "start": "2026-02-13T19:30:00",
-      "end": "2026-02-13T22:30:00",
-      "location": "Chicago\\, Ill. / Gately Park",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-depaul-blue-demon-alumni-classic-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  DePaul Blue Demon Alumni Classic \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Women's Track and Field  DePaul Blue Demon Alumni Classic",
-      "start": "2026-02-13T19:30:00",
-      "end": "2026-02-13T22:30:00",
-      "location": "Chicago\\, Ill. / Gately Park",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-depaul-blue-demon-alumni-classic/",
-      "description": "Central College Women\u2019s Track and Field  DePaul Blue Demon Alumni Classic"
     },
     {
       "title": "Central College Men's Wrestling vs Central Last Chance Invitational",
@@ -241,6 +225,22 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-first-round/",
       "description": "Central College Men\u2019s Basketball vs First round"
+    },
+    {
+      "title": "10th-12th Grade Singfest Honor Choir Concert",
+      "start": "2026-02-25T00:00:00",
+      "end": "2026-02-25T01:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/10th-12th-grade-singfest-honor-choir-concert/",
+      "description": ""
+    },
+    {
+      "title": "Central College Women's Basketball vs Semifinal",
+      "start": "2026-02-26T00:00:00",
+      "end": "2026-02-28T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-semifinal/",
+      "description": "Central College Women\u2019s Basketball vs Semifinal"
     }
   ]
 }
