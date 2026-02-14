@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-14T20:48:51.639996Z",
+  "updated": "2026-02-14T21:18:55.702658Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Boston\\, Mass.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Softball vs St. Catherine (Minn.)",
-      "start": "2026-02-14T19:00:00",
-      "end": "2026-02-14T21:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-5/",
-      "description": "Central College Softball vs St. Catherine (Minn.)\\nStreaming Video: https://www.youtube.com/@BLCVikingsOfficial/streams"
     },
     {
       "title": "Central College Women's Basketball at Wartburg",
@@ -233,6 +225,14 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-indoor-championships/",
       "description": "Central College Women\u2019s Track and Field  American Rivers Indoor Championships"
+    },
+    {
+      "title": "Central College Men's Track and Field  American Rivers Indoor Championships",
+      "start": "2026-02-27T00:00:00",
+      "end": "2026-03-01T00:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-indoor-championships/",
+      "description": "Central College Men\u2019s Track and Field  American Rivers Indoor Championships"
     },
     {
       "title": "First Date",
