@@ -1,31 +1,7 @@
 {
-  "updated": "2026-02-14T05:05:53.437893Z",
+  "updated": "2026-02-14T06:03:54.158907Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  David Hemery Valentine inv. - Limited roster",
-      "start": "2026-02-13T00:00:00",
-      "end": "2026-02-15T00:00:00",
-      "location": "Boston\\, Mass.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-david-hemery-valentine-inv-limited-roster-2/",
-      "description": "Central College Women\u2019s Track and Field  David Hemery Valentine inv. \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Women's Track and Field  Darren Young Classic",
-      "start": "2026-02-14T00:00:00",
-      "end": "2026-02-14T05:59:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-darren-young-classic/",
-      "description": "Central College Women\u2019s Track and Field  Darren Young Classic\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/"
-    },
-    {
-      "title": "Central College Men's Track and Field  Darren Young Classic",
-      "start": "2026-02-14T00:00:00",
-      "end": "2026-02-14T05:59:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-darren-young-classic/",
-      "description": "Central College Men\u2019s Track and Field  Darren Young Classic\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/"
-    },
     {
       "title": "Central College Women's Track and Field  David Hemery Valentine inv. - Limited roster",
       "start": "2026-02-14T18:30:00",
@@ -123,6 +99,14 @@
       "description": ""
     },
     {
+      "title": "Central College Women's Wrestling vs NCAA Region V Championships",
+      "start": "2026-02-20T17:00:00",
+      "end": "2026-02-21T05:59:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-regional/",
+      "description": "Central College Women\u2019s Wrestling vs NCAA Region V Championships\\nStreaming Video: https://www.flowrestling.org/live/224776"
+    },
+    {
       "title": "Central College Men's Track and Field  Caged Eagle Open - Limited roster",
       "start": "2026-02-20T21:00:00",
       "end": "2026-02-21T00:00:00",
@@ -145,14 +129,6 @@
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas/",
       "description": "Central College Baseball at Hardin-Simmons (Texas)"
-    },
-    {
-      "title": "Central College Women's Wrestling vs NCAA Regional",
-      "start": "2026-02-21T00:00:00",
-      "end": "2026-02-23T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-regional/",
-      "description": "Central College Women\u2019s Wrestling vs NCAA Regional"
     },
     {
       "title": "Central College Women's Track and Field  Liz Wuertz Invitational",
@@ -241,6 +217,30 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-semifinal/",
       "description": "Central College Men\u2019s Basketball vs Semifinal"
+    },
+    {
+      "title": "Central College Men's Wrestling vs NCAA Division III Lower Midwest Regional",
+      "start": "2026-02-27T00:00:00",
+      "end": "2026-03-01T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-lower-midwest-regional/",
+      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Lower Midwest Regional"
+    },
+    {
+      "title": "Central College Women's Track and Field  American Rivers Indoor Championships",
+      "start": "2026-02-27T00:00:00",
+      "end": "2026-03-01T00:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-indoor-championships/",
+      "description": "Central College Women\u2019s Track and Field  American Rivers Indoor Championships"
+    },
+    {
+      "title": "First Date",
+      "start": "2026-02-27T01:00:00",
+      "end": "2026-02-27T03:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/first-date/",
+      "description": ""
     }
   ]
 }
