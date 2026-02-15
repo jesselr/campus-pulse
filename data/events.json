@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-14T23:45:22.078292Z",
+  "updated": "2026-02-15T01:48:53.017320Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball at Wartburg",
-      "start": "2026-02-14T22:00:00",
-      "end": "2026-02-15T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-wartburg/",
-      "description": "Central College Men\u2019s Basketball at Wartburg"
-    },
     {
       "title": "Central College Dance team vs American Rivers Conference Championships",
       "start": "2026-02-15T00:00:00",
@@ -233,6 +225,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-final/",
       "description": "Central College Women\u2019s Basketball vs Final"
+    },
+    {
+      "title": "Central College Men's Basketball vs Final",
+      "start": "2026-02-28T00:00:00",
+      "end": "2026-03-02T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-final/",
+      "description": "Central College Men\u2019s Basketball vs Final"
     },
     {
       "title": "First Date",
