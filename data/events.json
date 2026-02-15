@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T22:49:54.453028Z",
+  "updated": "2026-02-15T23:20:32.227887Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-cheerleading-american-rivers-conference-championships/",
       "description": "Central College Cheerleading  American Rivers Conference Championships"
-    },
-    {
-      "title": "Central College Baseball vs Augustana (Ill.)",
-      "start": "2026-02-15T19:00:00",
-      "end": "2026-02-15T22:00:00",
-      "location": "Kansas City\\, Mo.",
-      "url": "https://central.edu/event/central-college-baseball-vs-augustana-ill/",
-      "description": "Central College Baseball vs Augustana (Ill.)"
     },
     {
       "title": "Central College Baseball vs Grinnell",
@@ -241,6 +233,14 @@
       "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/first-date-2/",
       "description": ""
+    },
+    {
+      "title": "Central College Baseball vs MSOE (Wis.)",
+      "start": "2026-02-28T16:00:00",
+      "end": "2026-02-28T19:00:00",
+      "location": "Sauget\\, Ill. / GCS Ballpark",
+      "url": "https://central.edu/event/central-college-baseball-vs-msoe-wis/",
+      "description": "Central College Baseball vs MSOE (Wis.)"
     }
   ]
 }
