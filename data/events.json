@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-16T04:20:46.411087Z",
+  "updated": "2026-02-16T05:49:20.817944Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-dance-team-vs-american-rivers-conference-championships/",
       "description": "Central College Dance team vs American Rivers Conference Championships"
-    },
-    {
-      "title": "Central College Cheerleading  American Rivers Conference Championships",
-      "start": "2026-02-15T00:00:00",
-      "end": "2026-02-17T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-cheerleading-american-rivers-conference-championships/",
-      "description": "Central College Cheerleading  American Rivers Conference Championships"
     },
     {
       "title": "Central College Women's Basketball vs Coe",
@@ -241,6 +233,14 @@
       "location": "Sauget\\, Ill. / GCS Ballpark",
       "url": "https://central.edu/event/central-college-baseball-vs-westminster-mo-3/",
       "description": "Central College Baseball vs Westminster (Mo.)"
+    },
+    {
+      "title": "First Date",
+      "start": "2026-03-01T01:00:00",
+      "end": "2026-03-01T03:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/first-date-3/",
+      "description": ""
     }
   ]
 }
