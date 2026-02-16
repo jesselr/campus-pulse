@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-16T05:49:20.817944Z",
+  "updated": "2026-02-16T06:56:58.974013Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Dance team vs American Rivers Conference Championships",
-      "start": "2026-02-15T00:00:00",
-      "end": "2026-02-17T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-dance-team-vs-american-rivers-conference-championships/",
-      "description": "Central College Dance team vs American Rivers Conference Championships"
-    },
     {
       "title": "Central College Women's Basketball vs Coe",
       "start": "2026-02-18T23:30:00",
@@ -241,6 +233,14 @@
       "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/first-date-3/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Tennis vs Maharishi University of Management - Exhibition",
+      "start": "2026-03-01T02:00:00",
+      "end": "2026-03-01T05:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-maharishi-university-of-management-exhibition/",
+      "description": "Central College Men\u2019s Tennis vs Maharishi University of Management \u2013 Exhibition"
     }
   ]
 }
