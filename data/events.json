@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T22:19:49.463917Z",
+  "updated": "2026-02-20T22:52:31.899847Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -35,20 +35,20 @@
       "description": "Central College Baseball at Hardin-Simmons (Texas)"
     },
     {
-      "title": "Central College Women's Track and Field  Liz Wuertz Invitational",
-      "start": "2026-02-21T00:00:00",
-      "end": "2026-02-23T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-liz-wuertz-invitational/",
-      "description": "Central College Women\u2019s Track and Field  Liz Wuertz Invitational"
-    },
-    {
       "title": "Central College Men's Track and Field  Liz Wuertz Invitational",
       "start": "2026-02-21T00:00:00",
       "end": "2026-02-23T00:00:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-liz-wuertz-invitational/",
       "description": "Central College Men\u2019s Track and Field  Liz Wuertz Invitational"
+    },
+    {
+      "title": "Central College Women's Track and Field  Liz Wuertz Invitational",
+      "start": "2026-02-21T16:00:00",
+      "end": "2026-02-21T19:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-liz-wuertz-invitational/",
+      "description": "Central College Women\u2019s Track and Field  Liz Wuertz Invitational\\nStreaming Video: https://www.wartburgknightvision.com/wartburg/?B=2989932"
     },
     {
       "title": "Central College Baseball at Hardin-Simmons (Texas)",
