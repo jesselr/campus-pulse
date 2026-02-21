@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-21T20:47:12.135355Z",
+  "updated": "2026-02-21T21:17:49.733666Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball at Hardin-Simmons (Texas)",
-      "start": "2026-02-21T18:00:00",
-      "end": "2026-02-21T21:00:00",
-      "location": "Abilene\\, Texas",
-      "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-2/",
-      "description": "Central College Baseball at Hardin-Simmons (Texas)\\nStreaming Video: https://hsuathletics.com/watch/?Live=346&type=Live"
-    },
     {
       "title": "Central College Women's Basketball vs Luther",
       "start": "2026-02-21T20:00:00",
@@ -240,6 +232,14 @@
       "end": "2026-03-06T22:00:00",
       "location": "Columbus\\, Ga.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-3/",
+      "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Westminster (Mo.)",
+      "start": "2026-03-06T22:00:00",
+      "end": "2026-03-07T00:00:00",
+      "location": "Columbus\\, Ga.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-4/",
       "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
