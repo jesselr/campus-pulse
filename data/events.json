@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T01:27:44.361424Z",
+  "updated": "2026-02-21T03:39:42.135607Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-regional/",
       "description": "Central College Women\u2019s Wrestling vs NCAA Region V Championships\\nStreaming Video: https://www.flowrestling.org/live/224776"
-    },
-    {
-      "title": "Central College Baseball at Hardin-Simmons (Texas)",
-      "start": "2026-02-21T00:00:00",
-      "end": "2026-02-21T03:00:00",
-      "location": "Abilene\\, Texas",
-      "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas/",
-      "description": "Central College Baseball at Hardin-Simmons (Texas)"
     },
     {
       "title": "Central College Men's Track and Field  Liz Wuertz Invitational",
@@ -40,7 +32,7 @@
       "end": "2026-02-21T21:00:00",
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-2/",
-      "description": "Central College Baseball at Hardin-Simmons (Texas)"
+      "description": "Central College Baseball at Hardin-Simmons (Texas)\\nStreaming Video: https://hsuathletics.com/watch/?Live=346&type=Live"
     },
     {
       "title": "Central College Women's Basketball vs Luther",
@@ -56,7 +48,7 @@
       "end": "2026-02-22T00:00:00",
       "location": "Abilene\\, Texas",
       "url": "https://central.edu/event/central-college-baseball-at-hardin-simmons-texas-3/",
-      "description": "Central College Baseball at Hardin-Simmons (Texas)"
+      "description": "Central College Baseball at Hardin-Simmons (Texas)\\nStreaming Video: https://hsuathletics.com/watch/?Live=346&type=Live"
     },
     {
       "title": "Central College Men's Basketball vs Luther",
@@ -241,6 +233,14 @@
       "location": "Coralville\\, Iowa / Xtream Arena",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-championships/",
       "description": "Central College Women\u2019s Wrestling vs NCAA Championships"
+    },
+    {
+      "title": "Central College Women's Track and Field  Wartburg Qualifier - Limited roster",
+      "start": "2026-03-06T00:00:00",
+      "end": "2026-03-08T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-qualifier-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  Wartburg Qualifier \u2013 Limited roster"
     }
   ]
 }
