@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T03:39:42.135607Z",
+  "updated": "2026-02-21T05:02:27.329454Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -99,14 +99,6 @@
       "description": "Central College Men\u2019s Basketball vs Semifinal"
     },
     {
-      "title": "Central College Men's Wrestling vs NCAA Division III Lower Midwest Regional",
-      "start": "2026-02-27T00:00:00",
-      "end": "2026-03-01T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-lower-midwest-regional/",
-      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Lower Midwest Regional"
-    },
-    {
       "title": "Central College Women's Track and Field  American Rivers Indoor Championships",
       "start": "2026-02-27T00:00:00",
       "end": "2026-03-01T00:00:00",
@@ -129,6 +121,14 @@
       "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/first-date/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Wrestling vs NCAA Division III Region VI Championships",
+      "start": "2026-02-27T16:00:00",
+      "end": "2026-02-28T05:59:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-lower-midwest-regional/",
+      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Region VI Championships"
     },
     {
       "title": "Central College Men's Tennis vs Quincy (Ill.)",
