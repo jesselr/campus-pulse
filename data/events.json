@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T23:50:13.221620Z",
+  "updated": "2026-02-21T01:27:44.361424Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-regional/",
       "description": "Central College Women\u2019s Wrestling vs NCAA Region V Championships\\nStreaming Video: https://www.flowrestling.org/live/224776"
-    },
-    {
-      "title": "Central College Men's Track and Field  Caged Eagle Open - Limited roster",
-      "start": "2026-02-20T21:00:00",
-      "end": "2026-02-21T00:00:00",
-      "location": "La Crosse\\, Wis.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-caged-eagle-open-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Caged Eagle Open \u2013 Limited roster\\nStreaming Video: https://www.wiacnetwork.com/uwlacrosse/"
-    },
-    {
-      "title": "Central College Women's Track and Field  Caged Eagle Open - Limited roster",
-      "start": "2026-02-20T21:00:00",
-      "end": "2026-02-21T00:00:00",
-      "location": "La Crosse\\, Wis.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-caged-eagle-open-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Caged Eagle Open \u2013 Limited roster\\nStreaming Video: https://www.wiacnetwork.com/uwlacrosse/"
     },
     {
       "title": "Central College Baseball at Hardin-Simmons (Texas)",
@@ -241,6 +225,22 @@
       "location": "Mount Vernon\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-cornell/",
       "description": "Central College Men\u2019s Tennis at Cornell"
+    },
+    {
+      "title": "Central College Women's Basketball vs First round",
+      "start": "2026-03-06T00:00:00",
+      "end": "2026-03-08T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-first-round-2/",
+      "description": "Central College Women\u2019s Basketball vs First round"
+    },
+    {
+      "title": "Central College Women's Wrestling vs NCAA Championships",
+      "start": "2026-03-06T00:00:00",
+      "end": "2026-03-08T00:00:00",
+      "location": "Coralville\\, Iowa / Xtream Arena",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-championships/",
+      "description": "Central College Women\u2019s Wrestling vs NCAA Championships"
     }
   ]
 }
