@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T04:12:01.026752Z",
+  "updated": "2026-02-22T05:33:10.077775Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -171,14 +171,6 @@
       "description": "Central College Women\u2019s Basketball vs First round"
     },
     {
-      "title": "Central College Women's Wrestling vs NCAA Championships",
-      "start": "2026-03-06T00:00:00",
-      "end": "2026-03-08T00:00:00",
-      "location": "Coralville\\, Iowa / Xtream Arena",
-      "url": "https://central.edu/event/central-college-womens-wrestling-vs-ncaa-championships/",
-      "description": "Central College Women\u2019s Wrestling vs NCAA Championships"
-    },
-    {
       "title": "Central College Women's Track and Field  Wartburg Qualifier - Limited roster",
       "start": "2026-03-06T00:00:00",
       "end": "2026-03-08T00:00:00",
@@ -225,6 +217,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-second-round/",
       "description": "Central College Women\u2019s Basketball vs Second round"
+    },
+    {
+      "title": "Central College Men's Basketball vs Second round",
+      "start": "2026-03-07T00:00:00",
+      "end": "2026-03-09T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-second-round/",
+      "description": "Central College Men\u2019s Basketball vs Second round"
     },
     {
       "title": "Central College Women's Tennis vs St. Ambrose",
