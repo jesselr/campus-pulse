@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-25T01:45:25.740139Z",
+  "updated": "2026-02-25T04:15:18.709001Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Basketball at Buena Vista - Quarterfinal",
-      "start": "2026-02-25T01:00:00",
-      "end": "2026-02-25T03:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-first-round/",
-      "description": "Central College Women\u2019s Basketball at Buena Vista \u2013 Quarterfinal\\nStreaming Video: https://rollriversnetwork.com/buenavista/"
-    },
     {
       "title": "Central College Women's Basketball vs Semifinal",
       "start": "2026-02-26T00:00:00",
@@ -241,6 +233,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-third-round/",
       "description": "Central College Women\u2019s Basketball vs Third round"
+    },
+    {
+      "title": "Central College Women's Track and Field  NCAA Division III Indoor Championships",
+      "start": "2026-03-13T00:00:00",
+      "end": "2026-03-15T00:00:00",
+      "location": "Birmingham\\, Ala.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-ncaa-division-iii-indoor-championships-2/",
+      "description": "Central College Women\u2019s Track and Field  NCAA Division III Indoor Championships"
     }
   ]
 }
