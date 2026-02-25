@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-24T23:54:13.577567Z",
+  "updated": "2026-02-25T01:45:25.740139Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "10th-12th Grade Singfest Honor Choir Concert",
-      "start": "2026-02-25T00:00:00",
-      "end": "2026-02-25T01:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/10th-12th-grade-singfest-honor-choir-concert/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Basketball at Buena Vista - Quarterfinal",
       "start": "2026-02-25T01:00:00",
@@ -241,6 +233,14 @@
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-championships-2/",
       "description": "Central College Men\u2019s Wrestling vs NCAA Division III Championships"
+    },
+    {
+      "title": "Central College Women's Basketball vs Third round",
+      "start": "2026-03-13T00:00:00",
+      "end": "2026-03-15T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-third-round/",
+      "description": "Central College Women\u2019s Basketball vs Third round"
     }
   ]
 }
