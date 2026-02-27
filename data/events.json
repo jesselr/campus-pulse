@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-27T16:34:39.494335Z",
+  "updated": "2026-02-27T17:30:41.167625Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  American Rivers Indoor Championships",
-      "start": "2026-02-27T00:00:00",
-      "end": "2026-03-01T00:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-indoor-championships/",
-      "description": "Central College Women\u2019s Track and Field  American Rivers Indoor Championships"
-    },
     {
       "title": "Central College Men's Track and Field  American Rivers Indoor Championships",
       "start": "2026-02-27T00:00:00",
@@ -17,6 +9,14 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-indoor-championships/",
       "description": "Central College Men\u2019s Track and Field  American Rivers Indoor Championships"
+    },
+    {
+      "title": "Central College Women's Track and Field  American Rivers Indoor Championships",
+      "start": "2026-02-27T15:00:00",
+      "end": "2026-02-28T05:59:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-indoor-championships/",
+      "description": "Central College Women\u2019s Track and Field  American Rivers Indoor Championships\\nStreaming Video: https://rollriversnetwork.com/"
     },
     {
       "title": "Central College Men's Wrestling vs NCAA Division III Region VI Championships",
