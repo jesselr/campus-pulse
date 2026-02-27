@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-27T20:50:57.034722Z",
+  "updated": "2026-02-27T21:24:06.234112Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Track and Field  American Rivers Indoor Championships",
-      "start": "2026-02-27T00:00:00",
-      "end": "2026-03-01T00:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-indoor-championships/",
-      "description": "Central College Men\u2019s Track and Field  American Rivers Indoor Championships"
-    },
     {
       "title": "Central College Women's Track and Field  American Rivers Indoor Championships",
       "start": "2026-02-27T15:00:00",
@@ -17,6 +9,14 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-indoor-championships/",
       "description": "Central College Women\u2019s Track and Field  American Rivers Indoor Championships\\nStreaming Video: https://rollriversnetwork.com/"
+    },
+    {
+      "title": "Central College Men's Track and Field  American Rivers Indoor Championships",
+      "start": "2026-02-27T15:00:00",
+      "end": "2026-02-28T05:59:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-indoor-championships/",
+      "description": "Central College Men\u2019s Track and Field  American Rivers Indoor Championships\\nStreaming Video: https://rollriversnetwork.com/"
     },
     {
       "title": "Central College Men's Wrestling vs NCAA Division III Region VI Championships",
@@ -48,7 +48,7 @@
       "end": "2026-02-28T19:00:00",
       "location": "Sauget\\, Ill. / GCS Ballpark",
       "url": "https://central.edu/event/central-college-baseball-vs-msoe-wis/",
-      "description": "Central College Baseball vs MSOE (Wis.)"
+      "description": "Central College Baseball vs MSOE (Wis.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
     },
     {
       "title": "Central College Baseball vs Westminster (Mo.)",
@@ -56,7 +56,7 @@
       "end": "2026-02-28T22:00:00",
       "location": "Sauget\\, Ill. / GCS Ballpark",
       "url": "https://central.edu/event/central-college-baseball-vs-westminster-mo-3/",
-      "description": "Central College Baseball vs Westminster (Mo.)"
+      "description": "Central College Baseball vs Westminster (Mo.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
     },
     {
       "title": "First Date",
@@ -80,7 +80,7 @@
       "end": "2026-03-01T19:00:00",
       "location": "Sauget\\, Ill. / GCS Ballpark",
       "url": "https://central.edu/event/central-college-baseball-vs-westminster-mo-4/",
-      "description": "Central College Baseball vs Westminster (Mo.)"
+      "description": "Central College Baseball vs Westminster (Mo.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
     },
     {
       "title": "Central College Baseball vs MSOE (Wis.)",
@@ -88,7 +88,7 @@
       "end": "2026-03-01T22:00:00",
       "location": "Sauget\\, Ill. / GCS Ballpark",
       "url": "https://central.edu/event/central-college-baseball-vs-msoe-wis-2/",
-      "description": "Central College Baseball vs MSOE (Wis.)"
+      "description": "Central College Baseball vs MSOE (Wis.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
     },
     {
       "title": "Central College Men's Tennis at Cornell",
