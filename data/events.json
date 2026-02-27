@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T01:28:17.320858Z",
+  "updated": "2026-02-27T03:54:54.271862Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-indoor-championships/",
       "description": "Central College Men\u2019s Track and Field  American Rivers Indoor Championships"
-    },
-    {
-      "title": "First Date",
-      "start": "2026-02-27T01:00:00",
-      "end": "2026-02-27T03:00:00",
-      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/first-date/",
-      "description": ""
     },
     {
       "title": "Central College Men's Wrestling vs NCAA Division III Region VI Championships",
@@ -241,6 +233,14 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-14/",
       "description": "Central College Softball vs Lakeland (Wis.)"
+    },
+    {
+      "title": "Central College Baseball vs Eureka (Ill.)",
+      "start": "2026-03-15T16:00:00",
+      "end": "2026-03-15T19:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-baseball-vs-eureka-ill/",
+      "description": "Central College Baseball vs Eureka (Ill.)"
     }
   ]
 }
