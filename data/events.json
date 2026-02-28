@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-28T19:40:34.782937Z",
+  "updated": "2026-02-28T20:19:18.354519Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball vs MSOE (Wis.)",
-      "start": "2026-02-28T16:00:00",
-      "end": "2026-02-28T19:00:00",
-      "location": "Sauget\\, Ill. / GCS Ballpark",
-      "url": "https://central.edu/event/central-college-baseball-vs-msoe-wis/",
-      "description": "Central College Baseball vs MSOE (Wis.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
-    },
     {
       "title": "Central College Baseball vs Westminster (Mo.)",
       "start": "2026-02-28T19:00:00",
@@ -241,6 +233,14 @@
       "location": "Bossier City\\, La. / The Golf Club at Stonebridge",
       "url": "https://central.edu/event/central-college-womens-golf-hal-sutton-invitational/",
       "description": "Central College Women\u2019s Golf  Hal Sutton Invitational"
+    },
+    {
+      "title": "Spring Break",
+      "start": "2026-03-16T00:00:00",
+      "end": "2026-03-22T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/spring-break/",
+      "description": ""
     }
   ]
 }
