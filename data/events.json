@@ -1,15 +1,7 @@
 {
-  "updated": "2026-02-28T21:41:46.590534Z",
+  "updated": "2026-02-28T22:17:20.042381Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball vs Westminster (Mo.)",
-      "start": "2026-02-28T19:00:00",
-      "end": "2026-02-28T22:00:00",
-      "location": "Sauget\\, Ill. / GCS Ballpark",
-      "url": "https://central.edu/event/central-college-baseball-vs-westminster-mo-3/",
-      "description": "Central College Baseball vs Westminster (Mo.)\\nStreaming Video: https://www.youtube.com/@MSOERaidersAthletics/streams"
-    },
     {
       "title": "First Date",
       "start": "2026-03-01T01:00:00",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/spring-break/",
       "description": ""
+    },
+    {
+      "title": "Central College Softball vs St. Norbert (Wis.)",
+      "start": "2026-03-16T20:45:00",
+      "end": "2026-03-16T22:45:00",
+      "location": "Tucson\\, Ariz.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-9/",
+      "description": "Central College Softball vs St. Norbert (Wis.)"
     }
   ]
 }
