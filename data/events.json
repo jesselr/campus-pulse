@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-01T04:18:26.854437Z",
+  "updated": "2026-03-01T05:34:35.805509Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Tennis vs Maharishi University of Management - Exhibition",
-      "start": "2026-03-01T02:00:00",
-      "end": "2026-03-01T05:00:00",
-      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-maharishi-university-of-management-exhibition/",
-      "description": "Central College Men\u2019s Tennis vs Maharishi University of Management \u2013 Exhibition"
-    },
     {
       "title": "Central College Baseball vs Westminster (Mo.)",
       "start": "2026-03-01T16:00:00",
@@ -241,6 +233,14 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-10/",
       "description": "Central College Softball vs Salve Regina (R.I.)"
+    },
+    {
+      "title": "Midterm Grades Due",
+      "start": "2026-03-17T17:00:00",
+      "end": "2026-03-17T18:00:00",
+      "location": "",
+      "url": "https://central.edu/event/midterm-grades-due-2/",
+      "description": ""
     }
   ]
 }
