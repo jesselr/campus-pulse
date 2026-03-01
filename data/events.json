@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-01T22:47:33.291758Z",
+  "updated": "2026-03-01T23:18:17.988475Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Tennis at Cornell",
-      "start": "2026-03-01T20:00:00",
-      "end": "2026-03-01T23:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell/",
-      "description": "Central College Men\u2019s Tennis at Cornell"
-    },
     {
       "title": "Central College Women's Track and Field  Wartburg Qualifier - Limited roster",
       "start": "2026-03-06T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Kansas City\\, Mo.",
       "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
       "description": "Central College Baseball vs Grinnell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Rutgers-Newark (N.J.)",
+      "start": "2026-03-18T20:45:00",
+      "end": "2026-03-18T22:45:00",
+      "location": "Tucson\\, Ariz.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-15/",
+      "description": "Central College Softball vs Rutgers-Newark (N.J.)"
     }
   ]
 }
