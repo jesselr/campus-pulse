@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T17:39:27.208456Z",
+  "updated": "2026-03-02T18:38:27.965145Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -27,20 +27,20 @@
       "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
+      "title": "Central College Women's Tennis at Saint Ambrose",
+      "start": "2026-03-06T21:00:00",
+      "end": "2026-03-07T00:00:00",
+      "location": "Moline\\, Ill. / Quad City Racquet Club",
+      "url": "https://central.edu/event/central-college-womens-tennis-at-saint-ambrose/",
+      "description": "Central College Women\u2019s Tennis at Saint Ambrose"
+    },
+    {
       "title": "Central College Softball vs Westminster (Mo.)",
       "start": "2026-03-06T22:00:00",
       "end": "2026-03-07T00:00:00",
       "location": "Columbus\\, Ga.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-4/",
       "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Tennis vs St. Ambrose",
-      "start": "2026-03-07T04:00:00",
-      "end": "2026-03-07T07:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-st-ambrose/",
-      "description": "Central College Women\u2019s Tennis vs St. Ambrose"
     },
     {
       "title": "Central College Men's Tennis vs St. Ambrose",
