@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T23:52:53.578658Z",
+  "updated": "2026-03-05T01:42:35.976298Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -19,28 +19,12 @@
       "description": "Central College Men\u2019s Track and Field  Wartburg Qualifier \u2013 Limited roster"
     },
     {
-      "title": "Central College Softball vs Westminster (Mo.)",
-      "start": "2026-03-06T20:00:00",
-      "end": "2026-03-06T22:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-3/",
-      "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Women's Tennis at Saint Ambrose",
       "start": "2026-03-06T21:00:00",
       "end": "2026-03-07T00:00:00",
       "location": "Moline\\, Ill. / Quad City Racquet Club",
       "url": "https://central.edu/event/central-college-womens-tennis-at-saint-ambrose/",
       "description": "Central College Women\u2019s Tennis at Saint Ambrose"
-    },
-    {
-      "title": "Central College Softball vs Westminster (Mo.)",
-      "start": "2026-03-06T22:00:00",
-      "end": "2026-03-07T00:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-4/",
-      "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Tennis vs St. Ambrose",
@@ -65,6 +49,22 @@
       "location": "Rochester\\, Minn.",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-hamline-minn/",
       "description": "Central College Men\u2019s Tennis vs Hamline (Minn.)"
+    },
+    {
+      "title": "Central College Softball vs Westminster (Mo.)",
+      "start": "2026-03-08T17:00:00",
+      "end": "2026-03-08T19:00:00",
+      "location": "Columbus\\, Ga.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-3/",
+      "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Westminster (Mo.)",
+      "start": "2026-03-08T19:00:00",
+      "end": "2026-03-08T21:00:00",
+      "location": "Columbus\\, Ga.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-4/",
+      "description": "Central College Softball vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Midterm",
