@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T23:48:33.105882Z",
+  "updated": "2026-03-07T01:25:50.373917Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-qualifier-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  Wartburg Qualifier \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Women's Tennis at Saint Ambrose",
-      "start": "2026-03-06T21:00:00",
-      "end": "2026-03-07T00:00:00",
-      "location": "Moline\\, Ill. / Quad City Racquet Club",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-saint-ambrose/",
-      "description": "Central College Women\u2019s Tennis at Saint Ambrose"
     },
     {
       "title": "Central College Men's Tennis vs St. Ambrose",
@@ -241,6 +233,14 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-15/",
       "description": "Central College Softball vs Rutgers-Newark (N.J.)"
+    },
+    {
+      "title": "Central College Softball vs Hamilton (N.Y.)",
+      "start": "2026-03-19T14:00:00",
+      "end": "2026-03-19T16:00:00",
+      "location": "Tucson\\, Ariz.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-18/",
+      "description": "Central College Softball vs Hamilton (N.Y.)"
     }
   ]
 }
