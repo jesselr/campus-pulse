@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T01:25:50.373917Z",
+  "updated": "2026-03-07T03:31:14.549854Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-qualifier-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Qualifier \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  Wartburg Qualifier - Limited roster",
-      "start": "2026-03-06T00:00:00",
-      "end": "2026-03-08T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-qualifier-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Wartburg Qualifier \u2013 Limited roster"
     },
     {
       "title": "Central College Men's Tennis vs St. Ambrose",
@@ -241,6 +233,14 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-18/",
       "description": "Central College Softball vs Hamilton (N.Y.)"
+    },
+    {
+      "title": "Central College Softball vs Mass.-Boston",
+      "start": "2026-03-20T04:15:00",
+      "end": "2026-03-20T06:15:00",
+      "location": "Tucson\\, Ariz.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-20/",
+      "description": "Central College Softball vs Mass.-Boston"
     }
   ]
 }
