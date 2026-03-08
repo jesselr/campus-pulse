@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-07T23:43:08.355598Z",
+  "updated": "2026-03-08T01:43:06.011480Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Tennis vs Hamline (Minn.)",
-      "start": "2026-03-07T22:00:00",
-      "end": "2026-03-08T01:00:00",
-      "location": "Rochester\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-hamline-minn/",
-      "description": "Central College Men\u2019s Tennis vs Hamline (Minn.)"
-    },
     {
       "title": "Central College Softball vs Westminster (Mo.)",
       "start": "2026-03-08T17:00:00",
@@ -240,6 +232,14 @@
       "end": "2026-03-20T23:00:00",
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-loras-4/",
+      "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball vs Loras",
+      "start": "2026-03-21T18:00:00",
+      "end": "2026-03-21T21:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-loras-5/",
       "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
