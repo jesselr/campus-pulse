@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-08T19:23:02.251747Z",
+  "updated": "2026-03-08T19:42:51.711239Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Softball vs Westminster (Mo.)",
-      "start": "2026-03-08T17:00:00",
-      "end": "2026-03-08T19:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-3/",
-      "description": "Central College Softball vs Westminster (Mo.)"
-    },
     {
       "title": "Central College Softball vs Westminster (Mo.)",
       "start": "2026-03-08T19:00:00",
@@ -240,6 +232,14 @@
       "end": "2026-03-21T21:00:00",
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-loras-5/",
+      "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball vs Loras",
+      "start": "2026-03-21T21:00:00",
+      "end": "2026-03-22T00:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-loras-6/",
       "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
