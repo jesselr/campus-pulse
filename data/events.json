@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T01:26:24.966744Z",
+  "updated": "2026-03-10T03:40:13.095223Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,14 +8,6 @@
       "end": "2026-03-12T00:00:00",
       "location": "",
       "url": "https://central.edu/event/midterm-2/",
-      "description": ""
-    },
-    {
-      "title": "A Cappella Choir and Pella High Advanced Choir Concert",
-      "start": "2026-03-10T00:30:00",
-      "end": "2026-03-10T01:30:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/a-cappella-choir-and-pella-high-advanced-choir-concert/",
       "description": ""
     },
     {
@@ -240,6 +232,14 @@
       "end": "2026-03-22T20:00:00",
       "location": "Columbus\\, Ga.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-7/",
+      "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Millikin (Ill.)",
+      "start": "2026-03-22T20:00:00",
+      "end": "2026-03-22T22:00:00",
+      "location": "Columbus\\, Ga.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-8/",
       "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
