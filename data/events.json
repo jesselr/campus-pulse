@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T19:22:58.325271Z",
+  "updated": "2026-03-12T19:56:49.185543Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -203,6 +203,22 @@
       "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
+      "title": "Central College Men's Tennis at Wartburg - Central represented by JV team",
+      "start": "2026-03-21T00:00:00",
+      "end": "2026-03-23T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-wartburg-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Tennis at Wartburg \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Men's Tennis vs Loras - Central represented by JV team",
+      "start": "2026-03-21T00:00:00",
+      "end": "2026-03-23T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-loras-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Tennis vs Loras \u2013 Central represented by JV team"
+    },
+    {
       "title": "Central College Baseball vs Loras",
       "start": "2026-03-21T18:00:00",
       "end": "2026-03-21T21:00:00",
@@ -225,22 +241,6 @@
       "location": "Columbus\\, Ga.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-7/",
       "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Softball vs Millikin (Ill.)",
-      "start": "2026-03-22T20:00:00",
-      "end": "2026-03-22T22:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-8/",
-      "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Classes Resume",
-      "start": "2026-03-23T00:00:00",
-      "end": "2026-03-25T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/classes-resume-5/",
-      "description": ""
     }
   ]
 }
