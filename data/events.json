@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-13T01:41:36.029844Z",
+  "updated": "2026-03-13T04:07:31.432546Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Wrestling vs NCAA Division III Championships",
-      "start": "2026-03-13T00:00:00",
-      "end": "2026-03-15T00:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-championships-2/",
-      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Championships"
-    },
     {
       "title": "Central College Women's Track and Field  NCAA Division III Indoor Championships",
       "start": "2026-03-13T00:00:00",
@@ -25,6 +17,14 @@
       "location": "Birmingham\\, Ala.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-ncaa-division-iii-indoor-championships/",
       "description": "Central College Men\u2019s Track and Field  NCAA Division III Indoor  Championships"
+    },
+    {
+      "title": "Central College Men's Wrestling vs NCAA Division III Championships",
+      "start": "2026-03-13T15:00:00",
+      "end": "2026-03-14T04:59:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-championships-2/",
+      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Championships\\nStreaming Video: https://www.ncaa.com/liveschedule/2026/03/13"
     },
     {
       "title": "Central College Baseball vs Hope (Mich.)",
