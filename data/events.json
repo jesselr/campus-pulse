@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T20:21:31.866713Z",
+  "updated": "2026-03-14T20:51:10.936261Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-baseball-vs-eureka-ill/",
       "description": "Central College Baseball vs Eureka (Ill.)\\nStreaming Video: https://www.cciwnetwork.com/"
-    },
-    {
-      "title": "Central College Softball vs Rivier (N.H.)",
-      "start": "2026-03-14T18:30:00",
-      "end": "2026-03-14T20:30:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-13/",
-      "description": "Central College Softball vs Rivier (N.H.)\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
     },
     {
       "title": "Central College Baseball at Augustana (Ill.)",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Tennis courts",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-willamette-ore/",
       "description": "Central College Men\u2019s Tennis vs Willamette (Ore.)"
+    },
+    {
+      "title": "Central College Baseball at Cornell",
+      "start": "2026-03-24T00:00:00",
+      "end": "2026-03-24T03:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-cornell/",
+      "description": "Central College Baseball at Cornell"
     }
   ]
 }
