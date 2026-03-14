@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-14T03:52:29.565379Z",
+  "updated": "2026-03-14T05:07:20.970884Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Track and Field  NCAA Division III Indoor  Championships",
-      "start": "2026-03-13T00:00:00",
-      "end": "2026-03-15T00:00:00",
-      "location": "Birmingham\\, Ala.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-ncaa-division-iii-indoor-championships/",
-      "description": "Central College Men\u2019s Track and Field  NCAA Division III Indoor  Championships"
-    },
-    {
-      "title": "Central College Men's Wrestling vs NCAA Division III Championships",
-      "start": "2026-03-13T15:00:00",
-      "end": "2026-03-14T04:59:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-ncaa-division-iii-championships-2/",
-      "description": "Central College Men\u2019s Wrestling vs NCAA Division III Championships\\nStreaming Video: https://www.ncaa.com/liveschedule/2026/03/13"
-    },
     {
       "title": "Central College Men's Tennis vs Augustana (Ill.)",
       "start": "2026-03-14T17:00:00",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-5/",
       "description": ""
+    },
+    {
+      "title": "Fall 2026 Advising Begins",
+      "start": "2026-03-23T00:00:00",
+      "end": "2026-03-25T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/fall-2026-advising-begins/",
+      "description": ""
+    },
+    {
+      "title": "Central College Women's Tennis vs Willamette (Ore.)",
+      "start": "2026-03-23T19:00:00",
+      "end": "2026-03-23T22:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-willamette-ore/",
+      "description": "Central College Women\u2019s Tennis vs Willamette (Ore.)"
     }
   ]
 }
