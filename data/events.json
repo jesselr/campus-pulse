@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-15T17:52:22.118036Z",
+  "updated": "2026-03-15T18:31:36.610533Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Softball vs Salve Regina (R.I.)",
-      "start": "2026-03-15T16:15:00",
-      "end": "2026-03-15T18:15:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-12/",
-      "description": "Central College Softball vs Salve Regina (R.I.)\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
-    },
     {
       "title": "Central College Softball vs Hamilton (N.Y.)",
       "start": "2026-03-15T18:30:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Tennis courts",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-northwestern-2/",
       "description": "Central College Women\u2019s Tennis vs Northwestern"
+    },
+    {
+      "title": "Central College Baseball at Wartburg",
+      "start": "2026-03-27T23:00:00",
+      "end": "2026-03-28T02:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-wartburg-4/",
+      "description": "Central College Baseball at Wartburg"
     }
   ]
 }
