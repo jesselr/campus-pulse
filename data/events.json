@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-14T23:48:26.805289Z",
+  "updated": "2026-03-15T01:54:12.319879Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball at Augustana (Ill.)",
-      "start": "2026-03-14T21:00:00",
-      "end": "2026-03-15T00:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-baseball-at-augustana-ill/",
-      "description": "Central College Baseball at Augustana (Ill.)\\nStreaming Video: https://www.cciwnetwork.com/"
-    },
-    {
-      "title": "Central College Softball vs Lakeland (Wis.)",
-      "start": "2026-03-14T23:00:00",
-      "end": "2026-03-15T01:00:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-14/",
-      "description": "Central College Softball vs Lakeland (Wis.)\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
-    },
     {
       "title": "Central College Softball vs Salve Regina (R.I.)",
       "start": "2026-03-15T16:15:00",
@@ -241,6 +225,22 @@
       "location": "St. Louis\\, Mo.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-washington-univ-distance-carnival-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Washington Univ. Distance Carnival \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Washington Univ. Distance Carnival - Limited roster",
+      "start": "2026-03-27T00:00:00",
+      "end": "2026-03-29T00:00:00",
+      "location": "St. Louis\\, Mo.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-washington-univ-distance-carnival-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  Washington Univ. Distance Carnival \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Tennis vs Northwestern",
+      "start": "2026-03-27T21:00:00",
+      "end": "2026-03-28T00:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-northwestern-2/",
+      "description": "Central College Women\u2019s Tennis vs Northwestern"
     }
   ]
 }
