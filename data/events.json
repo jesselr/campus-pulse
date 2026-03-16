@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T22:27:08.648873Z",
+  "updated": "2026-03-16T22:56:56.876379Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "",
       "url": "https://central.edu/event/spring-break/",
       "description": ""
-    },
-    {
-      "title": "Central College Softball vs St. Norbert (Wis.)",
-      "start": "2026-03-16T20:45:00",
-      "end": "2026-03-16T22:45:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-9/",
-      "description": "Central College Softball vs St. Norbert (Wis.)\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
     },
     {
       "title": "Central College Softball vs Salve Regina (R.I.)",
@@ -241,6 +233,14 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-grinnell/",
       "description": "Central College Men\u2019s Tennis at Grinnell"
+    },
+    {
+      "title": "Central College Women's Track and Field  Central Invitational",
+      "start": "2026-03-28T15:00:00",
+      "end": "2026-03-28T18:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-central-invitational-2/",
+      "description": "Central College Women\u2019s Track and Field  Central Invitational"
     }
   ]
 }
