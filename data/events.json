@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T20:32:18.820794Z",
+  "updated": "2026-03-16T21:33:32.016758Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -235,12 +235,12 @@
       "description": "Central College Baseball at Wartburg"
     },
     {
-      "title": "Central College Women's Track and Field  Central Invitational",
+      "title": "Central College Men's Tennis at Grinnell",
       "start": "2026-03-28T00:00:00",
       "end": "2026-03-30T00:00:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-central-invitational-2/",
-      "description": "Central College Women\u2019s Track and Field  Central Invitational"
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-grinnell/",
+      "description": "Central College Men\u2019s Tennis at Grinnell"
     }
   ]
 }
