@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T01:43:54.431881Z",
+  "updated": "2026-03-17T04:12:50.890512Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Longview\\, Texas / Pinecrest CC",
       "url": "https://central.edu/event/central-college-mens-golf-fst-pinecrest-invitational/",
       "description": "Central College Men\u2019s Golf  Hal Sutton Invitational"
-    },
-    {
-      "title": "Central College Women's Golf  Hal Sutton Invitational",
-      "start": "2026-03-16T00:00:00",
-      "end": "2026-03-18T00:00:00",
-      "location": "Bossier City\\, La. / The Golf Club at Stonebridge",
-      "url": "https://central.edu/event/central-college-womens-golf-hal-sutton-invitational/",
-      "description": "Central College Women\u2019s Golf  Hal Sutton Invitational"
     },
     {
       "title": "Spring Break",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-mens-track-and-field-central-invitational-2/",
       "description": "Central College Men\u2019s Track and Field   Central Invitational"
+    },
+    {
+      "title": "Central College Baseball at Wartburg",
+      "start": "2026-03-28T18:00:00",
+      "end": "2026-03-28T21:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-wartburg-5/",
+      "description": "Central College Baseball at Wartburg"
     }
   ]
 }
