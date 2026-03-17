@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-17T04:12:50.890512Z",
+  "updated": "2026-03-17T05:40:28.791148Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Golf  Hal Sutton Invitational",
-      "start": "2026-03-16T00:00:00",
-      "end": "2026-03-18T00:00:00",
-      "location": "Longview\\, Texas / Pinecrest CC",
-      "url": "https://central.edu/event/central-college-mens-golf-fst-pinecrest-invitational/",
-      "description": "Central College Men\u2019s Golf  Hal Sutton Invitational"
-    },
     {
       "title": "Spring Break",
       "start": "2026-03-16T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-baseball-at-wartburg-5/",
       "description": "Central College Baseball at Wartburg"
+    },
+    {
+      "title": "Central College Men's Tennis vs Illinois College - Exhibition",
+      "start": "2026-03-28T18:00:00",
+      "end": "2026-03-28T21:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-illinois-college-exhibition/",
+      "description": "Central College Men\u2019s Tennis vs Illinois College \u2013 Exhibition"
     }
   ]
 }
