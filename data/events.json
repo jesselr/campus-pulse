@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T22:37:46.464104Z",
+  "updated": "2026-03-18T23:26:28.472938Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/spring-break/",
       "description": ""
-    },
-    {
-      "title": "Central College Softball vs Rutgers-Newark (N.J.)",
-      "start": "2026-03-18T20:45:00",
-      "end": "2026-03-18T22:45:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-15/",
-      "description": "Central College Softball vs Rutgers-Newark (N.J.)\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
     },
     {
       "title": "Central College Softball vs Hamilton (N.Y.)",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-illinois-college-2/",
       "description": "Central College Softball vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball at Wartburg",
+      "start": "2026-03-28T21:00:00",
+      "end": "2026-03-29T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-wartburg-6/",
+      "description": "Central College Baseball at Wartburg"
     }
   ]
 }
