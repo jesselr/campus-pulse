@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T22:54:18.341298Z",
+  "updated": "2026-03-20T23:23:51.636459Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-19/",
       "description": "Central College Softball vs TBD"
-    },
-    {
-      "title": "Central College Baseball vs Loras",
-      "start": "2026-03-20T20:00:00",
-      "end": "2026-03-20T23:00:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-loras-4/",
-      "description": "Central College Baseball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Tennis at Wartburg - Central represented by JV team",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/fall-2026-registration-begins-2/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Golf  Redtail Spring Shootout - Central represented by JV team",
+      "start": "2026-03-30T16:00:00",
+      "end": "2026-03-30T19:00:00",
+      "location": "Waterloo\\, Iowa / Irv Warren GC",
+      "url": "https://central.edu/event/central-college-mens-golf-redtail-spring-shootout-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Golf  Redtail Spring Shootout \u2013 Central represented by JV team"
     }
   ]
 }
