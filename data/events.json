@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T05:32:24.858052Z",
+  "updated": "2026-03-20T06:46:59.169924Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "Tucson\\, Ariz.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-19/",
       "description": "Central College Softball vs TBD"
-    },
-    {
-      "title": "Central College Softball vs Mass.-Boston",
-      "start": "2026-03-20T04:15:00",
-      "end": "2026-03-20T06:15:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-20/",
-      "description": "Central College Softball vs Mass.-Boston\\nStreaming Video: https://usssalive.com/categories/Spring-Games-2026"
     },
     {
       "title": "Central College Baseball vs Loras",
@@ -240,6 +232,14 @@
       "end": "2026-03-29T01:00:00",
       "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/flying-pans-steel-band-spring-concert/",
+      "description": ""
+    },
+    {
+      "title": "Fall 2026 Registration Begins",
+      "start": "2026-03-30T12:00:00",
+      "end": "2026-03-31T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/fall-2026-registration-begins-2/",
       "description": ""
     }
   ]
