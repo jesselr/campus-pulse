@@ -1,31 +1,7 @@
 {
-  "updated": "2026-03-21T03:36:17.584496Z",
+  "updated": "2026-03-21T05:03:55.046136Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Spring Break",
-      "start": "2026-03-16T00:00:00",
-      "end": "2026-03-22T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/spring-break/",
-      "description": ""
-    },
-    {
-      "title": "Central College Softball vs TBD",
-      "start": "2026-03-20T00:00:00",
-      "end": "2026-03-22T00:00:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-17/",
-      "description": "Central College Softball vs TBD"
-    },
-    {
-      "title": "Central College Softball vs TBD",
-      "start": "2026-03-20T00:00:00",
-      "end": "2026-03-22T00:00:00",
-      "location": "Tucson\\, Ariz.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-19/",
-      "description": "Central College Softball vs TBD"
-    },
     {
       "title": "Central College Men's Tennis at Wartburg - Central represented by JV team",
       "start": "2026-03-21T00:00:00",
@@ -241,6 +217,30 @@
       "location": "Waterloo\\, Iowa / Irv Warren GC",
       "url": "https://central.edu/event/central-college-mens-golf-redtail-spring-shootout-central-represented-by-jv-team/",
       "description": "Central College Men\u2019s Golf  Redtail Spring Shootout \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Men's Tennis vs Missouri Baptist - Exhibition",
+      "start": "2026-03-30T21:00:00",
+      "end": "2026-03-31T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-missouri-baptist-exhibition/",
+      "description": "Central College Men\u2019s Tennis vs Missouri Baptist \u2013 Exhibition"
+    },
+    {
+      "title": "Fall 2026 Registration Begins",
+      "start": "2026-03-31T00:00:00",
+      "end": "2026-04-02T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/fall-2026-registration-begins/",
+      "description": ""
+    },
+    {
+      "title": "Central College Baseball at Buena Vista",
+      "start": "2026-03-31T23:00:00",
+      "end": "2026-04-01T02:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-buena-vista-3/",
+      "description": "Central College Baseball at Buena Vista"
     }
   ]
 }
