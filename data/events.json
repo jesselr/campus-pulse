@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-22T21:47:32.629803Z",
+  "updated": "2026-03-22T22:19:55.606696Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball vs Grinnell",
-      "start": "2026-03-22T19:00:00",
-      "end": "2026-03-22T22:00:00",
-      "location": "Kansas City\\, Mo.",
-      "url": "https://central.edu/event/central-college-baseball-vs-grinnell-2/",
-      "description": "Central College Baseball vs Grinnell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Softball vs Millikin (Ill.)",
-      "start": "2026-03-22T20:00:00",
-      "end": "2026-03-22T22:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-8/",
-      "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Classes Resume",
       "start": "2026-03-23T00:00:00",
@@ -241,6 +225,22 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-select/",
       "description": "Central College Men\u2019s Track and Field  Wartburg Select"
+    },
+    {
+      "title": "Central College Men's Golf  Illinois Wesleyan Invitational",
+      "start": "2026-04-03T00:00:00",
+      "end": "2026-04-05T00:00:00",
+      "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
+      "url": "https://central.edu/event/central-college-mens-golf-illinois-wesleyan-invitational-2/",
+      "description": "Central College Men\u2019s Golf  Illinois Wesleyan Invitational"
+    },
+    {
+      "title": "Easter Break",
+      "start": "2026-04-03T00:00:00",
+      "end": "2026-04-08T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/easter-break/",
+      "description": ""
     }
   ]
 }
