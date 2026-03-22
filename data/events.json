@@ -1,15 +1,7 @@
 {
-  "updated": "2026-03-22T19:44:55.082747Z",
+  "updated": "2026-03-22T20:20:28.440239Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Softball vs Millikin (Ill.)",
-      "start": "2026-03-22T18:00:00",
-      "end": "2026-03-22T20:00:00",
-      "location": "Columbus\\, Ga.",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-7/",
-      "description": "Central College Softball vs Millikin (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Central College Baseball vs Grinnell",
       "start": "2026-03-22T19:00:00",
@@ -241,6 +233,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-select/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Select"
+    },
+    {
+      "title": "Central College Men's Track and Field  Wartburg Select",
+      "start": "2026-04-02T00:00:00",
+      "end": "2026-04-04T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-select/",
+      "description": "Central College Men\u2019s Track and Field  Wartburg Select"
     }
   ]
 }
