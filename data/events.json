@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-22T05:35:45.893748Z",
+  "updated": "2026-03-22T06:43:17.743581Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Tennis at Wartburg - Central represented by JV team",
-      "start": "2026-03-21T00:00:00",
-      "end": "2026-03-23T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-wartburg-central-represented-by-jv-team/",
-      "description": "Central College Men\u2019s Tennis at Wartburg \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Men's Tennis vs Loras - Central represented by JV team",
-      "start": "2026-03-21T00:00:00",
-      "end": "2026-03-23T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-loras-central-represented-by-jv-team/",
-      "description": "Central College Men\u2019s Tennis vs Loras \u2013 Central represented by JV team"
-    },
     {
       "title": "Central College Softball vs Millikin (Ill.)",
       "start": "2026-03-22T18:00:00",
@@ -241,6 +225,22 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-womens-tennis-at-augustana-ill/",
       "description": "Central College Women\u2019s Tennis at Augustana (Ill.)"
+    },
+    {
+      "title": "Central College Men's Tennis at Simpson",
+      "start": "2026-04-01T21:00:00",
+      "end": "2026-04-02T00:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-simpson-2/",
+      "description": "Central College Men\u2019s Tennis at Simpson"
+    },
+    {
+      "title": "Central College Women's Track and Field  Wartburg Select",
+      "start": "2026-04-02T00:00:00",
+      "end": "2026-04-04T00:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-select/",
+      "description": "Central College Women\u2019s Track and Field  Wartburg Select"
     }
   ]
 }
