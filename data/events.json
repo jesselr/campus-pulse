@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T21:31:07.229168Z",
+  "updated": "2026-03-23T22:25:59.742071Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/fall-2026-advising-begins/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs Willamette (Ore.)",
-      "start": "2026-03-23T19:00:00",
-      "end": "2026-03-23T22:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-willamette-ore/",
-      "description": "Central College Women\u2019s Tennis vs Willamette (Ore.)"
-    },
-    {
-      "title": "Central College Men's Tennis vs Willamette (Ore.)",
-      "start": "2026-03-23T19:00:00",
-      "end": "2026-03-23T22:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-willamette-ore/",
-      "description": "Central College Men\u2019s Tennis vs Willamette (Ore.)"
     },
     {
       "title": "Central College Baseball at Cornell",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/easter-break/",
       "description": ""
+    },
+    {
+      "title": "Central College Softball at Luther",
+      "start": "2026-04-03T19:00:00",
+      "end": "2026-04-03T21:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-softball-at-luther/",
+      "description": "Central College Softball at Luther"
+    },
+    {
+      "title": "Central College Baseball vs Coe",
+      "start": "2026-04-03T20:00:00",
+      "end": "2026-04-03T23:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-coe-4/",
+      "description": "Central College Baseball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
