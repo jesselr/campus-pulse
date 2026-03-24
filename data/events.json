@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-24T04:00:40.666869Z",
+  "updated": "2026-03-24T05:40:50.357114Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Classes Resume",
-      "start": "2026-03-23T00:00:00",
-      "end": "2026-03-25T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/classes-resume-5/",
-      "description": ""
-    },
-    {
-      "title": "Fall 2026 Advising Begins",
-      "start": "2026-03-23T00:00:00",
-      "end": "2026-03-25T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/fall-2026-advising-begins/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Track and Field  Washington Univ. Distance Carnival - Limited roster",
       "start": "2026-03-27T00:00:00",
@@ -241,6 +225,22 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-luther-2/",
       "description": "Central College Softball at Luther"
+    },
+    {
+      "title": "Central College Baseball vs Coe",
+      "start": "2026-04-04T18:00:00",
+      "end": "2026-04-04T21:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-coe-5/",
+      "description": "Central College Baseball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball vs Coe",
+      "start": "2026-04-04T21:00:00",
+      "end": "2026-04-05T00:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-coe-6/",
+      "description": "Central College Baseball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
