@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T09:48:00.702591Z",
+  "updated": "2026-03-25T10:42:29.186987Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -123,14 +123,6 @@
       "description": "Central College Men\u2019s Golf  Redtail Spring Shootout \u2013 Central represented by JV team"
     },
     {
-      "title": "Central College Men's Tennis vs Missouri Baptist - Exhibition",
-      "start": "2026-03-30T21:00:00",
-      "end": "2026-03-31T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-missouri-baptist-exhibition/",
-      "description": "Central College Men\u2019s Tennis vs Missouri Baptist \u2013 Exhibition"
-    },
-    {
       "title": "Fall 2026 Registration Begins",
       "start": "2026-03-31T00:00:00",
       "end": "2026-04-02T00:00:00",
@@ -161,14 +153,6 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-womens-tennis-at-augustana-ill/",
       "description": "Central College Women\u2019s Tennis at Augustana (Ill.)"
-    },
-    {
-      "title": "Central College Men's Tennis at Simpson",
-      "start": "2026-04-01T21:00:00",
-      "end": "2026-04-02T00:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-simpson-2/",
-      "description": "Central College Men\u2019s Tennis at Simpson"
     },
     {
       "title": "Central College Women's Track and Field  Wartburg Select",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-coe-6/",
       "description": "Central College Baseball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Golf  Glen Oaks Collegiate",
+      "start": "2026-04-06T00:00:00",
+      "end": "2026-04-08T00:00:00",
+      "location": "West Des Moines\\, Iowa / Glen Oaks GC",
+      "url": "https://central.edu/event/central-college-mens-golf-glen-oaks-collegiate/",
+      "description": "Central College Men\u2019s Golf  Glen Oaks Collegiate"
+    },
+    {
+      "title": "Classes Resume",
+      "start": "2026-04-07T00:00:00",
+      "end": "2026-04-09T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/classes-resume-6/",
+      "description": ""
     }
   ]
 }
