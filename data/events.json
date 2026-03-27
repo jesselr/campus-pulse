@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-27T06:09:27.144238Z",
+  "updated": "2026-03-27T07:39:37.266828Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  Washington Univ. Distance Carnival - Limited roster",
-      "start": "2026-03-27T00:00:00",
-      "end": "2026-03-27T04:59:00",
-      "location": "St. Louis\\, Mo.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-washington-univ-distance-carnival-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Washington Univ. Distance Carnival \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  Washington Univ. Distance Carnival - Limited roster",
-      "start": "2026-03-27T00:30:00",
-      "end": "2026-03-27T04:59:00",
-      "location": "St. Louis\\, Mo.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-washington-univ-distance-carnival-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Washington Univ. Distance Carnival \u2013 Limited roster"
-    },
     {
       "title": "Central College Women's Tennis vs Northwestern",
       "start": "2026-03-27T21:00:00",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-6/",
       "description": ""
+    },
+    {
+      "title": "The History Club presents Jimmy Suong",
+      "start": "2026-04-07T16:00:00",
+      "end": "2026-04-07T18:00:00",
+      "location": "Van Emmerik Studio",
+      "url": "https://central.edu/event/the-history-club-presents-jimmy-suong/",
+      "description": "Soung was a child survivor of the \u201ckilling fields\u201d of the Khmer Rouge in Cambodia and emigrated to the United States.  He went on to serve in the U.S. military. The 30-year veteran currently serves as the senior human resources specialist for the Iowa Army National Guard."
+    },
+    {
+      "title": "Central College Baseball vs Buena Vista",
+      "start": "2026-04-07T18:00:00",
+      "end": "2026-04-07T21:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-2/",
+      "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
