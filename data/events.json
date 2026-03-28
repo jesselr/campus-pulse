@@ -1,23 +1,7 @@
 {
-  "updated": "2026-03-27T23:52:12.873682Z",
+  "updated": "2026-03-28T01:45:29.486107Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Tennis vs Northwestern",
-      "start": "2026-03-27T21:00:00",
-      "end": "2026-03-28T00:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-northwestern-2/",
-      "description": "Central College Women\u2019s Tennis vs Northwestern"
-    },
-    {
-      "title": "Central College Baseball at Wartburg",
-      "start": "2026-03-27T22:00:00",
-      "end": "2026-03-28T01:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-wartburg-4/",
-      "description": "Central College Baseball at Wartburg"
-    },
     {
       "title": "Central College Men's Tennis at Grinnell",
       "start": "2026-03-28T00:00:00",
@@ -240,6 +224,22 @@
       "end": "2026-04-07T21:00:00",
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-2/",
+      "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball at Nebraska Wesleyan",
+      "start": "2026-04-07T20:00:00",
+      "end": "2026-04-07T22:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-softball-at-nebraska-wesleyan/",
+      "description": "Central College Softball at Nebraska Wesleyan"
+    },
+    {
+      "title": "Central College Baseball vs Buena Vista",
+      "start": "2026-04-07T21:00:00",
+      "end": "2026-04-08T00:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-3/",
       "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
