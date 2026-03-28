@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T22:54:50.156565Z",
+  "updated": "2026-03-28T23:25:24.641312Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-grinnell/",
       "description": "Central College Men\u2019s Tennis at Grinnell"
-    },
-    {
-      "title": "Central College Softball vs Illinois College",
-      "start": "2026-03-28T21:00:00",
-      "end": "2026-03-28T23:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-illinois-college-2/",
-      "description": "Central College Softball vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Baseball at Wartburg",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Dutch Spring Multi - Limited roster",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-12T00:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
     }
   ]
 }
