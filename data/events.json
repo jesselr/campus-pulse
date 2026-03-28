@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T17:34:50.914853Z",
+  "updated": "2026-03-28T18:32:17.343748Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-grinnell/",
       "description": "Central College Men\u2019s Tennis at Grinnell"
-    },
-    {
-      "title": "Central College Women's Track and Field  Central Invitational",
-      "start": "2026-03-28T15:00:00",
-      "end": "2026-03-28T18:00:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-central-invitational-2/",
-      "description": "Central College Women\u2019s Track and Field  Central Invitational"
-    },
-    {
-      "title": "Central College Men's Track and Field   Central Invitational",
-      "start": "2026-03-28T15:00:00",
-      "end": "2026-03-28T18:00:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-central-invitational-2/",
-      "description": "Central College Men\u2019s Track and Field   Central Invitational"
     },
     {
       "title": "Central College Baseball at Wartburg",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-3/",
       "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball at Nebraska Wesleyan",
+      "start": "2026-04-07T22:00:00",
+      "end": "2026-04-08T00:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-softball-at-nebraska-wesleyan-2/",
+      "description": "Central College Softball at Nebraska Wesleyan"
+    },
+    {
+      "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
+      "start": "2026-04-08T00:00:00",
+      "end": "2026-04-10T00:00:00",
+      "location": "Oskaloosa\\, Iowa / Edmundson GC",
+      "url": "https://central.edu/event/central-college-mens-golf-william-penn-invitational-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Golf  William Penn Invitational \u2013 Central represented by JV team"
     }
   ]
 }
