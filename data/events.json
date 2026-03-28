@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T20:54:00.930841Z",
+  "updated": "2026-03-28T21:24:29.103181Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,30 +9,6 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-grinnell/",
       "description": "Central College Men\u2019s Tennis at Grinnell"
-    },
-    {
-      "title": "Central College Baseball at Wartburg",
-      "start": "2026-03-28T18:00:00",
-      "end": "2026-03-28T21:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-wartburg-5/",
-      "description": "Central College Baseball at Wartburg"
-    },
-    {
-      "title": "Central College Men's Tennis vs Illinois College - Exhibition",
-      "start": "2026-03-28T18:00:00",
-      "end": "2026-03-28T21:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-illinois-college-exhibition/",
-      "description": "Central College Men\u2019s Tennis vs Illinois College \u2013 Exhibition"
-    },
-    {
-      "title": "Central College Softball vs Illinois College",
-      "start": "2026-03-28T19:00:00",
-      "end": "2026-03-28T21:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-illinois-college/",
-      "description": "Central College Softball vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Softball vs Illinois College",
@@ -241,6 +217,30 @@
       "location": "Oskaloosa\\, Iowa / Edmundson GC",
       "url": "https://central.edu/event/central-college-mens-golf-william-penn-invitational-central-represented-by-jv-team/",
       "description": "Central College Men\u2019s Golf  William Penn Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Dance team vs NCANDA College Nationals",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-11T00:00:00",
+      "location": "Daytona Beach\\, Fla.",
+      "url": "https://central.edu/event/central-college-dance-team-vs-ncanda-college-nationals/",
+      "description": "Central College Dance team vs NCANDA College Nationals"
+    },
+    {
+      "title": "Central College Cheerleading  NCANDA College Nationals",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-11T00:00:00",
+      "location": "Daytona Beach\\, Fla.",
+      "url": "https://central.edu/event/central-college-cheerleading-ncanda-college-nationals/",
+      "description": "Central College Cheerleading  NCANDA College Nationals"
+    },
+    {
+      "title": "Central College Women's Track and Field  Dutch Spring Multi - Limited roster",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-12T00:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
     }
   ]
 }
