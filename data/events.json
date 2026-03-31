@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T20:37:34.657545Z",
+  "updated": "2026-03-31T21:33:44.345228Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -36,8 +36,8 @@
     },
     {
       "title": "Central College Women's Track and Field  Wartburg Select",
-      "start": "2026-04-02T19:00:00",
-      "end": "2026-04-03T04:59:00",
+      "start": "2026-04-02T00:00:00",
+      "end": "2026-04-04T00:00:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-select/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Select"
@@ -163,6 +163,14 @@
       "description": "Central College Softball at Nebraska Wesleyan"
     },
     {
+      "title": "Hoo-Rah Day",
+      "start": "2026-04-08T00:00:00",
+      "end": "2026-04-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/hoo-rah-day/",
+      "description": "Hoo-Rah Day celebrates the entire Central family. Join us on campus and virtually as we show the world how special it is to be part of the Dutch family. Let\u2019s paint the world red and white on Wednesday\\, April 8! \\nSchedule"
+    },
+    {
       "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
       "start": "2026-04-08T00:00:00",
       "end": "2026-04-10T00:00:00",
@@ -187,20 +195,20 @@
       "description": "Central College Cheerleading  NCANDA College Nationals"
     },
     {
-      "title": "Central College Women's Track and Field  Dutch Spring Multi - Limited roster",
-      "start": "2026-04-09T00:00:00",
-      "end": "2026-04-12T00:00:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
-    },
-    {
       "title": "Central College Men's Track and Field  Dutch Spring Multi - Limited roster",
       "start": "2026-04-09T00:00:00",
       "end": "2026-04-12T00:00:00",
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Track and Field  Dutch Spring Multi - Limited roster",
+      "start": "2026-04-09T18:00:00",
+      "end": "2026-04-10T04:59:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
     },
     {
       "title": "Central College Women's Track and Field  Jim Duncan Invitational\t - Limited roster",
@@ -233,14 +241,6 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-bethany-lutheran-minn/",
       "description": "Central College Softball vs Bethany Lutheran (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Baseball at Luther",
-      "start": "2026-04-10T20:00:00",
-      "end": "2026-04-10T23:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-luther-4/",
-      "description": "Central College Baseball at Luther"
     }
   ]
 }
