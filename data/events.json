@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-01T02:26:26.620367Z",
+  "updated": "2026-04-01T05:10:34.843452Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Fall 2026 Registration Begins",
-      "start": "2026-03-31T00:00:00",
-      "end": "2026-04-02T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/fall-2026-registration-begins/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Tennis at Augustana (Ill.)",
       "start": "2026-04-01T21:30:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-bethany-lutheran-minn-2/",
       "description": "Central College Softball vs Bethany Lutheran (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Jazzmania+",
+      "start": "2026-04-11T00:00:00",
+      "end": "2026-04-11T01:00:00",
+      "location": "Cox-Snow Music Center\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/jazzmania-4/",
+      "description": ""
     }
   ]
 }
