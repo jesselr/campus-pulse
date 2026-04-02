@@ -1,11 +1,19 @@
 {
-  "updated": "2026-04-02T01:51:05.833359Z",
+  "updated": "2026-04-02T04:25:53.334024Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
+      "title": "Central College Women's Track and Field  Dutch-Storm Dual",
+      "start": "2026-04-02T20:30:00",
+      "end": "2026-04-02T23:30:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-storm-dual/",
+      "description": "Central College Women\u2019s Track and Field  Dutch-Storm Dual"
+    },
+    {
       "title": "Central College Women's Track and Field  Wartburg Select",
-      "start": "2026-04-02T00:00:00",
-      "end": "2026-04-04T00:00:00",
+      "start": "2026-04-03T00:00:00",
+      "end": "2026-04-05T00:00:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-select/",
       "description": "Central College Women\u2019s Track and Field  Wartburg Select"
@@ -136,7 +144,7 @@
       "end": "2026-04-10T00:00:00",
       "location": "",
       "url": "https://central.edu/event/hoo-rah-day/",
-      "description": "Hoo-Rah Day celebrates the entire Central family. Join us on campus and virtually as we show the world how special it is to be part of the Dutch family. Let\u2019s paint the world red and white on Wednesday\\, April 8! \\nSchedule"
+      "description": "Hoo-Rah Day celebrates the entire Central family. Join us on campus and virtually as we show the world how special it is to be part of the Dutch family. Let\u2019s paint the world red and white on Wednesday\\, April 8! \\nSchedule \\n.button {color:#fff!important;} .button:hover  {color:#cb2026!important;}"
     },
     {
       "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
@@ -233,14 +241,6 @@
       "location": "Cox-Snow Music Center\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/jazzmania-4/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Track and Field  Dick Young Invitational",
-      "start": "2026-04-11T00:00:00",
-      "end": "2026-04-13T00:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dick-young-invitational-3/",
-      "description": "Central College Women\u2019s Track and Field  Dick Young Invitational"
     }
   ]
 }
