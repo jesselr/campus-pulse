@@ -1,31 +1,7 @@
 {
-  "updated": "2026-04-04T04:28:15.083758Z",
+  "updated": "2026-04-04T05:40:00.653172Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  Wartburg Select",
-      "start": "2026-04-03T00:00:00",
-      "end": "2026-04-05T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-wartburg-select/",
-      "description": "Central College Women\u2019s Track and Field  Wartburg Select"
-    },
-    {
-      "title": "Central College Men's Track and Field  Wartburg Select",
-      "start": "2026-04-03T00:00:00",
-      "end": "2026-04-05T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-wartburg-select/",
-      "description": "Central College Men\u2019s Track and Field  Wartburg Select"
-    },
-    {
-      "title": "Central College Men's Golf  Illinois Wesleyan Invitational",
-      "start": "2026-04-03T00:00:00",
-      "end": "2026-04-05T00:00:00",
-      "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
-      "url": "https://central.edu/event/central-college-mens-golf-illinois-wesleyan-invitational-2/",
-      "description": "Central College Men\u2019s Golf  Illinois Wesleyan Invitational"
-    },
     {
       "title": "Easter Break",
       "start": "2026-04-03T00:00:00",
@@ -241,6 +217,30 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-dick-young-invitational-3/",
       "description": "Central College Women\u2019s Track and Field  Dick Young Invitational"
+    },
+    {
+      "title": "Central College Men's Track and Field  Dick Young Invitational",
+      "start": "2026-04-11T00:00:00",
+      "end": "2026-04-13T00:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-dick-young-invitational-2/",
+      "description": "Central College Men\u2019s Track and Field  Dick Young Invitational"
+    },
+    {
+      "title": "Central College Women's Golf  Kathy Niepagen Spring Fling",
+      "start": "2026-04-11T00:00:00",
+      "end": "2026-04-13T00:00:00",
+      "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
+      "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
+      "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
+    },
+    {
+      "title": "Central College Baseball at Luther",
+      "start": "2026-04-11T17:00:00",
+      "end": "2026-04-11T20:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-luther-5/",
+      "description": "Central College Baseball at Luther"
     }
   ]
 }
