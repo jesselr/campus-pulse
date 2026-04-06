@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T23:05:57.874480Z",
+  "updated": "2026-04-06T23:57:43.619411Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,6 +17,14 @@
       "location": "West Des Moines\\, Iowa / Glen Oaks GC",
       "url": "https://central.edu/event/central-college-mens-golf-glen-oaks-collegiate/",
       "description": "Central College Men\u2019s Golf  Glen Oaks Collegiate"
+    },
+    {
+      "title": "Central College Baseball vs Coe",
+      "start": "2026-04-06T20:00:00",
+      "end": "2026-04-06T23:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-coe-4/",
+      "description": "Central College Baseball vs Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Classes Resume",
@@ -233,14 +241,6 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-dubuque-3/",
       "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Tennis at Cornell",
-      "start": "2026-04-12T19:00:00",
-      "end": "2026-04-12T22:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-cornell/",
-      "description": "Central College Women\u2019s Tennis at Cornell"
     }
   ]
 }
