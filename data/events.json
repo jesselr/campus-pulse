@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T18:09:51.677883Z",
+  "updated": "2026-04-06T19:34:37.646937Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -75,6 +75,14 @@
       "description": "Central College Men\u2019s Golf  William Penn Invitational \u2013 Central represented by JV team"
     },
     {
+      "title": "Central College Men's Track and Field  Dutch Spring Multi - Limited roster",
+      "start": "2026-04-08T16:00:00",
+      "end": "2026-04-09T04:59:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
+    },
+    {
       "title": "Central College Softball at Nebraska Wesleyan",
       "start": "2026-04-08T22:00:00",
       "end": "2026-04-09T00:00:00",
@@ -113,14 +121,6 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  Dutch Spring Multi - Limited roster",
-      "start": "2026-04-09T18:30:00",
-      "end": "2026-04-10T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
     },
     {
       "title": "Central College Women's Track and Field  Jim Duncan Invitational\t - Limited roster",
