@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-07T02:35:23.451982Z",
+  "updated": "2026-04-07T05:05:06.315254Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Easter Break",
-      "start": "2026-04-03T00:00:00",
-      "end": "2026-04-08T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/easter-break/",
-      "description": ""
-    },
     {
       "title": "Classes Resume",
       "start": "2026-04-07T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Upper Chapel",
       "url": "https://central.edu/event/andrew-mahaffey-voice-and-organ-recital/",
       "description": "Link to event: https://my.central.edu/events/5442053\\nAndrew Mahaffey\\, Voice and Organ Recital"
+    },
+    {
+      "title": "Central College Softball vs Dubuque",
+      "start": "2026-04-12T20:00:00",
+      "end": "2026-04-12T22:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
+      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
