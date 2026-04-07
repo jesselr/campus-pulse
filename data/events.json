@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T20:40:40.010641Z",
+  "updated": "2026-04-07T21:37:30.306925Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-6/",
       "description": ""
-    },
-    {
-      "title": "Central College Baseball vs Buena Vista",
-      "start": "2026-04-07T18:00:00",
-      "end": "2026-04-07T21:00:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-2/",
-      "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Baseball vs Buena Vista",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/new-student-registration-orientation/",
       "description": ""
+    },
+    {
+      "title": "Central College Baseball vs Simpson",
+      "start": "2026-04-14T20:00:00",
+      "end": "2026-04-14T23:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-simpson/",
+      "description": "Central College Baseball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
