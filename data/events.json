@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T17:31:01.579063Z",
+  "updated": "2026-04-07T18:56:14.457624Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-6/",
       "description": ""
-    },
-    {
-      "title": "The History Club presents Jimmy Suong",
-      "start": "2026-04-07T16:00:00",
-      "end": "2026-04-07T18:00:00",
-      "location": "Van Emmerik Studio",
-      "url": "https://central.edu/event/the-history-club-presents-jimmy-suong/",
-      "description": "Soung was a child survivor of the \u201ckilling fields\u201d of the Khmer Rouge in Cambodia and emigrated to the United States.  He went on to serve in the U.S. military. The 30-year veteran currently serves as the senior human resources specialist for the Iowa Army National Guard."
     },
     {
       "title": "Central College Baseball vs Buena Vista",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
       "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "New Student Registration & Orientation",
+      "start": "2026-04-14T00:00:00",
+      "end": "2026-04-18T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-student-registration-orientation/",
+      "description": ""
     }
   ]
 }
