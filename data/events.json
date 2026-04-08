@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-08T04:35:38.284325Z",
+  "updated": "2026-04-08T06:18:16.467722Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Classes Resume",
-      "start": "2026-04-07T00:00:00",
-      "end": "2026-04-09T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/classes-resume-6/",
-      "description": ""
-    },
     {
       "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
       "start": "2026-04-08T00:00:00",
@@ -240,6 +232,14 @@
       "end": "2026-04-15T21:00:00",
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-simpson/",
+      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Simpson",
+      "start": "2026-04-15T21:00:00",
+      "end": "2026-04-15T23:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
       "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
