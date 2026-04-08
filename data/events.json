@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T23:32:29.809342Z",
+  "updated": "2026-04-08T01:56:25.619366Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-6/",
       "description": ""
-    },
-    {
-      "title": "Central College Baseball vs Buena Vista",
-      "start": "2026-04-07T21:00:00",
-      "end": "2026-04-08T00:00:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-buena-vista-3/",
-      "description": "Central College Baseball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Hoo-Rah Day",
@@ -241,6 +233,14 @@
       "location": "Indianola\\, Iowa",
       "url": "https://central.edu/event/central-college-baseball-at-simpson/",
       "description": "Central College Baseball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Golf  Storm Spring Classic - Central represented by JV team",
+      "start": "2026-04-15T00:00:00",
+      "end": "2026-04-17T00:00:00",
+      "location": "Indianola\\, Iowa / Indianola GC",
+      "url": "https://central.edu/event/central-college-mens-golf-storm-spring-classic-central-represented-by-jv-team-2/",
+      "description": "Central College Men\u2019s Golf  Storm Spring Classic \u2013 Central represented by JV team"
     }
   ]
 }
