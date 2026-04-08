@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T01:56:25.619366Z",
+  "updated": "2026-04-08T04:35:38.284325Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/classes-resume-6/",
       "description": ""
-    },
-    {
-      "title": "Hoo-Rah Day",
-      "start": "2026-04-08T00:00:00",
-      "end": "2026-04-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/hoo-rah-day/",
-      "description": "Hoo-Rah Day celebrates the entire Central family. Join us on campus and virtually as we show the world how special it is to be part of the Dutch family. Let\u2019s paint the world red and white on Wednesday\\, April 8! \\nSchedule \\n.button {color:#fff!important;} .button:hover  {color:#cb2026!important;}"
     },
     {
       "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
@@ -241,6 +233,14 @@
       "location": "Indianola\\, Iowa / Indianola GC",
       "url": "https://central.edu/event/central-college-mens-golf-storm-spring-classic-central-represented-by-jv-team-2/",
       "description": "Central College Men\u2019s Golf  Storm Spring Classic \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Softball vs Simpson",
+      "start": "2026-04-15T19:00:00",
+      "end": "2026-04-15T21:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-simpson/",
+      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
