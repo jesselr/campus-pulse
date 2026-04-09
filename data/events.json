@@ -1,31 +1,7 @@
 {
-  "updated": "2026-04-09T04:57:17.508978Z",
+  "updated": "2026-04-09T06:20:53.355617Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Golf  William Penn Invitational - Central represented by JV team",
-      "start": "2026-04-08T00:00:00",
-      "end": "2026-04-10T00:00:00",
-      "location": "Oskaloosa\\, Iowa / Edmundson GC",
-      "url": "https://central.edu/event/central-college-mens-golf-william-penn-invitational-central-represented-by-jv-team/",
-      "description": "Central College Men\u2019s Golf  William Penn Invitational \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Women's Track and Field  Dutch Spring Multi - Limited roster",
-      "start": "2026-04-08T16:00:00",
-      "end": "2026-04-09T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-spring-multi-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Men's Track and Field  Dutch Spring Multi - Limited roster",
-      "start": "2026-04-08T16:00:00",
-      "end": "2026-04-09T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
-    },
     {
       "title": "Central College Dance team vs NCANDA College Nationals",
       "start": "2026-04-09T00:00:00",
@@ -241,6 +217,30 @@
       "location": "Azusa\\, Calif.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-bryan-clay-invitational-limited-roster-3/",
       "description": "Central College Women\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Bryan Clay Invitational - Limited roster",
+      "start": "2026-04-16T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "Azusa\\, Calif.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-bryan-clay-invitational-limited-roster-2/",
+      "description": "Central College Men\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Track and Field  Augustana Meet of Champions",
+      "start": "2026-04-17T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-augustana-meet-of-champions-3/",
+      "description": "Central College Women\u2019s Track and Field  Augustana Meet of Champions"
+    },
+    {
+      "title": "Central College Men's Golf  Forester Spring Invitational",
+      "start": "2026-04-17T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "Le Sueur\\, Minn. /  Le Sueur CC \u2013 New Prague\\, Minn. /  New Prague GC",
+      "url": "https://central.edu/event/central-college-mens-golf-bobby-krig-invitational-3/",
+      "description": "Central College Men\u2019s Golf  Forester Spring Invitational"
     }
   ]
 }
