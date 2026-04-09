@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T02:28:37.870093Z",
+  "updated": "2026-04-09T04:57:17.508978Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -60,8 +60,8 @@
     },
     {
       "title": "Central College Men's Track and Field  Jim Duncan Invitational - Limited roster",
-      "start": "2026-04-10T00:00:00",
-      "end": "2026-04-12T00:00:00",
+      "start": "2026-04-10T17:30:00",
+      "end": "2026-04-10T20:30:00",
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-jim-duncan-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Jim Duncan Invitational \u2013 Limited roster"
@@ -107,20 +107,20 @@
       "description": "Central College Women\u2019s Track and Field  Dick Young Invitational"
     },
     {
-      "title": "Central College Men's Track and Field  Dick Young Invitational",
-      "start": "2026-04-11T00:00:00",
-      "end": "2026-04-13T00:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dick-young-invitational-2/",
-      "description": "Central College Men\u2019s Track and Field  Dick Young Invitational"
-    },
-    {
       "title": "Central College Women's Golf  Kathy Niepagen Spring Fling",
       "start": "2026-04-11T00:00:00",
       "end": "2026-04-13T00:00:00",
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
+    },
+    {
+      "title": "Central College Men's Track and Field  Dick Young Invitational",
+      "start": "2026-04-11T15:00:00",
+      "end": "2026-04-11T18:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-dick-young-invitational-2/",
+      "description": "Central College Men\u2019s Track and Field  Dick Young Invitational\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/?B=3909908"
     },
     {
       "title": "Central College Baseball at Luther",
