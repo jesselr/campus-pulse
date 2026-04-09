@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T23:57:34.027805Z",
+  "updated": "2026-04-09T02:28:37.870093Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,22 +25,6 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-spring-multi-limited-roster/",
       "description": "Central College Men\u2019s Track and Field  Dutch Spring Multi \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Softball at Nebraska Wesleyan",
-      "start": "2026-04-08T22:00:00",
-      "end": "2026-04-09T00:00:00",
-      "location": "Lincoln\\, Neb.",
-      "url": "https://central.edu/event/central-college-softball-at-nebraska-wesleyan/",
-      "description": "Central College Softball at Nebraska Wesleyan"
-    },
-    {
-      "title": "Central College Softball at Nebraska Wesleyan",
-      "start": "2026-04-09T00:00:00",
-      "end": "2026-04-09T02:00:00",
-      "location": "Lincoln\\, Neb.",
-      "url": "https://central.edu/event/central-college-softball-at-nebraska-wesleyan-2/",
-      "description": "Central College Softball at Nebraska Wesleyan"
     },
     {
       "title": "Central College Dance team vs NCANDA College Nationals",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
       "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis vs Truman State (Mo.)",
+      "start": "2026-04-15T21:00:00",
+      "end": "2026-04-16T00:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-truman-state-mo-2/",
+      "description": "Central College Women\u2019s Tennis vs Truman State (Mo.)"
+    },
+    {
+      "title": "Central College Women's Track and Field  Bryan Clay Invitational - Limited roster",
+      "start": "2026-04-16T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "Azusa\\, Calif.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-bryan-clay-invitational-limited-roster-3/",
+      "description": "Central College Women\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
     }
   ]
 }
