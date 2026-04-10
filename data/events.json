@@ -1,23 +1,7 @@
 {
-  "updated": "2026-04-10T02:56:24.069788Z",
+  "updated": "2026-04-10T05:22:50.671468Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Dance team vs NCANDA College Nationals",
-      "start": "2026-04-09T00:00:00",
-      "end": "2026-04-11T00:00:00",
-      "location": "Daytona Beach\\, Fla.",
-      "url": "https://central.edu/event/central-college-dance-team-vs-ncanda-college-nationals/",
-      "description": "Central College Dance team vs NCANDA College Nationals"
-    },
-    {
-      "title": "Central College Cheerleading  NCANDA College Nationals",
-      "start": "2026-04-09T00:00:00",
-      "end": "2026-04-11T00:00:00",
-      "location": "Daytona Beach\\, Fla.",
-      "url": "https://central.edu/event/central-college-cheerleading-ncanda-college-nationals/",
-      "description": "Central College Cheerleading  NCANDA College Nationals"
-    },
     {
       "title": "Central College Men's Golf  Bob Ebels Invitational",
       "start": "2026-04-10T00:00:00",
@@ -241,6 +225,22 @@
       "location": "Le Sueur\\, Minn. /  Le Sueur CC \u2013 New Prague\\, Minn. /  New Prague GC",
       "url": "https://central.edu/event/central-college-mens-golf-bobby-krig-invitational-3/",
       "description": "Central College Men\u2019s Golf  Forester Spring Invitational"
+    },
+    {
+      "title": "Central College Men's Track and Field  Augustana Meet of Champions",
+      "start": "2026-04-17T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-augustana-meet-of-champions-2/",
+      "description": "Central College Men\u2019s Track and Field  Augustana Meet of Champions"
+    },
+    {
+      "title": "Last Day to Withdraw from a Course",
+      "start": "2026-04-17T00:00:00",
+      "end": "2026-04-19T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-withdraw-from-a-course-2/",
+      "description": ""
     }
   ]
 }
