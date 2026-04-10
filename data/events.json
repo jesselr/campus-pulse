@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T23:58:50.679340Z",
+  "updated": "2026-04-10T02:56:24.069788Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -19,14 +19,6 @@
       "description": "Central College Cheerleading  NCANDA College Nationals"
     },
     {
-      "title": "Central College Women's Track and Field  Jim Duncan Invitational\t - Limited roster",
-      "start": "2026-04-10T00:00:00",
-      "end": "2026-04-12T00:00:00",
-      "location": "Des Moines\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-jim-duncan-invitational-limited-roster-3/",
-      "description": "Central College Women\u2019s Track and Field  Jim Duncan Invitational\t \u2013 Limited roster"
-    },
-    {
       "title": "Central College Men's Golf  Bob Ebels Invitational",
       "start": "2026-04-10T00:00:00",
       "end": "2026-04-12T00:00:00",
@@ -35,12 +27,28 @@
       "description": "Central College Men\u2019s Golf  Bob Ebels Invitational"
     },
     {
+      "title": "Central College Women's Track and Field  Jim Duncan Invitational\t - Limited roster",
+      "start": "2026-04-10T17:30:00",
+      "end": "2026-04-10T20:30:00",
+      "location": "Des Moines\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-jim-duncan-invitational-limited-roster-3/",
+      "description": "Central College Women\u2019s Track and Field  Jim Duncan Invitational\t \u2013 Limited roster"
+    },
+    {
       "title": "Central College Men's Track and Field  Jim Duncan Invitational - Limited roster",
       "start": "2026-04-10T17:30:00",
       "end": "2026-04-10T20:30:00",
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-jim-duncan-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Jim Duncan Invitational \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Baseball at Luther",
+      "start": "2026-04-10T18:00:00",
+      "end": "2026-04-10T21:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-luther-4/",
+      "description": "Central College Baseball at Luther"
     },
     {
       "title": "Central College Softball vs Bethany Lutheran (Minn.)",
@@ -52,10 +60,10 @@
     },
     {
       "title": "Central College Baseball at Luther",
-      "start": "2026-04-10T20:00:00",
-      "end": "2026-04-10T23:00:00",
+      "start": "2026-04-10T21:00:00",
+      "end": "2026-04-11T00:00:00",
       "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-luther-4/",
+      "url": "https://central.edu/event/central-college-baseball-at-luther-6/",
       "description": "Central College Baseball at Luther"
     },
     {
@@ -75,20 +83,20 @@
       "description": ""
     },
     {
-      "title": "Central College Women's Track and Field  Dick Young Invitational",
-      "start": "2026-04-11T00:00:00",
-      "end": "2026-04-13T00:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dick-young-invitational-3/",
-      "description": "Central College Women\u2019s Track and Field  Dick Young Invitational"
-    },
-    {
       "title": "Central College Women's Golf  Kathy Niepagen Spring Fling",
       "start": "2026-04-11T00:00:00",
       "end": "2026-04-13T00:00:00",
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
+    },
+    {
+      "title": "Central College Women's Track and Field  Dick Young Invitational",
+      "start": "2026-04-11T15:00:00",
+      "end": "2026-04-11T18:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-dick-young-invitational-3/",
+      "description": "Central College Women\u2019s Track and Field  Dick Young Invitational\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/?B=3909908"
     },
     {
       "title": "Central College Men's Track and Field  Dick Young Invitational",
@@ -113,14 +121,6 @@
       "location": "Upper Chapel",
       "url": "https://central.edu/event/maddie-macgregor-composition-recital/",
       "description": "Link to event: https://my.central.edu/events/5442051\\nMaddie MacGregor\\, Composition Recital"
-    },
-    {
-      "title": "Central College Baseball at Luther",
-      "start": "2026-04-11T20:00:00",
-      "end": "2026-04-11T23:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-luther-6/",
-      "description": "Central College Baseball at Luther"
     },
     {
       "title": "Zeke McCarty\\, Senior Voice Recital",
