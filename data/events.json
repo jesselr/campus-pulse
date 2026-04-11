@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-11T04:50:33.378910Z",
+  "updated": "2026-04-11T05:56:46.349039Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Golf  Bob Ebels Invitational",
-      "start": "2026-04-10T00:00:00",
-      "end": "2026-04-12T00:00:00",
-      "location": "Galesburg\\, Ill. / Soangetaha CC",
-      "url": "https://central.edu/event/central-college-mens-golf-knox-invitational-2/",
-      "description": "Central College Men\u2019s Golf  Bob Ebels Invitational"
-    },
     {
       "title": "Central College Women's Golf  Kathy Niepagen Spring Fling",
       "start": "2026-04-11T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Bos Landen Golf Club",
       "url": "https://central.edu/event/central-college-womens-golf-the-battle-at-bos-landen/",
       "description": "Central College Women\u2019s Golf  The Battle at Bos Landen"
+    },
+    {
+      "title": "Central College Softball at Luther",
+      "start": "2026-04-19T18:00:00",
+      "end": "2026-04-19T20:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-softball-at-luther/",
+      "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
