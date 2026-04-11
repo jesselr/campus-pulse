@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T22:59:35.983391Z",
+  "updated": "2026-04-11T23:41:49.905952Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
-    },
-    {
-      "title": "Zeke McCarty\\, Senior Voice Recital",
-      "start": "2026-04-11T22:00:00",
-      "end": "2026-04-11T23:00:00",
-      "location": "Recital Hall",
-      "url": "https://central.edu/event/zeke-mccarty-senior-voice-recital/",
-      "description": "Link to event: https://my.central.edu/events/5442052\\nZeke McCarty\\, Senior Voice Recital"
     },
     {
       "title": "Central College Softball vs Dubuque",
@@ -233,6 +225,14 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-luther-2/",
       "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis at Dubuque",
+      "start": "2026-04-21T00:00:00",
+      "end": "2026-04-23T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-first-round-2/",
+      "description": "Central College Women\u2019s Tennis at Dubuque"
     },
     {
       "title": "College Community Orchestra Spring Concert",
