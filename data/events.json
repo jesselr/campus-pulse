@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T16:34:31.653079Z",
+  "updated": "2026-04-11T17:26:40.729811Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
-    },
-    {
-      "title": "Central College Baseball at Luther",
-      "start": "2026-04-11T14:00:00",
-      "end": "2026-04-11T17:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-luther-5/",
-      "description": "Central College Baseball at Luther"
     },
     {
       "title": "Central College Women's Track and Field  Dick Young Invitational",
@@ -241,6 +233,14 @@
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-luther/",
       "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis at Grinnell",
+      "start": "2026-04-19T19:00:00",
+      "end": "2026-04-19T22:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-st-ambrose/",
+      "description": "Central College Women\u2019s Tennis at Grinnell"
     }
   ]
 }
