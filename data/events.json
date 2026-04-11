@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T13:51:48.338662Z",
+  "updated": "2026-04-11T14:32:06.079636Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,6 +9,14 @@
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
+    },
+    {
+      "title": "Central College Baseball at Luther",
+      "start": "2026-04-11T14:00:00",
+      "end": "2026-04-11T17:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-baseball-at-luther-5/",
+      "description": "Central College Baseball at Luther"
     },
     {
       "title": "Central College Women's Track and Field  Dick Young Invitational",
@@ -25,14 +33,6 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dick-young-invitational-2/",
       "description": "Central College Men\u2019s Track and Field  Dick Young Invitational\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/?B=3909908"
-    },
-    {
-      "title": "Central College Baseball at Luther",
-      "start": "2026-04-11T17:00:00",
-      "end": "2026-04-11T20:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-luther-5/",
-      "description": "Central College Baseball at Luther"
     },
     {
       "title": "Maddie MacGregor\\, Composition Recital",
