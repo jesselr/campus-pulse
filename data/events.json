@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T17:56:53.443320Z",
+  "updated": "2026-04-11T18:42:58.477156Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Bloomington\\, Ill. / Ironwood GC \u2013 Weibring GC",
       "url": "https://central.edu/event/central-college-womens-golf-kathy-niepagen-spring-fling-2/",
       "description": "Central College Women\u2019s Golf  Kathy Niepagen Spring Fling"
-    },
-    {
-      "title": "Central College Women's Track and Field  Dick Young Invitational",
-      "start": "2026-04-11T15:00:00",
-      "end": "2026-04-11T18:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dick-young-invitational-3/",
-      "description": "Central College Women\u2019s Track and Field  Dick Young Invitational\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/?B=3909908"
-    },
-    {
-      "title": "Central College Men's Track and Field  Dick Young Invitational",
-      "start": "2026-04-11T15:00:00",
-      "end": "2026-04-11T18:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-dick-young-invitational-2/",
-      "description": "Central College Men\u2019s Track and Field  Dick Young Invitational\\nStreaming Video: https://watchmidwestsports.com/grinnellpioneers/?B=3909908"
     },
     {
       "title": "Maddie MacGregor\\, Composition Recital",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Tennis courts",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-st-ambrose/",
       "description": "Central College Women\u2019s Tennis at Grinnell"
+    },
+    {
+      "title": "College Community Orchestra Spring Concert",
+      "start": "2026-04-19T20:00:00",
+      "end": "2026-04-19T21:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/college-community-orchestra-spring-concert/",
+      "description": ""
+    },
+    {
+      "title": "Central College Softball at Luther",
+      "start": "2026-04-19T20:00:00",
+      "end": "2026-04-19T22:00:00",
+      "location": "Decorah\\, Iowa",
+      "url": "https://central.edu/event/central-college-softball-at-luther-2/",
+      "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
