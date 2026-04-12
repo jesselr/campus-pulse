@@ -1,23 +1,7 @@
 {
-  "updated": "2026-04-12T21:59:18.752977Z",
+  "updated": "2026-04-12T22:41:19.450132Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Tennis at Cornell",
-      "start": "2026-04-12T19:00:00",
-      "end": "2026-04-12T22:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-cornell/",
-      "description": "Central College Women\u2019s Tennis at Cornell"
-    },
-    {
-      "title": "Central College Softball vs Dubuque",
-      "start": "2026-04-12T20:00:00",
-      "end": "2026-04-12T22:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
-      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "New Student Registration & Orientation",
       "start": "2026-04-14T00:00:00",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-wartburg-2/",
       "description": "Central College Softball vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball at Simpson",
+      "start": "2026-04-21T23:30:00",
+      "end": "2026-04-22T02:30:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-simpson-5/",
+      "description": "Central College Baseball at Simpson"
+    },
+    {
+      "title": "Deathtrap",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-23T02:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/deathtrap/",
+      "description": ""
     }
   ]
 }
