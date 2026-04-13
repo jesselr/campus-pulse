@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T21:24:59.128874Z",
+  "updated": "2026-04-13T22:07:50.996651Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -187,14 +187,6 @@
       "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Women's Tennis at Dubuque",
-      "start": "2026-04-21T00:00:00",
-      "end": "2026-04-23T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-first-round-2/",
-      "description": "Central College Women\u2019s Tennis at Dubuque"
-    },
-    {
       "title": "College Community Orchestra Spring Concert",
       "start": "2026-04-21T00:30:00",
       "end": "2026-04-21T01:30:00",
@@ -225,6 +217,14 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-wartburg-2/",
       "description": "Central College Softball vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis at Dubuque",
+      "start": "2026-04-21T21:00:00",
+      "end": "2026-04-22T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-first-round-2/",
+      "description": "Central College Women\u2019s Tennis at Dubuque"
     },
     {
       "title": "Central College Baseball at Simpson",
