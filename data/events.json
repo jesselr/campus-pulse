@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T22:09:39.902432Z",
+  "updated": "2026-04-14T23:09:31.700992Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-registration-orientation/",
       "description": ""
-    },
-    {
-      "title": "Central College Baseball vs Simpson",
-      "start": "2026-04-14T20:00:00",
-      "end": "2026-04-14T23:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-baseball-at-simpson/",
-      "description": "Central College Baseball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Golf  Storm Spring Classic - Central represented by JV team",
@@ -241,6 +233,14 @@
       "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/deathtrap/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Tennis vs Semifinal",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-25T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-semifinal-2/",
+      "description": "Central College Women\u2019s Tennis vs Semifinal"
     }
   ]
 }
