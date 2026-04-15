@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T20:12:38.629731Z",
+  "updated": "2026-04-15T21:12:05.195324Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "Indianola\\, Iowa / Indianola GC",
       "url": "https://central.edu/event/central-college-mens-golf-storm-spring-classic-central-represented-by-jv-team-2/",
       "description": "Central College Men\u2019s Golf  Storm Spring Classic \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Softball vs Simpson",
-      "start": "2026-04-15T19:00:00",
-      "end": "2026-04-15T21:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-simpson/",
-      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Softball vs Simpson",
-      "start": "2026-04-15T21:00:00",
-      "end": "2026-04-15T23:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
-      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Tennis vs Truman State (Mo.)",
@@ -73,6 +57,22 @@
       "location": "Azusa\\, Calif.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-bryan-clay-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Softball vs Simpson",
+      "start": "2026-04-16T19:00:00",
+      "end": "2026-04-16T21:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-simpson/",
+      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball vs Simpson",
+      "start": "2026-04-16T21:00:00",
+      "end": "2026-04-16T23:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
+      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Track and Field  Augustana Meet of Champions",
@@ -172,8 +172,8 @@
     },
     {
       "title": "Central College Softball at Luther",
-      "start": "2026-04-19T18:00:00",
-      "end": "2026-04-19T20:00:00",
+      "start": "2026-04-19T19:00:00",
+      "end": "2026-04-19T21:00:00",
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-luther/",
       "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
@@ -196,8 +196,8 @@
     },
     {
       "title": "Central College Softball at Luther",
-      "start": "2026-04-19T20:00:00",
-      "end": "2026-04-19T22:00:00",
+      "start": "2026-04-19T21:00:00",
+      "end": "2026-04-19T23:00:00",
       "location": "Decorah\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-luther-2/",
       "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
