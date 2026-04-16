@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T13:20:28.766998Z",
+  "updated": "2026-04-16T15:10:55.651347Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,6 +41,14 @@
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
       "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "26th Annual Scholarship Dinner",
+      "start": "2026-04-16T22:30:00",
+      "end": "2026-04-17T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/26th-annual-scholarship-dinner/",
+      "description": "The Scholarship Celebration Dinner brings together scholarship recipients\\, their families\\, and our generous alumni\\, friends and special guests to honor the spirit of philanthropy at Central College."
     },
     {
       "title": "Central College Women's Track and Field  Augustana Meet of Champions",
@@ -233,14 +241,6 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-semifinal-2/",
       "description": "Central College Women\u2019s Tennis vs Semifinal"
-    },
-    {
-      "title": "Central College Women's Track and Field  Kip Janvrin Open",
-      "start": "2026-04-23T00:00:00",
-      "end": "2026-04-25T00:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-kip-janvrin-open-2/",
-      "description": "Central College Women\u2019s Track and Field  Kip Janvrin Open"
     }
   ]
 }
