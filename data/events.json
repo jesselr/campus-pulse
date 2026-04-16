@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T00:04:09.561925Z",
+  "updated": "2026-04-16T03:51:34.720470Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Indianola\\, Iowa / Indianola GC",
       "url": "https://central.edu/event/central-college-mens-golf-storm-spring-classic-central-represented-by-jv-team-2/",
       "description": "Central College Men\u2019s Golf  Storm Spring Classic \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Women's Tennis vs Truman State (Mo.)",
-      "start": "2026-04-15T21:00:00",
-      "end": "2026-04-16T00:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-truman-state-mo-2/",
-      "description": "Central College Women\u2019s Tennis vs Truman State (Mo.)"
     },
     {
       "title": "Central College Women's Track and Field  Dutch WeatherSaver Invitational 2.0",
@@ -163,12 +155,12 @@
       "description": "Link to event: https://my.central.edu/events/5442056\\nBrayden Dunink\\, Senior Piano Recital"
     },
     {
-      "title": "Central College Women's Golf  The Battle at Bos Landen",
-      "start": "2026-04-19T00:00:00",
-      "end": "2026-04-21T00:00:00",
+      "title": "Central College Women's Golf  Mount Mercy - The Battle at Bos Landen - Match Play",
+      "start": "2026-04-19T14:00:00",
+      "end": "2026-04-19T17:00:00",
       "location": "Pella\\, Iowa\\, Bos Landen Golf Club",
       "url": "https://central.edu/event/central-college-womens-golf-the-battle-at-bos-landen/",
-      "description": "Central College Women\u2019s Golf  The Battle at Bos Landen"
+      "description": "Central College Women\u2019s Golf  Mount Mercy \u2013 The Battle at Bos Landen \u2013 Match Play"
     },
     {
       "title": "Central College Softball at Luther",
@@ -241,6 +233,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-first-round-2/",
       "description": "Central College Women\u2019s Tennis at Dubuque"
+    },
+    {
+      "title": "Central College Baseball at Simpson",
+      "start": "2026-04-21T23:30:00",
+      "end": "2026-04-22T02:30:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-simpson-5/",
+      "description": "Central College Baseball at Simpson"
     }
   ]
 }
