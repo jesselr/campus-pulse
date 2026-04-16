@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T21:37:27.877303Z",
+  "updated": "2026-04-16T22:34:25.132873Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -28,19 +28,19 @@
     },
     {
       "title": "Central College Softball vs Simpson",
-      "start": "2026-04-16T19:00:00",
-      "end": "2026-04-16T21:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-simpson/",
-      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Softball vs Simpson",
       "start": "2026-04-16T21:00:00",
       "end": "2026-04-16T23:00:00",
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
       "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis vs Truman State (Mo.)",
+      "start": "2026-04-16T21:00:00",
+      "end": "2026-04-17T00:00:00",
+      "location": "Pella\\, Iowa\\, Tennis courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-truman-state-mo-2/",
+      "description": "Central College Women\u2019s Tennis vs Truman State (Mo.)"
     },
     {
       "title": "26th Annual Scholarship Dinner",
