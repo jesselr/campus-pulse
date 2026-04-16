@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T22:34:25.132873Z",
+  "updated": "2026-04-16T23:35:29.979563Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "Azusa\\, Calif.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-bryan-clay-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Softball vs Simpson",
-      "start": "2026-04-16T21:00:00",
-      "end": "2026-04-16T23:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-simpson-2/",
-      "description": "Central College Softball vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Tennis vs Truman State (Mo.)",
@@ -241,6 +233,14 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-semifinal-2/",
       "description": "Central College Women\u2019s Tennis vs Semifinal"
+    },
+    {
+      "title": "Central College Women's Track and Field  Kip Janvrin Open",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-25T00:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-kip-janvrin-open-2/",
+      "description": "Central College Women\u2019s Track and Field  Kip Janvrin Open"
     }
   ]
 }
