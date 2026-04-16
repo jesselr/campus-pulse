@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T03:51:34.720470Z",
+  "updated": "2026-04-16T05:57:56.094681Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,30 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-registration-orientation/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Golf  Storm Spring Classic - Central represented by JV team",
-      "start": "2026-04-15T00:00:00",
-      "end": "2026-04-17T00:00:00",
-      "location": "Indianola\\, Iowa / Indianola GC",
-      "url": "https://central.edu/event/central-college-mens-golf-storm-spring-classic-central-represented-by-jv-team-2/",
-      "description": "Central College Men\u2019s Golf  Storm Spring Classic \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Women's Track and Field  Dutch WeatherSaver Invitational 2.0",
-      "start": "2026-04-15T21:00:00",
-      "end": "2026-04-16T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-weathersaver-invitational-2-0-2/",
-      "description": "Central College Women\u2019s Track and Field  Dutch WeatherSaver Invitational 2.0"
-    },
-    {
-      "title": "Central College Women's Track and Field  Dutch WeatherSaver Invitational 2.0",
-      "start": "2026-04-15T21:00:00",
-      "end": "2026-04-16T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-weathersaver-invitational-2-0/",
-      "description": "Central College Women\u2019s Track and Field  Dutch WeatherSaver Invitational 2.0"
     },
     {
       "title": "Central College Women's Track and Field  Bryan Clay Invitational - Limited roster",
@@ -241,6 +217,30 @@
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-simpson-5/",
       "description": "Central College Baseball at Simpson"
+    },
+    {
+      "title": "Deathtrap",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-23T02:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/deathtrap/",
+      "description": ""
+    },
+    {
+      "title": "Central College Women's Tennis vs Semifinal",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-25T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-semifinal-2/",
+      "description": "Central College Women\u2019s Tennis vs Semifinal"
+    },
+    {
+      "title": "Central College Women's Track and Field  Kip Janvrin Open",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-25T00:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-kip-janvrin-open-2/",
+      "description": "Central College Women\u2019s Track and Field  Kip Janvrin Open"
     }
   ]
 }
