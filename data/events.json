@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-17T02:02:47.540328Z",
+  "updated": "2026-04-17T05:13:32.277125Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "New Student Registration & Orientation",
-      "start": "2026-04-14T00:00:00",
-      "end": "2026-04-18T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/new-student-registration-orientation/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Track and Field  Bryan Clay Invitational - Limited roster",
       "start": "2026-04-16T00:00:00",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/cui-day-alternate-day-of-learning/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Track and Field  Drake Relays - Limited roster",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-26T00:00:00",
+      "location": "Des Moines\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-drake-relays-limited-roster-3/",
+      "description": "Central College Women\u2019s Track and Field  Drake Relays \u2013 Limited roster"
     }
   ]
 }
