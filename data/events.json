@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T20:29:44.649526Z",
+  "updated": "2026-04-18T21:03:27.705867Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/board-of-trustees-meeting-2/",
       "description": ""
-    },
-    {
-      "title": "Brayden Duinink\\, Senior Voice Recital",
-      "start": "2026-04-18T20:00:00",
-      "end": "2026-04-18T21:00:00",
-      "location": "Recital Hall",
-      "url": "https://central.edu/event/brayden-duinink-senior-voice-recital/",
-      "description": "Link to event: https://my.central.edu/events/5442055\\nBrayden Duinink\\, Senior Voice Recital"
     },
     {
       "title": "Central College Softball vs Coe",
@@ -241,6 +233,14 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-loras-3/",
       "description": "Central College Softball at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball vs Dubuque",
+      "start": "2026-04-25T18:00:00",
+      "end": "2026-04-25T21:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-dubuque-2/",
+      "description": "Central College Baseball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
