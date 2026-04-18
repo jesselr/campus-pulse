@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-17T23:33:59.134860Z",
+  "updated": "2026-04-18T01:53:36.825113Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  Bryan Clay Invitational - Limited roster",
-      "start": "2026-04-16T00:00:00",
-      "end": "2026-04-19T00:00:00",
-      "location": "Azusa\\, Calif.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-bryan-clay-invitational-limited-roster-3/",
-      "description": "Central College Women\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
-    },
     {
       "title": "Central College Men's Track and Field  Bryan Clay Invitational - Limited roster",
       "start": "2026-04-16T00:00:00",
@@ -17,22 +9,6 @@
       "location": "Azusa\\, Calif.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-bryan-clay-invitational-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Bryan Clay Invitational \u2013 Limited roster"
-    },
-    {
-      "title": "26th Annual Scholarship Dinner",
-      "start": "2026-04-16T22:30:00",
-      "end": "2026-04-18T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/26th-annual-scholarship-dinner/",
-      "description": "The Scholarship Celebration Dinner brings together scholarship recipients\\, their families\\, and our generous alumni\\, friends and special guests to honor the spirit of philanthropy at Central College."
-    },
-    {
-      "title": "Central College Women's Track and Field  Augustana Meet of Champions",
-      "start": "2026-04-17T00:00:00",
-      "end": "2026-04-19T00:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-augustana-meet-of-champions-3/",
-      "description": "Central College Women\u2019s Track and Field  Augustana Meet of Champions"
     },
     {
       "title": "Central College Men's Golf  Forester Spring Invitational",
@@ -65,14 +41,6 @@
       "location": "",
       "url": "https://central.edu/event/board-of-trustees-meeting-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs Grand View - Exhibition",
-      "start": "2026-04-17T21:00:00",
-      "end": "2026-04-18T00:00:00",
-      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-grand-view-exhibition/",
-      "description": "Central College Women\u2019s Tennis vs Grand View \u2013 Exhibition"
     },
     {
       "title": "Maddie MacGregor\\, Senior Piano Recital",
@@ -240,6 +208,38 @@
       "end": "2026-04-25T00:00:00",
       "location": "",
       "url": "https://central.edu/event/cui-day-alternate-day-of-learning/",
+      "description": ""
+    },
+    {
+      "title": "Central College Women's Track and Field  Drake Relays - Limited roster",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-26T00:00:00",
+      "location": "Des Moines\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-drake-relays-limited-roster-3/",
+      "description": "Central College Women\u2019s Track and Field  Drake Relays \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Drake Relays - Limited roster",
+      "start": "2026-04-23T00:00:00",
+      "end": "2026-04-26T00:00:00",
+      "location": "Des Moines\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-drake-relays-limited-roster-2/",
+      "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Golf  Central Shootout - Central represented by JV team",
+      "start": "2026-04-23T16:00:00",
+      "end": "2026-04-23T19:00:00",
+      "location": "Pella\\, Iowa\\, Bos Landen Golf Club",
+      "url": "https://central.edu/event/central-college-mens-golf-central-shootout/",
+      "description": "Central College Men\u2019s Golf  Central Shootout \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Deathtrap",
+      "start": "2026-04-24T00:00:00",
+      "end": "2026-04-24T02:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/deathtrap-2/",
       "description": ""
     }
   ]
