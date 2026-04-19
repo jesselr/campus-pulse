@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-19T16:33:15.743788Z",
+  "updated": "2026-04-19T17:31:17.512593Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Golf  Mount Mercy - The Battle at Bos Landen - Match Play",
-      "start": "2026-04-19T14:00:00",
-      "end": "2026-04-19T17:00:00",
-      "location": "Pella\\, Iowa\\, Bos Landen Golf Club",
-      "url": "https://central.edu/event/central-college-womens-golf-the-battle-at-bos-landen/",
-      "description": "Central College Women\u2019s Golf  Mount Mercy \u2013 The Battle at Bos Landen \u2013 Match Play"
-    },
     {
       "title": "Central College Softball at Luther",
       "start": "2026-04-19T19:00:00",
@@ -241,6 +233,14 @@
       "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/deathtrap-4/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Golf  American Rivers Championships",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-29T00:00:00",
+      "location": "West Des Moines\\, Iowa / Glen Oaks GC",
+      "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
+      "description": "Central College Men\u2019s Golf  American Rivers Championships"
     }
   ]
 }
