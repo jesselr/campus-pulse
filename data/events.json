@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-19T00:01:38.288916Z",
+  "updated": "2026-04-19T03:53:54.474614Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Board of Trustees Meeting",
-      "start": "2026-04-17T00:00:00",
-      "end": "2026-04-20T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/board-of-trustees-meeting-2/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Golf  Mount Mercy - The Battle at Bos Landen - Match Play",
       "start": "2026-04-19T14:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-dubuque-3/",
       "description": "Central College Baseball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Deathtrap",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-26T02:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/deathtrap-4/",
+      "description": ""
     }
   ]
 }
