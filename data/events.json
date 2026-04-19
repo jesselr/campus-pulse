@@ -1,31 +1,7 @@
 {
-  "updated": "2026-04-19T21:30:01.646797Z",
+  "updated": "2026-04-19T22:01:39.748674Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Softball at Luther",
-      "start": "2026-04-19T19:00:00",
-      "end": "2026-04-19T21:00:00",
-      "location": "Decorah\\, Iowa",
-      "url": "https://central.edu/event/central-college-softball-at-luther/",
-      "description": "Central College Softball at Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Tennis at Grinnell",
-      "start": "2026-04-19T19:00:00",
-      "end": "2026-04-19T22:00:00",
-      "location": "Pella\\, Iowa\\, Tennis courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-st-ambrose/",
-      "description": "Central College Women\u2019s Tennis at Grinnell"
-    },
-    {
-      "title": "College Community Orchestra Spring Concert",
-      "start": "2026-04-19T20:00:00",
-      "end": "2026-04-19T21:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/college-community-orchestra-spring-concert/",
-      "description": ""
-    },
     {
       "title": "Central College Softball at Luther",
       "start": "2026-04-19T21:00:00",
@@ -183,7 +159,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -191,7 +167,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -241,6 +217,30 @@
       "location": "West Des Moines\\, Iowa / Glen Oaks GC",
       "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
       "description": "Central College Men\u2019s Golf  American Rivers Championships"
+    },
+    {
+      "title": "Central College Softball vs Dubuque",
+      "start": "2026-04-26T18:00:00",
+      "end": "2026-04-26T20:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-dubuque-3/",
+      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Spring Serenade: Symphonic Wind Ensemble\\, Flying Pans and Percussion Ensemble Concert",
+      "start": "2026-04-26T20:00:00",
+      "end": "2026-04-26T21:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/spring-serenade-symphonic-wind-ensemble-flying-pans-and-percussion-ensemble-concert/",
+      "description": ""
+    },
+    {
+      "title": "Central College Softball vs Dubuque",
+      "start": "2026-04-26T20:00:00",
+      "end": "2026-04-26T22:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
+      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
