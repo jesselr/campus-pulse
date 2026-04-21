@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T09:09:38.390263Z",
+  "updated": "2026-04-21T10:48:34.596994Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -147,20 +147,20 @@
       "description": "Central College Men\u2019s Golf  Central Shootout \u2013 Central represented by JV team"
     },
     {
-      "title": "CUI Day: Poster Session: 1-1:45pm",
-      "start": "2026-04-23T18:00:00",
-      "end": "2026-04-23T18:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-poster-session-1-145pm/",
-      "description": "Link to event: https://my.central.edu/events/5609358\\nPoster Session: 1-1:45pm"
-    },
-    {
       "title": "CUI Day: First Date Production Exhibition: 1-1:45pm",
       "start": "2026-04-23T18:00:00",
       "end": "2026-04-23T18:45:00",
       "location": "",
       "url": "https://central.edu/event/cui-day-first-date-production-exhibition-1-145pm/",
       "description": "Link to event: https://my.central.edu/events/5609359\\nFirst Date Production Exhibition: 1-1:45pm"
+    },
+    {
+      "title": "CUI Day: Poster Session: 1-1:45pm",
+      "start": "2026-04-23T18:00:00",
+      "end": "2026-04-23T18:45:00",
+      "location": "",
+      "url": "https://central.edu/event/cui-day-poster-session-1-145pm/",
+      "description": "Link to event: https://my.central.edu/events/5609358\\nPoster Session: 1-1:45pm"
     },
     {
       "title": "CUI Day: Board Game Design Exhibition: 2-2:45pm",
@@ -215,7 +215,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -223,7 +223,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
