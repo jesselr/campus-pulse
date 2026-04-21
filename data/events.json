@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-20T23:37:37.966710Z",
+  "updated": "2026-04-21T02:03:36.279436Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "College Community Orchestra Spring Concert",
-      "start": "2026-04-21T00:30:00",
-      "end": "2026-04-21T01:30:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/college-community-orchestra-spring-concert-2/",
-      "description": ""
-    },
     {
       "title": "Central College Softball vs Wartburg",
       "start": "2026-04-21T19:00:00",
@@ -223,7 +215,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -231,7 +223,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -241,6 +233,14 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-loras-3/",
       "description": "Central College Softball at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Baseball vs Dubuque",
+      "start": "2026-04-25T18:00:00",
+      "end": "2026-04-25T21:00:00",
+      "location": "Pella\\, Iowa\\, Baseball field",
+      "url": "https://central.edu/event/central-college-baseball-vs-dubuque-2/",
+      "description": "Central College Baseball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
