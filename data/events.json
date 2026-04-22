@@ -1,31 +1,7 @@
 {
-  "updated": "2026-04-21T23:58:32.417949Z",
+  "updated": "2026-04-22T02:54:15.715756Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Baseball at Simpson",
-      "start": "2026-04-21T20:30:00",
-      "end": "2026-04-21T23:30:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-simpson-4/",
-      "description": "Central College Baseball at Simpson"
-    },
-    {
-      "title": "Central College Women's Tennis at Dubuque",
-      "start": "2026-04-21T21:00:00",
-      "end": "2026-04-22T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-first-round-2/",
-      "description": "Central College Women\u2019s Tennis at Dubuque"
-    },
-    {
-      "title": "Central College Baseball at Simpson",
-      "start": "2026-04-21T23:30:00",
-      "end": "2026-04-22T02:30:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-simpson-5/",
-      "description": "Central College Baseball at Simpson"
-    },
     {
       "title": "Deathtrap",
       "start": "2026-04-23T00:00:00",
@@ -199,7 +175,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -207,7 +183,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -241,6 +217,30 @@
       "location": "Pella\\, Iowa\\, Baseball field",
       "url": "https://central.edu/event/central-college-baseball-vs-dubuque-3/",
       "description": "Central College Baseball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Deathtrap",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-26T02:00:00",
+      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/deathtrap-4/",
+      "description": ""
+    },
+    {
+      "title": "Central College Men's Golf  American Rivers Championships",
+      "start": "2026-04-26T00:00:00",
+      "end": "2026-04-29T00:00:00",
+      "location": "West Des Moines\\, Iowa / Glen Oaks GC",
+      "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
+      "description": "Central College Men\u2019s Golf  American Rivers Championships"
+    },
+    {
+      "title": "Central College Softball vs Dubuque",
+      "start": "2026-04-26T18:00:00",
+      "end": "2026-04-26T20:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-dubuque-3/",
+      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
