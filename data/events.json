@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T13:14:45.699330Z",
+  "updated": "2026-04-23T15:24:29.107778Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,22 +41,6 @@
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-drake-relays-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
-    },
-    {
-      "title": "CUI Day Poster Session 9-9:45am",
-      "start": "2026-04-23T14:00:00",
-      "end": "2026-04-23T14:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-poster-session-9-945am/",
-      "description": "Link to event: https://my.central.edu/events/5609353\\nPoster Session: 9-9:45am"
-    },
-    {
-      "title": "CUI Day Oral Presentations: Historiography: 9-9:45am",
-      "start": "2026-04-23T14:00:00",
-      "end": "2026-04-23T14:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-oral-presentations-historiography-9-945am/",
-      "description": "Link to event: https://my.central.edu/events/5609354\\nOral Presentations: Historiography: 9-9:45am"
     },
     {
       "title": "CUI Day: Oral Presentations: Interdisciplinary Talks: 10-10:45am:",
@@ -240,6 +224,22 @@
       "end": "2026-04-26T21:00:00",
       "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/spring-serenade-symphonic-wind-ensemble-flying-pans-and-percussion-ensemble-concert/",
+      "description": ""
+    },
+    {
+      "title": "Central College Softball vs Dubuque",
+      "start": "2026-04-26T20:00:00",
+      "end": "2026-04-26T22:00:00",
+      "location": "Pella\\, Iowa\\, Softball field",
+      "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
+      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Jazzmania+",
+      "start": "2026-04-27T00:00:00",
+      "end": "2026-04-27T01:00:00",
+      "location": "Cox-Snow Music Center\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/jazzmania-5/",
       "description": ""
     }
   ]
