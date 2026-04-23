@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T08:16:43.003446Z",
+  "updated": "2026-04-23T10:02:31.663860Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -219,20 +219,20 @@
       "description": ""
     },
     {
-      "title": "Central College Men's Golf  American Rivers Championships",
-      "start": "2026-04-26T00:00:00",
-      "end": "2026-04-29T00:00:00",
-      "location": "West Des Moines\\, Iowa / Glen Oaks GC",
-      "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
-      "description": "Central College Men\u2019s Golf  American Rivers Championships"
-    },
-    {
       "title": "Central College Softball vs Dubuque",
       "start": "2026-04-26T18:00:00",
       "end": "2026-04-26T20:00:00",
       "location": "Pella\\, Iowa\\, Softball field",
       "url": "https://central.edu/event/central-college-softball-vs-dubuque-3/",
       "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Golf  American Rivers Championships",
+      "start": "2026-04-26T18:00:00",
+      "end": "2026-04-28T04:59:00",
+      "location": "West Des Moines\\, Iowa / Glen Oaks GC",
+      "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
+      "description": "Central College Men\u2019s Golf  American Rivers Championships"
     },
     {
       "title": "Spring Serenade: Symphonic Wind Ensemble\\, Flying Pans and Percussion Ensemble Concert",
