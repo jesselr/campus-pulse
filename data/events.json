@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T15:24:29.107778Z",
+  "updated": "2026-04-23T16:57:59.939004Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -43,22 +43,6 @@
       "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
     },
     {
-      "title": "CUI Day: Oral Presentations: Interdisciplinary Talks: 10-10:45am:",
-      "start": "2026-04-23T15:00:00",
-      "end": "2026-04-23T15:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-oral-presentations-interdisciplinary-talks-10-1045am/",
-      "description": "Link to event: https://my.central.edu/events/5609356\\nOral Presentations: Interdisciplinary Talks: 10-10:45am:"
-    },
-    {
-      "title": "CUI Day Poster Session: 10-10:45am",
-      "start": "2026-04-23T15:00:00",
-      "end": "2026-04-23T15:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-poster-session-10-1045am/",
-      "description": "Link to event: https://my.central.edu/events/5609355\\nPoster Session: 10-10:45am"
-    },
-    {
       "title": "CUI Day: Senior Honors Thesis Presentations: 11am-12:45pm",
       "start": "2026-04-23T16:00:00",
       "end": "2026-04-23T17:45:00",
@@ -75,20 +59,20 @@
       "description": "Central College Men\u2019s Golf  Central Shootout \u2013 Central represented by JV team"
     },
     {
-      "title": "CUI Day: Poster Session: 1-1:45pm",
-      "start": "2026-04-23T18:00:00",
-      "end": "2026-04-23T18:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-poster-session-1-145pm/",
-      "description": "Link to event: https://my.central.edu/events/5609358\\nPoster Session: 1-1:45pm"
-    },
-    {
       "title": "CUI Day: First Date Production Exhibition: 1-1:45pm",
       "start": "2026-04-23T18:00:00",
       "end": "2026-04-23T18:45:00",
       "location": "",
       "url": "https://central.edu/event/cui-day-first-date-production-exhibition-1-145pm/",
       "description": "Link to event: https://my.central.edu/events/5609359\\nFirst Date Production Exhibition: 1-1:45pm"
+    },
+    {
+      "title": "CUI Day: Poster Session: 1-1:45pm",
+      "start": "2026-04-23T18:00:00",
+      "end": "2026-04-23T18:45:00",
+      "location": "",
+      "url": "https://central.edu/event/cui-day-poster-session-1-145pm/",
+      "description": "Link to event: https://my.central.edu/events/5609358\\nPoster Session: 1-1:45pm"
     },
     {
       "title": "CUI Day: Board Game Design Exhibition: 2-2:45pm",
@@ -241,6 +225,22 @@
       "location": "Cox-Snow Music Center\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/jazzmania-5/",
       "description": ""
+    },
+    {
+      "title": "Central College Softball at Buena Vista",
+      "start": "2026-04-28T20:00:00",
+      "end": "2026-04-28T22:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-softball-at-buena-vista/",
+      "description": "Central College Softball at Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Softball at Buena Vista",
+      "start": "2026-04-28T22:00:00",
+      "end": "2026-04-29T00:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-softball-at-buena-vista-2/",
+      "description": "Central College Softball at Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
