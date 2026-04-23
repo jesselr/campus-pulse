@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T16:57:59.939004Z",
+  "updated": "2026-04-23T18:06:52.594874Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,14 +41,6 @@
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-drake-relays-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
-    },
-    {
-      "title": "CUI Day: Senior Honors Thesis Presentations: 11am-12:45pm",
-      "start": "2026-04-23T16:00:00",
-      "end": "2026-04-23T17:45:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-senior-honors-thesis-presentations-11am-1245pm/",
-      "description": "Link to event: https://my.central.edu/events/5609357\\nSenior Honors Thesis Presentations: 11am-12:45pm"
     },
     {
       "title": "Central College Men's Golf  Central Shootout - Central represented by JV team",
@@ -135,7 +127,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -143,7 +135,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -241,6 +233,14 @@
       "location": "Storm Lake\\, Iowa",
       "url": "https://central.edu/event/central-college-softball-at-buena-vista-2/",
       "description": "Central College Softball at Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Trey Hull\\, Organ\\, Voice and Piano Senior Recital",
+      "start": "2026-04-30T00:00:00",
+      "end": "2026-04-30T01:00:00",
+      "location": "Central College\\, University Street\\, Pella\\, IA\\, USA Chapel",
+      "url": "https://central.edu/event/trey-hull-organ-voice-and-piano-senior-recital/",
+      "description": "Link to event: https://my.central.edu/events/4906639\\nTrey Hull: Senior Recital Featuring Organ\\, Piano and Guitar"
     }
   ]
 }
