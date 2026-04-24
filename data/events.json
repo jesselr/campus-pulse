@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T23:39:28.421136Z",
+  "updated": "2026-04-24T02:06:28.273233Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,22 +41,6 @@
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-drake-relays-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Women's Tennis at Luther",
-      "start": "2026-04-23T21:00:00",
-      "end": "2026-04-24T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-semifinal-2/",
-      "description": "Central College Women\u2019s Tennis at Luther"
-    },
-    {
-      "title": "Deathtrap",
-      "start": "2026-04-24T00:00:00",
-      "end": "2026-04-24T02:00:00",
-      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/deathtrap-2/",
-      "description": ""
     },
     {
       "title": "Central College Baseball vs Dubuque",
@@ -241,6 +225,22 @@
       "location": "Recital Hall",
       "url": "https://central.edu/event/jilliet-spahr-and-david-michel-negley-voice-recital/",
       "description": "Link to event: https://my.central.edu/events/5442057\\nJilliet Spahr and David Michael Negley\\, Voice Recital"
+    },
+    {
+      "title": "Central College Baseball at Nebraska Wesleyan",
+      "start": "2026-05-01T20:00:00",
+      "end": "2026-05-01T23:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-baseball-at-nebraska-wesleyan/",
+      "description": "Central College Baseball at Nebraska Wesleyan"
+    },
+    {
+      "title": "Central College Baseball at Nebraska Wesleyan",
+      "start": "2026-05-01T23:00:00",
+      "end": "2026-05-02T02:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-baseball-at-nebraska-wesleyan-2/",
+      "description": "Central College Baseball at Nebraska Wesleyan"
     }
   ]
 }
