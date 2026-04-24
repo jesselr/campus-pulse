@@ -1,31 +1,7 @@
 {
-  "updated": "2026-04-24T02:06:28.273233Z",
+  "updated": "2026-04-24T05:19:47.145748Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Track and Field  Kip Janvrin Open",
-      "start": "2026-04-23T00:00:00",
-      "end": "2026-04-25T00:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-kip-janvrin-open-2/",
-      "description": "Central College Women\u2019s Track and Field  Kip Janvrin Open"
-    },
-    {
-      "title": "Central College Men's Track and Field  Kip Janvrin Open",
-      "start": "2026-04-23T00:00:00",
-      "end": "2026-04-25T00:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-kip-janvrin-open-2/",
-      "description": "Central College Men\u2019s Track and Field  Kip Janvrin Open"
-    },
-    {
-      "title": "CUI Day (Alternate Day of Learning)",
-      "start": "2026-04-23T00:00:00",
-      "end": "2026-04-25T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/cui-day-alternate-day-of-learning/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Track and Field  Drake Relays - Limited roster",
       "start": "2026-04-23T00:00:00",
@@ -241,6 +217,30 @@
       "location": "Lincoln\\, Neb.",
       "url": "https://central.edu/event/central-college-baseball-at-nebraska-wesleyan-2/",
       "description": "Central College Baseball at Nebraska Wesleyan"
+    },
+    {
+      "title": "Central College Softball at Washington - St. Louis (Mo.)",
+      "start": "2026-05-02T17:00:00",
+      "end": "2026-05-02T19:00:00",
+      "location": "St. Louis\\, Mo.",
+      "url": "https://central.edu/event/central-college-softball-at-washington-st-louis-mo/",
+      "description": "Central College Softball at Washington \u2013 St. Louis (Mo.)"
+    },
+    {
+      "title": "Central College Baseball at Nebraska Wesleyan",
+      "start": "2026-05-02T18:00:00",
+      "end": "2026-05-02T21:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-baseball-at-nebraska-wesleyan-3/",
+      "description": "Central College Baseball at Nebraska Wesleyan"
+    },
+    {
+      "title": "Central College Softball at Washington - St. Louis (Mo.)",
+      "start": "2026-05-02T19:00:00",
+      "end": "2026-05-02T21:00:00",
+      "location": "St. Louis\\, Mo.",
+      "url": "https://central.edu/event/central-college-softball-at-washington-st-louis-mo-2/",
+      "description": "Central College Softball at Washington \u2013 St. Louis (Mo.)"
     }
   ]
 }
