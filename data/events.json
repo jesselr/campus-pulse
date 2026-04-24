@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T20:05:51.176147Z",
+  "updated": "2026-04-24T21:10:51.365732Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,6 +17,14 @@
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-drake-relays-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Drake Relays \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Track and Field  Kip Janvrin Open",
+      "start": "2026-04-24T00:00:00",
+      "end": "2026-04-26T00:00:00",
+      "location": "Indianola\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-kip-janvrin-open-2/",
+      "description": "Central College Women\u2019s Track and Field  Kip Janvrin Open\\nStreaming Video: https://rollriversnetwork.com/simpson/"
     },
     {
       "title": "Central College Baseball vs Dubuque",
@@ -233,14 +241,6 @@
       "location": "St. Louis\\, Mo.",
       "url": "https://central.edu/event/central-college-softball-at-washington-st-louis-mo-2/",
       "description": "Central College Softball at Washington \u2013 St. Louis (Mo.)"
-    },
-    {
-      "title": "A Cappella Choir and Chamber Singers Pre-Tour Concert",
-      "start": "2026-05-03T20:00:00",
-      "end": "2026-05-03T21:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/a-cappella-choir-and-chamber-singers-pre-tour-concert/",
-      "description": ""
     }
   ]
 }
