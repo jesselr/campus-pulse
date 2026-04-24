@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T09:14:44.760276Z",
+  "updated": "2026-04-24T10:49:40.390749Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -35,19 +35,11 @@
       "description": ""
     },
     {
-      "title": "Central College Women's Tennis vs Final",
-      "start": "2026-04-25T00:00:00",
-      "end": "2026-04-27T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-final-2/",
-      "description": "Central College Women\u2019s Tennis vs Final"
-    },
-    {
       "title": "Central College Women's Golf  Wartburg Spring Invitational",
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -55,7 +47,7 @@
       "start": "2026-04-25T00:00:00",
       "end": "2026-04-27T00:00:00",
       "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
+      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
     },
     {
@@ -241,6 +233,14 @@
       "location": "St. Louis\\, Mo.",
       "url": "https://central.edu/event/central-college-softball-at-washington-st-louis-mo-2/",
       "description": "Central College Softball at Washington \u2013 St. Louis (Mo.)"
+    },
+    {
+      "title": "A Cappella Choir and Chamber Singers Pre-Tour Concert",
+      "start": "2026-05-03T20:00:00",
+      "end": "2026-05-03T21:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/a-cappella-choir-and-chamber-singers-pre-tour-concert/",
+      "description": ""
     }
   ]
 }
