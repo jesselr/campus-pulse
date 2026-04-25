@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T19:59:44.036229Z",
+  "updated": "2026-04-25T20:49:13.954174Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Waverly\\, Iowa / Prairie Links GC",
       "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
-    },
-    {
-      "title": "Central College Softball at Loras",
-      "start": "2026-04-25T18:00:00",
-      "end": "2026-04-25T20:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-softball-at-loras-3/",
-      "description": "Central College Softball at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Baseball vs Dubuque",
@@ -241,6 +233,14 @@
       "location": "Graham Conference Center\\, 812 University St.\\, Pella\\, IA\\, United States",
       "url": "https://central.edu/event/2026-pella-tulip-time-festival-dutch-dinner-2/",
       "description": "Buy Tickets"
+    },
+    {
+      "title": "Central College Women's Track and Field  TBD",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-tbd/",
+      "description": "Central College Women\u2019s Track and Field  TBD"
     }
   ]
 }
