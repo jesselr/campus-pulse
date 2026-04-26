@@ -1,23 +1,7 @@
 {
-  "updated": "2026-04-26T02:09:58.472064Z",
+  "updated": "2026-04-26T05:23:14.605094Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Golf  Wartburg Spring Invitational",
-      "start": "2026-04-25T00:00:00",
-      "end": "2026-04-27T00:00:00",
-      "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational-2/",
-      "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
-    },
-    {
-      "title": "Central College Women's Golf  Wartburg Spring Invitational",
-      "start": "2026-04-25T00:00:00",
-      "end": "2026-04-27T00:00:00",
-      "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
-      "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
-    },
     {
       "title": "Central College Softball vs Dubuque",
       "start": "2026-04-26T18:00:00",
@@ -240,6 +224,22 @@
       "end": "2026-05-10T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
+      "description": ""
+    },
+    {
+      "title": "2026 Pella Tulip Time Festival Dutch Dinner",
+      "start": "2026-05-08T22:00:00",
+      "end": "2026-05-08T23:30:00",
+      "location": "Graham Conference Center\\, 812 University St.\\, Pella\\, IA\\, United States",
+      "url": "https://central.edu/event/2026-pella-tulip-time-festival-dutch-dinner-3/",
+      "description": "Buy Tickets"
+    },
+    {
+      "title": "College-Wide Study Day",
+      "start": "2026-05-11T00:00:00",
+      "end": "2026-05-13T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/college-wide-study-day-2/",
       "description": ""
     }
   ]
