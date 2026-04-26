@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T20:01:37.773192Z",
+  "updated": "2026-04-26T21:02:40.646067Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "West Des Moines\\, Iowa / Glen Oaks GC",
       "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
       "description": "Central College Men\u2019s Golf  American Rivers Championships"
-    },
-    {
-      "title": "Spring Serenade: Symphonic Wind Ensemble\\, Flying Pans and Percussion Ensemble Concert",
-      "start": "2026-04-26T20:00:00",
-      "end": "2026-04-26T21:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/spring-serenade-symphonic-wind-ensemble-flying-pans-and-percussion-ensemble-concert/",
-      "description": ""
     },
     {
       "title": "Central College Softball vs Dubuque",
@@ -241,6 +233,14 @@
       "location": "Howey-in-the-Hills\\, Fla. / Mission Inn Resort & Club",
       "url": "https://central.edu/event/central-college-mens-golf-ncaa-division-iii-championships-3/",
       "description": "Central College Men\u2019s Golf  NCAA Division III Championships"
+    },
+    {
+      "title": "Final Exams",
+      "start": "2026-05-12T00:00:00",
+      "end": "2026-05-16T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/final-exams-2/",
+      "description": ""
     }
   ]
 }
