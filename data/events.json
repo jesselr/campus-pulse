@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T21:02:40.646067Z",
+  "updated": "2026-04-26T22:00:59.354495Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "West Des Moines\\, Iowa / Glen Oaks GC",
       "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
       "description": "Central College Men\u2019s Golf  American Rivers Championships"
-    },
-    {
-      "title": "Central College Softball vs Dubuque",
-      "start": "2026-04-26T20:00:00",
-      "end": "2026-04-26T22:00:00",
-      "location": "Pella\\, Iowa\\, Softball field",
-      "url": "https://central.edu/event/central-college-softball-vs-dubuque-4/",
-      "description": "Central College Softball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Jazzmania+",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/final-exams-2/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Track and Field  Augustana Midwest Qualifier - Limited roster",
+      "start": "2026-05-13T00:00:00",
+      "end": "2026-05-15T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-augustana-midwest-qualifier-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  Augustana Midwest Qualifier \u2013 Limited roster"
     }
   ]
 }
