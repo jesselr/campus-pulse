@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T23:32:03.526899Z",
+  "updated": "2026-04-26T02:09:58.472064Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "Waverly\\, Iowa / Prairie Links GC",
       "url": "https://central.edu/event/central-college-womens-golf-wartburg-spring-invitational/",
       "description": "Central College Women\u2019s Golf  Wartburg Spring Invitational"
-    },
-    {
-      "title": "Central College Baseball vs Dubuque",
-      "start": "2026-04-25T21:00:00",
-      "end": "2026-04-26T00:00:00",
-      "location": "Pella\\, Iowa\\, Baseball field",
-      "url": "https://central.edu/event/central-college-baseball-vs-dubuque-3/",
-      "description": "Central College Baseball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Deathtrap",
-      "start": "2026-04-26T00:00:00",
-      "end": "2026-04-26T02:00:00",
-      "location": "Kruidenier Center\\, 812 University St.\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/deathtrap-4/",
-      "description": ""
     },
     {
       "title": "Central College Softball vs Dubuque",
@@ -241,6 +225,22 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-21/",
       "description": "Central College Softball vs TBD"
+    },
+    {
+      "title": "Last Day of Spring Semester Courses",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
+      "description": ""
+    },
+    {
+      "title": "Last Day to add Summer 2026 Independent Course Work",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
+      "description": ""
     }
   ]
 }
