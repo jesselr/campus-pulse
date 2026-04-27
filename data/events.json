@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T22:43:42.271812Z",
+  "updated": "2026-04-27T23:47:19.933822Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -44,8 +44,8 @@
     },
     {
       "title": "Central College Men's Track and Field  American Rivers Outdoor Championships",
-      "start": "2026-04-30T00:00:00",
-      "end": "2026-05-03T00:00:00",
+      "start": "2026-04-30T18:00:00",
+      "end": "2026-05-02T04:59:00",
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-outdoor-championships-2/",
       "description": "Central College Men\u2019s Track and Field  American Rivers Outdoor Championships"
@@ -235,12 +235,12 @@
       "description": "Central College Women\u2019s Track and Field  Augustana Midwest Qualifier \u2013 Limited roster"
     },
     {
-      "title": "Central College Men's Track and Field  Augustana Midwest Qualifier - Limited roster",
+      "title": "Central College Men's Track and Field  Augustana Midwest Twilight Qualifier - Limited roster - NCAA Final Qualifier",
       "start": "2026-05-13T00:00:00",
       "end": "2026-05-15T00:00:00",
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-augustana-midwest-qualifier-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Augustana Midwest Qualifier \u2013 Limited roster"
+      "description": "Central College Men\u2019s Track and Field  Augustana Midwest Twilight Qualifier \u2013 Limited roster \u2013 NCAA Final Qualifier"
     }
   ]
 }
