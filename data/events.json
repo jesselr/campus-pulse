@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T00:02:07.610632Z",
+  "updated": "2026-04-27T04:04:54.516679Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "West Des Moines\\, Iowa / Glen Oaks GC",
       "url": "https://central.edu/event/central-college-mens-golf-american-rivers-championships-3/",
       "description": "Central College Men\u2019s Golf  American Rivers Championships"
-    },
-    {
-      "title": "Jazzmania+",
-      "start": "2026-04-27T00:00:00",
-      "end": "2026-04-27T01:00:00",
-      "location": "Cox-Snow Music Center\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/jazzmania-5/",
-      "description": ""
     },
     {
       "title": "Central College Softball at Buena Vista",
@@ -187,19 +179,19 @@
       "description": "Central College Softball vs TBD"
     },
     {
-      "title": "Last Day of Spring Semester Courses",
-      "start": "2026-05-08T00:00:00",
-      "end": "2026-05-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
-      "description": ""
-    },
-    {
       "title": "Last Day to add Summer 2026 Independent Course Work",
       "start": "2026-05-08T00:00:00",
       "end": "2026-05-10T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
+      "description": ""
+    },
+    {
+      "title": "Last Day of Spring Semester Courses",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
       "description": ""
     },
     {
@@ -241,6 +233,14 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-augustana-midwest-qualifier-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Augustana Midwest Qualifier \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Track and Field  Augustana Midwest Qualifier - Limited roster",
+      "start": "2026-05-13T00:00:00",
+      "end": "2026-05-15T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-augustana-midwest-qualifier-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  Augustana Midwest Qualifier \u2013 Limited roster"
     }
   ]
 }
