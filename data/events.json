@@ -1,23 +1,7 @@
 {
-  "updated": "2026-05-02T03:57:42.556442Z",
+  "updated": "2026-05-02T06:07:21.993816Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Track and Field  American Rivers Outdoor Championships",
-      "start": "2026-04-30T18:00:00",
-      "end": "2026-05-02T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-american-rivers-outdoor-championships-2/",
-      "description": "Central College Men\u2019s Track and Field  American Rivers Outdoor Championships\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Track and Field  American Rivers Outdoor Championships",
-      "start": "2026-04-30T18:30:00",
-      "end": "2026-05-02T04:59:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-outdoor-championships-2/",
-      "description": "Central College Women\u2019s Track and Field  American Rivers Outdoor Championships\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "Central College Softball at Washington - St. Louis (Mo.)",
       "start": "2026-05-02T17:00:00",
@@ -107,19 +91,19 @@
       "description": "Central College Softball vs TBD"
     },
     {
-      "title": "Last Day of Spring Semester Courses",
-      "start": "2026-05-08T00:00:00",
-      "end": "2026-05-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
-      "description": ""
-    },
-    {
       "title": "Last Day to add Summer 2026 Independent Course Work",
       "start": "2026-05-08T00:00:00",
       "end": "2026-05-10T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
+      "description": ""
+    },
+    {
+      "title": "Last Day of Spring Semester Courses",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
       "description": ""
     },
     {
@@ -240,6 +224,22 @@
       "end": "2026-05-24T00:00:00",
       "location": "TBD",
       "url": "https://central.edu/event/central-college-baseball-vs-tbd-4/",
+      "description": "Central College Baseball vs TBD"
+    },
+    {
+      "title": "Central College Softball vs TBD",
+      "start": "2026-05-28T00:00:00",
+      "end": "2026-06-04T00:00:00",
+      "location": "Decatur\\, Ill.",
+      "url": "https://central.edu/event/central-college-softball-vs-tbd-24/",
+      "description": "Central College Softball vs TBD"
+    },
+    {
+      "title": "Central College Baseball vs TBD",
+      "start": "2026-05-29T00:00:00",
+      "end": "2026-06-05T00:00:00",
+      "location": "Eastlake\\, Ohio",
+      "url": "https://central.edu/event/central-college-baseball-vs-tbd-5/",
       "description": "Central College Baseball vs TBD"
     }
   ]
