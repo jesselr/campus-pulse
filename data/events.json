@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T00:10:54.065182Z",
+  "updated": "2026-05-02T03:57:42.556442Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-womens-track-and-field-american-rivers-outdoor-championships-2/",
       "description": "Central College Women\u2019s Track and Field  American Rivers Outdoor Championships\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Baseball at Nebraska Wesleyan",
-      "start": "2026-05-01T23:00:00",
-      "end": "2026-05-02T02:00:00",
-      "location": "Lincoln\\, Neb.",
-      "url": "https://central.edu/event/central-college-baseball-at-nebraska-wesleyan-2/",
-      "description": "Central College Baseball at Nebraska Wesleyan"
     },
     {
       "title": "Central College Softball at Washington - St. Louis (Mo.)",
@@ -241,6 +233,14 @@
       "location": "La Crosse\\, Wis.",
       "url": "https://central.edu/event/central-college-mens-track-and-field-ncaa-division-iii-outdoor-championships-2/",
       "description": "Central College Men\u2019s Track and Field  NCAA Division III Outdoor Championships"
+    },
+    {
+      "title": "Central College Baseball vs TBD",
+      "start": "2026-05-22T00:00:00",
+      "end": "2026-05-24T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-baseball-vs-tbd-4/",
+      "description": "Central College Baseball vs TBD"
     }
   ]
 }
