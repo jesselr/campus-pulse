@@ -1,15 +1,7 @@
 {
-  "updated": "2026-05-02T19:32:40.443154Z",
+  "updated": "2026-05-02T20:35:46.257216Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Softball at Washington - St. Louis (Mo.)",
-      "start": "2026-05-02T17:00:00",
-      "end": "2026-05-02T19:00:00",
-      "location": "St. Louis\\, Mo.",
-      "url": "https://central.edu/event/central-college-softball-at-washington-st-louis-mo/",
-      "description": "Central College Softball at Washington \u2013 St. Louis (Mo.)\\nStreaming Video: https://www.flocollege.com/live/236613"
-    },
     {
       "title": "Central College Baseball at Nebraska Wesleyan",
       "start": "2026-05-02T18:00:00",
@@ -241,6 +233,14 @@
       "location": "Eastlake\\, Ohio",
       "url": "https://central.edu/event/central-college-baseball-vs-tbd-5/",
       "description": "Central College Baseball vs TBD"
+    },
+    {
+      "title": "Summer 5 and 10 Week Classes Begin",
+      "start": "2026-06-01T00:00:00",
+      "end": "2026-06-03T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-5-and-10-week-classes-begin/",
+      "description": ""
     }
   ]
 }
