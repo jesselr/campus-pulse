@@ -1,15 +1,7 @@
 {
-  "updated": "2026-05-03T21:35:54.677747Z",
+  "updated": "2026-05-03T22:34:42.657686Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "A Cappella Choir and Chamber Singers Pre-Tour Concert",
-      "start": "2026-05-03T20:00:00",
-      "end": "2026-05-03T21:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, 817 Peace St\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/a-cappella-choir-and-chamber-singers-pre-tour-concert/",
-      "description": ""
-    },
     {
       "title": "2026 Pella Tulip Time Festival Dutch Dinner",
       "start": "2026-05-06T22:00:00",
@@ -240,6 +232,14 @@
       "end": "2026-06-12T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-10-week-class/",
+      "description": ""
+    },
+    {
+      "title": "New Student Registration.& Orientation",
+      "start": "2026-06-10T00:00:00",
+      "end": "2026-06-14T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-student-registration-orientation-2/",
       "description": ""
     }
   ]
