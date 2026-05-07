@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T17:14:15.179583Z",
+  "updated": "2026-05-07T19:12:09.534498Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/tulip-time/",
       "description": ""
-    },
-    {
-      "title": "Central College Baseball vs Wartburg",
-      "start": "2026-05-07T16:00:00",
-      "end": "2026-05-07T19:00:00",
-      "location": "Cedar Rapids\\, Iowa / Veterans Memorial Stadium",
-      "url": "https://central.edu/event/central-college-baseball-vs-wartburg/",
-      "description": "Central College Baseball vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Baseball vs TBD",
@@ -240,6 +232,14 @@
       "end": "2026-06-03T00:00:00",
       "location": "",
       "url": "https://central.edu/event/summer-5-and-10-week-classes-begin/",
+      "description": ""
+    },
+    {
+      "title": "Last Day to Drop or Add a 5 Week Class",
+      "start": "2026-06-03T00:00:00",
+      "end": "2026-06-05T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-drop-or-add-a-5-week-class/",
       "description": ""
     }
   ]
