@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T23:50:40.377116Z",
+  "updated": "2026-05-08T02:32:54.647365Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -11,19 +11,19 @@
       "description": ""
     },
     {
-      "title": "Last Day of Spring Semester Courses",
-      "start": "2026-05-08T00:00:00",
-      "end": "2026-05-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
-      "description": ""
-    },
-    {
       "title": "Last Day to add Summer 2026 Independent Course Work",
       "start": "2026-05-08T00:00:00",
       "end": "2026-05-10T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
+      "description": ""
+    },
+    {
+      "title": "Last Day of Spring Semester Courses",
+      "start": "2026-05-08T00:00:00",
+      "end": "2026-05-10T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
       "description": ""
     },
     {
