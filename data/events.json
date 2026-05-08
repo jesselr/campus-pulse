@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:52:59.454845Z",
+  "updated": "2026-05-08T21:54:41.026290Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
       "description": ""
-    },
-    {
-      "title": "Central College Softball vs Loras",
-      "start": "2026-05-08T19:00:00",
-      "end": "2026-05-08T21:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-softball-vs-loras/",
-      "description": "Central College Softball vs Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Track and Field  Cyclone Twilight - Limited roster",
@@ -240,6 +232,14 @@
       "end": "2026-06-26T00:00:00",
       "location": "",
       "url": "https://central.edu/event/last-day-to-withdraw-from-a-5-week-class/",
+      "description": ""
+    },
+    {
+      "title": "Summer 5 Week Classes End",
+      "start": "2026-07-03T00:00:00",
+      "end": "2026-07-05T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-5-week-classes-end/",
       "description": ""
     }
   ]
