@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T22:51:50.350681Z",
+  "updated": "2026-05-08T23:51:55.285117Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,22 +25,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Track and Field  Cyclone Twilight - Limited roster",
-      "start": "2026-05-08T20:00:00",
-      "end": "2026-05-08T23:00:00",
-      "location": "Ames\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-cyclone-twilight-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Cyclone Twilight \u2013 Limited roster"
-    },
-    {
-      "title": "2026 Pella Tulip Time Festival Dutch Dinner",
-      "start": "2026-05-08T22:00:00",
-      "end": "2026-05-08T23:30:00",
-      "location": "Graham Conference Center\\, 812 University St.\\, Pella\\, IA\\, United States",
-      "url": "https://central.edu/event/2026-pella-tulip-time-festival-dutch-dinner-3/",
-      "description": "Buy Tickets"
     },
     {
       "title": "Central College Softball at Wartburg",
@@ -240,6 +224,22 @@
       "end": "2026-07-05T00:00:00",
       "location": "",
       "url": "https://central.edu/event/summer-5-week-classes-end/",
+      "description": ""
+    },
+    {
+      "title": "New Student Registration & Orientation",
+      "start": "2026-07-14T00:00:00",
+      "end": "2026-07-16T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-student-registration-orientation-3/",
+      "description": ""
+    },
+    {
+      "title": "Last Day to Withdraw from a 10 Week Class",
+      "start": "2026-07-15T00:00:00",
+      "end": "2026-07-17T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-withdraw-from-a-10-week-class/",
       "description": ""
     }
   ]
