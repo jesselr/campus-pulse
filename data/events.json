@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T13:03:47.024493Z",
+  "updated": "2026-05-09T14:32:54.407417Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -75,14 +75,6 @@
       "description": ""
     },
     {
-      "title": "Central College Baseball vs TBD",
-      "start": "2026-05-15T00:00:00",
-      "end": "2026-05-18T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-baseball-vs-tbd-3/",
-      "description": "Central College Baseball vs TBD"
-    },
-    {
       "title": "Senior Grades Due (Noon)",
       "start": "2026-05-15T17:00:00",
       "end": "2026-05-15T18:00:00",
@@ -131,28 +123,12 @@
       "description": "Central College Men\u2019s Track and Field  NCAA Division III Outdoor Championships"
     },
     {
-      "title": "Central College Baseball vs TBD",
-      "start": "2026-05-22T00:00:00",
-      "end": "2026-05-24T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-baseball-vs-tbd-4/",
-      "description": "Central College Baseball vs TBD"
-    },
-    {
       "title": "Central College Softball vs TBD",
       "start": "2026-05-28T00:00:00",
       "end": "2026-06-04T00:00:00",
       "location": "Decatur\\, Ill.",
       "url": "https://central.edu/event/central-college-softball-vs-tbd-24/",
       "description": "Central College Softball vs TBD"
-    },
-    {
-      "title": "Central College Baseball vs TBD",
-      "start": "2026-05-29T00:00:00",
-      "end": "2026-06-05T00:00:00",
-      "location": "Eastlake\\, Ohio",
-      "url": "https://central.edu/event/central-college-baseball-vs-tbd-5/",
-      "description": "Central College Baseball vs TBD"
     },
     {
       "title": "Summer 5 and 10 Week Classes Begin",
@@ -241,6 +217,30 @@
       "location": "St. Paul\\, Minn.",
       "url": "https://central.edu/event/central-college-football-at-northwestern-st-paul-minn/",
       "description": "Central College Football at Northwestern \u2013 St. Paul (Minn.)"
+    },
+    {
+      "title": "Central College Football at Belhaven (Miss.)",
+      "start": "2026-09-19T00:00:00",
+      "end": "2026-09-21T00:00:00",
+      "location": "Jackson\\, Miss.",
+      "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
+      "description": "Central College Football at Belhaven (Miss.)"
+    },
+    {
+      "title": "Central College Football vs Dubuque - Homecoming",
+      "start": "2026-10-03T23:00:00",
+      "end": "2026-10-04T02:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-dubuque-homecoming/",
+      "description": "Central College Football vs Dubuque \u2013 Homecoming\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football at Coe",
+      "start": "2026-10-10T23:00:00",
+      "end": "2026-10-11T02:00:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-football-at-coe/",
+      "description": "Central College Football at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
