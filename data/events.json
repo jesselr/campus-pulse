@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T17:43:37.240862Z",
+  "updated": "2026-05-09T18:52:12.018507Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/tulip-time/",
       "description": ""
-    },
-    {
-      "title": "Central College Softball at Wartburg",
-      "start": "2026-05-09T16:00:00",
-      "end": "2026-05-09T18:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-softball-vs-tbd-21/",
-      "description": "Central College Softball at Wartburg\\nStreaming Video: https://rollriversnetwork.com/wartburg/"
     },
     {
       "title": "Central College Softball vs Championship",
@@ -241,6 +233,14 @@
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-football-at-coe/",
       "description": "Central College Football at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football at Nebraska Wesleyan University",
+      "start": "2026-10-17T23:00:00",
+      "end": "2026-10-18T02:00:00",
+      "location": "Lincoln\\, Neb.",
+      "url": "https://central.edu/event/central-college-football-at-nebraska-wesleyan-university/",
+      "description": "Central College Football at Nebraska Wesleyan University\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
