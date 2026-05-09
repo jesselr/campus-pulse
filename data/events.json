@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T20:38:13.253923Z",
+  "updated": "2026-05-09T21:37:32.220129Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/tulip-time/",
       "description": ""
-    },
-    {
-      "title": "Central College Softball vs Championship",
-      "start": "2026-05-09T21:00:00",
-      "end": "2026-05-09T23:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-softball-vs-championship/",
-      "description": "Central College Softball vs Championship\\nStreaming Video: https://rollriversnetwork.com/wartburg/"
     },
     {
       "title": "College-Wide Study Day",
@@ -241,6 +233,14 @@
       "location": "Lincoln\\, Neb.",
       "url": "https://central.edu/event/central-college-football-at-nebraska-wesleyan-university/",
       "description": "Central College Football at Nebraska Wesleyan University\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football vs Buena Vista",
+      "start": "2026-10-24T23:00:00",
+      "end": "2026-10-25T02:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-buena-vista-3/",
+      "description": "Central College Football vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
