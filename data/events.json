@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T02:26:06.329779Z",
+  "updated": "2026-05-09T05:33:45.056751Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,22 +8,6 @@
       "end": "2026-05-11T00:00:00",
       "location": "",
       "url": "https://central.edu/event/tulip-time/",
-      "description": ""
-    },
-    {
-      "title": "Last Day of Spring Semester Courses",
-      "start": "2026-05-08T00:00:00",
-      "end": "2026-05-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-of-spring-semester-courses/",
-      "description": ""
-    },
-    {
-      "title": "Last Day to add Summer 2026 Independent Course Work",
-      "start": "2026-05-08T00:00:00",
-      "end": "2026-05-10T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-to-add-summer-2026-independent-course-work/",
       "description": ""
     },
     {
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-withdraw-from-a-10-week-class/",
       "description": ""
+    },
+    {
+      "title": "Central College Football at Gustavus Adolphus (Minn.)",
+      "start": "2026-09-05T23:00:00",
+      "end": "2026-09-06T02:00:00",
+      "location": "St. Peter\\, Minn.",
+      "url": "https://central.edu/event/central-college-football-at-gustavus-adolphus-minn/",
+      "description": "Central College Football at Gustavus Adolphus (Minn.)"
+    },
+    {
+      "title": "Central College Football at Northwestern - St. Paul (Minn.)",
+      "start": "2026-09-12T23:00:00",
+      "end": "2026-09-13T02:00:00",
+      "location": "St. Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-football-at-northwestern-st-paul-minn/",
+      "description": "Central College Football at Northwestern \u2013 St. Paul (Minn.)"
     }
   ]
 }
