@@ -1,15 +1,7 @@
 {
-  "updated": "2026-05-12T02:31:32.175183Z",
+  "updated": "2026-05-12T06:09:16.078942Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "College-Wide Study Day",
-      "start": "2026-05-11T00:00:00",
-      "end": "2026-05-13T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/college-wide-study-day-2/",
-      "description": ""
-    },
     {
       "title": "Final Exams",
       "start": "2026-05-12T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-football-at-loras-2/",
       "description": "Central College Football at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football vs Wartburg",
+      "start": "2026-11-08T01:00:00",
+      "end": "2026-11-08T04:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-wartburg/",
+      "description": "Central College Football vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
