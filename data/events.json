@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T01:23:56.607239Z",
+  "updated": "2026-05-14T05:03:21.694516Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/final-exams-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Track and Field  Augustana Midwest Twilight Qualifier - Limited roster - NCAA Final Qualifier",
-      "start": "2026-05-13T00:00:00",
-      "end": "2026-05-15T00:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-womens-track-and-field-augustana-midwest-qualifier-limited-roster/",
-      "description": "Central College Women\u2019s Track and Field  Augustana Midwest Twilight Qualifier \u2013 Limited roster \u2013 NCAA Final Qualifier\\nStreaming Video: https://www.cciwnetwork.com/acvikings/"
-    },
-    {
-      "title": "Central College Men's Track and Field  Augustana Midwest Twilight Qualifier - Limited roster - NCAA Final Qualifier",
-      "start": "2026-05-13T00:00:00",
-      "end": "2026-05-15T00:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-track-and-field-augustana-midwest-qualifier-limited-roster/",
-      "description": "Central College Men\u2019s Track and Field  Augustana Midwest Twilight Qualifier \u2013 Limited roster \u2013 NCAA Final Qualifier\\nStreaming Video: https://www.cciwnetwork.com/acvikings/"
     },
     {
       "title": "Central College Softball vs Saint Benedict (Minn.)",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-football-vs-buena-vista-3/",
       "description": "Central College Football vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football at Loras",
+      "start": "2026-10-31T23:00:00",
+      "end": "2026-11-01T02:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-football-at-loras-2/",
+      "description": "Central College Football at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football vs Wartburg",
+      "start": "2026-11-08T01:00:00",
+      "end": "2026-11-08T04:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-wartburg/",
+      "description": "Central College Football vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
