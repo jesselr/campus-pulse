@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T21:54:48.392013Z",
+  "updated": "2026-05-31T22:55:19.796468Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -139,14 +139,6 @@
       "description": "Central College Men\u2019s Soccer vs Augustana (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Men's Soccer vs Augustana (Ill.)",
-      "start": "2026-09-05T03:00:00",
-      "end": "2026-09-05T05:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-augustana-ill-2/",
-      "description": "Central College Men\u2019s Soccer vs Augustana (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Football at Gustavus Adolphus (Minn.)",
       "start": "2026-09-05T23:00:00",
       "end": "2026-09-06T02:00:00",
@@ -171,14 +163,6 @@
       "description": "Central College Men\u2019s Soccer at St. Scholastica (Minn.)"
     },
     {
-      "title": "Central College Men's Soccer at St. Scholastica (Minn.)",
-      "start": "2026-09-06T22:00:00",
-      "end": "2026-09-07T00:00:00",
-      "location": "Duluth\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-soccer-at-st-scholastica-minn-2/",
-      "description": "Central College Men\u2019s Soccer at St. Scholastica (Minn.)"
-    },
-    {
       "title": "Central College Women's Soccer at Edgewood (Wis.)",
       "start": "2026-09-09T21:00:00",
       "end": "2026-09-09T23:00:00",
@@ -192,14 +176,6 @@
       "end": "2026-09-10T05:00:00",
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-mens-soccer-vs-greenville-ill/",
-      "description": "Central College Men\u2019s Soccer vs Greenville (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Men's Soccer vs Greenville (Ill.)",
-      "start": "2026-09-10T03:00:00",
-      "end": "2026-09-10T05:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-greenville-ill-2/",
       "description": "Central College Men\u2019s Soccer vs Greenville (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
@@ -227,20 +203,44 @@
       "description": "Central College Men\u2019s Soccer vs Wis.-Stout\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Men's Soccer vs Wis.-Stout",
-      "start": "2026-09-13T02:30:00",
-      "end": "2026-09-13T04:30:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-wis-stout-2/",
-      "description": "Central College Men\u2019s Soccer vs Wis.-Stout\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Women's Soccer at Northwestern-St. Paul (Minn.)",
       "start": "2026-09-16T21:00:00",
       "end": "2026-09-16T23:00:00",
       "location": "St. Paul\\, Minn.",
       "url": "https://central.edu/event/central-college-womens-soccer-at-northwestern-st-paul-minn/",
       "description": "Central College Women\u2019s Soccer at Northwestern-St. Paul (Minn.)"
+    },
+    {
+      "title": "Central College Men's Soccer at Grinnell",
+      "start": "2026-09-17T03:00:00",
+      "end": "2026-09-17T05:00:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-soccer-at-grinnell/",
+      "description": "Central College Men\u2019s Soccer at Grinnell"
+    },
+    {
+      "title": "Central College Football at Belhaven (Miss.)",
+      "start": "2026-09-19T00:00:00",
+      "end": "2026-09-21T00:00:00",
+      "location": "Jackson\\, Miss.",
+      "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
+      "description": "Central College Football at Belhaven (Miss.)"
+    },
+    {
+      "title": "Central College Women's Soccer vs Westminster (Mo.)",
+      "start": "2026-09-19T21:00:00",
+      "end": "2026-09-19T23:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-westminster-mo/",
+      "description": "Central College Women\u2019s Soccer vs Westminster (Mo.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Soccer at Blackburn (Ill.)",
+      "start": "2026-09-20T02:00:00",
+      "end": "2026-09-20T04:00:00",
+      "location": "Carlinville\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-soccer-at-blackburn-ill/",
+      "description": "Central College Men\u2019s Soccer at Blackburn (Ill.)"
     }
   ]
 }
