@@ -1,15 +1,7 @@
 {
-  "updated": "2026-06-02T00:16:33.393212Z",
+  "updated": "2026-06-02T05:08:34.014926Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Summer 5 and 10 Week Classes Begin",
-      "start": "2026-06-01T00:00:00",
-      "end": "2026-06-03T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/summer-5-and-10-week-classes-begin/",
-      "description": ""
-    },
     {
       "title": "Last Day to Drop or Add a 5 Week Class",
       "start": "2026-06-03T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Carlinville\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-soccer-at-blackburn-ill/",
       "description": "Central College Men\u2019s Soccer at Blackburn (Ill.)"
+    },
+    {
+      "title": "Central College Men's Soccer at Cornell",
+      "start": "2026-09-24T03:00:00",
+      "end": "2026-09-24T05:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-soccer-at-cornell/",
+      "description": "Central College Men\u2019s Soccer at Cornell"
     }
   ]
 }
