@@ -1,15 +1,7 @@
 {
-  "updated": "2026-06-04T02:03:31.722427Z",
+  "updated": "2026-06-04T06:59:28.540602Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Last Day to Drop or Add a 5 Week Class",
-      "start": "2026-06-03T00:00:00",
-      "end": "2026-06-05T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-to-drop-or-add-a-5-week-class/",
-      "description": ""
-    },
     {
       "title": "Last Day to Drop or Add a 10 Week Class",
       "start": "2026-06-10T00:00:00",
@@ -241,6 +233,14 @@
       "location": "St. Peter\\, Minn.",
       "url": "https://central.edu/event/central-college-football-at-gustavus-adolphus-minn/",
       "description": "Central College Football at Gustavus Adolphus (Minn.)"
+    },
+    {
+      "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
+      "start": "2026-09-06T18:00:00",
+      "end": "2026-09-06T20:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-saint-benedict-minn/",
+      "description": "Central College Women\u2019s Soccer vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
