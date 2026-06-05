@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T08:40:03.145239Z",
+  "updated": "2026-06-05T11:57:53.458178Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -211,6 +211,22 @@
       "description": "Central College Football at Gustavus Adolphus (Minn.)"
     },
     {
+      "title": "Central College Men's Tennis at Cornell Invitational",
+      "start": "2026-09-06T00:00:00",
+      "end": "2026-09-08T00:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-3/",
+      "description": "Central College Men\u2019s Tennis at Cornell Invitational"
+    },
+    {
+      "title": "Central College Men's Tennis at Cornell Invitational",
+      "start": "2026-09-06T00:00:00",
+      "end": "2026-09-08T00:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-2/",
+      "description": "Central College Men\u2019s Tennis at Cornell Invitational"
+    },
+    {
       "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
       "start": "2026-09-06T18:00:00",
       "end": "2026-09-06T20:00:00",
@@ -225,22 +241,6 @@
       "location": "Duluth\\, Minn.",
       "url": "https://central.edu/event/central-college-mens-soccer-at-st-scholastica-minn/",
       "description": "Central College Men\u2019s Soccer at St. Scholastica (Minn.)"
-    },
-    {
-      "title": "Central College Volleyball vs Luther vs. Simpson",
-      "start": "2026-09-08T21:00:00",
-      "end": "2026-09-08T23:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-luther-vs-simpson/",
-      "description": "Central College Volleyball vs Luther vs. Simpson"
-    },
-    {
-      "title": "Central College Volleyball vs Luther",
-      "start": "2026-09-08T23:00:00",
-      "end": "2026-09-09T01:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
-      "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
