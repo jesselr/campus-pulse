@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T18:30:15.253386Z",
+  "updated": "2026-06-09T20:52:20.802677Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -123,6 +123,22 @@
       "description": "Central College Women\u2019s Soccer vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
+      "title": "Central College Women's Triathlon  Splash & Dash",
+      "start": "2026-09-04T00:00:00",
+      "end": "2026-09-06T00:00:00",
+      "location": "Pella\\, Iowa / Roberts Creek",
+      "url": "https://central.edu/event/central-college-womens-triathlon-splash-dash/",
+      "description": "Central College Women\u2019s Triathlon  Splash & Dash"
+    },
+    {
+      "title": "Central College Women's Triathlon  Splash & Dash",
+      "start": "2026-09-04T00:00:00",
+      "end": "2026-09-06T00:00:00",
+      "location": "Pella\\, Iowa / Roberts Creek",
+      "url": "https://central.edu/event/central-college-womens-triathlon-splash-dash-2/",
+      "description": "Central College Women\u2019s Triathlon  Splash & Dash"
+    },
+    {
       "title": "Central College Women's Soccer at Cornell",
       "start": "2026-09-04T21:30:00",
       "end": "2026-09-04T23:30:00",
@@ -145,6 +161,22 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
       "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Triathlon  Coe dual",
+      "start": "2026-09-05T00:00:00",
+      "end": "2026-09-07T00:00:00",
+      "location": "Pella\\, Iowa / Roberts Creek",
+      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-2/",
+      "description": "Central College Women\u2019s Triathlon  Coe dual"
+    },
+    {
+      "title": "Central College Women's Triathlon  Coe dual",
+      "start": "2026-09-05T00:00:00",
+      "end": "2026-09-07T00:00:00",
+      "location": "Pella\\, Iowa / Roberts Creek",
+      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-3/",
+      "description": "Central College Women\u2019s Triathlon  Coe dual"
     },
     {
       "title": "Central College Volleyball vs St. Benedict vs. Cornell",
@@ -209,38 +241,6 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
       "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Soccer at Edgewood (Wis.)",
-      "start": "2026-09-09T21:00:00",
-      "end": "2026-09-09T23:00:00",
-      "location": "Madison\\, Wis.",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
-      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
-    },
-    {
-      "title": "Central College Volleyball vs Carleton (Minn.)",
-      "start": "2026-09-11T20:00:00",
-      "end": "2026-09-11T22:00:00",
-      "location": "Saint Paul\\, Minn.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
-      "description": "Central College Volleyball vs Carleton (Minn.)"
-    },
-    {
-      "title": "Central College Women's Tennis vs Central Invitational",
-      "start": "2026-09-12T00:00:00",
-      "end": "2026-09-14T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-central-invitational-2/",
-      "description": "Central College Women\u2019s Tennis vs Central Invitational"
-    },
-    {
-      "title": "Central College Volleyball vs Hamline (Minn.)",
-      "start": "2026-09-12T15:00:00",
-      "end": "2026-09-12T17:00:00",
-      "location": "Saint Paul\\, Minn.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-hamline-minn/",
-      "description": "Central College Volleyball vs Hamline (Minn.)"
     }
   ]
 }
