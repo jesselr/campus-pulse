@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:40:32.118984Z",
+  "updated": "2026-06-09T16:28:00.744889Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -59,14 +59,6 @@
       "description": ""
     },
     {
-      "title": "Central College Men's Soccer vs Grinnell",
-      "start": "2026-08-21T03:00:00",
-      "end": "2026-08-21T05:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-grinnell-2/",
-      "description": "Central College Men\u2019s Soccer vs Grinnell"
-    },
-    {
       "title": "Central College Women's Tennis at Doubles tournament - Exhibition",
       "start": "2026-08-22T00:00:00",
       "end": "2026-08-24T00:00:00",
@@ -97,14 +89,6 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-north-iowa-area-cc-2/",
       "description": "Central College Women\u2019s Soccer vs North Iowa Area CC"
-    },
-    {
-      "title": "Central College Men's Soccer vs William Penn",
-      "start": "2026-08-28T03:00:00",
-      "end": "2026-08-28T05:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-william-penn/",
-      "description": "Central College Men\u2019s Soccer vs William Penn"
     },
     {
       "title": "Central College Volleyball at Cornell",
@@ -139,14 +123,6 @@
       "description": "Central College Women\u2019s Soccer vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Men's Soccer at St. Olaf (Minn.)",
-      "start": "2026-09-02T02:00:00",
-      "end": "2026-09-02T04:00:00",
-      "location": "Northfield\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-soccer-at-st-olaf-minn/",
-      "description": "Central College Men\u2019s Soccer at St. Olaf (Minn.)"
-    },
-    {
       "title": "Central College Women's Soccer at Cornell",
       "start": "2026-09-04T21:30:00",
       "end": "2026-09-04T23:30:00",
@@ -169,14 +145,6 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
       "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Men's Soccer vs Augustana (Ill.)",
-      "start": "2026-09-05T03:00:00",
-      "end": "2026-09-05T05:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-mens-soccer-vs-augustana-ill/",
-      "description": "Central College Men\u2019s Soccer vs Augustana (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Volleyball vs St. Benedict vs. Cornell",
@@ -227,20 +195,52 @@
       "description": "Central College Women\u2019s Soccer vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Men's Soccer at St. Scholastica (Minn.)",
-      "start": "2026-09-06T22:00:00",
-      "end": "2026-09-07T00:00:00",
-      "location": "Duluth\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-soccer-at-st-scholastica-minn/",
-      "description": "Central College Men\u2019s Soccer at St. Scholastica (Minn.)"
-    },
-    {
       "title": "Central College Volleyball vs Luther vs. Simpson",
       "start": "2026-09-08T21:00:00",
       "end": "2026-09-08T23:00:00",
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-luther-vs-simpson/",
       "description": "Central College Volleyball vs Luther vs. Simpson"
+    },
+    {
+      "title": "Central College Volleyball vs Luther",
+      "start": "2026-09-08T23:00:00",
+      "end": "2026-09-09T01:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
+      "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Soccer at Edgewood (Wis.)",
+      "start": "2026-09-09T21:00:00",
+      "end": "2026-09-09T23:00:00",
+      "location": "Madison\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
+      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
+    },
+    {
+      "title": "Central College Volleyball vs Carleton (Minn.)",
+      "start": "2026-09-11T20:00:00",
+      "end": "2026-09-11T22:00:00",
+      "location": "Saint Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
+      "description": "Central College Volleyball vs Carleton (Minn.)"
+    },
+    {
+      "title": "Central College Women's Tennis vs Central Invitational",
+      "start": "2026-09-12T00:00:00",
+      "end": "2026-09-14T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-central-invitational-2/",
+      "description": "Central College Women\u2019s Tennis vs Central Invitational"
+    },
+    {
+      "title": "Central College Volleyball vs Hamline (Minn.)",
+      "start": "2026-09-12T15:00:00",
+      "end": "2026-09-12T17:00:00",
+      "location": "Saint Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-hamline-minn/",
+      "description": "Central College Volleyball vs Hamline (Minn.)"
     }
   ]
 }
