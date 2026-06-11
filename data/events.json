@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:54:41.225901Z",
+  "updated": "2026-06-11T03:23:05.965441Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -131,14 +131,6 @@
       "description": "Central College Women\u2019s Triathlon  Splash & Dash"
     },
     {
-      "title": "Central College Women's Triathlon  Splash & Dash",
-      "start": "2026-09-04T00:00:00",
-      "end": "2026-09-06T00:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-splash-dash-2/",
-      "description": "Central College Women\u2019s Triathlon  Splash & Dash"
-    },
-    {
       "title": "Central College Women's Soccer at Cornell",
       "start": "2026-09-04T21:30:00",
       "end": "2026-09-04T23:30:00",
@@ -171,12 +163,12 @@
       "description": "Central College Women\u2019s Triathlon  Coe dual"
     },
     {
-      "title": "Central College Women's Triathlon  Coe dual",
-      "start": "2026-09-05T00:00:00",
-      "end": "2026-09-07T00:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-3/",
-      "description": "Central College Women\u2019s Triathlon  Coe dual"
+      "title": "Central College Women's Golf  Kohawk Classic",
+      "start": "2026-09-05T15:00:00",
+      "end": "2026-09-06T04:59:00",
+      "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
+      "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
+      "description": "Central College Women\u2019s Golf  Kohawk Classic"
     },
     {
       "title": "Central College Volleyball vs St. Benedict vs. Cornell",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
       "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Soccer at Edgewood (Wis.)",
+      "start": "2026-09-09T21:00:00",
+      "end": "2026-09-09T23:00:00",
+      "location": "Madison\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
+      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
     }
   ]
 }
