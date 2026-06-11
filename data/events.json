@@ -1,15 +1,7 @@
 {
-  "updated": "2026-06-11T03:23:05.965441Z",
+  "updated": "2026-06-11T08:19:03.795297Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Last Day to Drop or Add a 10 Week Class",
-      "start": "2026-06-10T00:00:00",
-      "end": "2026-06-12T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-to-drop-or-add-a-10-week-class/",
-      "description": ""
-    },
     {
       "title": "New Student Registration.& Orientation",
       "start": "2026-06-10T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Madison\\, Wis.",
       "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
       "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
+    },
+    {
+      "title": "Central College Volleyball vs Carleton (Minn.)",
+      "start": "2026-09-11T20:00:00",
+      "end": "2026-09-11T22:00:00",
+      "location": "Saint Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
+      "description": "Central College Volleyball vs Carleton (Minn.)"
     }
   ]
 }
