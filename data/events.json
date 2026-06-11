@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T12:25:57.180946Z",
+  "updated": "2026-06-11T16:33:32.115583Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/new-student-registration-orientation-2/",
       "description": ""
-    },
-    {
-      "title": "Forever Dutch Golf Outing",
-      "start": "2026-06-11T00:00:00",
-      "end": "2026-06-13T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/forever-dutch-golf-outing/",
-      "description": "This is more than a fundraiser \u2013 it\\\u2019s a rally for the Forever Dutch community. A day where friendly competition meets lasting connections\\, all fueled by a shared passion for Central and its student-athletes."
     },
     {
       "title": "Last Day to Withdraw from a 5 Week Class",
@@ -241,6 +233,14 @@
       "location": "Saint Paul\\, Minn.",
       "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
       "description": "Central College Volleyball vs Carleton (Minn.)"
+    },
+    {
+      "title": "Central College Women's Tennis vs Central Invitational",
+      "start": "2026-09-12T00:00:00",
+      "end": "2026-09-14T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-central-invitational-2/",
+      "description": "Central College Women\u2019s Tennis vs Central Invitational"
     }
   ]
 }
