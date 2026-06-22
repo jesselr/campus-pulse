@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T21:18:39.310639Z",
+  "updated": "2026-06-22T22:59:25.609468Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -35,6 +35,126 @@
       "description": ""
     },
     {
+      "title": "Summer 10-Week Classes End",
+      "start": "2026-08-07T00:00:00",
+      "end": "2026-08-09T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-10-week-classes-end/",
+      "description": ""
+    },
+    {
+      "title": "Summer 10-Week Classes End",
+      "start": "2026-08-07T00:00:00",
+      "end": "2026-08-09T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-10-week-classes-end-2/",
+      "description": ""
+    },
+    {
+      "title": "Summer Semester Grades Due (Noon)",
+      "start": "2026-08-11T00:00:00",
+      "end": "2026-08-13T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-semester-grades-due-noon-2/",
+      "description": ""
+    },
+    {
+      "title": "Summer Semester Grades Due (Noon)",
+      "start": "2026-08-11T00:00:00",
+      "end": "2026-08-13T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/summer-semester-grades-due-noon/",
+      "description": ""
+    },
+    {
+      "title": "New Faculty Workshops",
+      "start": "2026-08-17T00:00:00",
+      "end": "2026-08-20T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-faculty-workshops-4/",
+      "description": ""
+    },
+    {
+      "title": "New Faculty Workshops",
+      "start": "2026-08-17T00:00:00",
+      "end": "2026-08-20T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-faculty-workshops-3/",
+      "description": ""
+    },
+    {
+      "title": "International Students Arrive",
+      "start": "2026-08-17T00:00:00",
+      "end": "2026-08-20T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/international-students-arrive/",
+      "description": ""
+    },
+    {
+      "title": "International Students Arrive",
+      "start": "2026-08-17T00:00:00",
+      "end": "2026-08-20T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/international-students-arrive-2/",
+      "description": ""
+    },
+    {
+      "title": "Department Chairs Workshop",
+      "start": "2026-08-19T00:00:00",
+      "end": "2026-08-21T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/department-chairs-workshop/",
+      "description": ""
+    },
+    {
+      "title": "Department Chairs Workshop",
+      "start": "2026-08-19T00:00:00",
+      "end": "2026-08-21T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/department-chairs-workshop-2/",
+      "description": ""
+    },
+    {
+      "title": "New International Student Orientation",
+      "start": "2026-08-19T00:00:00",
+      "end": "2026-08-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-international-student-orientation/",
+      "description": ""
+    },
+    {
+      "title": "All Faculty Workshops",
+      "start": "2026-08-20T00:00:00",
+      "end": "2026-08-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/all-faculty-workshops-3/",
+      "description": ""
+    },
+    {
+      "title": "All Faculty Workshops",
+      "start": "2026-08-20T00:00:00",
+      "end": "2026-08-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/all-faculty-workshops-4/",
+      "description": ""
+    },
+    {
+      "title": "New Students Arrive",
+      "start": "2026-08-21T00:00:00",
+      "end": "2026-08-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/new-students-arrive-3/",
+      "description": ""
+    },
+    {
+      "title": "Welcome Weekend Begins",
+      "start": "2026-08-21T00:00:00",
+      "end": "2026-08-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/welcome-weekend-begins-3/",
+      "description": ""
+    },
+    {
       "title": "Central College Women's Tennis at Doubles tournament - Exhibition",
       "start": "2026-08-22T00:00:00",
       "end": "2026-08-24T00:00:00",
@@ -57,6 +177,30 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-grinnell-2/",
       "description": "Central College Volleyball vs Grinnell"
+    },
+    {
+      "title": "Returning Students Arrive",
+      "start": "2026-08-23T00:00:00",
+      "end": "2026-08-25T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/returning-students-arrive-4/",
+      "description": ""
+    },
+    {
+      "title": "Fall Semester Classes Begin",
+      "start": "2026-08-24T00:00:00",
+      "end": "2026-08-26T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/fall-semester-classes-begin-3/",
+      "description": ""
+    },
+    {
+      "title": "Add/Drop Period",
+      "start": "2026-08-24T00:00:00",
+      "end": "2026-09-06T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/add-drop-period/",
+      "description": ""
     },
     {
       "title": "Central College Women's Soccer vs North Iowa Area CC",
@@ -97,150 +241,6 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-illinois-college/",
       "description": "Central College Women\u2019s Soccer vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Triathlon  Splash & Dash",
-      "start": "2026-09-04T00:00:00",
-      "end": "2026-09-06T00:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-splash-dash/",
-      "description": "Central College Women\u2019s Triathlon  Splash & Dash"
-    },
-    {
-      "title": "Central College Women's Soccer at Cornell",
-      "start": "2026-09-04T21:30:00",
-      "end": "2026-09-04T23:30:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-cornell/",
-      "description": "Central College Women\u2019s Soccer at Cornell"
-    },
-    {
-      "title": "Central College Volleyball vs St. Catherine vs. Cornell",
-      "start": "2026-09-04T22:00:00",
-      "end": "2026-09-05T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
-      "description": "Central College Volleyball vs St. Catherine vs. Cornell"
-    },
-    {
-      "title": "Central College Volleyball vs St. Catherine (Minn.)",
-      "start": "2026-09-05T00:00:00",
-      "end": "2026-09-05T02:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
-      "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Triathlon  Coe dual",
-      "start": "2026-09-05T00:00:00",
-      "end": "2026-09-07T00:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-2/",
-      "description": "Central College Women\u2019s Triathlon  Coe dual"
-    },
-    {
-      "title": "Central College Women's Golf  Kohawk Classic",
-      "start": "2026-09-05T15:00:00",
-      "end": "2026-09-06T04:59:00",
-      "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
-      "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
-      "description": "Central College Women\u2019s Golf  Kohawk Classic"
-    },
-    {
-      "title": "Central College Volleyball vs St. Benedict vs. Cornell",
-      "start": "2026-09-05T16:00:00",
-      "end": "2026-09-05T18:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-benedict-vs-cornell/",
-      "description": "Central College Volleyball vs St. Benedict vs. Cornell"
-    },
-    {
-      "title": "Central College Volleyball vs Saint Benedict (Minn.)",
-      "start": "2026-09-05T18:00:00",
-      "end": "2026-09-05T20:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-saint-benedict-minn/",
-      "description": "Central College Volleyball vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Volleyball vs Cornell",
-      "start": "2026-09-05T20:00:00",
-      "end": "2026-09-05T22:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-cornell-2/",
-      "description": "Central College Volleyball vs Cornell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Football at Gustavus Adolphus (Minn.)",
-      "start": "2026-09-05T23:00:00",
-      "end": "2026-09-06T02:00:00",
-      "location": "St. Peter\\, Minn.",
-      "url": "https://central.edu/event/central-college-football-at-gustavus-adolphus-minn/",
-      "description": "Central College Football at Gustavus Adolphus (Minn.)"
-    },
-    {
-      "title": "Central College Men's Tennis at Cornell Invitational",
-      "start": "2026-09-06T00:00:00",
-      "end": "2026-09-08T00:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-3/",
-      "description": "Central College Men\u2019s Tennis at Cornell Invitational"
-    },
-    {
-      "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
-      "start": "2026-09-06T18:00:00",
-      "end": "2026-09-06T20:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-saint-benedict-minn/",
-      "description": "Central College Women\u2019s Soccer vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Volleyball vs Luther vs. Simpson",
-      "start": "2026-09-08T21:00:00",
-      "end": "2026-09-08T23:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-luther-vs-simpson/",
-      "description": "Central College Volleyball vs Luther vs. Simpson"
-    },
-    {
-      "title": "Central College Volleyball vs Luther",
-      "start": "2026-09-08T23:00:00",
-      "end": "2026-09-09T01:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
-      "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Soccer at Edgewood (Wis.)",
-      "start": "2026-09-09T21:00:00",
-      "end": "2026-09-09T23:00:00",
-      "location": "Madison\\, Wis.",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
-      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
-    },
-    {
-      "title": "Central College Volleyball vs Carleton (Minn.)",
-      "start": "2026-09-11T20:00:00",
-      "end": "2026-09-11T22:00:00",
-      "location": "Saint Paul\\, Minn.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
-      "description": "Central College Volleyball vs Carleton (Minn.)"
-    },
-    {
-      "title": "Central College Women's Tennis vs Central Invitational",
-      "start": "2026-09-12T00:00:00",
-      "end": "2026-09-14T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-central-invitational-2/",
-      "description": "Central College Women\u2019s Tennis vs Central Invitational"
-    },
-    {
-      "title": "Central College Women's Triathlon  Fontana Triathlon",
-      "start": "2026-09-12T00:00:00",
-      "end": "2026-09-14T00:00:00",
-      "location": "Lake Geneva\\, Wis.",
-      "url": "https://central.edu/event/central-college-womens-triathlon-fontana-triathlon/",
-      "description": "Central College Women\u2019s Triathlon  Fontana Triathlon"
     }
   ]
 }
