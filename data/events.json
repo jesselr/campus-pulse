@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:12:36.244572Z",
+  "updated": "2026-06-23T19:23:57.367507Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -33,6 +33,14 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-withdraw-from-a-10-week-class/",
       "description": ""
+    },
+    {
+      "title": "Doing a World of Good at Pella Community Food Shelf",
+      "start": "2026-07-16T19:00:00",
+      "end": "2026-07-16T21:00:00",
+      "location": "",
+      "url": "https://central.edu/event/doing-a-world-of-good-at-pella-community-food-shelf/",
+      "description": "Join us 2 \u2013 4 p.m. Thursday\\, July 16\\, for a community service project at the Pella Community Food Shelf\\, 1111 W 16th St.\\, Pella. This is a wonderful way to serve our community and support local families."
     },
     {
       "title": "Summer 10-Week Classes End",
@@ -233,14 +241,6 @@
       "location": "Indianola\\, Iowa",
       "url": "https://central.edu/event/central-college-volleyball-vs-bethel-minn/",
       "description": "Central College Volleyball vs Bethel (Minn.)"
-    },
-    {
-      "title": "Central College Women's Soccer vs Illinois College",
-      "start": "2026-09-01T22:00:00",
-      "end": "2026-09-02T00:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-illinois-college/",
-      "description": "Central College Women\u2019s Soccer vs Illinois College\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
