@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T00:13:35.693553Z",
+  "updated": "2026-06-23T04:38:24.691151Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -211,20 +211,20 @@
       "description": "Central College Women\u2019s Soccer vs North Iowa Area CC"
     },
     {
-      "title": "Central College Volleyball at Cornell",
-      "start": "2026-08-29T00:00:00",
-      "end": "2026-08-31T00:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-volleyball-at-cornell/",
-      "description": "Central College Volleyball at Cornell"
-    },
-    {
       "title": "Central College Women's Tennis at Truman State Invitational",
       "start": "2026-08-29T00:00:00",
       "end": "2026-08-31T00:00:00",
       "location": "Kirksville\\, Mo.",
       "url": "https://central.edu/event/central-college-womens-tennis-at-truman-state-invitational/",
       "description": "Central College Women\u2019s Tennis at Truman State Invitational"
+    },
+    {
+      "title": "Central College Volleyball at Cornell",
+      "start": "2026-08-29T18:00:00",
+      "end": "2026-08-29T20:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-volleyball-at-cornell/",
+      "description": "Central College Volleyball at Cornell"
     },
     {
       "title": "Central College Volleyball vs Bethel (Minn.)",
