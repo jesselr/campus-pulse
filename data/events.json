@@ -1,15 +1,7 @@
 {
-  "updated": "2026-06-25T04:41:38.232334Z",
+  "updated": "2026-06-25T08:18:44.788476Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Last Day to Withdraw from a 5 Week Class",
-      "start": "2026-06-24T00:00:00",
-      "end": "2026-06-26T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-to-withdraw-from-a-5-week-class/",
-      "description": ""
-    },
     {
       "title": "Summer 5 Week Classes End",
       "start": "2026-07-03T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
       "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Triathlon  Coe dual",
+      "start": "2026-09-05T00:00:00",
+      "end": "2026-09-07T00:00:00",
+      "location": "Pella\\, Iowa / Roberts Creek",
+      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-2/",
+      "description": "Central College Women\u2019s Triathlon  Coe dual"
     }
   ]
 }
