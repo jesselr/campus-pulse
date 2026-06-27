@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T19:11:18.263762Z",
+  "updated": "2026-06-27T20:35:50.238916Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -219,14 +219,6 @@
       "description": "Central College Women\u2019s Cross Country  Dutch Invitational"
     },
     {
-      "title": "Central College Women's Cross Country  Dutch Invitational",
-      "start": "2026-09-04T00:00:00",
-      "end": "2026-09-06T00:00:00",
-      "location": "Pella\\, Iowa\\, Cross country course",
-      "url": "https://central.edu/event/central-college-womens-cross-country-dutch-invitational-3/",
-      "description": "Central College Women\u2019s Cross Country  Dutch Invitational"
-    },
-    {
       "title": "Central College Men's Cross Country  Dutch Invitational",
       "start": "2026-09-04T00:00:00",
       "end": "2026-09-06T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Mount Vernon\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-soccer-at-cornell/",
       "description": "Central College Women\u2019s Soccer at Cornell"
+    },
+    {
+      "title": "Central College Volleyball vs St. Catherine vs. Cornell",
+      "start": "2026-09-04T22:00:00",
+      "end": "2026-09-05T00:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
+      "description": "Central College Volleyball vs St. Catherine vs. Cornell"
     }
   ]
 }
