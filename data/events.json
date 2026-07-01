@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T23:05:19.030718Z",
+  "updated": "2026-07-01T01:37:29.058380Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,6 +41,14 @@
       "location": "",
       "url": "https://central.edu/event/summer-10-week-classes-end/",
       "description": ""
+    },
+    {
+      "title": "Doing a World of Good with Meals from the Heartland",
+      "start": "2026-08-07T18:00:00",
+      "end": "2026-08-07T20:00:00",
+      "location": "",
+      "url": "https://central.edu/event/doing-a-world-of-good-with-meals-from-the-heartland/",
+      "description": "Join us\u00a01:00 \u2013 3:00 p.m. Friday\\, Aug. 7\u00a0for a rewarding volunteer opportunity with Meals from the Heartland\\, 357 Lincoln St. West Des Moines\\, IA."
     },
     {
       "title": "Summer Semester Grades Due (Noon)",
@@ -233,14 +241,6 @@
       "location": "Mount Vernon\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-soccer-at-cornell/",
       "description": "Central College Women\u2019s Soccer at Cornell"
-    },
-    {
-      "title": "Central College Volleyball vs St. Catherine vs. Cornell",
-      "start": "2026-09-04T22:00:00",
-      "end": "2026-09-05T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
-      "description": "Central College Volleyball vs St. Catherine vs. Cornell"
     }
   ]
 }
