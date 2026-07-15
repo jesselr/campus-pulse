@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-15T01:52:46.452009Z",
+  "updated": "2026-07-15T04:46:22.632760Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "New Student Registration & Orientation",
-      "start": "2026-07-14T00:00:00",
-      "end": "2026-07-16T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/new-student-registration-orientation-3/",
-      "description": ""
-    },
     {
       "title": "Last Day to Withdraw from a 10 Week Class",
       "start": "2026-07-15T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
       "description": "Central College Volleyball vs St. Catherine vs. Cornell"
+    },
+    {
+      "title": "Central College Volleyball vs St. Catherine (Minn.)",
+      "start": "2026-09-05T00:00:00",
+      "end": "2026-09-05T02:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
+      "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
