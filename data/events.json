@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-16T20:51:16.842837Z",
+  "updated": "2026-07-16T21:58:55.543850Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Doing a World of Good at Pella Community Food Shelf",
-      "start": "2026-07-16T19:00:00",
-      "end": "2026-07-16T21:00:00",
-      "location": "",
-      "url": "https://central.edu/event/doing-a-world-of-good-at-pella-community-food-shelf/",
-      "description": "Join us 2 \u2013 4 p.m. Thursday\\, July 16\\, for a community service project at the Pella Community Food Shelf\\, 1111 W 16th St.\\, Pella. This is a wonderful way to serve our community and support local families."
-    },
     {
       "title": "Summer 10-Week Classes End",
       "start": "2026-08-07T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa / Roberts Creek",
       "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-2/",
       "description": "Central College Women\u2019s Triathlon  Coe dual"
+    },
+    {
+      "title": "Central College Men's Golf  Transylvania Invitational",
+      "start": "2026-09-05T00:00:00",
+      "end": "2026-09-07T00:00:00",
+      "location": "Lexington\\, 200 Coy Rd\\, Olive Hill\\, KY\\, United States",
+      "url": "https://central.edu/event/central-college-mens-golf-transylvania-invitational/",
+      "description": "Central College Men\u2019s Golf  Transylvania Invitational"
     }
   ]
 }
