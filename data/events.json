@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:26:18.451635Z",
+  "updated": "2026-08-07T20:04:13.066316Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "",
       "url": "https://central.edu/event/summer-10-week-classes-end/",
       "description": ""
-    },
-    {
-      "title": "Doing a World of Good with Meals from the Heartland",
-      "start": "2026-08-07T18:00:00",
-      "end": "2026-08-07T20:00:00",
-      "location": "",
-      "url": "https://central.edu/event/doing-a-world-of-good-with-meals-from-the-heartland/",
-      "description": "Join us\u00a01:00 \u2013 3:00 p.m. Friday\\, Aug. 7\u00a0for a rewarding volunteer opportunity with Meals from the Heartland\\, 357 Lincoln St. West Des Moines\\, IA."
     },
     {
       "title": "Summer Semester Grades Due (Noon)",
@@ -241,6 +233,14 @@
       "location": "Lexington\\, 200 Coy Rd\\, Olive Hill\\, KY\\, United States",
       "url": "https://central.edu/event/central-college-mens-golf-transylvania-invitational/",
       "description": "Central College Men\u2019s Golf  Transylvania Invitational"
+    },
+    {
+      "title": "Central College Women's Golf  Kohawk Classic",
+      "start": "2026-09-05T15:00:00",
+      "end": "2026-09-06T04:59:00",
+      "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
+      "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
+      "description": "Central College Women\u2019s Golf  Kohawk Classic"
     }
   ]
 }
