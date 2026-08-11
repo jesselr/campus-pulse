@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T21:39:10.239447Z",
+  "updated": "2026-08-11T22:34:39.492540Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -175,14 +175,6 @@
       "start": "2026-09-04T21:00:00",
       "end": "2026-09-05T00:00:00",
       "location": "Pella\\, Iowa\\, Poortinga Family Courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-morningside-2/",
-      "description": "Central College Women\u2019s Tennis vs Morningside"
-    },
-    {
-      "title": "Central College Women's Tennis vs Morningside",
-      "start": "2026-09-04T21:00:00",
-      "end": "2026-09-05T00:00:00",
-      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-morningside-3/",
       "description": "Central College Women\u2019s Tennis vs Morningside"
     },
@@ -241,6 +233,14 @@
       "location": "Lexington\\, 200 Coy Rd\\, Olive Hill\\, KY\\, United States",
       "url": "https://central.edu/event/central-college-mens-golf-transylvania-invitational/",
       "description": "Central College Men\u2019s Golf  Transylvania Invitational"
+    },
+    {
+      "title": "Central College Women's Golf  Kohawk Classic",
+      "start": "2026-09-05T15:00:00",
+      "end": "2026-09-06T04:59:00",
+      "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
+      "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
+      "description": "Central College Women\u2019s Golf  Kohawk Classic"
     }
   ]
 }
