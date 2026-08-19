@@ -1,23 +1,7 @@
 {
-  "updated": "2026-08-19T04:05:36.667791Z",
+  "updated": "2026-08-19T05:00:11.965661Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "New Faculty Workshops",
-      "start": "2026-08-17T00:00:00",
-      "end": "2026-08-20T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/new-faculty-workshops-3/",
-      "description": ""
-    },
-    {
-      "title": "International Students Arrive",
-      "start": "2026-08-17T00:00:00",
-      "end": "2026-08-20T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/international-students-arrive/",
-      "description": ""
-    },
     {
       "title": "Department Chairs Workshop",
       "start": "2026-08-19T00:00:00",
@@ -241,6 +225,22 @@
       "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
       "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
       "description": "Central College Women\u2019s Golf  Kohawk Classic"
+    },
+    {
+      "title": "Central College Volleyball vs St. Benedict vs. Cornell",
+      "start": "2026-09-05T16:00:00",
+      "end": "2026-09-05T18:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-st-benedict-vs-cornell/",
+      "description": "Central College Volleyball vs St. Benedict vs. Cornell"
+    },
+    {
+      "title": "Central College Volleyball vs Saint Benedict (Minn.)",
+      "start": "2026-09-05T18:00:00",
+      "end": "2026-09-05T20:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-saint-benedict-minn/",
+      "description": "Central College Volleyball vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
