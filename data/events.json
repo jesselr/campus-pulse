@@ -1,39 +1,7 @@
 {
-  "updated": "2026-08-22T04:57:44.567402Z",
+  "updated": "2026-08-22T05:27:31.687916Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "New International Student Orientation",
-      "start": "2026-08-19T00:00:00",
-      "end": "2026-08-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/new-international-student-orientation/",
-      "description": ""
-    },
-    {
-      "title": "All Faculty Workshops",
-      "start": "2026-08-20T00:00:00",
-      "end": "2026-08-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/all-faculty-workshops-3/",
-      "description": ""
-    },
-    {
-      "title": "New Students Arrive",
-      "start": "2026-08-21T00:00:00",
-      "end": "2026-08-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/new-students-arrive-3/",
-      "description": ""
-    },
-    {
-      "title": "Welcome Weekend Begins",
-      "start": "2026-08-21T00:00:00",
-      "end": "2026-08-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/welcome-weekend-begins-3/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Tennis at Doubles tournament - Exhibition",
       "start": "2026-08-22T00:00:00",
@@ -241,6 +209,38 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-cornell-2/",
       "description": "Central College Volleyball vs Cornell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football at Gustavus Adolphus (Minn.)",
+      "start": "2026-09-05T23:00:00",
+      "end": "2026-09-06T02:00:00",
+      "location": "St. Peter\\, Minn.",
+      "url": "https://central.edu/event/central-college-football-at-gustavus-adolphus-minn/",
+      "description": "Central College Football at Gustavus Adolphus (Minn.)"
+    },
+    {
+      "title": "Central College Men's Tennis at Cornell Invitational",
+      "start": "2026-09-06T00:00:00",
+      "end": "2026-09-08T00:00:00",
+      "location": "Mount Vernon\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-3/",
+      "description": "Central College Men\u2019s Tennis at Cornell Invitational"
+    },
+    {
+      "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
+      "start": "2026-09-06T18:00:00",
+      "end": "2026-09-06T20:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-saint-benedict-minn/",
+      "description": "Central College Women\u2019s Soccer vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Labor Day (no classes/college closed)",
+      "start": "2026-09-07T00:00:00",
+      "end": "2026-09-09T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/labor-day-no-classes-college-closed-3/",
+      "description": ""
     }
   ]
 }
