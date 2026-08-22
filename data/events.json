@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:46:18.052987Z",
+  "updated": "2026-08-22T21:15:00.871760Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-at-doubles-tournament-exhibition/",
       "description": "Central College Women\u2019s Tennis at Doubles tournament \u2013 Exhibition"
-    },
-    {
-      "title": "Central College Women's Soccer vs Alumni game",
-      "start": "2026-08-22T19:00:00",
-      "end": "2026-08-22T21:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-alumni-game/",
-      "description": "Central College Women\u2019s Soccer vs Alumni game"
-    },
-    {
-      "title": "Central College Volleyball vs Graceland",
-      "start": "2026-08-22T19:00:00",
-      "end": "2026-08-22T21:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-graceland/",
-      "description": "Central College Volleyball vs Graceland"
     },
     {
       "title": "Central College Volleyball vs Grinnell",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/labor-day-no-classes-college-closed-3/",
       "description": ""
+    },
+    {
+      "title": "Central College Volleyball vs Luther",
+      "start": "2026-09-08T23:00:00",
+      "end": "2026-09-09T01:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
+      "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Soccer at Edgewood (Wis.)",
+      "start": "2026-09-09T21:00:00",
+      "end": "2026-09-09T23:00:00",
+      "location": "Madison\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
+      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
     }
   ]
 }
