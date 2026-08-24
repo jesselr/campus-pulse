@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-24T04:22:23.441556Z",
+  "updated": "2026-08-24T05:09:25.849154Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Returning Students Arrive",
-      "start": "2026-08-23T00:00:00",
-      "end": "2026-08-25T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/returning-students-arrive-4/",
-      "description": ""
-    },
     {
       "title": "Fall Semester Classes Begin",
       "start": "2026-08-24T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Saint Paul\\, Minn.",
       "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
       "description": "Central College Volleyball vs Carleton (Minn.)"
+    },
+    {
+      "title": "Central College Men's Tennis vs Central Invitational",
+      "start": "2026-09-12T00:00:00",
+      "end": "2026-09-14T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-central-invitational-2/",
+      "description": "Central College Men\u2019s Tennis vs Central Invitational"
     }
   ]
 }
