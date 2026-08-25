@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-25T04:06:38.035086Z",
+  "updated": "2026-08-25T05:02:44.009407Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Fall Semester Classes Begin",
-      "start": "2026-08-24T00:00:00",
-      "end": "2026-08-26T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/fall-semester-classes-begin-3/",
-      "description": ""
-    },
     {
       "title": "Add/Drop Period",
       "start": "2026-08-24T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-central-invitational-2/",
       "description": "Central College Men\u2019s Tennis vs Central Invitational"
+    },
+    {
+      "title": "Central College Women's Triathlon  Fontana Triathlon",
+      "start": "2026-09-12T11:45:00",
+      "end": "2026-09-12T14:45:00",
+      "location": "Lake Geneva\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-triathlon-fontana-triathlon/",
+      "description": "Central College Women\u2019s Triathlon  Fontana Triathlon"
     }
   ]
 }
