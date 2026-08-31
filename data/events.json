@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:11:05.249076Z",
+  "updated": "2026-08-31T23:15:40.441340Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "title": "Central College Men's Tennis at Cornell Invitational",
-      "start": "2026-09-06T00:00:00",
-      "end": "2026-09-08T00:00:00",
+      "start": "2026-09-06T15:00:00",
+      "end": "2026-09-06T18:00:00",
       "location": "Mount Vernon\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-3/",
       "description": "Central College Men\u2019s Tennis at Cornell Invitational"
@@ -211,14 +211,6 @@
       "description": "Central College Volleyball vs Carleton (Minn.)"
     },
     {
-      "title": "Central College Men's Tennis vs Central Invitational",
-      "start": "2026-09-12T00:00:00",
-      "end": "2026-09-14T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-central-invitational-2/",
-      "description": "Central College Men\u2019s Tennis vs Central Invitational"
-    },
-    {
       "title": "Central College Women's Triathlon  Fontana Triathlon",
       "start": "2026-09-12T11:45:00",
       "end": "2026-09-12T14:45:00",
@@ -241,6 +233,14 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-cross-country-les-duke-invitational-2/",
       "description": "Central College Women\u2019s Cross Country  Les Duke Invitational"
+    },
+    {
+      "title": "Central College Volleyball at Hamline (Minn.)",
+      "start": "2026-09-12T15:00:00",
+      "end": "2026-09-12T17:00:00",
+      "location": "Saint Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-hamline-minn/",
+      "description": "Central College Volleyball at Hamline (Minn.)"
     }
   ]
 }
