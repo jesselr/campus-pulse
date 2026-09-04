@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:45:01.280995Z",
+  "updated": "2026-09-04T22:00:31.629582Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -27,14 +27,6 @@
       "description": ""
     },
     {
-      "title": "Central College Women's Tennis vs Morningside",
-      "start": "2026-09-04T21:00:00",
-      "end": "2026-09-05T00:00:00",
-      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-morningside-3/",
-      "description": "Central College Women\u2019s Tennis vs Morningside"
-    },
-    {
       "title": "Central College Women's Soccer at Cornell",
       "start": "2026-09-04T21:30:00",
       "end": "2026-09-04T23:30:00",
@@ -49,6 +41,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
       "description": "Central College Volleyball vs St. Catherine vs. Cornell"
+    },
+    {
+      "title": "Central College Women's Tennis vs Morningside",
+      "start": "2026-09-04T22:00:00",
+      "end": "2026-09-05T01:00:00",
+      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-morningside-3/",
+      "description": "Central College Women\u2019s Tennis vs Morningside"
     },
     {
       "title": "Central College Women's Triathlon  Splash & Dash",
