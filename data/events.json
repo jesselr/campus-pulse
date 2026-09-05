@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:16:32.095561Z",
+  "updated": "2026-09-05T15:23:33.918927Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "Lexington\\, 200 Coy Rd\\, Olive Hill\\, KY\\, United States",
       "url": "https://central.edu/event/central-college-mens-golf-transylvania-invitational/",
       "description": "Central College Men\u2019s Golf  Transylvania Invitational"
-    },
-    {
-      "title": "Central College Women's Triathlon  Coe dual",
-      "start": "2026-09-05T12:00:00",
-      "end": "2026-09-05T15:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-coe-dual-2/",
-      "description": "Central College Women\u2019s Triathlon  Coe dual"
     },
     {
       "title": "Central College Women's Golf  Kohawk Classic",
@@ -241,6 +233,14 @@
       "location": "Waterloo\\, Iowa \u2013 Irv Warren GC",
       "url": "https://central.edu/event/central-college-mens-golf-hawkeye-fall-shootout-central-represented-by-jv-team/",
       "description": "Central College Men\u2019s Golf  Hawkeye Fall Shootout \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Volleyball at Wheaton (Ill.)",
+      "start": "2026-09-18T21:00:00",
+      "end": "2026-09-18T23:00:00",
+      "location": "Wheaton\\, Ill.",
+      "url": "https://central.edu/event/central-college-volleyball-at-wheaton-ill/",
+      "description": "Central College Volleyball at Wheaton (Ill.)"
     }
   ]
 }
