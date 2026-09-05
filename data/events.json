@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:00:31.629582Z",
+  "updated": "2026-09-05T00:13:50.737451Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,22 +25,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-4/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Soccer at Cornell",
-      "start": "2026-09-04T21:30:00",
-      "end": "2026-09-04T23:30:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-cornell/",
-      "description": "Central College Women\u2019s Soccer at Cornell"
-    },
-    {
-      "title": "Central College Volleyball vs St. Catherine vs. Cornell",
-      "start": "2026-09-04T22:00:00",
-      "end": "2026-09-05T00:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-vs-cornell/",
-      "description": "Central College Volleyball vs St. Catherine vs. Cornell"
     },
     {
       "title": "Central College Women's Tennis vs Morningside",
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-central-invitational-2/",
       "description": "Central College Men\u2019s Tennis vs Central Invitational"
+    },
+    {
+      "title": "Central College Men's Cross Country  Les Duke Invitational",
+      "start": "2026-09-12T15:15:00",
+      "end": "2026-09-12T18:15:00",
+      "location": "Grinnell\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-cross-country-les-duke-invitational-2/",
+      "description": "Central College Men\u2019s Cross Country  Les Duke Invitational"
+    },
+    {
+      "title": "Central College Women's Soccer vs Hamline (Minn.)",
+      "start": "2026-09-12T19:00:00",
+      "end": "2026-09-12T21:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-hamline-minn/",
+      "description": "Central College Women\u2019s Soccer vs Hamline (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
