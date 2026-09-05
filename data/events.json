@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:25:51.019780Z",
+  "updated": "2026-09-05T19:12:49.592185Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,14 +25,6 @@
       "location": "Cedar Falls\\, Iowa / Pheasant Ridge GC",
       "url": "https://central.edu/event/central-college-womens-golf-kohawk-classic-2/",
       "description": "Central College Women\u2019s Golf  Kohawk Classic"
-    },
-    {
-      "title": "Central College Volleyball vs St. Benedict vs. Cornell",
-      "start": "2026-09-05T16:00:00",
-      "end": "2026-09-05T18:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-benedict-vs-cornell/",
-      "description": "Central College Volleyball vs St. Benedict vs. Cornell"
     },
     {
       "title": "Central College Volleyball vs Saint Benedict (Minn.)",
@@ -241,6 +233,14 @@
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-at-wheaton-ill/",
       "description": "Central College Volleyball at Wheaton (Ill.)"
+    },
+    {
+      "title": "Central College Women's Tennis vs Coe",
+      "start": "2026-09-18T21:00:00",
+      "end": "2026-09-19T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-coe/",
+      "description": "Central College Women\u2019s Tennis vs Coe"
     }
   ]
 }
