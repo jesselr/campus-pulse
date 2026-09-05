@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T00:13:50.737451Z",
+  "updated": "2026-09-05T04:44:54.207553Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -25,46 +25,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-4/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs Morningside",
-      "start": "2026-09-04T22:00:00",
-      "end": "2026-09-05T01:00:00",
-      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-morningside-3/",
-      "description": "Central College Women\u2019s Tennis vs Morningside"
-    },
-    {
-      "title": "Central College Women's Triathlon  Splash & Dash",
-      "start": "2026-09-04T23:00:00",
-      "end": "2026-09-05T02:00:00",
-      "location": "Pella\\, Iowa / Roberts Creek",
-      "url": "https://central.edu/event/central-college-womens-triathlon-splash-dash/",
-      "description": "Central College Women\u2019s Triathlon  Splash & Dash"
-    },
-    {
-      "title": "Central College Women's Cross Country  Dutch Invitational",
-      "start": "2026-09-04T23:00:00",
-      "end": "2026-09-05T02:00:00",
-      "location": "Pella\\, Iowa\\, Cross country course",
-      "url": "https://central.edu/event/central-college-womens-cross-country-dutch-invitational-2/",
-      "description": "Central College Women\u2019s Cross Country  Dutch Invitational"
-    },
-    {
-      "title": "Central College Men's Cross Country  Dutch Invitational",
-      "start": "2026-09-04T23:45:00",
-      "end": "2026-09-05T02:45:00",
-      "location": "Pella\\, Iowa\\, Cross country course",
-      "url": "https://central.edu/event/central-college-mens-cross-country-dutch-invitational-2/",
-      "description": "Central College Men\u2019s Cross Country  Dutch Invitational"
-    },
-    {
-      "title": "Central College Volleyball vs St. Catherine (Minn.)",
-      "start": "2026-09-05T00:00:00",
-      "end": "2026-09-05T02:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-st-catherine-minn/",
-      "description": "Central College Volleyball vs St. Catherine (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Golf  Transylvania Invitational",
@@ -241,6 +201,46 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-hamline-minn/",
       "description": "Central College Women\u2019s Soccer vs Hamline (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Volleyball vs Augsburg (Minn.)",
+      "start": "2026-09-12T19:00:00",
+      "end": "2026-09-12T21:00:00",
+      "location": "Saint Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-augsburg-minn/",
+      "description": "Central College Volleyball vs Augsburg (Minn.)"
+    },
+    {
+      "title": "Central College Football at Northwestern - St. Paul (Minn.)",
+      "start": "2026-09-13T04:00:00",
+      "end": "2026-09-13T07:00:00",
+      "location": "St. Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-football-at-northwestern-st-paul-minn/",
+      "description": "Central College Football at Northwestern \u2013 St. Paul (Minn.)"
+    },
+    {
+      "title": "Mills Gallery Reception-Bob Kroese",
+      "start": "2026-09-13T18:00:00",
+      "end": "2026-09-13T20:00:00",
+      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/mills-gallery-reception-bob-kroese/",
+      "description": ""
+    },
+    {
+      "title": "Central College Men's Golf  Wrigglesworth Bluegold Invitational",
+      "start": "2026-09-13T18:30:00",
+      "end": "2026-09-14T04:59:00",
+      "location": "Altoona\\, Wis. \u2013 Eau Claire G&C.C.",
+      "url": "https://central.edu/event/central-college-mens-golf-wrigglesworth-bluegold-invitational/",
+      "description": "Central College Men\u2019s Golf  Wrigglesworth Bluegold Invitational"
+    },
+    {
+      "title": "Central College Women's Tennis vs Buena Vista",
+      "start": "2026-09-15T21:00:00",
+      "end": "2026-09-16T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-buena-vista/",
+      "description": "Central College Women\u2019s Tennis vs Buena Vista"
     }
   ]
 }
