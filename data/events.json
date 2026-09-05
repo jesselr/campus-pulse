@@ -1,29 +1,13 @@
 {
-  "updated": "2026-09-05T04:44:54.207553Z",
+  "updated": "2026-09-05T08:44:32.930535Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Add/Drop Period",
-      "start": "2026-08-24T00:00:00",
-      "end": "2026-09-06T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/add-drop-period/",
-      "description": ""
-    },
     {
       "title": "Mills Gallery Exhibition-Bob Kroese",
       "start": "2026-08-31T00:00:00",
       "end": "2026-09-27T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
-      "description": ""
-    },
-    {
-      "title": "Last Day to Drop or Add a Course",
-      "start": "2026-09-04T00:00:00",
-      "end": "2026-09-06T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/last-day-to-drop-or-add-a-course-4/",
       "description": ""
     },
     {
@@ -241,6 +225,22 @@
       "location": "Pella\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-buena-vista/",
       "description": "Central College Women\u2019s Tennis vs Buena Vista"
+    },
+    {
+      "title": "Central College Women's Soccer at Northwestern-St. Paul (Minn.)",
+      "start": "2026-09-16T19:00:00",
+      "end": "2026-09-16T21:00:00",
+      "location": "St. Paul\\, Minn.",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-northwestern-st-paul-minn/",
+      "description": "Central College Women\u2019s Soccer at Northwestern-St. Paul (Minn.)"
+    },
+    {
+      "title": "Central College Men's Golf  Hawkeye Fall Shootout - Central represented by JV team",
+      "start": "2026-09-18T16:00:00",
+      "end": "2026-09-18T19:00:00",
+      "location": "Waterloo\\, Iowa \u2013 Irv Warren GC",
+      "url": "https://central.edu/event/central-college-mens-golf-hawkeye-fall-shootout-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Golf  Hawkeye Fall Shootout \u2013 Central represented by JV team"
     }
   ]
 }
