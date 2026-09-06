@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:21:18.532308Z",
+  "updated": "2026-09-06T21:29:54.397797Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
-      "start": "2026-09-06T18:00:00",
-      "end": "2026-09-06T20:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-saint-benedict-minn/",
-      "description": "Central College Women\u2019s Soccer vs Saint Benedict (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Labor Day (no classes/college closed)",
@@ -241,6 +233,14 @@
       "location": "Normal\\, Ill. / Ironwood GC",
       "url": "https://central.edu/event/central-college-womens-golf-illinois-wesleyan-fall-classic-2/",
       "description": "Central College Women\u2019s Golf  Illinois Wesleyan Fall Classic"
+    },
+    {
+      "title": "Central College Women's Soccer vs Westminster (Mo.) - Senior Day",
+      "start": "2026-09-19T21:00:00",
+      "end": "2026-09-19T23:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-westminster-mo/",
+      "description": "Central College Women\u2019s Soccer vs Westminster (Mo.) \u2013 Senior Day\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
