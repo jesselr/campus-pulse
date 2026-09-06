@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:12:01.117304Z",
+  "updated": "2026-09-06T19:21:18.532308Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Tennis at Cornell Invitational",
-      "start": "2026-09-06T15:00:00",
-      "end": "2026-09-06T18:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-at-cornell-invitational-3/",
-      "description": "Central College Men\u2019s Tennis at Cornell Invitational"
     },
     {
       "title": "Central College Women's Soccer vs Saint Benedict (Minn.)",
@@ -241,6 +233,14 @@
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-aurora-ill/",
       "description": "Central College Volleyball vs Aurora (Ill.)"
+    },
+    {
+      "title": "Central College Women's Golf  Illinois Wesleyan Fall Classic",
+      "start": "2026-09-19T18:00:00",
+      "end": "2026-09-20T04:59:00",
+      "location": "Normal\\, Ill. / Ironwood GC",
+      "url": "https://central.edu/event/central-college-womens-golf-illinois-wesleyan-fall-classic-2/",
+      "description": "Central College Women\u2019s Golf  Illinois Wesleyan Fall Classic"
     }
   ]
 }
