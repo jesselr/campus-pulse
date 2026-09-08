@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T02:36:13.706970Z",
+  "updated": "2026-09-08T07:42:01.434499Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,14 +8,6 @@
       "end": "2026-09-27T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
-      "description": ""
-    },
-    {
-      "title": "Labor Day (no classes/college closed)",
-      "start": "2026-09-07T00:00:00",
-      "end": "2026-09-09T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/labor-day-no-classes-college-closed-3/",
       "description": ""
     },
     {
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-westminster-mo/",
       "description": "Central College Women\u2019s Soccer vs Westminster (Mo.) \u2013 Senior Day\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Football at Belhaven (Miss.)",
+      "start": "2026-09-19T21:00:00",
+      "end": "2026-09-20T00:00:00",
+      "location": "Jackson\\, Miss.",
+      "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
+      "description": "Central College Football at Belhaven (Miss.)"
     }
   ]
 }
