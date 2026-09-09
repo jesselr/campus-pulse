@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T13:48:32.417687Z",
+  "updated": "2026-09-09T17:28:26.017712Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -179,14 +179,6 @@
       "description": "Central College Volleyball vs St. Mary\u2019s (Ind.)"
     },
     {
-      "title": "Central College Men's Tennis vs Morningside",
-      "start": "2026-09-19T00:00:00",
-      "end": "2026-09-21T00:00:00",
-      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-morningside-4/",
-      "description": "Central College Men\u2019s Tennis vs Morningside"
-    },
-    {
       "title": "Central College Volleyball vs Concordia-Chicago (Ill.)",
       "start": "2026-09-19T15:00:00",
       "end": "2026-09-19T17:00:00",
@@ -217,6 +209,14 @@
       "location": "Normal\\, Ill. / Ironwood GC",
       "url": "https://central.edu/event/central-college-womens-golf-illinois-wesleyan-fall-classic-2/",
       "description": "Central College Women\u2019s Golf  Illinois Wesleyan Fall Classic"
+    },
+    {
+      "title": "Central College Men's Tennis vs Morningside",
+      "start": "2026-09-19T19:00:00",
+      "end": "2026-09-19T22:00:00",
+      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
+      "url": "https://central.edu/event/central-college-mens-tennis-vs-morningside-4/",
+      "description": "Central College Men\u2019s Tennis vs Morningside"
     },
     {
       "title": "Central College Women's Soccer vs Westminster (Mo.) - Senior Day",
