@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T00:24:07.099095Z",
+  "updated": "2026-09-09T04:57:22.030140Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball vs Luther",
-      "start": "2026-09-08T23:00:00",
-      "end": "2026-09-09T01:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-luther/",
-      "description": "Central College Volleyball vs Luther\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Soccer at Edgewood (Wis.)",
@@ -241,6 +233,14 @@
       "location": "Jackson\\, Miss.",
       "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
       "description": "Central College Football at Belhaven (Miss.)"
+    },
+    {
+      "title": "Central College Men's Golf  Simpson Fall Invitational - Central represented by JV team",
+      "start": "2026-09-23T00:00:00",
+      "end": "2026-09-25T00:00:00",
+      "location": "Indianola\\, Iowa \u2013 Indianola GC",
+      "url": "https://central.edu/event/central-college-mens-golf-simpson-fall-invitational-central-represented-by-jv-team-2/",
+      "description": "Central College Men\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
     }
   ]
 }
