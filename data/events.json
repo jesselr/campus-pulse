@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:18:09.684246Z",
+  "updated": "2026-09-10T00:23:15.757094Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Soccer at Edgewood (Wis.)",
-      "start": "2026-09-09T21:00:00",
-      "end": "2026-09-09T23:00:00",
-      "location": "Madison\\, Wis.",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-edgewood-wis/",
-      "description": "Central College Women\u2019s Soccer at Edgewood (Wis.)"
-    },
-    {
-      "title": "Central College Women's Tennis at Nebraska Wesleyan",
-      "start": "2026-09-09T21:00:00",
-      "end": "2026-09-10T00:00:00",
-      "location": "Lincoln\\, Neb.",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-nebraska-wesleyan/",
-      "description": "Central College Women\u2019s Tennis at Nebraska Wesleyan"
     },
     {
       "title": "Central College Volleyball vs Carleton (Minn.)",
@@ -241,6 +225,22 @@
       "location": "Indianola\\, Iowa \u2013 Indianola GC",
       "url": "https://central.edu/event/central-college-mens-golf-simpson-fall-invitational-central-represented-by-jv-team-2/",
       "description": "Central College Men\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
+      "start": "2026-09-23T16:00:00",
+      "end": "2026-09-23T19:00:00",
+      "location": "Indianola\\, Iowa / Indianola GC",
+      "url": "https://central.edu/event/central-college-womens-golf-simpson-fall-invitational-central-represented-by-jv-team/",
+      "description": "Central College Women\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Volleyball vs Monmouth (Ill.)",
+      "start": "2026-09-23T23:00:00",
+      "end": "2026-09-24T01:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-monmouth-ill/",
+      "description": "Central College Volleyball vs Monmouth (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
