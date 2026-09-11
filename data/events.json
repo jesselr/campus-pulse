@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:06:32.948875Z",
+  "updated": "2026-09-11T23:25:02.626015Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball vs Carleton (Minn.)",
-      "start": "2026-09-11T20:00:00",
-      "end": "2026-09-11T22:00:00",
-      "location": "Saint Paul\\, Minn.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-carleton-minn/",
-      "description": "Central College Volleyball vs Carleton (Minn.)\\nStreaming Video: https://www.centraldutchnetwork.com/"
     },
     {
       "title": "Central College Women's Triathlon  Fontana Triathlon",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-monmouth-ill/",
       "description": "Central College Volleyball vs Monmouth (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Soccer vs Greenville (Ill.)",
+      "start": "2026-09-24T21:00:00",
+      "end": "2026-09-24T23:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-greenville-ill/",
+      "description": "Central College Women\u2019s Soccer vs Greenville (Ill.)\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
