@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:39:22.299485Z",
+  "updated": "2026-09-13T07:54:12.033734Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Golf  Wartburg Invitational",
-      "start": "2026-09-12T14:00:00",
-      "end": "2026-09-13T04:59:00",
-      "location": "Waverly\\, Iowa / Prairie Links GC",
-      "url": "https://central.edu/event/central-college-womens-golf-wartburg-invitational-2/",
-      "description": "Central College Women\u2019s Golf  Wartburg Invitational"
-    },
-    {
-      "title": "Central College Football at Northwestern - St. Paul (Minn.)",
-      "start": "2026-09-13T04:00:00",
-      "end": "2026-09-13T07:00:00",
-      "location": "St. Paul\\, Minn.",
-      "url": "https://central.edu/event/central-college-football-at-northwestern-st-paul-minn/",
-      "description": "Central College Football at Northwestern \u2013 St. Paul (Minn.)\\nStreaming Video: https://umacsportsnetwork.com/unorthwesterneagles/"
     },
     {
       "title": "Mills Gallery Reception-Bob Kroese",
@@ -72,7 +56,7 @@
       "end": "2026-09-18T23:00:00",
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-at-wheaton-ill/",
-      "description": "Central College Volleyball at Wheaton (Ill.)"
+      "description": "Central College Volleyball at Wheaton (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Women's Tennis vs Coe",
@@ -88,7 +72,7 @@
       "end": "2026-09-19T01:30:00",
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-st-marys-ind/",
-      "description": "Central College Volleyball vs St. Mary\u2019s (Ind.)"
+      "description": "Central College Volleyball vs St. Mary\u2019s (Ind.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Volleyball vs Concordia-Chicago (Ill.)",
@@ -96,7 +80,7 @@
       "end": "2026-09-19T17:00:00",
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-concordia-chicago-ill/",
-      "description": "Central College Volleyball vs Concordia-Chicago (Ill.)"
+      "description": "Central College Volleyball vs Concordia-Chicago (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Women's Tennis vs Wartburg",
@@ -112,7 +96,7 @@
       "end": "2026-09-19T19:30:00",
       "location": "Wheaton\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-aurora-ill/",
-      "description": "Central College Volleyball vs Aurora (Ill.)"
+      "description": "Central College Volleyball vs Aurora (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Women's Golf  Illinois Wesleyan Fall Classic",
@@ -241,6 +225,22 @@
       "location": "Lake Mills\\, Iowa \u2013 Rice Lake G&CC",
       "url": "https://central.edu/event/central-college-mens-golf-waldorf-invitatioal-central-represented-by-jv-team-2/",
       "description": "Central College Men\u2019s Golf  Waldorf Invitatioal \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Mills Gallery Exhibition-Bob Kroese",
+      "start": "2026-09-28T00:00:00",
+      "end": "2026-10-25T00:00:00",
+      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
+      "description": ""
+    },
+    {
+      "title": "Academic Connections Day",
+      "start": "2026-09-30T00:00:00",
+      "end": "2026-10-02T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/academic-connections-day/",
+      "description": ""
     }
   ]
 }
