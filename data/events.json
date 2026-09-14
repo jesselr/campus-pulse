@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:18:22.112981Z",
+  "updated": "2026-09-14T05:13:38.895496Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Golf  Wrigglesworth Bluegold Invitational",
-      "start": "2026-09-13T18:30:00",
-      "end": "2026-09-14T04:59:00",
-      "location": "Altoona\\, Wis. \u2013 Eau Claire G&C.C.",
-      "url": "https://central.edu/event/central-college-mens-golf-wrigglesworth-bluegold-invitational/",
-      "description": "Central College Men\u2019s Golf  Wrigglesworth Bluegold Invitational"
     },
     {
       "title": "Central College Women's Tennis vs Buena Vista",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-wis-river-falls/",
       "description": "Central College Women\u2019s Soccer vs Wis.-River Falls\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Trouble In Tahiti",
+      "start": "2026-10-01T00:00:00",
+      "end": "2026-10-01T01:00:00",
+      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/trouble-in-tahiti/",
+      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     }
   ]
 }
