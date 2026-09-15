@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T08:25:13.824628Z",
+  "updated": "2026-09-15T13:44:29.749239Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -115,20 +115,20 @@
       "description": "Central College Football at Belhaven (Miss.)"
     },
     {
-      "title": "Central College Men's Golf  Simpson Fall Invitational - Central represented by JV team",
-      "start": "2026-09-23T00:00:00",
-      "end": "2026-09-25T00:00:00",
-      "location": "Indianola\\, Iowa \u2013 Indianola GC",
-      "url": "https://central.edu/event/central-college-mens-golf-simpson-fall-invitational-central-represented-by-jv-team-2/",
-      "description": "Central College Men\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
-    },
-    {
       "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
       "start": "2026-09-23T16:00:00",
       "end": "2026-09-23T19:00:00",
       "location": "Indianola\\, Iowa / Indianola GC",
       "url": "https://central.edu/event/central-college-womens-golf-simpson-fall-invitational-central-represented-by-jv-team/",
       "description": "Central College Women\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Men's Golf  Simpson Fall Invitational - Central represented by JV team",
+      "start": "2026-09-23T16:00:00",
+      "end": "2026-09-23T19:00:00",
+      "location": "Indianola\\, Iowa \u2013 Indianola GC",
+      "url": "https://central.edu/event/central-college-mens-golf-simpson-fall-invitational-central-represented-by-jv-team-2/",
+      "description": "Central College Men\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
     },
     {
       "title": "Central College Volleyball vs Monmouth (Ill.)",
