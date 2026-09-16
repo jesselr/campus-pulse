@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:21:21.488793Z",
+  "updated": "2026-09-16T01:30:25.287184Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs Buena Vista",
-      "start": "2026-09-15T21:00:00",
-      "end": "2026-09-16T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-buena-vista/",
-      "description": "Central College Women\u2019s Tennis vs Buena Vista"
     },
     {
       "title": "Central College Women's Soccer at Northwestern-St. Paul (Minn.)",
@@ -240,6 +232,14 @@
       "end": "2026-10-01T01:00:00",
       "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/trouble-in-tahiti/",
+      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
+    },
+    {
+      "title": "Trouble In Tahiti",
+      "start": "2026-10-02T00:00:00",
+      "end": "2026-10-02T01:00:00",
+      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/trouble-in-tahiti-2/",
       "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     }
   ]
