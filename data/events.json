@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T01:06:16.154253Z",
+  "updated": "2026-09-18T06:12:59.307232Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -51,14 +51,6 @@
       "description": "Central College Volleyball vs Concordia-Chicago (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
-      "title": "Central College Women's Tennis vs Wartburg",
-      "start": "2026-09-19T15:00:00",
-      "end": "2026-09-19T18:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-wartburg/",
-      "description": "Central College Women\u2019s Tennis vs Wartburg"
-    },
-    {
       "title": "Central College Volleyball vs Aurora (Ill.)",
       "start": "2026-09-19T17:30:00",
       "end": "2026-09-19T19:30:00",
@@ -97,6 +89,14 @@
       "location": "Jackson\\, Miss.",
       "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
       "description": "Central College Football at Belhaven (Miss.)\\nStreaming Video: https://stats.statbroadcast.com/broadcast/?id=672317"
+    },
+    {
+      "title": "Central College Women's Tennis vs Wartburg",
+      "start": "2026-09-19T21:00:00",
+      "end": "2026-09-20T00:00:00",
+      "location": "Pella\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-wartburg/",
+      "description": "Central College Women\u2019s Tennis vs Wartburg"
     },
     {
       "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
