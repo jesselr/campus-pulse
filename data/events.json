@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:47:43.514818Z",
+  "updated": "2026-09-18T21:22:47.270400Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Golf  Hawkeye Fall Shootout - Central represented by JV team",
-      "start": "2026-09-18T16:00:00",
-      "end": "2026-09-18T19:00:00",
-      "location": "Waterloo\\, Iowa \u2013 Irv Warren GC",
-      "url": "https://central.edu/event/central-college-mens-golf-hawkeye-fall-shootout-central-represented-by-jv-team/",
-      "description": "Central College Men\u2019s Golf  Hawkeye Fall Shootout \u2013 Central represented by JV team"
     },
     {
       "title": "Central College Volleyball at Wheaton (Ill.)",
@@ -241,6 +233,14 @@
       "location": "St. Peter\\, Minn.",
       "url": "https://central.edu/event/central-college-mens-tennis-vs-ita-midwest-regional/",
       "description": "Central College Men\u2019s Tennis vs ITA Midwest Regional"
+    },
+    {
+      "title": "Homecoming",
+      "start": "2026-10-02T00:00:00",
+      "end": "2026-10-06T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/homecoming-2/",
+      "description": ""
     }
   ]
 }
