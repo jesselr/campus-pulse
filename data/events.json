@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T21:22:47.270400Z",
+  "updated": "2026-09-18T23:25:55.717276Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball at Wheaton (Ill.)",
-      "start": "2026-09-18T21:00:00",
-      "end": "2026-09-18T23:00:00",
-      "location": "Wheaton\\, Ill.",
-      "url": "https://central.edu/event/central-college-volleyball-at-wheaton-ill/",
-      "description": "Central College Volleyball at Wheaton (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Women's Tennis vs Coe",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
+    },
+    {
+      "title": "DUTCH MASTERS GOLF TOURNAMENT 2026",
+      "start": "2026-10-02T13:00:00",
+      "end": "2026-10-02T20:00:00",
+      "location": "",
+      "url": "https://central.edu/event/dutch-masters-golf-tournament-2026/",
+      "description": "Kick off Homecoming 2026 with Central College at the annual Dutch Masters golf tournament on Friday\\, Oct. 2\\, at Bos Landen Golf Course."
     }
   ]
 }
