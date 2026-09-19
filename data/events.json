@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T14:35:27.120624Z",
+  "updated": "2026-09-19T17:40:40.776112Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball vs Concordia-Chicago (Ill.)",
-      "start": "2026-09-19T15:00:00",
-      "end": "2026-09-19T17:00:00",
-      "location": "Wheaton\\, Ill.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-concordia-chicago-ill/",
-      "description": "Central College Volleyball vs Concordia-Chicago (Ill.)\\nStreaming Video: https://www.youtube.com/Wheaton_Thunder"
     },
     {
       "title": "Central College Men's Tennis vs Morningside",
@@ -241,6 +233,14 @@
       "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/trouble-in-tahiti-3/",
       "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
+    },
+    {
+      "title": "Central College Volleyball vs Westminster (Mo.)",
+      "start": "2026-10-03T00:00:00",
+      "end": "2026-10-03T02:00:00",
+      "location": "Fulton\\, Mo.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-westminster-mo-2/",
+      "description": "Central College Volleyball vs Westminster (Mo.)"
     }
   ]
 }
