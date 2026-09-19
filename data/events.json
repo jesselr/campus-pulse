@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T23:25:55.717276Z",
+  "updated": "2026-09-19T01:22:18.406433Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs Coe",
-      "start": "2026-09-18T21:00:00",
-      "end": "2026-09-19T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-coe/",
-      "description": "Central College Women\u2019s Tennis vs Coe"
     },
     {
       "title": "Central College Volleyball vs St. Mary's (Ind.)",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/dutch-masters-golf-tournament-2026/",
       "description": "Kick off Homecoming 2026 with Central College at the annual Dutch Masters golf tournament on Friday\\, Oct. 2\\, at Bos Landen Golf Course."
+    },
+    {
+      "title": "Central College Women's Tennis at Loras",
+      "start": "2026-10-02T21:00:00",
+      "end": "2026-10-03T00:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-tennis-at-loras/",
+      "description": "Central College Women\u2019s Tennis at Loras"
     }
   ]
 }
