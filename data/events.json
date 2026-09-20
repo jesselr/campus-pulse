@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:02:23.982616Z",
+  "updated": "2026-09-20T00:12:28.763744Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,30 +17,6 @@
       "location": "Normal\\, Ill. / Ironwood GC",
       "url": "https://central.edu/event/central-college-womens-golf-illinois-wesleyan-fall-classic-2/",
       "description": "Central College Women\u2019s Golf  Illinois Wesleyan Fall Classic"
-    },
-    {
-      "title": "Central College Women's Soccer vs Westminster (Mo.) - Senior Day",
-      "start": "2026-09-19T21:00:00",
-      "end": "2026-09-19T23:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-westminster-mo/",
-      "description": "Central College Women\u2019s Soccer vs Westminster (Mo.) \u2013 Senior Day\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Football at Belhaven (Miss.)",
-      "start": "2026-09-19T21:00:00",
-      "end": "2026-09-20T00:00:00",
-      "location": "Jackson\\, Miss.",
-      "url": "https://central.edu/event/central-college-football-at-belhaven-miss/",
-      "description": "Central College Football at Belhaven (Miss.)\\nStreaming Video: https://blazers.belhaven.edu/watch/?Live=999&type=Live"
-    },
-    {
-      "title": "Central College Women's Tennis vs Wartburg",
-      "start": "2026-09-19T21:00:00",
-      "end": "2026-09-20T00:00:00",
-      "location": "Pella\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-wartburg/",
-      "description": "Central College Women\u2019s Tennis vs Wartburg"
     },
     {
       "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
@@ -241,6 +217,30 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-at-dubuque/",
       "description": "Central College Women\u2019s Tennis at Dubuque"
+    },
+    {
+      "title": "Central College Women's Cross Country  Running of the Cows - Limited roster",
+      "start": "2026-10-03T15:00:00",
+      "end": "2026-10-03T18:00:00",
+      "location": "Northfield\\, Minn.",
+      "url": "https://central.edu/event/central-college-womens-cross-country-running-of-the-cows-11-a-m-navy-championship-division-10-a-m-maize-division/",
+      "description": "Central College Women\u2019s Cross Country  Running of the Cows \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Volleyball at Washington - St. Louis (Mo.)",
+      "start": "2026-10-03T17:00:00",
+      "end": "2026-10-03T19:00:00",
+      "location": "St. Louis\\, Mo.",
+      "url": "https://central.edu/event/central-college-volleyball-at-washington-st-louis-mo/",
+      "description": "Central College Volleyball at Washington \u2013 St. Louis (Mo.)"
+    },
+    {
+      "title": "Central College Men's Cross Country  Running of the Cows - Limited roster",
+      "start": "2026-10-03T17:00:00",
+      "end": "2026-10-03T20:00:00",
+      "location": "Northfield\\, Minn.",
+      "url": "https://central.edu/event/central-college-mens-cross-country-running-of-the-cows-noon-navy-championship-division-1-p-m-maize-division/",
+      "description": "Central College Men\u2019s Cross Country  Running of the Cows \u2013 Limited roster"
     }
   ]
 }
