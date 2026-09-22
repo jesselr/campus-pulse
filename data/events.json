@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:45:23.057872Z",
+  "updated": "2026-09-22T23:25:00.208231Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -171,14 +171,6 @@
       "description": "Kick off Homecoming 2026 with Central College at the annual Dutch Masters golf tournament on Friday\\, Oct. 2\\, at Bos Landen Golf Course."
     },
     {
-      "title": "Central College Women's Tennis at Loras",
-      "start": "2026-10-02T21:00:00",
-      "end": "2026-10-03T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-loras/",
-      "description": "Central College Women\u2019s Tennis at Loras"
-    },
-    {
       "title": "Trouble In Tahiti",
       "start": "2026-10-03T00:00:00",
       "end": "2026-10-03T01:00:00",
@@ -201,14 +193,6 @@
       "location": "Clinton Lake\\, Ill.",
       "url": "https://central.edu/event/central-college-womens-triathlon-prairie-state-cup-2/",
       "description": "Central College Women\u2019s Triathlon  Prairie State Cup"
-    },
-    {
-      "title": "Central College Women's Tennis at Dubuque",
-      "start": "2026-10-03T15:00:00",
-      "end": "2026-10-03T18:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-dubuque/",
-      "description": "Central College Women\u2019s Tennis at Dubuque"
     },
     {
       "title": "Central College Women's Cross Country  Running of the Cows - Limited roster",
@@ -241,6 +225,22 @@
       "location": "Grinnell\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-soccer-at-grinnell/",
       "description": "Central College Women\u2019s Soccer at Grinnell"
+    },
+    {
+      "title": "Central College Football vs Dubuque - Homecoming",
+      "start": "2026-10-03T23:00:00",
+      "end": "2026-10-04T02:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-dubuque-homecoming/",
+      "description": "Central College Football vs Dubuque \u2013 Homecoming\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Trouble In Tahiti",
+      "start": "2026-10-04T00:00:00",
+      "end": "2026-10-04T01:00:00",
+      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/trouble-in-tahiti-5/",
+      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     }
   ]
 }
