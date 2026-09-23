@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:36:47.455897Z",
+  "updated": "2026-09-23T07:09:51.673211Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -171,20 +171,20 @@
       "description": "Kick off Homecoming 2026 with Central College at the annual Dutch Masters golf tournament on Friday\\, Oct. 2\\, at Bos Landen Golf Course."
     },
     {
+      "title": "Central College Volleyball vs Westminster (Mo.)",
+      "start": "2026-10-02T23:00:00",
+      "end": "2026-10-03T01:00:00",
+      "location": "Fulton\\, Mo.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-westminster-mo-2/",
+      "description": "Central College Volleyball vs Westminster (Mo.)"
+    },
+    {
       "title": "Trouble In Tahiti",
       "start": "2026-10-03T00:00:00",
       "end": "2026-10-03T01:00:00",
       "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/trouble-in-tahiti-3/",
       "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
-    },
-    {
-      "title": "Central College Volleyball vs Westminster (Mo.)",
-      "start": "2026-10-03T00:00:00",
-      "end": "2026-10-03T02:00:00",
-      "location": "Fulton\\, Mo.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-westminster-mo-2/",
-      "description": "Central College Volleyball vs Westminster (Mo.)"
     },
     {
       "title": "Central College Women's Triathlon  Prairie State Cup",
