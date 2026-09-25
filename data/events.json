@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:55:57.563556Z",
+  "updated": "2026-09-25T03:16:21.590676Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -89,6 +89,14 @@
       "location": "",
       "url": "https://central.edu/event/academic-connections-day/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
+      "start": "2026-09-30T16:00:00",
+      "end": "2026-09-30T19:00:00",
+      "location": "Indianola\\, Iowa / Indianola GC",
+      "url": "https://central.edu/event/central-college-womens-golf-simpson-fall-invitational-central-represented-by-jv-team/",
+      "description": "Central College Women\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
     },
     {
       "title": "Central College Men's Golf  Simpson Fall Invitational - Central represented by JV team",
@@ -233,14 +241,6 @@
       "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/flying-pans-alumni-band-despanado/",
       "description": "Link to event: https://my.central.edu/events/6509334\\nThe Department of Visual and Performing Arts Presents: Flying Pans Alumni Steel Band show: DESPANADO-the music of the Eagles."
-    },
-    {
-      "title": "Central College Women's Tennis at Loras",
-      "start": "2026-10-04T21:00:00",
-      "end": "2026-10-05T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-loras/",
-      "description": "Central College Women\u2019s Tennis at Loras"
     }
   ]
 }
