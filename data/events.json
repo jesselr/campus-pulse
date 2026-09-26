@@ -1,39 +1,7 @@
 {
-  "updated": "2026-09-26T01:06:40.533683Z",
+  "updated": "2026-09-26T06:18:51.280388Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Mills Gallery Exhibition-Bob Kroese",
-      "start": "2026-08-31T00:00:00",
-      "end": "2026-09-27T00:00:00",
-      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese/",
-      "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs ITA Division III Midwest Regional",
-      "start": "2026-09-25T00:00:00",
-      "end": "2026-09-27T00:00:00",
-      "location": "St. Peter\\, Minn.",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-ita-division-iii-midwest-regional-3/",
-      "description": "Central College Women\u2019s Tennis vs ITA Division III Midwest Regional"
-    },
-    {
-      "title": "Central College Men's Tennis vs American Rivers Individual Championships",
-      "start": "2026-09-25T00:00:00",
-      "end": "2026-09-27T00:00:00",
-      "location": "Waterloo\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-american-rivers-individual-championships-2/",
-      "description": "Central College Men\u2019s Tennis vs American Rivers Individual Championships"
-    },
-    {
-      "title": "CANCELLED Central College Men's Cross Country  Dutch Open",
-      "start": "2026-09-25T22:30:00",
-      "end": "2026-09-26T01:30:00",
-      "location": "Pella\\, Iowa\\, Cross country course",
-      "url": "https://central.edu/event/central-college-mens-cross-country-central-open/",
-      "description": "CANCELLED Central College Men\u2019s Cross Country  Dutch Open"
-    },
     {
       "title": "Central College Men's Golf  Wartburg Fall Invitational",
       "start": "2026-09-26T00:00:00",
@@ -241,6 +209,38 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-at-loras/",
       "description": "Central College Women\u2019s Tennis at Loras"
+    },
+    {
+      "title": "Central College Men's Golf  Central Fall Classic",
+      "start": "2026-10-05T00:00:00",
+      "end": "2026-10-07T00:00:00",
+      "location": "Pella\\, Iowa \u2013 Bos Landen GC",
+      "url": "https://central.edu/event/central-college-mens-golf-central-fall-classic-2/",
+      "description": "Central College Men\u2019s Golf  Central Fall Classic"
+    },
+    {
+      "title": "Central College Women's Golf  Viking Shootout",
+      "start": "2026-10-05T14:00:00",
+      "end": "2026-10-06T04:59:00",
+      "location": "Ankeny\\, Iowa / Otter Creek GC",
+      "url": "https://central.edu/event/central-college-womens-golf-viking-shootout/",
+      "description": "Central College Women\u2019s Golf  Viking Shootout"
+    },
+    {
+      "title": "Central College Women's Soccer vs Nebraska Wesleyan",
+      "start": "2026-10-07T17:00:00",
+      "end": "2026-10-07T19:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-nebraska-wesleyan/",
+      "description": "Central College Women\u2019s Soccer vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Tennis vs Grand View",
+      "start": "2026-10-07T21:00:00",
+      "end": "2026-10-08T00:00:00",
+      "location": "Pella\\, Iowa\\, Poortinga Family Courts",
+      "url": "https://central.edu/event/central-college-womens-tennis-vs-grand-view-2/",
+      "description": "Central College Women\u2019s Tennis vs Grand View"
     }
   ]
 }
