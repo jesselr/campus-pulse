@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:33:05.928398Z",
+  "updated": "2026-09-26T18:54:45.752429Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Waverly\\, Iowa \u2013 Prairie Links GC",
       "url": "https://central.edu/event/central-college-mens-golf-wartburg-fall-invitational/",
       "description": "Central College Men\u2019s Golf  Wartburg Fall Invitational"
-    },
-    {
-      "title": "Central College Volleyball at Grinnell",
-      "start": "2026-09-26T16:00:00",
-      "end": "2026-09-26T18:00:00",
-      "location": "Grinnell\\, Iowa",
-      "url": "https://central.edu/event/central-college-volleyball-at-grinnell-2/",
-      "description": "Central College Volleyball at Grinnell"
     },
     {
       "title": "Central College Volleyball vs Alverno (Wis.)",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Poortinga Family Courts",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-grand-view-2/",
       "description": "Central College Women\u2019s Tennis vs Grand View"
+    },
+    {
+      "title": "Middle School Bandfest",
+      "start": "2026-10-08T14:00:00",
+      "end": "2026-10-08T22:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/middle-school-bandfest-5/",
+      "description": "Link to event: https://my.central.edu/events/6509335\\nThe Visual and Performing Arts Departs hosts an Honor Band festival for Iowa Middle School students."
     }
   ]
 }
