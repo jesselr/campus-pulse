@@ -1,15 +1,7 @@
 {
-  "updated": "2026-09-28T21:30:39.001406Z",
+  "updated": "2026-09-29T01:23:37.824589Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Golf  Waldorf Invitatioal - Central represented by JV team",
-      "start": "2026-09-28T00:00:00",
-      "end": "2026-09-30T00:00:00",
-      "location": "Lake Mills\\, Iowa \u2013 Rice Lake G&CC",
-      "url": "https://central.edu/event/central-college-mens-golf-waldorf-invitatioal-central-represented-by-jv-team-2/",
-      "description": "Central College Men\u2019s Golf  Waldorf Invitatioal \u2013 Central represented by JV team"
-    },
     {
       "title": "Mills Gallery Exhibition-Bob Kroese",
       "start": "2026-09-28T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-american-rivers-individual-championships-2/",
       "description": "Central College Women\u2019s Tennis vs American Rivers Individual Championships"
+    },
+    {
+      "title": "Central College Volleyball vs Dubuque",
+      "start": "2026-10-09T23:00:00",
+      "end": "2026-10-10T01:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-dubuque-2/",
+      "description": "Central College Volleyball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
