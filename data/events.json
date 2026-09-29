@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:10:54.445313Z",
+  "updated": "2026-09-29T19:30:57.938950Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -57,14 +57,6 @@
       "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/trouble-in-tahiti-2/",
       "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
-    },
-    {
-      "title": "Central College Men's Tennis vs ITA Midwest Regional",
-      "start": "2026-10-02T00:00:00",
-      "end": "2026-10-04T00:00:00",
-      "location": "St. Peter\\, Minn.",
-      "url": "https://central.edu/event/central-college-mens-tennis-vs-ita-midwest-regional/",
-      "description": "Central College Men\u2019s Tennis vs ITA Midwest Regional"
     },
     {
       "title": "Homecoming",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-dubuque-2/",
       "description": "Central College Volleyball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Wrestling vs Red/White open practice",
+      "start": "2026-10-10T14:00:00",
+      "end": "2026-10-10T17:00:00",
+      "location": "Pella\\, Iowa\\, Wrestling Center",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-homecoming-open-practice-2/",
+      "description": "Central College Men\u2019s Wrestling vs Red/White open practice\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
