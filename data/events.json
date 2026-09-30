@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T15:30:50.715746Z",
+  "updated": "2026-09-30T20:27:12.753846Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/academic-connections-day/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Golf  Simpson Fall Invitational - Central represented by JV team",
-      "start": "2026-09-30T16:00:00",
-      "end": "2026-09-30T19:00:00",
-      "location": "Indianola\\, Iowa / Indianola GC",
-      "url": "https://central.edu/event/central-college-womens-golf-simpson-fall-invitational-central-represented-by-jv-team/",
-      "description": "Central College Women\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Men's Golf  Simpson Fall Invitational - Central represented by JV team",
-      "start": "2026-09-30T16:00:00",
-      "end": "2026-09-30T19:00:00",
-      "location": "Indianola\\, Iowa \u2013 Indianola GC",
-      "url": "https://central.edu/event/central-college-mens-golf-simpson-fall-invitational-central-represented-by-jv-team-2/",
-      "description": "Central College Men\u2019s Golf  Simpson Fall Invitational \u2013 Central represented by JV team"
     },
     {
       "title": "CANCELLED Central College Women's Soccer vs Wis.-River Falls",
@@ -113,6 +97,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-cross-country-dan-huston-invitational-central-represented-by-jv-team-2/",
       "description": "Central College Women\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Men's Cross Country  Dan Huston Invitational - Central represented by JV team",
+      "start": "2026-10-03T15:45:00",
+      "end": "2026-10-03T18:45:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-cross-country-dan-huston-invitational-central-represented-by-jv-team/",
+      "description": "Central College Men\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
     },
     {
       "title": "Central College Women's Cross Country  Running of the Cows - Limited roster",
@@ -241,6 +233,14 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-american-rivers-individual-championships-2/",
       "description": "Central College Women\u2019s Tennis vs American Rivers Individual Championships"
+    },
+    {
+      "title": "Central College Volleyball vs Dubuque",
+      "start": "2026-10-09T23:00:00",
+      "end": "2026-10-10T01:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-volleyball-vs-dubuque-2/",
+      "description": "Central College Volleyball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
