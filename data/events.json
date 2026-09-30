@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T08:48:12.767008Z",
+  "updated": "2026-09-30T15:30:50.715746Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -99,6 +99,22 @@
       "description": "Central College Women\u2019s Triathlon  Prairie State Cup"
     },
     {
+      "title": "Central College Women's Cross Country  Dan Huston Invitational - Central represented by JV team",
+      "start": "2026-10-03T15:00:00",
+      "end": "2026-10-03T18:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-cross-country-dan-huston-invitational-central-represented-by-jv-team/",
+      "description": "Central College Women\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
+    },
+    {
+      "title": "Central College Women's Cross Country  Dan Huston Invitational - Central represented by JV team",
+      "start": "2026-10-03T15:00:00",
+      "end": "2026-10-03T18:00:00",
+      "location": "Waverly\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-cross-country-dan-huston-invitational-central-represented-by-jv-team-2/",
+      "description": "Central College Women\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
+    },
+    {
       "title": "Central College Women's Cross Country  Running of the Cows - Limited roster",
       "start": "2026-10-03T16:00:00",
       "end": "2026-10-03T19:00:00",
@@ -171,20 +187,20 @@
       "description": "Central College Women\u2019s Tennis at Loras"
     },
     {
-      "title": "Central College Men's Golf  Central Fall Classic",
-      "start": "2026-10-05T00:00:00",
-      "end": "2026-10-07T00:00:00",
-      "location": "Pella\\, Iowa \u2013 Bos Landen GC",
-      "url": "https://central.edu/event/central-college-mens-golf-central-fall-classic-2/",
-      "description": "Central College Men\u2019s Golf  Central Fall Classic"
-    },
-    {
       "title": "Central College Women's Golf  Viking Shootout",
       "start": "2026-10-05T14:00:00",
       "end": "2026-10-06T04:59:00",
       "location": "Ankeny\\, Iowa / Otter Creek GC",
       "url": "https://central.edu/event/central-college-womens-golf-viking-shootout/",
       "description": "Central College Women\u2019s Golf  Viking Shootout"
+    },
+    {
+      "title": "Central College Men's Golf  Central Fall Classic",
+      "start": "2026-10-05T15:00:00",
+      "end": "2026-10-06T04:59:00",
+      "location": "Pella\\, Iowa \u2013 Bos Landen GC",
+      "url": "https://central.edu/event/central-college-mens-golf-central-fall-classic-2/",
+      "description": "Central College Men\u2019s Golf  Central Fall Classic"
     },
     {
       "title": "Central College Women's Soccer vs Nebraska Wesleyan",
@@ -225,22 +241,6 @@
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-tennis-vs-american-rivers-individual-championships-2/",
       "description": "Central College Women\u2019s Tennis vs American Rivers Individual Championships"
-    },
-    {
-      "title": "Central College Volleyball vs Dubuque",
-      "start": "2026-10-09T23:00:00",
-      "end": "2026-10-10T01:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-dubuque-2/",
-      "description": "Central College Volleyball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Men's Wrestling vs Red/White open practice",
-      "start": "2026-10-10T14:00:00",
-      "end": "2026-10-10T17:00:00",
-      "location": "Pella\\, Iowa\\, Wrestling Center",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-homecoming-open-practice-2/",
-      "description": "Central College Men\u2019s Wrestling vs Red/White open practice\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
