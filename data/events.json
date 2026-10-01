@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T19:11:46.583557Z",
+  "updated": "2026-10-01T23:17:51.324189Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -64,14 +64,6 @@
       "end": "2026-10-03T18:00:00",
       "location": "Waverly\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-cross-country-dan-huston-invitational-central-represented-by-jv-team/",
-      "description": "Central College Women\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
-    },
-    {
-      "title": "Central College Women's Cross Country  Dan Huston Invitational - Central represented by JV team",
-      "start": "2026-10-03T15:00:00",
-      "end": "2026-10-03T18:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-cross-country-dan-huston-invitational-central-represented-by-jv-team-2/",
       "description": "Central College Women\u2019s Cross Country  Dan Huston Invitational \u2013 Central represented by JV team"
     },
     {
@@ -241,6 +233,14 @@
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-football-at-coe/",
       "description": "Central College Football at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Golf  American Rivers Conference Championships",
+      "start": "2026-10-11T15:00:00",
+      "end": "2026-10-13T04:59:00",
+      "location": "Waterloo\\, Iowa / Sunnyside G&CC",
+      "url": "https://central.edu/event/central-college-womens-golf-american-rivers-conference-championships-2/",
+      "description": "Central College Women\u2019s Golf  American Rivers Conference Championships"
     }
   ]
 }
