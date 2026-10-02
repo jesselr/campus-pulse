@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:17:51.324189Z",
+  "updated": "2026-10-02T02:23:16.709043Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Trouble In Tahiti",
-      "start": "2026-10-02T00:00:00",
-      "end": "2026-10-02T01:00:00",
-      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/trouble-in-tahiti-2/",
-      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     },
     {
       "title": "Homecoming",
@@ -241,6 +233,14 @@
       "location": "Waterloo\\, Iowa / Sunnyside G&CC",
       "url": "https://central.edu/event/central-college-womens-golf-american-rivers-conference-championships-2/",
       "description": "Central College Women\u2019s Golf  American Rivers Conference Championships"
+    },
+    {
+      "title": "8th and 9th grade Singfest",
+      "start": "2026-10-13T14:00:00",
+      "end": "2026-10-13T22:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/8th-and-9th-grade-singfest/",
+      "description": "Link to event: https://my.central.edu/events/6509337\\nThe Department of Visual and Performing Arts hosts and Honor Choir festival for Iowa 8th and 9th grade students."
     }
   ]
 }
