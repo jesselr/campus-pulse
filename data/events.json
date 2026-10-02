@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T15:15:15.141804Z",
+  "updated": "2026-10-02T20:02:02.945482Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
-    },
-    {
-      "title": "DUTCH MASTERS GOLF TOURNAMENT 2026",
-      "start": "2026-10-02T13:00:00",
-      "end": "2026-10-02T20:00:00",
-      "location": "",
-      "url": "https://central.edu/event/dutch-masters-golf-tournament-2026/",
-      "description": "Kick off Homecoming 2026 with Central College at the annual Dutch Masters golf tournament on Friday\\, Oct. 2\\, at Bos Landen Golf Course."
     },
     {
       "title": "Central College Volleyball vs Westminster (Mo.)",
@@ -241,6 +233,14 @@
       "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/8th-and-9th-grade-singfest/",
       "description": "Link to event: https://my.central.edu/events/6509337\\nThe Department of Visual and Performing Arts hosts and Honor Choir festival for Iowa 8th and 9th grade students."
+    },
+    {
+      "title": "Central College Women's Soccer at Dubuque",
+      "start": "2026-10-13T22:00:00",
+      "end": "2026-10-14T00:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-dubuque/",
+      "description": "Central College Women\u2019s Soccer at Dubuque"
     }
   ]
 }
