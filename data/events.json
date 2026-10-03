@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T23:54:23.504642Z",
+  "updated": "2026-10-03T03:21:58.958481Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball vs Westminster (Mo.)",
-      "start": "2026-10-02T23:00:00",
-      "end": "2026-10-03T01:00:00",
-      "location": "Fulton\\, Mo.",
-      "url": "https://central.edu/event/central-college-volleyball-vs-westminster-mo-2/",
-      "description": "Central College Volleyball vs Westminster (Mo.)\\nStreaming Video: https://fan.hudl.com/usa/mo/fulton/organization/22795/westminster-college/watch?b=QnJvYWRjYXN0NDUzNzQ5NQ==&shared=true"
-    },
-    {
-      "title": "Trouble In Tahiti",
-      "start": "2026-10-03T00:00:00",
-      "end": "2026-10-03T01:00:00",
-      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/trouble-in-tahiti-3/",
-      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     },
     {
       "title": "Central College Women's Triathlon  Prairie State Cup",
@@ -72,7 +56,7 @@
       "end": "2026-10-03T19:00:00",
       "location": "St. Louis\\, Mo.",
       "url": "https://central.edu/event/central-college-volleyball-at-washington-st-louis-mo/",
-      "description": "Central College Volleyball at Washington \u2013 St. Louis (Mo.)"
+      "description": "Central College Volleyball at Washington \u2013 St. Louis (Mo.)\\nStreaming Video: https://www.flocollege.com/signup?redirect=/live/269223&utm_campaign=842385centralcollegev&utm_medium=partner&utm_source=multiple&utm_content=signup&contract_id=006px000005mtotyaw&coverage_id=16120896&sp=conf-partner-k7p2"
     },
     {
       "title": "Central College Men's Cross Country  Running of the Cows - Limited roster",
@@ -241,6 +225,22 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-soccer-at-dubuque/",
       "description": "Central College Women\u2019s Soccer at Dubuque"
+    },
+    {
+      "title": "8th and 9th Grade Singfest: Honor Choir Concert",
+      "start": "2026-10-13T23:00:00",
+      "end": "2026-10-14T00:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/8th-and-9th-grade-singfest-honor-choir-concert/",
+      "description": "Link to event: https://my.central.edu/events/6509338\\nThe Visual and Performing Arts Department presents the 8th and 9th grade Singfest Concert featuring the 8th and 9th grade Singfest Honor Choir and Central\u2019s A Cappella Choir."
+    },
+    {
+      "title": "Midterm",
+      "start": "2026-10-14T00:00:00",
+      "end": "2026-10-16T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/midterm-3/",
+      "description": ""
     }
   ]
 }
