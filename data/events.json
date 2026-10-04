@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:17:36.181104Z",
+  "updated": "2026-10-04T06:07:58.802537Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
-    },
-    {
-      "title": "Trouble In Tahiti",
-      "start": "2026-10-04T00:00:00",
-      "end": "2026-10-04T01:00:00",
-      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/trouble-in-tahiti-5/",
-      "description": "The Visual and Performing Arts Departments presents Trouble in Tahiti-the Fall Opera."
     },
     {
       "title": "Central College Women's Tennis at Dubuque",
@@ -241,6 +233,14 @@
       "location": "Sheboygan\\, Wis. \u2013 Whistling Straits GC (Straits Course)",
       "url": "https://central.edu/event/central-college-mens-golf-whistling-straits-classic/",
       "description": "Central College Men\u2019s Golf  Whistling Straits Classic"
+    },
+    {
+      "title": "Fall Break (Mon.-Tues.)",
+      "start": "2026-10-19T00:00:00",
+      "end": "2026-10-22T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/fall-break-mon-tues/",
+      "description": ""
     }
   ]
 }
