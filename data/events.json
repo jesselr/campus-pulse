@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:13:46.861415Z",
+  "updated": "2026-10-04T20:18:02.444855Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis at Dubuque",
-      "start": "2026-10-04T15:00:00",
-      "end": "2026-10-04T18:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-dubuque/",
-      "description": "Central College Women\u2019s Tennis at Dubuque"
-    },
-    {
-      "title": "Flying Pans Alumni Band: DESPANADO",
-      "start": "2026-10-04T18:00:00",
-      "end": "2026-10-04T19:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/flying-pans-alumni-band-despanado/",
-      "description": "Link to event: https://my.central.edu/events/6509334\\nThe Department of Visual and Performing Arts Presents: Flying Pans Alumni Steel Band show: DESPANADO-the music of the Eagles."
     },
     {
       "title": "Central College Women's Tennis at Loras",
@@ -240,6 +224,22 @@
       "end": "2026-10-22T00:00:00",
       "location": "",
       "url": "https://central.edu/event/fall-break-mon-tues/",
+      "description": ""
+    },
+    {
+      "title": "Midterm Grade Due (Noon)",
+      "start": "2026-10-20T00:00:00",
+      "end": "2026-10-22T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/midterm-grade-due-noon/",
+      "description": ""
+    },
+    {
+      "title": "Classes Resume",
+      "start": "2026-10-21T00:00:00",
+      "end": "2026-10-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/classes-resume-8/",
       "description": ""
     }
   ]
