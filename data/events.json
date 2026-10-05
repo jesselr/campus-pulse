@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T02:12:57.890190Z",
+  "updated": "2026-10-05T09:22:16.174886Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,14 +8,6 @@
       "end": "2026-10-25T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
-      "description": ""
-    },
-    {
-      "title": "Homecoming",
-      "start": "2026-10-02T00:00:00",
-      "end": "2026-10-06T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/homecoming-2/",
       "description": ""
     },
     {
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/spring-2027-advising-begins/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Soccer at Buena Vista",
+      "start": "2026-10-21T22:00:00",
+      "end": "2026-10-22T00:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-buena-vista/",
+      "description": "Central College Women\u2019s Soccer at Buena Vista"
     }
   ]
 }
