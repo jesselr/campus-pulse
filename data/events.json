@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:23:39.721616Z",
+  "updated": "2026-10-05T02:12:57.890190Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/homecoming-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis at Loras",
-      "start": "2026-10-04T21:00:00",
-      "end": "2026-10-05T00:00:00",
-      "location": "Dubuque\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-at-loras/",
-      "description": "Central College Women\u2019s Tennis at Loras"
     },
     {
       "title": "Central College Women's Golf  Viking Shootout",
@@ -240,6 +232,14 @@
       "end": "2026-10-23T00:00:00",
       "location": "",
       "url": "https://central.edu/event/classes-resume-8/",
+      "description": ""
+    },
+    {
+      "title": "Spring 2027 Advising Begins",
+      "start": "2026-10-21T00:00:00",
+      "end": "2026-10-23T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/spring-2027-advising-begins/",
       "description": ""
     }
   ]
