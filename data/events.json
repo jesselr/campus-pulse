@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:09:42.224330Z",
+  "updated": "2026-10-07T22:09:10.102165Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Soccer vs Nebraska Wesleyan",
-      "start": "2026-10-07T17:00:00",
-      "end": "2026-10-07T19:00:00",
-      "location": "Pella\\, Iowa\\, Soccer field",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-nebraska-wesleyan/",
-      "description": "Central College Women\u2019s Soccer vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Middle School Bandfest",
@@ -241,6 +233,14 @@
       "location": "Indianola\\, Iowa",
       "url": "https://central.edu/event/central-college-volleyball-vs-wis-platteville/",
       "description": "Central College Volleyball vs Wis.-Platteville"
+    },
+    {
+      "title": "Grandparent Day",
+      "start": "2026-10-24T00:00:00",
+      "end": "2026-10-26T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/grandparent-day/",
+      "description": "Come along with Central College for Grandparent Day!"
     }
   ]
 }
