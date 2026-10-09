@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:43:28.409979Z",
+  "updated": "2026-10-09T01:38:38.744855Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Middle School Bandfest",
-      "start": "2026-10-08T14:00:00",
-      "end": "2026-10-08T22:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/middle-school-bandfest-5/",
-      "description": "Link to event: https://my.central.edu/events/6509335\\nThe Visual and Performing Arts Departs hosts an Honor Band festival for Iowa Middle School students."
-    },
-    {
-      "title": "Middle School Bandfest: Honor Band Concert",
-      "start": "2026-10-08T23:00:00",
-      "end": "2026-10-09T00:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/middle-school-bandfest-honor-band-concert-2/",
-      "description": "Link to event: https://my.central.edu/events/6509336\\nThe Visual and Performing Arts Department presents the Middle School Bandfest Concert featuring the Middle School Bandfest Honor Band and Central\u2019s Symphonic Wind Ensemble."
     },
     {
       "title": "Central College Women's Tennis vs American Rivers Individual Championships",
@@ -56,7 +40,7 @@
       "end": "2026-10-11T00:00:00",
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-soccer-at-coe-2/",
-      "description": "Central College Women\u2019s Soccer at Coe"
+      "description": "Central College Women\u2019s Soccer at Coe\\nStreaming Video: https://rollriversnetwork.com/coe/?B=4300474"
     },
     {
       "title": "Central College Football at Coe",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/grandparent-day/",
       "description": "Come along with Central College for Grandparent Day!"
+    },
+    {
+      "title": "Central College Men's Golf  Prairie Fire Classic",
+      "start": "2026-10-24T00:00:00",
+      "end": "2026-10-26T00:00:00",
+      "location": "Galesburg\\, Ill. / Soangetaha CC",
+      "url": "https://central.edu/event/central-college-mens-golf-prairie-fire-classic/",
+      "description": "Central College Men\u2019s Golf  Prairie Fire Classic"
+    },
+    {
+      "title": "Central College Volleyball vs Wis.-La Crosse",
+      "start": "2026-10-24T17:00:00",
+      "end": "2026-10-24T19:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-volleyball-vs-wis-la-crosse/",
+      "description": "Central College Volleyball vs Wis.-La Crosse"
     }
   ]
 }
