@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:09:44.496660Z",
+  "updated": "2026-10-10T06:08:58.139351Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Tennis vs American Rivers Individual Championships",
-      "start": "2026-10-09T00:00:00",
-      "end": "2026-10-11T00:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-tennis-vs-american-rivers-individual-championships-2/",
-      "description": "Central College Women\u2019s Tennis vs American Rivers Individual Championships"
-    },
-    {
-      "title": "Central College Volleyball vs Dubuque",
-      "start": "2026-10-09T23:00:00",
-      "end": "2026-10-10T01:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-dubuque-2/",
-      "description": "Central College Volleyball vs Dubuque\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Wrestling vs Red/White open practice",
@@ -241,6 +225,22 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-wis-la-crosse/",
       "description": "Central College Volleyball vs Wis.-La Crosse"
+    },
+    {
+      "title": "Central College Volleyball at Augustana (Ill.)",
+      "start": "2026-10-24T19:00:00",
+      "end": "2026-10-24T21:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-volleyball-at-augustana-ill/",
+      "description": "Central College Volleyball at Augustana (Ill.)"
+    },
+    {
+      "title": "Central College Women's Soccer at Loras",
+      "start": "2026-10-24T22:00:00",
+      "end": "2026-10-25T00:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-soccer-at-loras/",
+      "description": "Central College Women\u2019s Soccer at Loras"
     }
   ]
 }
