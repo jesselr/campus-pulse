@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:17:17.125548Z",
+  "updated": "2026-10-11T06:06:31.061961Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Football at Coe",
-      "start": "2026-10-10T23:00:00",
-      "end": "2026-10-11T02:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-football-at-coe/",
-      "description": "Central College Football at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Golf  American Rivers Conference Championships",
@@ -241,6 +233,14 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Soccer vs Simpson",
+      "start": "2026-10-27T17:00:00",
+      "end": "2026-10-27T19:00:00",
+      "location": "Pella\\, Iowa\\, Soccer field",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-simpson/",
+      "description": "Central College Women\u2019s Soccer vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
