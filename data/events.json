@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:00:24.504747Z",
+  "updated": "2026-10-11T00:17:17.125548Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Soccer at Coe",
-      "start": "2026-10-10T22:00:00",
-      "end": "2026-10-11T00:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-soccer-at-coe-2/",
-      "description": "Central College Women\u2019s Soccer at Coe\\nStreaming Video: https://rollriversnetwork.com/coe/?B=4300474"
     },
     {
       "title": "Central College Football at Coe",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
       "url": "https://central.edu/event/central-college-football-vs-buena-vista-3/",
       "description": "Central College Football vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Mills Gallery Exhibition-Mat Kelly",
+      "start": "2026-10-26T00:00:00",
+      "end": "2026-11-08T00:00:00",
+      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
+      "description": ""
     }
   ]
 }
