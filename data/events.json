@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:41:30.024365Z",
+  "updated": "2026-10-13T23:32:51.288341Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "8th and 9th grade Singfest",
-      "start": "2026-10-13T14:00:00",
-      "end": "2026-10-13T22:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/8th-and-9th-grade-singfest/",
-      "description": "Link to event: https://my.central.edu/events/6509337\\nThe Department of Visual and Performing Arts hosts and Honor Choir festival for Iowa 8th and 9th grade students."
     },
     {
       "title": "Central College Women's Soccer at Dubuque",
@@ -241,6 +233,14 @@
       "location": "Oskaloosa\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-basketball-at-william-penn-exhibition/",
       "description": "Central College Men\u2019s Basketball at William Penn \u2013 Exhibition"
+    },
+    {
+      "title": "Central College Women's Basketball vs Iowa Central CC - Exhibition",
+      "start": "2026-10-29T00:00:00",
+      "end": "2026-10-29T02:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-iowa-central-cc-exhibition/",
+      "description": "Central College Women\u2019s Basketball vs Iowa Central CC \u2013 Exhibition"
     }
   ]
 }
