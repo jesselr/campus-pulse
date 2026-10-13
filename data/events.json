@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:41:53.288065Z",
+  "updated": "2026-10-13T05:01:16.020479Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Golf  American Rivers Conference Championships",
-      "start": "2026-10-11T14:45:00",
-      "end": "2026-10-13T04:59:00",
-      "location": "Waterloo\\, Iowa / Sunnyside G&CC",
-      "url": "https://central.edu/event/central-college-womens-golf-american-rivers-conference-championships-2/",
-      "description": "Central College Women\u2019s Golf  American Rivers Conference Championships"
     },
     {
       "title": "8th and 9th grade Singfest",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, Soccer field",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-simpson/",
       "description": "Central College Women\u2019s Soccer vs Simpson\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball at William Penn - Exhibition",
+      "start": "2026-10-29T00:00:00",
+      "end": "2026-10-29T02:00:00",
+      "location": "Oskaloosa\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-basketball-at-william-penn-exhibition/",
+      "description": "Central College Men\u2019s Basketball at William Penn \u2013 Exhibition"
     }
   ]
 }
