@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:45:41.355596Z",
+  "updated": "2026-10-17T02:35:55.253686Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball at Wartburg",
-      "start": "2026-10-16T23:00:00",
-      "end": "2026-10-17T01:00:00",
-      "location": "Waverly\\, Iowa",
-      "url": "https://central.edu/event/central-college-volleyball-at-wartburg-2/",
-      "description": "Central College Volleyball at Wartburg"
     },
     {
       "title": "Central College Women's Cross Country  Augustana Interregional",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-5/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Cross Country  American Rivers Conference Championships",
+      "start": "2026-10-31T00:00:00",
+      "end": "2026-11-02T00:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-cross-country-american-rivers-conference-championships-2/",
+      "description": "Central College Women\u2019s Cross Country  American Rivers Conference Championships"
     }
   ]
 }
