@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T03:00:42.534252Z",
+  "updated": "2026-10-20T08:45:17.403256Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Golf  Whistling Straits Classic",
-      "start": "2026-10-19T00:00:00",
-      "end": "2026-10-21T00:00:00",
-      "location": "Sheboygan\\, Wis. \u2013 Whistling Straits GC (Straits Course)",
-      "url": "https://central.edu/event/central-college-mens-golf-whistling-straits-classic/",
-      "description": "Central College Men\u2019s Golf  Whistling Straits Classic"
     },
     {
       "title": "Fall Break (Mon.-Tues.)",
@@ -241,6 +233,14 @@
       "location": "Indianola\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-luther-hill-invitational/",
       "description": "Central College Men\u2019s Wrestling at Luther Hill Invitational"
+    },
+    {
+      "title": "Flying Pans Steel Band: PAN LEGACY",
+      "start": "2026-11-01T21:00:00",
+      "end": "2026-11-01T22:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/flying-pans-steel-band-pan-legacy-2/",
+      "description": "Link to event: https://my.central.edu/events/6509340\\nThe Visual and Performing Arts Department presents the Flying Pans Steel Band fall Show: PAN LEGACY."
     }
   ]
 }
