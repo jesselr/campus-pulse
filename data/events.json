@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:01:19.000113Z",
+  "updated": "2026-10-20T18:34:20.428484Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -179,28 +179,28 @@
       "description": ""
     },
     {
-      "title": "Central College Women's Cross Country  American Rivers Conference Championships",
-      "start": "2026-10-31T00:00:00",
-      "end": "2026-11-02T00:00:00",
-      "location": "Storm Lake\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-cross-country-american-rivers-conference-championships-2/",
-      "description": "Central College Women\u2019s Cross Country  American Rivers Conference Championships"
-    },
-    {
-      "title": "Central College Men's Cross Country  American Rivers Conference Championships",
-      "start": "2026-10-31T00:00:00",
-      "end": "2026-11-02T00:00:00",
-      "location": "Storm Lake\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-cross-country-american-rivers-conference-championships-2/",
-      "description": "Central College Men\u2019s Cross Country  American Rivers Conference Championships"
-    },
-    {
       "title": "Central College Volleyball vs Buena Vista",
       "start": "2026-10-31T17:00:00",
       "end": "2026-10-31T19:00:00",
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-volleyball-vs-buena-vista-3/",
       "description": "Central College Volleyball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Cross Country  American Rivers Conference Championships",
+      "start": "2026-10-31T17:00:00",
+      "end": "2026-10-31T20:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-cross-country-american-rivers-conference-championships-2/",
+      "description": "Central College Women\u2019s Cross Country  American Rivers Conference Championships"
+    },
+    {
+      "title": "Central College Men's Cross Country  American Rivers Conference Championships",
+      "start": "2026-10-31T18:00:00",
+      "end": "2026-10-31T21:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-cross-country-american-rivers-conference-championships-2/",
+      "description": "Central College Men\u2019s Cross Country  American Rivers Conference Championships"
     },
     {
       "title": "Central College Football at Loras",
