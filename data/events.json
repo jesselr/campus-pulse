@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:29:29.523277Z",
+  "updated": "2026-10-21T05:10:53.642493Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,22 +8,6 @@
       "end": "2026-10-25T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
-      "description": ""
-    },
-    {
-      "title": "Fall Break (Mon.-Tues.)",
-      "start": "2026-10-19T00:00:00",
-      "end": "2026-10-22T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/fall-break-mon-tues/",
-      "description": ""
-    },
-    {
-      "title": "Midterm Grade Due (Noon)",
-      "start": "2026-10-20T00:00:00",
-      "end": "2026-10-22T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/midterm-grade-due-noon/",
       "description": ""
     },
     {
@@ -96,7 +80,7 @@
       "end": "2026-10-24T19:00:00",
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-vs-wis-la-crosse/",
-      "description": "Central College Volleyball vs Wis.-La Crosse"
+      "description": "Central College Volleyball vs Wis.-La Crosse\\nStreaming Video: https://cciwnetwork.com/acvikings/?B=4655180"
     },
     {
       "title": "Central College Volleyball at Augustana (Ill.)",
@@ -104,7 +88,7 @@
       "end": "2026-10-24T21:00:00",
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-volleyball-at-augustana-ill/",
-      "description": "Central College Volleyball at Augustana (Ill.)"
+      "description": "Central College Volleyball at Augustana (Ill.)\\nStreaming Video: https://cciwnetwork.com/acvikings/?B=4655180"
     },
     {
       "title": "Central College Women's Soccer at Loras",
@@ -241,6 +225,22 @@
       "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/flying-pans-steel-band-pan-legacy-2/",
       "description": "Link to event: https://my.central.edu/events/6509340\\nThe Visual and Performing Arts Department presents the Flying Pans Steel Band fall Show: PAN LEGACY."
+    },
+    {
+      "title": "Central College Women's Basketball at Upper Iowa - Exhibition",
+      "start": "2026-11-01T22:00:00",
+      "end": "2026-11-02T00:00:00",
+      "location": "Fayette\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-basketball-at-upper-iowa-exhibition/",
+      "description": "Central College Women\u2019s Basketball at Upper Iowa \u2013 Exhibition"
+    },
+    {
+      "title": "Spring 2027 Registration Begins",
+      "start": "2026-11-02T00:00:00",
+      "end": "2026-11-04T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/spring-2027-registration-begins/",
+      "description": ""
     }
   ]
 }
