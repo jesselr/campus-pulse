@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:08:17.007474Z",
+  "updated": "2026-10-22T06:18:52.904578Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,22 +8,6 @@
       "end": "2026-10-25T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
-      "description": ""
-    },
-    {
-      "title": "Classes Resume",
-      "start": "2026-10-21T00:00:00",
-      "end": "2026-10-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/classes-resume-8/",
-      "description": ""
-    },
-    {
-      "title": "Spring 2027 Advising Begins",
-      "start": "2026-10-21T00:00:00",
-      "end": "2026-10-23T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/spring-2027-advising-begins/",
       "description": ""
     },
     {
@@ -241,6 +225,22 @@
       "location": "Des Moines\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-basketball-at-drake-exhibition/",
       "description": "Central College Men\u2019s Basketball at Drake \u2013 Exhibition"
+    },
+    {
+      "title": "Central College Volleyball at Loras",
+      "start": "2026-11-05T00:00:00",
+      "end": "2026-11-05T02:00:00",
+      "location": "Dubuque\\, Iowa",
+      "url": "https://central.edu/event/central-college-volleyball-at-loras/",
+      "description": "Central College Volleyball at Loras"
+    },
+    {
+      "title": "Central College Women's Wrestling vs Loras",
+      "start": "2026-11-06T00:00:00",
+      "end": "2026-11-08T00:00:00",
+      "location": "Fayette\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-wrestling-vs-loras/",
+      "description": "Central College Women\u2019s Wrestling vs Loras"
     }
   ]
 }
