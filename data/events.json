@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-24T00:10:46.625596Z",
+  "updated": "2026-10-24T04:51:27.441597Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Mills Gallery Exhibition-Bob Kroese",
-      "start": "2026-09-28T00:00:00",
-      "end": "2026-10-25T00:00:00",
-      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/mills-gallery-exhibition-bob-kroese-2/",
-      "description": ""
-    },
     {
       "title": "Board of Trustees Meeting",
       "start": "2026-10-23T00:00:00",
@@ -241,6 +233,14 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-withdraw-from-a-course-3/",
       "description": ""
+    },
+    {
+      "title": "Central College Women's Basketball at Washington - St. Louis (Mo.)",
+      "start": "2026-11-06T23:00:00",
+      "end": "2026-11-07T01:00:00",
+      "location": "St. Louis\\, Mo.",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-wis-whitewater/",
+      "description": "Central College Women\u2019s Basketball at Washington \u2013 St. Louis (Mo.)"
     }
   ]
 }
