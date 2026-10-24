@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:32:58.141407Z",
+  "updated": "2026-10-24T00:10:46.625596Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/board-of-trustees-meeting-3/",
       "description": ""
-    },
-    {
-      "title": "Central College Volleyball vs Wis.-Platteville",
-      "start": "2026-10-23T21:00:00",
-      "end": "2026-10-23T23:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-volleyball-vs-wis-platteville/",
-      "description": "Central College Volleyball vs Wis.-Platteville"
     },
     {
       "title": "Grandparent Day",
@@ -241,6 +233,14 @@
       "location": "Fayette\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-loras/",
       "description": "Central College Women\u2019s Wrestling vs Loras"
+    },
+    {
+      "title": "Last Day to Withdraw from a Course",
+      "start": "2026-11-06T00:00:00",
+      "end": "2026-11-08T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-to-withdraw-from-a-course-3/",
+      "description": ""
     }
   ]
 }
