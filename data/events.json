@@ -1,23 +1,7 @@
 {
-  "updated": "2026-10-25T03:00:48.749112Z",
+  "updated": "2026-10-25T08:36:33.654679Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Grandparent Day",
-      "start": "2026-10-24T00:00:00",
-      "end": "2026-10-26T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/grandparent-day/",
-      "description": "Come along with Central College for Grandparent Day!"
-    },
-    {
-      "title": "Central College Men's Golf  Prairie Fire Invitational",
-      "start": "2026-10-24T00:00:00",
-      "end": "2026-10-26T00:00:00",
-      "location": "Galesburg\\, Ill. / Soangetaha CC",
-      "url": "https://central.edu/event/central-college-mens-golf-prairie-fire-classic/",
-      "description": "Central College Men\u2019s Golf  Prairie Fire Invitational"
-    },
     {
       "title": "Mills Gallery Exhibition-Mat Kelly",
       "start": "2026-10-26T00:00:00",
@@ -241,6 +225,22 @@
       "location": "St. Louis\\, Mo.",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-tbd-washington-st-louis-mo-or-benedictine-ill/",
       "description": "Central College Women\u2019s Basketball vs TBD \u2013 Wis.-Whitewater or Benedictine (Ill.)"
+    },
+    {
+      "title": "Central College Women's Triathlon  USA Triathlon Collegiate National Championships",
+      "start": "2026-11-08T00:00:00",
+      "end": "2026-11-10T00:00:00",
+      "location": "Tempe\\, Ariz.",
+      "url": "https://central.edu/event/central-college-womens-triathlon-usa-triathlon-collegiate-national-championships-2/",
+      "description": "Central College Women\u2019s Triathlon  USA Triathlon Collegiate National Championships"
+    },
+    {
+      "title": "Central College Football vs Wartburg",
+      "start": "2026-11-08T01:00:00",
+      "end": "2026-11-08T04:00:00",
+      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
+      "url": "https://central.edu/event/central-college-football-vs-wartburg/",
+      "description": "Central College Football vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
