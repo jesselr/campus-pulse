@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T15:16:00.310619Z",
+  "updated": "2026-10-28T20:25:23.935032Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -35,14 +35,6 @@
       "description": "Central College Volleyball vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Women's Soccer vs First round",
-      "start": "2026-10-31T00:00:00",
-      "end": "2026-11-02T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-first-round-3/",
-      "description": "Central College Women\u2019s Soccer vs First round"
-    },
-    {
       "title": "Central College Scholar Day",
       "start": "2026-10-31T00:00:00",
       "end": "2026-11-02T00:00:00",
@@ -65,6 +57,14 @@
       "location": "Storm Lake\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-cross-country-american-rivers-conference-championships-2/",
       "description": "Central College Women\u2019s Cross Country  American Rivers Conference Championships"
+    },
+    {
+      "title": "Central College Women's Soccer vs Nebraska Wesleyan - Quarterfinal",
+      "start": "2026-10-31T18:00:00",
+      "end": "2026-10-31T20:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-first-round-3/",
+      "description": "Central College Women\u2019s Soccer vs Nebraska Wesleyan \u2013 Quarterfinal\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Cross Country  American Rivers Conference Championships",
