@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:36:34.700192Z",
+  "updated": "2026-10-31T23:53:44.904658Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,14 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/central-college-scholar-day-5/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Cross Country  American Rivers Conference Championships",
-      "start": "2026-10-31T18:00:00",
-      "end": "2026-10-31T21:00:00",
-      "location": "Storm Lake\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-cross-country-american-rivers-conference-championships-2/",
-      "description": "Central College Men\u2019s Cross Country  American Rivers Conference Championships"
     },
     {
       "title": "Central College Football at Loras",
@@ -241,6 +233,14 @@
       "location": "Jacksonville\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-tech/",
       "description": "Central College Men\u2019s Basketball vs Illinois Tech"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "start": "2026-11-14T01:00:00",
+      "end": "2026-11-14T03:00:00",
+      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/the-importance-of-being-earnest-2/",
+      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
     }
   ]
 }
