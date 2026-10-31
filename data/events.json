@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:28:20.525556Z",
+  "updated": "2026-10-31T20:36:34.700192Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -19,30 +19,6 @@
       "description": ""
     },
     {
-      "title": "Central College Volleyball vs Buena Vista",
-      "start": "2026-10-31T17:00:00",
-      "end": "2026-10-31T19:00:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-buena-vista-3/",
-      "description": "Central College Volleyball vs Buena Vista\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Cross Country  American Rivers Conference Championships",
-      "start": "2026-10-31T17:00:00",
-      "end": "2026-10-31T20:00:00",
-      "location": "Storm Lake\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-cross-country-american-rivers-conference-championships-2/",
-      "description": "Central College Women\u2019s Cross Country  American Rivers Conference Championships"
-    },
-    {
-      "title": "Central College Women's Soccer vs Nebraska Wesleyan - Quarterfinal",
-      "start": "2026-10-31T18:00:00",
-      "end": "2026-10-31T20:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-first-round-3/",
-      "description": "Central College Women\u2019s Soccer vs Nebraska Wesleyan \u2013 Quarterfinal\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
       "title": "Central College Men's Cross Country  American Rivers Conference Championships",
       "start": "2026-10-31T18:00:00",
       "end": "2026-10-31T21:00:00",
@@ -56,7 +32,7 @@
       "end": "2026-11-01T02:00:00",
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-football-at-loras-2/",
-      "description": "Central College Football at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+      "description": "Central College Football at Loras\\nStreaming Video: https://duhawks.com/watch/"
     },
     {
       "title": "Flying Pans Steel Band: PAN LEGACY",
@@ -235,12 +211,36 @@
       "description": "Central College Men\u2019s Wrestling vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
+      "title": "Central College Volleyball vs Semifinal",
+      "start": "2026-11-12T00:00:00",
+      "end": "2026-11-14T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-volleyball-vs-semifinal/",
+      "description": "Central College Volleyball vs Semifinal"
+    },
+    {
       "title": "Central College Women's Basketball vs Grinnell",
       "start": "2026-11-12T01:30:00",
       "end": "2026-11-12T03:30:00",
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-grinnell/",
       "description": "Central College Women\u2019s Basketball vs Grinnell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "start": "2026-11-13T01:00:00",
+      "end": "2026-11-13T03:00:00",
+      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/the-importance-of-being-earnest/",
+      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
+    },
+    {
+      "title": "Central College Men's Basketball vs Illinois Tech",
+      "start": "2026-11-13T23:30:00",
+      "end": "2026-11-14T01:30:00",
+      "location": "Jacksonville\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-tech/",
+      "description": "Central College Men\u2019s Basketball vs Illinois Tech"
     }
   ]
 }
