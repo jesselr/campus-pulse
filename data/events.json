@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:00:24.866675Z",
+  "updated": "2026-11-01T21:17:36.930740Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Wrestling at Luther Hill Invitational",
-      "start": "2026-11-01T16:00:00",
-      "end": "2026-11-01T19:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-wrestling-at-luther-hill-invitational-2/",
-      "description": "Central College Women\u2019s Wrestling at Luther Hill Invitational"
-    },
-    {
-      "title": "Central College Men's Wrestling at Luther Hill Invitational",
-      "start": "2026-11-01T16:00:00",
-      "end": "2026-11-01T19:00:00",
-      "location": "Indianola\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-at-luther-hill-invitational/",
-      "description": "Central College Men\u2019s Wrestling at Luther Hill Invitational"
     },
     {
       "title": "Flying Pans Steel Band: PAN LEGACY",
@@ -225,6 +209,22 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-volleyball-vs-final-3/",
       "description": "Central College Volleyball vs Final"
+    },
+    {
+      "title": "Central College Women's Cross Country  NCAA Division III Midwest Regional - Limited roster",
+      "start": "2026-11-14T00:00:00",
+      "end": "2026-11-16T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-womens-cross-country-ncaa-division-iii-midwest-regional-2/",
+      "description": "Central College Women\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Cross Country  NCAA Division III Midwest Regional - Limited roster",
+      "start": "2026-11-14T00:00:00",
+      "end": "2026-11-16T00:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-cross-country-ncaa-division-iii-midwest-regional-3/",
+      "description": "Central College Men\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
     },
     {
       "title": "The Importance of Being Earnest",
