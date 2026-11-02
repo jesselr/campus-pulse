@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:17:36.930740Z",
+  "updated": "2026-11-02T00:56:17.399306Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
       "description": ""
-    },
-    {
-      "title": "Flying Pans Steel Band: PAN LEGACY",
-      "start": "2026-11-01T21:00:00",
-      "end": "2026-11-01T22:00:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/flying-pans-steel-band-pan-legacy-2/",
-      "description": "Link to event: https://my.central.edu/events/6509340\\nThe Visual and Performing Arts Department presents the Flying Pans Steel Band fall Show: PAN LEGACY."
-    },
-    {
-      "title": "Central College Women's Basketball at Upper Iowa - Exhibition",
-      "start": "2026-11-01T22:00:00",
-      "end": "2026-11-02T00:00:00",
-      "location": "Fayette\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-basketball-at-upper-iowa-exhibition/",
-      "description": "Central College Women\u2019s Basketball at Upper Iowa \u2013 Exhibition"
     },
     {
       "title": "Spring 2027 Registration Begins",
@@ -241,6 +225,22 @@
       "location": "Saint Joseph\\, Minn.",
       "url": "https://central.edu/event/central-college-womens-basketball-at-saint-benedict-minn/",
       "description": "Central College Women\u2019s Basketball at Saint Benedict (Minn.)"
+    },
+    {
+      "title": "Central College Women's Basketball vs Concordia-Moorhead (Minn.)",
+      "start": "2026-11-14T19:00:00",
+      "end": "2026-11-14T21:00:00",
+      "location": "Saint Joseph\\, Minn.",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-concordia-moorhead-minn/",
+      "description": "Central College Women\u2019s Basketball vs Concordia-Moorhead (Minn.)"
+    },
+    {
+      "title": "Central College Men's Basketball at Illinois College or Westminster (Mo.)",
+      "start": "2026-11-14T19:00:00",
+      "end": "2026-11-14T21:00:00",
+      "location": "Jacksonville\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-basketball-at-illinois-college-or-westminster-mo/",
+      "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)"
     }
   ]
 }
