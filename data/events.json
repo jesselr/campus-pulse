@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T00:56:17.399306Z",
+  "updated": "2026-11-02T07:11:21.654700Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -123,14 +123,6 @@
       "description": "Central College Football vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
-      "title": "Central College Volleyball vs First round",
-      "start": "2026-11-10T00:00:00",
-      "end": "2026-11-12T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-volleyball-vs-first-round-3/",
-      "description": "Central College Volleyball vs First round"
-    },
-    {
       "title": "Central College Men's Basketball at Augustana (Ill.)",
       "start": "2026-11-11T01:00:00",
       "end": "2026-11-11T03:00:00",
@@ -145,14 +137,6 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-nebraska-wesleyan/",
       "description": "Central College Men\u2019s Wrestling vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Volleyball vs Semifinal",
-      "start": "2026-11-12T00:00:00",
-      "end": "2026-11-14T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-volleyball-vs-semifinal/",
-      "description": "Central College Volleyball vs Semifinal"
     },
     {
       "title": "Central College Women's Basketball vs Grinnell",
@@ -185,14 +169,6 @@
       "location": "TBD",
       "url": "https://central.edu/event/central-college-womens-soccer-vs-first-round-4/",
       "description": "Central College Women\u2019s Soccer vs First round"
-    },
-    {
-      "title": "Central College Volleyball vs Final",
-      "start": "2026-11-14T00:00:00",
-      "end": "2026-11-16T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-volleyball-vs-final-3/",
-      "description": "Central College Volleyball vs Final"
     },
     {
       "title": "Central College Women's Cross Country  NCAA Division III Midwest Regional - Limited roster",
@@ -241,6 +217,30 @@
       "location": "Jacksonville\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-basketball-at-illinois-college-or-westminster-mo/",
       "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)"
+    },
+    {
+      "title": "Central College Women's Soccer vs Second round",
+      "start": "2026-11-15T00:00:00",
+      "end": "2026-11-17T00:00:00",
+      "location": "TBD",
+      "url": "https://central.edu/event/central-college-womens-soccer-vs-second-round-2/",
+      "description": "Central College Women\u2019s Soccer vs Second round"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "start": "2026-11-15T01:00:00",
+      "end": "2026-11-15T03:00:00",
+      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/the-importance-of-being-earnest-3/",
+      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "start": "2026-11-15T20:00:00",
+      "end": "2026-11-15T22:00:00",
+      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/the-importance-of-being-earnest-4/",
+      "description": "Link to event: https://my.central.edu/events/6509352\\nThe Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
     }
   ]
 }
