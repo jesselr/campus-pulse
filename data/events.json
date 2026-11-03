@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T23:57:32.081350Z",
+  "updated": "2026-11-03T05:38:45.285968Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,14 +8,6 @@
       "end": "2026-11-08T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
-      "description": ""
-    },
-    {
-      "title": "Spring 2027 Registration Begins",
-      "start": "2026-11-02T00:00:00",
-      "end": "2026-11-04T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/spring-2027-registration-begins/",
       "description": ""
     },
     {
@@ -241,6 +233,14 @@
       "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/the-importance-of-being-earnest-4/",
       "description": "Link to event: https://my.central.edu/events/6509352\\nThe Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
+    },
+    {
+      "title": "Mills Gallery Exhibition-Fall Student Exhibition",
+      "start": "2026-11-16T00:00:00",
+      "end": "2026-12-06T00:00:00",
+      "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/mills-gallery-exhibition-fall-student-exhibition/",
+      "description": ""
     }
   ]
 }
