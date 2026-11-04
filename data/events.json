@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:37:06.155962Z",
+  "updated": "2026-11-04T21:40:03.645665Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-mat-kelly/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Basketball at Drake - Exhibition",
-      "start": "2026-11-04T00:00:00",
-      "end": "2026-11-06T00:00:00",
-      "location": "Des Moines\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-drake-exhibition/",
-      "description": "Central College Men\u2019s Basketball at Drake \u2013 Exhibition"
     },
     {
       "title": "Central College Women's Soccer at Dubuque - Semifinal",
@@ -33,6 +25,14 @@
       "location": "Dubuque\\, Iowa",
       "url": "https://central.edu/event/central-college-volleyball-at-loras/",
       "description": "Central College Volleyball at Loras\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball at Drake - Exhibition",
+      "start": "2026-11-05T00:30:00",
+      "end": "2026-11-05T02:30:00",
+      "location": "Des Moines\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-basketball-at-drake-exhibition/",
+      "description": "Central College Men\u2019s Basketball at Drake \u2013 Exhibition\\nStreaming Video: https://www.espn.com/watch/player/_/id/f15610e7-40b9-439c-945c-9589fae1a7d8"
     },
     {
       "title": "Last Day to Withdraw from a Course",
@@ -163,14 +163,6 @@
       "description": "Central College Women\u2019s Soccer vs First round"
     },
     {
-      "title": "Central College Men's Cross Country  NCAA Division III Midwest Regional - Limited roster",
-      "start": "2026-11-14T00:00:00",
-      "end": "2026-11-16T00:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-cross-country-ncaa-division-iii-midwest-regional-3/",
-      "description": "Central College Men\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
-    },
-    {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-14T01:00:00",
       "end": "2026-11-14T03:00:00",
@@ -193,6 +185,14 @@
       "location": "Rock Island\\, Ill.",
       "url": "https://central.edu/event/central-college-womens-cross-country-ncaa-division-iii-midwest-regional-2/",
       "description": "Central College Women\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Men's Cross Country  NCAA Division III Midwest Regional - Limited roster",
+      "start": "2026-11-14T18:00:00",
+      "end": "2026-11-14T21:00:00",
+      "location": "Rock Island\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-cross-country-ncaa-division-iii-midwest-regional-3/",
+      "description": "Central College Men\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
     },
     {
       "title": "Central College Women's Basketball vs Concordia-Moorhead (Minn.)",
