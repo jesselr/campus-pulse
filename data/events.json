@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:01:25.108400Z",
+  "updated": "2026-11-06T11:15:59.783510Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -41,14 +41,6 @@
       "location": "Fayette\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-loras/",
       "description": "Central College Women\u2019s Wrestling vs Loras\\nStreaming Video: https://glvcsn.com/uiuglvc/"
-    },
-    {
-      "title": "Central College Women's Soccer vs Final",
-      "start": "2026-11-07T00:00:00",
-      "end": "2026-11-09T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-final-3/",
-      "description": "Central College Women\u2019s Soccer vs Final"
     },
     {
       "title": "Central College Scholar Day",
@@ -131,14 +123,6 @@
       "description": "Central College Men\u2019s Basketball vs Illinois Tech"
     },
     {
-      "title": "Central College Women's Soccer vs First round",
-      "start": "2026-11-14T00:00:00",
-      "end": "2026-11-16T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-first-round-4/",
-      "description": "Central College Women\u2019s Soccer vs First round"
-    },
-    {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-14T01:00:00",
       "end": "2026-11-14T03:00:00",
@@ -187,14 +171,6 @@
       "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)"
     },
     {
-      "title": "Central College Women's Soccer vs Second round",
-      "start": "2026-11-15T00:00:00",
-      "end": "2026-11-17T00:00:00",
-      "location": "TBD",
-      "url": "https://central.edu/event/central-college-womens-soccer-vs-second-round-2/",
-      "description": "Central College Women\u2019s Soccer vs Second round"
-    },
-    {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-15T01:00:00",
       "end": "2026-11-15T03:00:00",
@@ -241,6 +217,30 @@
       "location": "Mount Vernon\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-wrestling-vs-luther/",
       "description": "Central College Women\u2019s Wrestling vs Luther"
+    },
+    {
+      "title": "Central College Men's Wrestling at Coe",
+      "start": "2026-11-20T00:00:00",
+      "end": "2026-11-20T03:00:00",
+      "location": "Cedar Rapids\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-coe-2/",
+      "description": "Central College Men\u2019s Wrestling at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Men's Basketball vs Wis.-River Falls",
+      "start": "2026-11-20T23:00:00",
+      "end": "2026-11-21T01:00:00",
+      "location": "Wheaton\\, Ill.",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-wis-river-falls/",
+      "description": "Central College Men\u2019s Basketball vs Wis.-River Falls"
+    },
+    {
+      "title": "Central College Women's Basketball vs Wis.-Oshkosh",
+      "start": "2026-11-20T23:30:00",
+      "end": "2026-11-21T01:30:00",
+      "location": "Platteville\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-basketball-vs-wis-oshkosh/",
+      "description": "Central College Women\u2019s Basketball vs Wis.-Oshkosh"
     }
   ]
 }
