@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:21:32.550234Z",
+  "updated": "2026-11-07T02:58:35.847089Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -17,22 +17,6 @@
       "location": "",
       "url": "https://central.edu/event/last-day-to-withdraw-from-a-course-3/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Basketball at Washington - St. Louis (Mo.)",
-      "start": "2026-11-06T23:00:00",
-      "end": "2026-11-07T01:00:00",
-      "location": "St. Louis\\, Mo.",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-wis-whitewater/",
-      "description": "Central College Women\u2019s Basketball at Washington \u2013 St. Louis (Mo.)\\nStreaming Video: https://www.flocollege.com/signup?redirect=/live/288299&utm_campaign=871354centralcollegev&utm_medium=partner&utm_source=multiple&utm_content=signup&contract_id=006px000005mtotyaw&coverage_id=16275936&sp=conf-partner-k7p2"
-    },
-    {
-      "title": "Central College Volleyball vs Faith Baptist Bible",
-      "start": "2026-11-07T00:00:00",
-      "end": "2026-11-07T02:00:00",
-      "location": "\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-volleyball-vs-faith-baptist-bible/",
-      "description": "Central College Volleyball vs Faith Baptist Bible\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Women's Wrestling vs Loras",
@@ -241,6 +225,22 @@
       "location": "Platteville\\, Wis.",
       "url": "https://central.edu/event/central-college-womens-basketball-vs-wis-oshkosh/",
       "description": "Central College Women\u2019s Basketball vs Wis.-Oshkosh"
+    },
+    {
+      "title": "Central College Women's Cross Country  NCAA Division III Championships",
+      "start": "2026-11-21T00:00:00",
+      "end": "2026-11-23T00:00:00",
+      "location": "Northfield\\, Minn.",
+      "url": "https://central.edu/event/central-college-womens-cross-country-ncaa-division-iii-championships-2/",
+      "description": "Central College Women\u2019s Cross Country  NCAA Division III Championships"
+    },
+    {
+      "title": "Central College Men's Cross Country  NCAA Division III Championships",
+      "start": "2026-11-21T00:00:00",
+      "end": "2026-11-23T00:00:00",
+      "location": "Northfield\\, Minn.",
+      "url": "https://central.edu/event/central-college-mens-cross-country-ncaa-division-iii-championships-3/",
+      "description": "Central College Men\u2019s Cross Country  NCAA Division III Championships"
     }
   ]
 }
