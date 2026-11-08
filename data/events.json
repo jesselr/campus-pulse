@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-08T03:53:57.886363Z",
+  "updated": "2026-11-08T10:58:52.841334Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Scholar Day",
-      "start": "2026-11-07T00:00:00",
-      "end": "2026-11-09T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/central-college-scholar-day-6/",
-      "description": ""
-    },
     {
       "title": "Central College Women's Triathlon  USA Triathlon Collegiate National Championships",
       "start": "2026-11-08T00:00:00",
@@ -17,14 +9,6 @@
       "location": "Tempe\\, Ariz.",
       "url": "https://central.edu/event/central-college-womens-triathlon-usa-triathlon-collegiate-national-championships-2/",
       "description": "Central College Women\u2019s Triathlon  USA Triathlon Collegiate National Championships"
-    },
-    {
-      "title": "Central College Football vs Wartburg",
-      "start": "2026-11-08T01:00:00",
-      "end": "2026-11-08T04:00:00",
-      "location": "Pella\\, Iowa\\, Ron and Joyce Schipper Stadium",
-      "url": "https://central.edu/event/central-college-football-vs-wartburg/",
-      "description": "Central College Football vs Wartburg\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Basketball at Augustana (Ill.)",
@@ -241,6 +225,22 @@
       "location": "",
       "url": "https://central.edu/event/thanksgiving-break-mon-fri/",
       "description": ""
+    },
+    {
+      "title": "Central College Men's Basketball vs Illinois Wesleyan",
+      "start": "2026-11-28T20:00:00",
+      "end": "2026-11-28T22:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-wesleyan/",
+      "description": "Central College Men\u2019s Basketball vs Illinois Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Dance team vs State Showcase",
+      "start": "2026-11-30T00:30:00",
+      "end": "2026-11-30T03:30:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-dance-team-vs-state-showcase-2/",
+      "description": "Central College Dance team vs State Showcase"
     }
   ]
 }
