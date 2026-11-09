@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-09T00:33:57.980944Z",
+  "updated": "2026-11-09T07:32:17.954840Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Triathlon  USA Triathlon Collegiate National Championships",
-      "start": "2026-11-08T00:00:00",
-      "end": "2026-11-10T00:00:00",
-      "location": "Tempe\\, Ariz.",
-      "url": "https://central.edu/event/central-college-womens-triathlon-usa-triathlon-collegiate-national-championships-2/",
-      "description": "Central College Women\u2019s Triathlon  USA Triathlon Collegiate National Championships"
-    },
     {
       "title": "Central College Men's Basketball at Augustana (Ill.)",
       "start": "2026-11-11T01:00:00",
@@ -233,6 +225,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-wesleyan/",
       "description": "Central College Men\u2019s Basketball vs Illinois Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Classes Resume",
+      "start": "2026-11-30T00:00:00",
+      "end": "2026-12-02T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/classes-resume-9/",
+      "description": ""
     },
     {
       "title": "Central College Dance team vs State Showcase",
