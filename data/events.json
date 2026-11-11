@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-11T02:03:24.892476Z",
+  "updated": "2026-11-11T09:40:34.188962Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball at Augustana (Ill.)",
-      "start": "2026-11-11T01:00:00",
-      "end": "2026-11-11T03:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-augustana-ill/",
-      "description": "Central College Men\u2019s Basketball at Augustana (Ill.)"
-    },
     {
       "title": "Central College Men's Wrestling vs Nebraska Wesleyan",
       "start": "2026-11-11T23:30:00",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-dance-team-vs-state-showcase-2/",
       "description": "Central College Dance team vs State Showcase"
+    },
+    {
+      "title": "Central College Dance team vs ISTDA State",
+      "start": "2026-12-03T00:00:00",
+      "end": "2026-12-05T00:00:00",
+      "location": "Des Moines / Casey\u2019s Center",
+      "url": "https://central.edu/event/central-college-dance-team-vs-istda-state-3/",
+      "description": "Central College Dance team vs ISTDA State"
     }
   ]
 }
