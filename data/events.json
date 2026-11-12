@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-11T23:56:14.548817Z",
+  "updated": "2026-11-12T05:41:56.780354Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Wrestling vs Nebraska Wesleyan",
-      "start": "2026-11-11T23:30:00",
-      "end": "2026-11-12T02:30:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-nebraska-wesleyan/",
-      "description": "Central College Men\u2019s Wrestling vs Nebraska Wesleyan\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
-    {
-      "title": "Central College Women's Basketball vs Grinnell",
-      "start": "2026-11-12T01:30:00",
-      "end": "2026-11-12T03:30:00",
-      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-grinnell/",
-      "description": "Central College Women\u2019s Basketball vs Grinnell\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
-    },
     {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-13T01:00:00",
@@ -32,7 +16,7 @@
       "end": "2026-11-14T01:30:00",
       "location": "Jacksonville\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-tech/",
-      "description": "Central College Men\u2019s Basketball vs Illinois Tech"
+      "description": "Central College Men\u2019s Basketball vs Illinois Tech\\nStreaming Video: https://watchmidwestsports.com/illinoiscollege/"
     },
     {
       "title": "The Importance of Being Earnest",
@@ -80,7 +64,7 @@
       "end": "2026-11-14T21:00:00",
       "location": "Jacksonville\\, Ill.",
       "url": "https://central.edu/event/central-college-mens-basketball-at-illinois-college-or-westminster-mo/",
-      "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)"
+      "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)\\nStreaming Video: https://watchmidwestsports.com/illinoiscollege/"
     },
     {
       "title": "The Importance of Being Earnest",
@@ -132,8 +116,8 @@
     },
     {
       "title": "Central College Men's Wrestling at Coe",
-      "start": "2026-11-20T00:00:00",
-      "end": "2026-11-20T03:00:00",
+      "start": "2026-11-20T01:00:00",
+      "end": "2026-11-20T04:00:00",
       "location": "Cedar Rapids\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-coe-2/",
       "description": "Central College Men\u2019s Wrestling at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
@@ -241,6 +225,22 @@
       "location": "Des Moines / Casey\u2019s Center",
       "url": "https://central.edu/event/central-college-dance-team-vs-istda-state-3/",
       "description": "Central College Dance team vs ISTDA State"
+    },
+    {
+      "title": "Central College Men's Wrestling vs Chicago (Ill.)",
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-07T00:00:00",
+      "location": "La Crosse\\, Wis.",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-chicago-ill/",
+      "description": "Central College Men\u2019s Wrestling vs Chicago (Ill.)"
+    },
+    {
+      "title": "Central College Men's Wrestling vs North Central (Ill.)",
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-07T00:00:00",
+      "location": "La Crosse\\, Wis.",
+      "url": "https://central.edu/event/central-college-mens-wrestling-vs-north-central-ill/",
+      "description": "Central College Men\u2019s Wrestling vs North Central (Ill.)"
     }
   ]
 }
