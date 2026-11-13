@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-13T02:18:59.974701Z",
+  "updated": "2026-11-13T09:48:53.460836Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "The Importance of Being Earnest",
-      "start": "2026-11-13T01:00:00",
-      "end": "2026-11-13T03:00:00",
-      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/the-importance-of-being-earnest/",
-      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
-    },
     {
       "title": "Central College Men's Basketball vs Illinois Tech",
       "start": "2026-11-13T23:30:00",
@@ -241,6 +233,14 @@
       "location": "La Crosse\\, Wis.",
       "url": "https://central.edu/event/central-college-mens-wrestling-vs-north-central-ill/",
       "description": "Central College Men\u2019s Wrestling vs North Central (Ill.)"
+    },
+    {
+      "title": "Central College Men's Track and Field  Frigid Bee Opener - Limited roster",
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-07T00:00:00",
+      "location": "Davenport\\, Iowa",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-frigid-bee-opener-limited-roster-2/",
+      "description": "Central College Men\u2019s Track and Field  Frigid Bee Opener \u2013 Limited roster"
     }
   ]
 }
