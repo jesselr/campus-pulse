@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-14T16:18:21.575630Z",
+  "updated": "2026-11-14T20:50:50.051301Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Women's Cross Country  NCAA Division III Midwest Regional - Limited roster",
-      "start": "2026-11-14T17:00:00",
-      "end": "2026-11-14T20:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-womens-cross-country-ncaa-division-iii-midwest-regional-2/",
-      "description": "Central College Women\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
-    },
     {
       "title": "Central College Men's Cross Country  NCAA Division III Midwest Regional - Limited roster",
       "start": "2026-11-14T18:00:00",
@@ -241,6 +233,14 @@
       "location": "La Crosse\\, Wis.",
       "url": "https://central.edu/event/central-college-mens-wrestling-at-wis-la-crosse-3/",
       "description": "Central College Men\u2019s Wrestling at Buena Vista Open"
+    },
+    {
+      "title": "Central College Men's Basketball vs Maharishi International",
+      "start": "2026-12-05T19:00:00",
+      "end": "2026-12-05T21:00:00",
+      "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
+      "url": "https://central.edu/event/central-college-mens-basketball-vs-maharishi-international/",
+      "description": "Central College Men\u2019s Basketball vs Maharishi International\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     }
   ]
 }
