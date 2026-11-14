@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-13T22:45:30.652865Z",
+  "updated": "2026-11-14T02:51:28.384149Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Basketball vs Illinois Tech",
-      "start": "2026-11-13T23:30:00",
-      "end": "2026-11-14T01:30:00",
-      "location": "Jacksonville\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-basketball-vs-illinois-tech/",
-      "description": "Central College Men\u2019s Basketball vs Illinois Tech\\nStreaming Video: https://watchmidwestsports.com/illinoiscollege/"
-    },
     {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-14T01:00:00",
@@ -241,6 +233,14 @@
       "location": "Davenport\\, Iowa",
       "url": "https://central.edu/event/central-college-mens-track-and-field-frigid-bee-opener-limited-roster-2/",
       "description": "Central College Men\u2019s Track and Field  Frigid Bee Opener \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Track and Field  Frigid Bee Opener - Limited roster",
+      "start": "2026-12-05T00:00:00",
+      "end": "2026-12-07T00:00:00",
+      "location": "Davenport\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-frigid-bee-opener-limited-roster-2/",
+      "description": "Central College Women\u2019s Track and Field  Frigid Bee Opener \u2013 Limited roster"
     }
   ]
 }
