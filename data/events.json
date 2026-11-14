@@ -1,23 +1,7 @@
 {
-  "updated": "2026-11-14T02:51:28.384149Z",
+  "updated": "2026-11-14T09:43:48.369200Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "The Importance of Being Earnest",
-      "start": "2026-11-14T01:00:00",
-      "end": "2026-11-14T03:00:00",
-      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/the-importance-of-being-earnest-2/",
-      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
-    },
-    {
-      "title": "Central College Women's Basketball at Saint Benedict (Minn.)",
-      "start": "2026-11-14T02:15:00",
-      "end": "2026-11-14T04:15:00",
-      "location": "Saint Joseph\\, Minn.",
-      "url": "https://central.edu/event/central-college-womens-basketball-at-saint-benedict-minn/",
-      "description": "Central College Women\u2019s Basketball at Saint Benedict (Minn.)\\nStreaming Video: https://www.miacsportsnetwork.com/saintbenedict/"
-    },
     {
       "title": "Central College Women's Cross Country  NCAA Division III Midwest Regional - Limited roster",
       "start": "2026-11-14T17:00:00",
@@ -241,6 +225,22 @@
       "location": "Davenport\\, Iowa",
       "url": "https://central.edu/event/central-college-womens-track-and-field-frigid-bee-opener-limited-roster-2/",
       "description": "Central College Women\u2019s Track and Field  Frigid Bee Opener \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Wrestling at Buena Vista Open",
+      "start": "2026-12-05T15:00:00",
+      "end": "2026-12-05T18:00:00",
+      "location": "Storm Lake\\, Iowa",
+      "url": "https://central.edu/event/central-college-womens-wrestling-at-buena-vista-open-2/",
+      "description": "Central College Women\u2019s Wrestling at Buena Vista Open"
+    },
+    {
+      "title": "Central College Men's Wrestling at Buena Vista Open",
+      "start": "2026-12-05T15:00:00",
+      "end": "2026-12-05T18:00:00",
+      "location": "La Crosse\\, Wis.",
+      "url": "https://central.edu/event/central-college-mens-wrestling-at-wis-la-crosse-3/",
+      "description": "Central College Men\u2019s Wrestling at Buena Vista Open"
     }
   ]
 }
