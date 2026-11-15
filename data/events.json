@@ -1,31 +1,7 @@
 {
-  "updated": "2026-11-14T20:50:50.051301Z",
+  "updated": "2026-11-15T00:37:02.400280Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "Central College Men's Cross Country  NCAA Division III Midwest Regional - Limited roster",
-      "start": "2026-11-14T18:00:00",
-      "end": "2026-11-14T21:00:00",
-      "location": "Rock Island\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-cross-country-ncaa-division-iii-midwest-regional-3/",
-      "description": "Central College Men\u2019s Cross Country  NCAA Division III Midwest Regional \u2013 Limited roster"
-    },
-    {
-      "title": "Central College Women's Basketball vs Concordia-Moorhead (Minn.)",
-      "start": "2026-11-14T19:00:00",
-      "end": "2026-11-14T21:00:00",
-      "location": "Saint Joseph\\, Minn.",
-      "url": "https://central.edu/event/central-college-womens-basketball-vs-concordia-moorhead-minn/",
-      "description": "Central College Women\u2019s Basketball vs Concordia-Moorhead (Minn.)\\nStreaming Video: https://www.miacsportsnetwork.com/saintbenedict/"
-    },
-    {
-      "title": "Central College Men's Basketball at Illinois College or Westminster (Mo.)",
-      "start": "2026-11-14T19:00:00",
-      "end": "2026-11-14T21:00:00",
-      "location": "Jacksonville\\, Ill.",
-      "url": "https://central.edu/event/central-college-mens-basketball-at-illinois-college-or-westminster-mo/",
-      "description": "Central College Men\u2019s Basketball at Illinois College or Westminster (Mo.)\\nStreaming Video: https://watchmidwestsports.com/illinoiscollege/"
-    },
     {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-15T01:00:00",
@@ -241,6 +217,30 @@
       "location": "Pella\\, Iowa\\, P.H. Kuyper Gymnasium",
       "url": "https://central.edu/event/central-college-mens-basketball-vs-maharishi-international/",
       "description": "Central College Men\u2019s Basketball vs Maharishi International\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
+    },
+    {
+      "title": "Central College Women's Basketball at Wis.-River Falls",
+      "start": "2026-12-05T21:00:00",
+      "end": "2026-12-05T23:00:00",
+      "location": "River Falls\\, Wis.",
+      "url": "https://central.edu/event/central-college-womens-basketball-at-wis-river-falls-2/",
+      "description": "Central College Women\u2019s Basketball at Wis.-River Falls"
+    },
+    {
+      "title": "Central College Men's Track and Field  Doane Happy Holidays Multi - Limited roster",
+      "start": "2026-12-06T00:00:00",
+      "end": "2026-12-08T00:00:00",
+      "location": "Crete\\, Neb.",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-doane-happy-holidays-multi-limited-roster/",
+      "description": "Central College Men\u2019s Track and Field  Doane Happy Holidays Multi \u2013 Limited roster"
+    },
+    {
+      "title": "Central College Women's Track and Field  Doane Happy Holidays Multi - Limited roster",
+      "start": "2026-12-06T00:00:00",
+      "end": "2026-12-08T00:00:00",
+      "location": "Crete\\, Neb.",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-doane-happy-holidays-multi-limited-roster/",
+      "description": "Central College Women\u2019s Track and Field  Doane Happy Holidays Multi \u2013 Limited roster"
     }
   ]
 }
