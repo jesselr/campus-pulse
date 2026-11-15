@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-15T00:37:02.400280Z",
+  "updated": "2026-11-15T07:26:30.987963Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "The Importance of Being Earnest",
-      "start": "2026-11-15T01:00:00",
-      "end": "2026-11-15T03:00:00",
-      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/the-importance-of-being-earnest-3/",
-      "description": "The Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
-    },
     {
       "title": "The Importance of Being Earnest",
       "start": "2026-11-15T20:00:00",
@@ -241,6 +233,14 @@
       "location": "Crete\\, Neb.",
       "url": "https://central.edu/event/central-college-womens-track-and-field-doane-happy-holidays-multi-limited-roster/",
       "description": "Central College Women\u2019s Track and Field  Doane Happy Holidays Multi \u2013 Limited roster"
+    },
+    {
+      "title": "Winter Serenade",
+      "start": "2026-12-06T21:00:00",
+      "end": "2026-12-06T22:00:00",
+      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/winter-serenade/",
+      "description": "Link to event: https://my.central.edu/events/6509342\\nThe Visual and Performing Arts Department presents Winter Serenade: featuring the Symphonic Wind Ensemble\\, Percussion Ensemble\\, and Flying Pans Steel Band."
     }
   ]
 }
