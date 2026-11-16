@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-15T20:04:47.485740Z",
+  "updated": "2026-11-16T00:07:21.317203Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
-    {
-      "title": "The Importance of Being Earnest",
-      "start": "2026-11-15T20:00:00",
-      "end": "2026-11-15T22:00:00",
-      "location": "Kruidenier Center\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/the-importance-of-being-earnest-4/",
-      "description": "Link to event: https://my.central.edu/events/6509352\\nThe Visual and Performing Arts Department presents: The Importance of Being Earnest-the fall play."
-    },
     {
       "title": "Mills Gallery Exhibition-Fall Student Exhibition",
       "start": "2026-11-16T00:00:00",
@@ -241,6 +233,14 @@
       "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/winter-serenade/",
       "description": "Link to event: https://my.central.edu/events/6509342\\nThe Visual and Performing Arts Department presents Winter Serenade: featuring the Symphonic Wind Ensemble\\, Percussion Ensemble\\, and Flying Pans Steel Band."
+    },
+    {
+      "title": "Jazzmania+",
+      "start": "2026-12-07T01:00:00",
+      "end": "2026-12-07T02:00:00",
+      "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
+      "url": "https://central.edu/event/jazzmania-6/",
+      "description": "Link to event: https://my.central.edu/events/6509343\\nThe Visual and Performing Arts Department present Jazzmania+ featuring Central\u2019s own Jazz Band SWEet Jazz."
     }
   ]
 }
