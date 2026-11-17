@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T00:36:39.089570Z",
+  "updated": "2026-11-17T08:44:12.193707Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-fall-student-exhibition/",
       "description": ""
-    },
-    {
-      "title": "Scholte Strings Fall Orchestra Concert",
-      "start": "2026-11-16T19:30:00",
-      "end": "2026-11-16T20:30:00",
-      "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
-      "url": "https://central.edu/event/scholte-strings-fall-orchestra-concert/",
-      "description": "Link to event: https://my.central.edu/events/6509341\\nThe Visual and Performing Arts Department in conjunction with Scholte Strings presents a fall orchestra concert."
     },
     {
       "title": "Central College Women's Wrestling at Cornell",
@@ -241,6 +233,14 @@
       "location": "Cox-Snow Recital Music Hall\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/jazzmania-6/",
       "description": "Link to event: https://my.central.edu/events/6509343\\nThe Visual and Performing Arts Department present Jazzmania+ featuring Central\u2019s own Jazz Band SWEet Jazz."
+    },
+    {
+      "title": "Christmas Candlelight Concerts",
+      "start": "2026-12-10T19:30:00",
+      "end": "2026-12-10T20:30:00",
+      "location": "Westminster Presbyterian Church\\, Allison Ave\\, Des Moines\\, IA\\, USA",
+      "url": "https://central.edu/event/christmas-candlelight-concerts/",
+      "description": "Link to event: https://my.central.edu/events/6509344\\nThe Visual and Performing Arts Department presents the 52nd Annual Christmas Candlelight Concerts featuring Central\u2019s A Cappella Choir and Scholte Strings.\u00a0 Thursday Night will be held in Des Moines at Westminster Presbyterian Church."
     }
   ]
 }
