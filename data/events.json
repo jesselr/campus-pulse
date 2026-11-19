@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:47:14.412944Z",
+  "updated": "2026-11-19T05:31:23.284743Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,22 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-fall-student-exhibition/",
       "description": ""
-    },
-    {
-      "title": "Central College Women's Wrestling at Cornell",
-      "start": "2026-11-18T18:00:00",
-      "end": "2026-11-18T21:00:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-wrestling-at-cornell/",
-      "description": "Central College Women\u2019s Wrestling at Cornell\\nStreaming Video: https://watchmidwestsports.com/cornellcollegeathletics/"
-    },
-    {
-      "title": "Central College Women's Wrestling vs Luther",
-      "start": "2026-11-18T18:45:00",
-      "end": "2026-11-18T21:45:00",
-      "location": "Mount Vernon\\, Iowa",
-      "url": "https://central.edu/event/central-college-womens-wrestling-vs-luther/",
-      "description": "Central College Women\u2019s Wrestling vs Luther\\nStreaming Video: https://watchmidwestsports.com/cornellcollegeathletics/"
     },
     {
       "title": "Central College Men's Wrestling at Coe",
@@ -241,6 +225,22 @@
       "location": "Westminster Presbyterian Church\\, Allison Ave\\, Des Moines\\, IA\\, USA",
       "url": "https://central.edu/event/christmas-candlelight-concerts/",
       "description": "Link to event: https://my.central.edu/events/6509344\\nThe Visual and Performing Arts Department presents the 52nd Annual Christmas Candlelight Concerts featuring Central\u2019s A Cappella Choir and Scholte Strings.\u00a0 Thursday Night will be held in Des Moines at Westminster Presbyterian Church."
+    },
+    {
+      "title": "Last Day of Fall Semester Classes (Fri.)",
+      "start": "2026-12-11T00:00:00",
+      "end": "2026-12-12T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/last-day-of-fall-semester-classes-fri/",
+      "description": ""
+    },
+    {
+      "title": "Central College Men's Track and Field  Dutch Holiday Preview",
+      "start": "2026-12-11T00:00:00",
+      "end": "2026-12-12T00:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-holiday-preview-2/",
+      "description": "Central College Men\u2019s Track and Field  Dutch Holiday Preview"
     }
   ]
 }
