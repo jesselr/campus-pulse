@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T03:49:14.237272Z",
+  "updated": "2026-11-20T12:24:25.036372Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -9,14 +9,6 @@
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-fall-student-exhibition/",
       "description": ""
-    },
-    {
-      "title": "Central College Men's Wrestling at Coe",
-      "start": "2026-11-19T19:00:00",
-      "end": "2026-11-19T22:00:00",
-      "location": "Cedar Rapids\\, Iowa",
-      "url": "https://central.edu/event/central-college-mens-wrestling-vs-coe-2/",
-      "description": "Central College Men\u2019s Wrestling at Coe\\nStreaming Video: https://www.centraldutchnetwork.com/centraldutchsports/"
     },
     {
       "title": "Central College Men's Basketball vs Wis.-River Falls",
@@ -241,6 +233,14 @@
       "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
       "url": "https://central.edu/event/central-college-mens-track-and-field-dutch-holiday-preview-2/",
       "description": "Central College Men\u2019s Track and Field  Dutch Holiday Preview"
+    },
+    {
+      "title": "Central College Women's Track and Field  Dutch Holiday Preview",
+      "start": "2026-12-11T00:00:00",
+      "end": "2026-12-12T00:00:00",
+      "location": "Pella\\, Iowa\\, H.S. Kuyper Fieldhouse",
+      "url": "https://central.edu/event/central-college-womens-track-and-field-dutch-holiday-preview-2/",
+      "description": "Central College Women\u2019s Track and Field  Dutch Holiday Preview"
     }
   ]
 }
