@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:44:50.149327Z",
+  "updated": "2026-11-28T09:41:29.593018Z",
   "source": "https://central.edu/events/list/?ical=1",
   "events": [
     {
@@ -8,14 +8,6 @@
       "end": "2026-12-05T00:00:00",
       "location": "Mills Gallery\\, University Street\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/mills-gallery-exhibition-fall-student-exhibition/",
-      "description": ""
-    },
-    {
-      "title": "Thanksgiving Break (Mon. \u2013 Fri.)",
-      "start": "2026-11-23T00:00:00",
-      "end": "2026-11-28T00:00:00",
-      "location": "",
-      "url": "https://central.edu/event/thanksgiving-break-mon-fri/",
       "description": ""
     },
     {
@@ -241,6 +233,14 @@
       "location": "Central Hall / Douwstra Auditorium\\, Peace St\\, Pella\\, IA\\, USA",
       "url": "https://central.edu/event/christmas-candlelight-concerts-3/",
       "description": "The Visual and Performing Arts Department presents the 52nd Annual Christmas Candlelight Concerts\\, featuring Central\u2019s A Cappella Choir and Scholte Strings."
+    },
+    {
+      "title": "College-Wide Study Day",
+      "start": "2026-12-14T00:00:00",
+      "end": "2026-12-15T00:00:00",
+      "location": "",
+      "url": "https://central.edu/event/college-wide-study-day-3/",
+      "description": ""
     }
   ]
 }
